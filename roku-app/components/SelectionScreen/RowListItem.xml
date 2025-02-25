@@ -1,0 +1,38 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<component name = "RowListItem" extends = "Group" >
+ 
+  <interface > 
+    <field id = "itemContent" type = "node" onChange = "showContent"/>
+    <!-- <field id = "focusPercent" type = "float" onChange = "showFocus"/>  -->
+    <field id = "rowFocusPercent" type = "float" onChange = "showRowFocus"/>
+  </interface>
+
+  <script type="text/brightscript" uri="RowListItem.brs" />
+ 
+  <children >
+    <Group id="contents"
+      scaleRotateCenter = "[125, 125]"
+      opacity = "0.25"
+    >
+      <Poster 
+        id = "bg" 
+        loadSync="true"
+        width = "444"
+        height = "250"
+      >
+      <Label 
+        id = "label" 
+        horizAlign = "center"
+        vertAlign = "center"
+        wrap = "true"
+        width = "444" 
+        height = "250"
+        font = "font:MediumBoldSystemFont"
+      />
+    </Poster>
+  </Group>
+
+  </children>
+
+</component>

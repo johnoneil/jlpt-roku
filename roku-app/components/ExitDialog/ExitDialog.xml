@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="ExitDialog" extends = "SceneBase" initialFocus = "cancelButton">
+
+  <script type="text/brightscript" uri="ExitDialog.brs" />
+
+  <!-- The HD Title Safe Zone is 1022X578, offset from the upper left corner (0,0) by 128,70. The SD Title Safe Zone is 576X384, offset from the upper left corner (0,0) by 72,48. -->
+
+  <children>
+
+    <Rectangle
+      width="1920"
+      height="1080"
+      color = "0x000000"
+      opacity = "0.75"
+    />
+  
+    <Rectangle
+      id = "EXIT-DLG"
+      width = "740"
+      height = "286"
+      translation = "[590, 397]"
+      color = "0x01a3e3"
+    >
+      <Rectangle
+        id = "EXIT-DLG-CONTENTS"
+        width = "710"
+        height = "256"
+        translation = "[15, 15]"
+        color = "0xffffff"
+      >
+        <Rectangle
+          id = "DESC"
+          width = "690"
+          height = "148"
+          translation = "[10, 10]"
+          color = "0x01a3e3"
+        >
+          <Label id="CONFIRMATION-TEXT"
+            horizAlign="center"
+            vertAlign="center"
+            font = "font:MediumBoldSystemFont"
+            text = "Are you certain you want to exit this application?"
+            width = "670"
+            height = "128"
+            translation = "[10, 10]"
+            wrap = "true"
+          />
+        </Rectangle>
+        
+        <Rectangle
+          id = "BUTTONS"
+          width = "690"
+          height = "78"
+          translation = "[10, 168]"
+          color = "0x01a3e3"
+        >
+          <Rectangle
+            id="exitButton"
+            width = "330"
+            height = "58"
+            translation = "[10, 10]"
+            color = "0xffffff"
+          >
+            <Label id="exitButtonLabel"
+              horizAlign="center"
+              vertAlign="center"
+              font = "font:MediumBoldSystemFont"
+              text = "EXIT"
+              color = "0x000000"
+              width = "343"
+              height = "58"
+            />
+          </Rectangle>
+          <Rectangle
+            id="cancelButton"
+            width = "330"
+            height = "58"
+            translation = "[350, 10]"
+            color = "0xafafaf"
+          >
+          <Label id="cancelButtonLabel"
+              horizAlign="center"
+              vertAlign="center"
+              font = "font:MediumBoldSystemFont"
+              text = "CANCEL"
+              color = "0x5b5b5b"
+              width = "330"
+              height = "58"
+            />
+          </Rectangle>
+        </Rectangle>
+
+      </Rectangle>
+
+    </Rectangle>
+  </children>
+</component>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="QuizSelection" extends="Group">
+
+    <interface>
+        <field id="buttonSelected" type="integer" alwaysNotify="true" />
+        <function name="setLabels" />
+        <function name="setCorrect" />
+    </interface>
+
+    <script type="text/brightscript" uri="QuizSelection.brs" />
+    <children>
+        <Rectangle
+            id="option0"
+            width = "424"
+            height = "50"
+            translation = "[0, 0]"
+            color = "0x0000ff"
+        >
+            <Poster
+                id="img0"
+                uri=""
+                width="50"
+                height="50"
+                loadSync="true"
+                visible="true"
+            />
+            <ScrollingLabel id="label0" 
+                text="TBD"
+                maxWidth = "375"
+                height="50"
+                translation = "[50, 0]"
+                horizAlign="left"
+                vertAlign="center"
+                font = "font:MediumBoldSystemFont"
+            />
+        </Rectangle>
+        <Rectangle
+            id="option1"
+            width = "424"
+            height = "50"
+            translation = "[0, 65]"
+            color = "0x0000ff"
+        >
+            <Poster
+                id="img1"
+                uri=""
+                width="50"
+                height="50"
+                loadSync="true"
+                visible="true"
+            />
+            <ScrollingLabel id="label1" 
+                text="TBD"
+                maxWidth = "375"
+                height="50"
+                translation = "[50, 0]"
+                horizAlign="left"
+                vertAlign="center"
+                font = "font:MediumBoldSystemFont"
+            />
+        </Rectangle>
+        <Rectangle
+            id="option2"
+            width = "424"
+            height = "50"
+            translation = "[0, 130]"
+            color = "0x0000ff"
+        >
+            <Poster
+                id="img2"
+                uri=""
+                width="50"
+                height="50"
+                loadSync="true"
+                visible="true"
+            />
+            <ScrollingLabel id="label2" 
+                text="TBD"
+                maxWidth = "375"
+                height="50"
+                translation = "[50, 0]"
+                horizAlign="left"
+                vertAlign="center"
+                font = "font:MediumBoldSystemFont"
+            />
+        </Rectangle>
+        <Rectangle
+            id="option3"
+            width = "424"
+            height = "50"
+            translation = "[0, 195]"
+            color = "0x0000ff"
+        >
+            <Poster
+                id="img3"
+                uri=""
+                width="50"
+                height="50"
+                loadSync="true"
+                visible="true"
+            />
+            <ScrollingLabel id="label3" 
+                text="TBD"
+                maxWidth = "375"
+                height="50"
+                translation = "[50, 0]"
+                horizAlign="left"
+                vertAlign="center"
+                font = "font:MediumBoldSystemFont"
+            />
+        </Rectangle>
+        <Poster
+            id="img0Anim"
+            uri=""
+            width="50"
+            height="50"
+            scaleRotateCenter = "[25, 25]"
+            loadSync="true"
+            visible="true"
+        />
+        <Poster
+            id="img1Anim"
+            uri=""
+            width="50"
+            height="50"
+            translation = "[0, 65]"
+            scaleRotateCenter = "[25, 25]"
+            loadSync="true"
+            visible="true"
+        />
+        <Poster
+            id="img2Anim"
+            uri=""
+            width="50"
+            height="50"
+            translation = "[0, 130]"
+            scaleRotateCenter = "[25, 25]"
+            loadSync="true"
+            visible="true"
+        />
+        <Poster
+            id="img3Anim"
+            uri=""
+            width="50"
+            height="50"
+            translation = "[0, 195]"
+            scaleRotateCenter = "[25, 25]"
+            loadSync="true"
+            visible="true"
+        />
+        <Animation id="img0ScaleAnim"
+            duration="1.5"
+            repeat="false"
+            control="stop"
+            easeFunction="linear">
+            <Vector2DFieldInterpolator
+                key="[0.0, 1.0]"
+                keyValue="[ [1.0, 1.0], [6.0, 6.0]]"
+                fieldToInterp="img0Anim.scale"
+            />
+            <FloatFieldInterpolator
+                key= "[0.0, 0.5, 1.0]"
+                keyValue= "[ 1.0, 1.0, 0.0 ]"
+                fieldToInterp="img0Anim.opacity"
+            />
+        </Animation>
+        <Animation id="img1ScaleAnim"
+            duration="1.5"
+            repeat="false"
+            control="stop"
+            easeFunction="linear">
+            <Vector2DFieldInterpolator
+                key="[0.0, 1.0]"
+                keyValue="[ [1.0, 1.0], [6.0, 6.0]]"
+                fieldToInterp="img1Anim.scale"
+            />
+            <FloatFieldInterpolator
+                key= "[0.0, 0.5, 1.0]"
+                keyValue= "[ 1.0, 1.0, 0.0 ]"
+                fieldToInterp="img1Anim.opacity"
+            />
+        </Animation>
+        <Animation id="img2ScaleAnim"
+            duration="1.5"
+            repeat="false"
+            control="stop"
+            easeFunction="linear">
+            <Vector2DFieldInterpolator
+                key="[0.0, 1.0]"
+                keyValue="[ [1.0, 1.0], [6.0, 6.0]]"
+                fieldToInterp="img2Anim.scale"
+            />
+            <FloatFieldInterpolator
+                key= "[0.0, 0.5, 1.0]"
+                keyValue= "[ 1.0, 1.0, 0.0 ]"
+                fieldToInterp="img2Anim.opacity"
+            />
+        </Animation>
+        <Animation id="img3ScaleAnim"
+            duration="1.5"
+            repeat="false"
+            control="stop"
+            easeFunction="linear">
+            <Vector2DFieldInterpolator
+                key="[0.0, 1.0]"
+                keyValue="[ [1.0, 1.0], [6.0, 6.0]]"
+                fieldToInterp="img3Anim.scale"
+            />
+            <FloatFieldInterpolator
+                key= "[0.0, 0.5, 1.0]"
+                keyValue= "[ 1.0, 1.0, 0.0 ]"
+                fieldToInterp="img3Anim.opacity"
+            />
+        </Animation>
+    </children>
+</component>

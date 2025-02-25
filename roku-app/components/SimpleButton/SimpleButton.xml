@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="SimpleButton" extends="Rectangle">
+
+    <interface>
+        <field id="buttonSelected" type="integer" alwaysNotify="true" />
+        <field id="text" alias="label.text" type="string" />
+    </interface>
+
+    <script type="text/brightscript" uri="SimpleButton.brs" />
+    <children>
+        <Label id="label" 
+            horizAlign="center"
+            vertAlign="center"
+            font = "font:MediumBoldSystemFont"
+        />
+    </children>
+</component>

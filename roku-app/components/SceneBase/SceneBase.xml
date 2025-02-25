@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="SceneBase" extends="Group">
+
+    <interface>
+        <field id="closed" type="bool" />
+    </interface>
+
+    <script type="text/brightscript" uri="SceneBase.brs" />
+    <!-- <script type="text/brightscript"
+        uri="pkg:/components/ScreenController/ScreenControllerKeyEvents.brs" /> -->
+    <children>
+        <Group id="screens" />
+    </children>
+</component>

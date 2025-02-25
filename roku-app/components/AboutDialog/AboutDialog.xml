@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="AboutDialog" extends = "SceneBase" initialFocus = "cancelButton">
+
+  <script type="text/brightscript" uri="AboutDialog.brs" />
+
+  <!-- The HD Title Safe Zone is 1022X578, offset from the upper left corner (0,0) by 128,70. The SD Title Safe Zone is 576X384, offset from the upper left corner (0,0) by 72,48. -->
+
+  <children>
+
+    <Rectangle
+      width="1920"
+      height="1080"
+      color = "0x000000"
+      opacity = "0.75"
+    />
+
+    <Rectangle
+      id = "ABOUT-DLG"
+      width = "1262"
+      height = "790"
+      translation = "[329, 145]"
+      color = "0x01a3e3"
+    >
+      <Rectangle
+        id = "ABOUT-DLG-CONTENTS"
+        width = "1232"
+        height = "760"
+        translation = "[15, 15]"
+        color = "0xffffff"
+      >
+        <Rectangle
+          id = "DESC"
+          width = "1212"
+          height = "652"
+          translation = "[10, 10]"
+          color = "0x01a3e3"
+        >
+          <Label id="CONFIRMATION-TEXT"
+            horizAlign="center"
+            vertAlign="center"
+            font = "font:MediumBoldSystemFont"
+            text = "This is an educational software application for roku."
+            width = "1192"
+            height = "632"
+            translation = "[10, 10]"
+            wrap = "true"
+          />
+        </Rectangle>
+
+        <Rectangle
+          id = "OK-FRAME"
+          width = "1212"
+          height = "78"
+          translation = "[10, 672]"
+          color = "0x01a3e3"
+        >
+          <Rectangle
+            id="OKButton"
+            width = "1192"
+            height = "58"
+            translation = "[10, 10]"
+            color = "0xffffff"
+          >
+            <Label id="OKButtonLabel"
+              horizAlign="center"
+              vertAlign="center"
+              font = "font:MediumBoldSystemFont"
+              text = "OK"
+              color = "0x000000"
+              width = "1192"
+              height = "58"
+            />
+          </Rectangle>
+        </Rectangle>
+
+      </Rectangle>
+
+    </Rectangle>
+  </children>
+</component>

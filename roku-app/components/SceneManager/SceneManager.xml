@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="SceneManager" extends="Group">
+
+    <interface>
+        <function name="push" />
+        <function name="pop" />
+        <field id="appExit" type="bool" alwaysnotify="true" value="false"/>
+    </interface>
+
+    <script type="text/brightscript"
+        uri="SceneManager.brs" />
+    <!-- <script type="text/brightscript"
+        uri="pkg:/components/ScreenController/ScreenControllerKeyEvents.brs" /> -->
+    <children>
+        <Group id="screens" />
+    </children>
+</component>

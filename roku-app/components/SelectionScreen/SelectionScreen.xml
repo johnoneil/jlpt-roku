@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="SelectionScreen" extends = "SceneBase" initialFocus = "selectionRowList">
+
+  <script type="text/brightscript" uri="SelectionScreen.brs" />
+  <script type="text/brightscript" uri="pkg:/source/Util.brs" />
+
+  <!-- The HD Title Safe Zone is 1022X578, offset from the upper left corner (0,0) by 128,70. The SD Title Safe Zone is 576X384, offset from the upper left corner (0,0) by 72,48. -->
+
+  <children>
+        <Poster
+            id="TITLE-BAR"
+            width="1723"
+            height="159"
+            translation = "[99, 53]"
+            uri="pkg:/images/TITLE-BAR.png"
+            loadSync="true"
+        >
+          <SimpleButton
+            id = "aboutButton"
+            text = "About"
+            width = "235"
+            height = "77"
+            translation = "[1463, 41]"
+            focusable = "true"
+            color = "0x888888"
+          />
+        </Poster>
+        <Rectangle
+          id = "DESC-AREA"
+          width = "1724"
+          height = "163"
+          translation = "[98, 212]"
+          color = "0x005b7f"
+        >
+          <Rectangle
+            id="DESC-BG"
+            color="0x01a4e4"
+            width = "1714"
+            height = "153"
+            translation = "[5, 5]"
+          >
+            <Label
+              id="selectedLabel"
+              width = "1704"
+              height = "48"
+              translation = "[5, 5]"
+              text = ""
+              horizAlign="left"
+              vertAlign="center"
+              font = "font:LargeBoldSystemFont"
+            />
+            <Label
+              id="selectedDesc"
+              width = "1704"
+              height = "32"
+              translation = "[5, 63]"
+              text = ""
+              horizAlign="left"
+              vertAlign="center"
+              font = "font:MediumSystemFont"
+            />
+            <Label
+              id="selectedDiff"
+              width = "1704"
+              height = "32"
+              translation = "[5, 100]"
+              text = "hard"
+              horizAlign="left"
+              vertAlign="center"
+              font = "font:MediumSystemFont"
+            />
+          </Rectangle>
+        </Rectangle>
+
+        <RowList 
+          id = "selectionRowList"
+          translation = "[ 99, 375 ]"
+          itemSize = "[ 1723, 270 ]" 
+          itemComponentName = "RowListItem" 
+          showRowLabel = "[ true ]"
+          showRowCounter = "[ true ]"
+          rowLabelOffset = "[ [0, 10] ]"
+          itemSpacing = "[ 10, 40 ]" 
+          rowItemSize = "[ [444, 250] ]"
+          rowItemSpacing = "[ [ 10, 10 ] ]"
+          numRows = "2"
+          vertFocusAnimationStyle = "floatingFocus" 
+          rowFocusAnimationStyle = "floatingFocus"
+        />
+    </children>
+</component>

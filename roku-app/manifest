@@ -1,0 +1,34 @@
+#
+#  Copyright (c) 2015 Roku, Inc. All rights reserved.
+#  Roku Channel Manifest File 
+#  Full spec at bit.ly/roku-manifest-file
+#
+
+##   Channel Details
+title=JLPT
+major_version=1
+minor_version=0
+build_version=00001
+
+##   Channel Assets
+###  Main Menu Icons / Channel Poster Artwork 
+#### Image sizes are FHD: 558x385px | HD: 290x218px | SD: 214x144px
+mm_icon_focus_hd=pkg:/images/icon_focus_hd.png
+mm_icon_focus_fhd=pkg:/images/icon_focus_fhd.png
+
+###  Splash Screen + Loading Screen Artwork 
+#### Image sizes are FHD: 1920x1080px | HD: 1280x720px | SD: 720x480px
+splash_screen_hd=pkg:/images/splash_hd.png
+splash_screen_fhd=pkg:/images/splash_fhd.png
+
+splash_color=#000000
+splash_min_time=1500
+
+# Resolution
+ui_resolutions=fhd
+
+# conditional compilation
+bs_const=DEV_WALK_RANDOMS=false
+
+# https://developer.roku.com/docs/developer-program/certification/certification.md#5-deep-linking.
+supports_input_launch=1

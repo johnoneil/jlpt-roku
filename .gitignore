@@ -1,0 +1,29 @@
+.vscode
+dist
+
+# Macos dev
+.DS_Store
+
+# dev files
+#assets/states.png
+assets/usa
+assets/europe
+out
+tmp
+build
+packages
+
+#python
+__pycache__
+
+# rust
+target
+
+#krita
+*~
+
+# blender
+assets/blender/usa/usa.blend1
+
+# Roku images are all temporary
+roku-app/images/*

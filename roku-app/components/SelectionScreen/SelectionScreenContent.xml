@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="SelectionScreenContent" extends="ContentNode">
+ <interface>
+    <field id="difficulty" type="string" />
+    <field id="component" type="string" />
+ </interface>
+</component>

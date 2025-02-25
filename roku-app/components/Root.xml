@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="Root" extends="Scene">
+
+    <script type="text/brightscript"
+        uri="Root.brs" />
+    <!-- <script type="text/brightscript"
+        uri="pkg:/components/ScreenController/ScreenControllerKeyEvents.brs" /> -->
+    <children>
+        <Poster
+            id="background"
+            width="1920"
+            height="1080"
+            uri="pkg:/images/bg_hd.png"
+            loadSync="true"
+        />
+        <SceneManager id="sceneManager" />
+    </children>
+</component>
