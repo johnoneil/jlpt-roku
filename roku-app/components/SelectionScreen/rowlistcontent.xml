@@ -51,6 +51,13 @@
         difficulty = "easy"
         component = "Chapter4"
       />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Chapter 5" 
+        description = "Japanese Vocabulary."
+        difficulty = "easy"
+        component = "Chapter5"
+      />
     </ContentNode>
   </children>
 
