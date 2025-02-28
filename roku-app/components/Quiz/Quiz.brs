@@ -25,15 +25,16 @@ end sub
 sub nextQuestion()
     m.questionNumber += 1
     if m.questionNumber >= m.dictionary.Count()
-        m.questionNumber = 0
+        m.top.closed = true
+    else
+        m.showing_answer = false
+        word = m.dictionary[m.words[m.questionNumber]]
+        m.furigana.visible = false
+        m.meaning.visible = false
+        m.word.uri = word.image_path
+        m.furigana.uri = word.furigana_image_path
+        m.meaning.text = word.meaning
     end if
-    m.showing_answer = false
-    word = m.dictionary[m.words[m.questionNumber]]
-    m.furigana.visible = false
-    m.meaning.visible = false
-    m.word.uri = word.image_path
-    m.furigana.uri = word.furigana_image_path
-    m.meaning.text = word.meaning
 end sub
 
 sub showAnswer()
