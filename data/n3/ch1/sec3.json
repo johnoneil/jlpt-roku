@@ -1,0 +1,161 @@
+{
+    "title_jpn" : "恋人",
+    "title_eng" : "Lovers",
+    "words" :
+    [
+        {
+            "word": "彼女",
+            "meaning": "girlfriend",
+            "furigana": "かのじょ",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "彼",
+            "meaning": "boyfriend",
+            "furigana": "かれ",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "愛情",
+            "meaning": "love",
+            "furigana": "あいじょう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "出会い",
+            "meaning": "encounter",
+            "furigana": "であい",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "出会う",
+            "meaning": "to come across, to encounter",
+            "furigana": "であう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "付き合う",
+            "meaning": "to go out with, to date",
+            "furigana": "つきあう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "交際 する",
+            "meaning": "association",
+            "furigana": "こうさいする",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "記念する",
+            "meaning": "commemoration",
+            "furigana": "きねんする",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "けんか　する",
+            "meaning": "fight, dispute",
+            "furigana": "けんか　する",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "言い返す",
+            "meaning": "to talk back to",
+            "furigana": "いいかえす",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "謝る",
+            "meaning": "to apologize",
+            "furigana": "あやまる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "仲直り",
+            "meaning": "to make up",
+            "furigana": "なかなおり",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "連れて行く",
+            "meaning": "to take (someone) along",
+            "furigana": "つれていく",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "連れて来る",
+            "meaning": "to bring (someone along)",
+            "furigana": "つれてくる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "秘密",
+            "meaning": "secret, mystery",
+            "furigana": "ひみつ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "内緒",
+            "meaning": "secret",
+            "furigana": "ないしょ",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "好かれる",
+            "meaning": "to be liked",
+            "furigana": "すかれる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "もてる",
+            "meaning": "to be popular",
+            "furigana": "もてる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "人を　ふる",
+            "meaning": "to dump someone, to turn someone down",
+            "furigana": "ひとを　ふる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "お見合い　する",
+            "meaning": "formal marriage interview",
+            "furigana": "おみあい　する",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "恋愛　する",
+            "meaning": "love, affection",
+            "furigana": "れんあい　する",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "存在　する",
+            "meaning": "existence, presence",
+            "furigana": "そんざい　する",
+            "romaji": "seiketあ",
+            "level": 3
+        }
+    ]
+}

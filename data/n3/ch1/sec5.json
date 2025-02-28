@@ -1,0 +1,133 @@
+{
+    "title_jpn" : "どんな人",
+    "title_eng" : "What kind of person?",
+    "words" :
+    [
+        {
+            "word": "名字",
+            "meaning": "surname, family name",
+            "furigana": "みょうじ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "性別",
+            "meaning": "gender",
+            "furigana": "せいべつ",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "年齢",
+            "meaning": "age",
+            "furigana": "ねんれい",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "高齢",
+            "meaning": "old age, advanced age",
+            "furigana": "こうれい",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "老人",
+            "meaning": "The aged, elderly people",
+            "furigana": "ろうじん",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "幼児",
+            "meaning": "toddler",
+            "furigana": "ようじ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "出身",
+            "meaning": "one's origin, one's hometown",
+            "furigana": "しゅっしん",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "生まれ",
+            "meaning": "place of birth",
+            "furigana": "うまれ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "育ち",
+            "meaning": "place where one was raised",
+            "furigana": "そだち",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "行儀",
+            "meaning": "etiquette, behavior",
+            "furigana": "ぎょうぎ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "マナー",
+            "meaning": "manners",
+            "furigana": "マナー",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "個人",
+            "meaning": "individual",
+            "furigana": "こじん",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "アドレス",
+            "meaning": "mail address",
+            "furigana": "アドレス",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "本人",
+            "meaning": "person in question, said person",
+            "furigana": "ほんにん",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "独身",
+            "meaning": "single",
+            "furigana": "どくしん",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "主婦",
+            "meaning": "housewife",
+            "furigana": "しゅふ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "フリーター",
+            "meaning": "freeter",
+            "furigana": "フリーター",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "無職",
+            "meaning": "unemployed",
+            "furigana": "むしょく",
+            "romaji": "aizu",
+            "level": 3
+        }
+    ]
+}

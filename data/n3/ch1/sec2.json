@@ -1,0 +1,147 @@
+{
+    "title_jpn" : "友達と知り合い",
+    "title_eng" : "Friends and Acquaintances.",
+    "words" :
+    [
+        {
+            "word": "親友",
+            "meaning": "close friend",
+            "furigana": "しんゆう",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "仲間",
+            "meaning": "comrade, made, friend",
+            "furigana": "なかま",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "仲良し",
+            "meaning": "close friend, intimate friend",
+            "furigana": "なかよし",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "幼なじみ",
+            "meaning": "childhood friend",
+            "furigana": "おさななじみ",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "友情",
+            "meaning": "friendship",
+            "furigana": "ゆうじょう",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "親しい",
+            "meaning": "intimate, close",
+            "furigana": "したしい",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "知人",
+            "meaning": "acquaintance",
+            "furigana": "ちじん",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "メンバー",
+            "meaning": "member",
+            "furigana": "メンバー",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "つなぐ",
+            "meaning": "to put together, to tie together, to connect",
+            "furigana": "つなぐ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "つながる",
+            "meaning": "to be put together, to be connected.",
+            "furigana": "つながる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "当時",
+            "meaning": "at that time, then",
+            "furigana": "とうじ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "祝う",
+            "meaning": "to celebrate",
+            "furigana": "いわう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "遠慮 する",
+            "meaning": "hesitation, declining",
+            "furigana": "えんりょする",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "しょっちゅう",
+            "meaning": "often, frequently",
+            "furigana": "しょっちゅう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "たびたび",
+            "meaning": "again and again",
+            "furigana": "たびたび",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "たまに",
+            "meaning": "occasionally, once in a while",
+            "furigana": "たまに",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "たまたま",
+            "meaning": "by chance, unexpectedly",
+            "furigana": "たまたま",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "めったに",
+            "meaning": "rarely",
+            "furigana": "めったに",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "しばらく",
+            "meaning": "a while, a moment",
+            "furigana": "つきあう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "別々　な",
+            "meaning": "different, separate",
+            "furigana": "べつべつ　な",
+            "romaji": "seiketあ",
+            "level": 3
+        }
+    ]
+}

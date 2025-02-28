@@ -1,0 +1,196 @@
+{
+    "title_jpn" : "コミュニケーション",
+    "title_eng" : "Communication",
+    "words" :
+    [
+        {
+            "word": "相手",
+            "meaning": "opponent, partner",
+            "furigana": "あいて",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "助ける",
+            "meaning": "to save, to help",
+            "furigana": "たすける",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "助かる",
+            "meaning": "to be saved, to be helped",
+            "furigana": "たすかる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "支える",
+            "meaning": "to support",
+            "furigana": "ささえる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "誘う",
+            "meaning": "to invite",
+            "furigana": "さそう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "待ち合わせる",
+            "meaning": "to meet up with",
+            "furigana": "まちあわせる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "交換　する",
+            "meaning": "exchange",
+            "furigana": "こうかん　する",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "交流　する",
+            "meaning": "exchange, networking",
+            "furigana": "こうりゅう　する",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "断る",
+            "meaning": "to refuse, to reject",
+            "furigana": "ことわる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "預ける",
+            "meaning": "to deposit, to entrust to",
+            "furigana": "あずける",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "預かる",
+            "meaning": "to be deposited, to be entrusted to",
+            "furigana": "あずかる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "かわいがる",
+            "meaning": "to show affection, to favor",
+            "furigana": "かわいがる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "甘やかす",
+            "meaning": "to spoil, to pamper",
+            "furigana": "あまやかす",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "ついて来る",
+            "meaning": "to come along with, to come along",
+            "furigana": "ついてくる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "抱く",
+            "meaning": "to hug, to embrace, to hold",
+            "furigana": "だく",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "話しかける",
+            "meaning": "to talk to, to initiate conversation",
+            "furigana": "はなしかける",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "無視　する",
+            "meaning": "ignoring",
+            "furigana": "むし　する",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "振り向く",
+            "meaning": "to turn around",
+            "furigana": "ふりむく",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "いただく",
+            "meaning": "to receive",
+            "furigana": "いただく",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "くださる",
+            "meaning": "to give",
+            "furigana": "くださる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "差し上げる",
+            "meaning": "to give",
+            "furigana": "さしあげる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "やる",
+            "meaning": "to give (to inferior, plant or animal)",
+            "furigana": "やる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "与える",
+            "meaning": "to give, to grant, to bestow",
+            "furigana": "あたえる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "味方　する",
+            "meaning": "ally, supporter, friend",
+            "furigana": "みかた　する",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "悪口",
+            "meaning": "bad mouthing, foul language",
+            "furigana": "わるくち",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "我々",
+            "meaning": "we, us",
+            "furigana": "われわれ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "まね　する",
+            "meaning": "imitation, copy, mimic",
+            "furigana": "まね　する",
+            "romaji": "seiketあ",
+            "level": 3
+        }
+    ]
+}

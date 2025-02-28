@@ -51,6 +51,10 @@ def generate_brs(input_files, output_file):
 
 input_files = {
     "Chapter1Section1" : "data/n3/ch1/sec1.json",
+    "Chapter1Section2" : "data/n3/ch1/sec2.json",
+    "Chapter1Section3" : "data/n3/ch1/sec3.json",
+    "Chapter1Section4" : "data/n3/ch1/sec4.json",
+    "Chapter1Section5" : "data/n3/ch1/sec5.json",
     "Chapter2Section1" : "data/n3/ch2/sec1.json",
     "Chapter3Section1" : "data/n3/ch3/sec1.json",
     "Chapter4Section1" : "data/n3/ch4/sec1.json",
