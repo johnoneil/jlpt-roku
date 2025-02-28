@@ -59,6 +59,15 @@
         component = "Chapter5"
       />
     </ContentNode>
+      <ContentNode title = "Chapter 6" >
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "" 
+        description = "Section 1"
+        difficulty = "easy"
+        component = "Ch6S1"
+      />
+    </ContentNode>
   </children>
 
 </component>

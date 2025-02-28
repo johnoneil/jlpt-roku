@@ -19,7 +19,7 @@ sub init()
 end sub
 
 sub getDatabase()
-    m.dictionary = Chapter1_database()
+    m.dictionary = Chapter1Section1_database()
 end sub
 
 sub nextQuestion()

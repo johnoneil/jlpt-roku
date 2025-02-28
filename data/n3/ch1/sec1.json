@@ -1,0 +1,798 @@
+{
+    "title_jpn" : "就職",
+    "title_eng" : "Getting a Job",
+    "words" :
+    [
+        {
+            "word": "父親",
+            "meaning": "father",
+            "furigana": "ちちおや",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "母親",
+            "meaning": "mother",
+            "furigana": "ははおや",
+            "romaji": "seiketsu",
+            "level": 3
+        },
+        {
+            "word": "長女",
+            "meaning": "oldest daughter",
+            "furigana": "ちょうじょ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "長男",
+            "meaning": "oldest son",
+            "furigana": "ちょうなん",
+            "romaji": "seiketsu",
+            "level": 3
+        },
+        {
+            "word": "次女",
+            "meaning": "second oldest daughter",
+            "furigana": "じじょ",
+            "romaji": "seiketsu",
+            "level": 3
+        },
+        {
+            "word": "次男",
+            "meaning": "second oldest son",
+            "furigana": "じなん",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "三女",
+            "meaning": "third oldest daughter",
+            "furigana": "さんじょ",
+            "romaji": "seiketsu",
+            "level": 3
+        },
+        {
+            "word": "三男",
+            "meaning": "third oldest son",
+            "furigana": "さんなん",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "末っ子",
+            "meaning": "youngest child",
+            "furigana": "すえこ",
+            "romaji": "seiketsu",
+            "level": 3
+        },
+        {
+            "word": "一人っ子",
+            "meaning": "only child",
+            "furigana": "ひとりっこ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "姉妹",
+            "meaning": "sisters",
+            "furigana": "しまい",
+            "romaji": "seiketsu",
+            "level": 3
+        },
+        {
+            "word": "一人娘",
+            "meaning": "only daughter",
+            "furigana": "ひとりむすめ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "親子",
+            "meaning": "parent and child",
+            "furigana": "おやこ",
+            "romaji": "seiketsu",
+            "level": 3
+        },
+        {
+            "word": "夫婦",
+            "meaning": "husband and wife",
+            "furigana": "ふうふ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "ご夫妻",
+            "meaning": "married couple",
+            "furigana": "ごふさい",
+            "romaji": "seiketsu",
+            "level": 3
+        },
+        {
+            "word": "親類",
+            "meaning": "relatives",
+            "furigana": "しんるい",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "先祖",
+            "meaning": "ancestor",
+            "furigana": "せんぞ",
+            "romaji": "seiketsu",
+            "level": 3
+        },
+        {
+            "word": "尊敬する",
+            "meaning": "respect, looking up to",
+            "furigana": "そんけいする",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "おじ",
+            "meaning": "uncle",
+            "furigana": "おじ",
+            "romaji": "seiketsu",
+            "level": 3
+        },
+        {
+            "word": "おば",
+            "meaning": "aunt",
+            "furigana": "おば",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "いとこ",
+            "meaning": "cousin",
+            "furigana": "いとこ",
+            "romaji": "seiketsu",
+            "level": 3
+        },
+        {
+            "word": "おい",
+            "meaning": "nephew",
+            "furigana": "おい",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "めい",
+            "meaning": "niece",
+            "furigana": "めい",
+            "romaji": "seiketsu",
+            "level": 3
+        },
+        {
+            "word": "連れる",
+            "meaning": "to take, to lead",
+            "furigana": "つれる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "似る",
+            "meaning": "to resemble, to look like",
+            "furigana": "にる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "そっくりな",
+            "meaning": "exactly like",
+            "furigana": "そっくりな",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "親友",
+            "meaning": "close friend",
+            "furigana": "しんゆう",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "仲間",
+            "meaning": "comrade, made, friend",
+            "furigana": "なかま",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "仲良し",
+            "meaning": "close friend, intimate friend",
+            "furigana": "なかよし",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "幼なじみ",
+            "meaning": "childhood friend",
+            "furigana": "おさななじみ",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "友情",
+            "meaning": "friendship",
+            "furigana": "ゆうじょう",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "親しい",
+            "meaning": "intimate, close",
+            "furigana": "したしい",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "知人",
+            "meaning": "acquaintance",
+            "furigana": "ちじん",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "メンバー",
+            "meaning": "member",
+            "furigana": "メンバー",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "つなぐ",
+            "meaning": "to put together, to tie together, to connect",
+            "furigana": "つなぐ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "つながる",
+            "meaning": "to be put together, to be connected.",
+            "furigana": "つながる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "当時",
+            "meaning": "at that time, then",
+            "furigana": "とうじ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "祝う",
+            "meaning": "to celebrate",
+            "furigana": "いわう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "遠慮 する",
+            "meaning": "hesitation, declining",
+            "furigana": "えんりょする",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "しょっちゅう",
+            "meaning": "often, frequently",
+            "furigana": "しょっちゅう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "たびたび",
+            "meaning": "again and again",
+            "furigana": "たびたび",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "たまに",
+            "meaning": "occasionally, once in a while",
+            "furigana": "たまに",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "たまたま",
+            "meaning": "by chance, unexpectedly",
+            "furigana": "たまたま",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "めったに",
+            "meaning": "rarely",
+            "furigana": "めったに",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "しばらく",
+            "meaning": "a while, a moment",
+            "furigana": "つきあう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "別々　な",
+            "meaning": "different, separate",
+            "furigana": "べつべつ　な",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "彼女",
+            "meaning": "girlfriend",
+            "furigana": "かのじょ",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "彼",
+            "meaning": "boyfriend",
+            "furigana": "かれ",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "愛情",
+            "meaning": "love",
+            "furigana": "あいじょう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "出会い",
+            "meaning": "encounter",
+            "furigana": "であい",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "出会う",
+            "meaning": "to come across, to encounter",
+            "furigana": "であう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "付き合う",
+            "meaning": "to go out with, to date",
+            "furigana": "つきあう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "交際 する",
+            "meaning": "association",
+            "furigana": "こうさいする",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "記念する",
+            "meaning": "commemoration",
+            "furigana": "きねんする",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "けんか　する",
+            "meaning": "fight, dispute",
+            "furigana": "けんか　する",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "言い返す",
+            "meaning": "to talk back to",
+            "furigana": "いいかえす",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "謝る",
+            "meaning": "to apologize",
+            "furigana": "あやまる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "仲直り",
+            "meaning": "to make up",
+            "furigana": "なかなおり",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "連れて行く",
+            "meaning": "to take (someone) along",
+            "furigana": "つれていく",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "連れて来る",
+            "meaning": "to bring (someone along)",
+            "furigana": "つれてくる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "秘密",
+            "meaning": "secret, mystery",
+            "furigana": "ひみつ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "内緒",
+            "meaning": "secret",
+            "furigana": "ないしょ",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "好かれる",
+            "meaning": "to be liked",
+            "furigana": "すかれる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "もてる",
+            "meaning": "to be popular",
+            "furigana": "もてる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "人を　ふる",
+            "meaning": "to dump someone, to turn someone down",
+            "furigana": "ひとを　ふる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "お見合い　する",
+            "meaning": "formal marriage interview",
+            "furigana": "おみあい　する",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "恋愛　する",
+            "meaning": "love, affection",
+            "furigana": "れんあい　する",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "存在　する",
+            "meaning": "existence, presence",
+            "furigana": "そんざい　する",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "相手",
+            "meaning": "opponent, partner",
+            "furigana": "あいて",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "助ける",
+            "meaning": "to save, to help",
+            "furigana": "たすける",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "助かる",
+            "meaning": "to be saved, to be helped",
+            "furigana": "たすかる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "支える",
+            "meaning": "to support",
+            "furigana": "ささえる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "誘う",
+            "meaning": "to invite",
+            "furigana": "さそう",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "待ち合わせる",
+            "meaning": "to meet up with",
+            "furigana": "まちあわせる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "交換　する",
+            "meaning": "exchange",
+            "furigana": "こうかん　する",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "交流　する",
+            "meaning": "exchange, networking",
+            "furigana": "こうりゅう　する",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "断る",
+            "meaning": "to refuse, to reject",
+            "furigana": "ことわる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "預ける",
+            "meaning": "to deposit, to entrust to",
+            "furigana": "あずける",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "預かる",
+            "meaning": "to be deposited, to be entrusted to",
+            "furigana": "あずかる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "かわいがる",
+            "meaning": "to show affection, to favor",
+            "furigana": "かわいがる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "甘やかす",
+            "meaning": "to spoil, to pamper",
+            "furigana": "あまやかす",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "ついて来る",
+            "meaning": "to come along with, to come along",
+            "furigana": "ついてくる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "抱く",
+            "meaning": "to hug, to embrace, to hold",
+            "furigana": "だく",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "話しかける",
+            "meaning": "to talk to, to initiate conversation",
+            "furigana": "はなしかける",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "無視　する",
+            "meaning": "ignoring",
+            "furigana": "むし　する",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "振り向く",
+            "meaning": "to turn around",
+            "furigana": "ふりむく",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "いただく",
+            "meaning": "to receive",
+            "furigana": "いただく",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "くださる",
+            "meaning": "to give",
+            "furigana": "くださる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "差し上げる",
+            "meaning": "to give",
+            "furigana": "さしあげる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "やる",
+            "meaning": "to give (to inferior, plant or animal)",
+            "furigana": "やる",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "与える",
+            "meaning": "to give, to grant, to bestow",
+            "furigana": "あたえる",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "味方　する",
+            "meaning": "ally, supporter, friend",
+            "furigana": "みかた　する",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "悪口",
+            "meaning": "bad mouthing, foul language",
+            "furigana": "わるくち",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "我々",
+            "meaning": "we, us",
+            "furigana": "われわれ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "まね　する",
+            "meaning": "imitation, copy, mimic",
+            "furigana": "まね　する",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "名字",
+            "meaning": "surname, family name",
+            "furigana": "みょうじ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "性別",
+            "meaning": "gender",
+            "furigana": "せいべつ",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "年齢",
+            "meaning": "age",
+            "furigana": "ねんれい",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "高齢",
+            "meaning": "old age, advanced age",
+            "furigana": "こうれい",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "老人",
+            "meaning": "The aged, elderly people",
+            "furigana": "ろうじん",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "幼児",
+            "meaning": "toddler",
+            "furigana": "ようじ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "出身",
+            "meaning": "one's origin, one's hometown",
+            "furigana": "しゅっしん",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "生まれ",
+            "meaning": "place of birth",
+            "furigana": "うまれ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "育ち",
+            "meaning": "place where one was raised",
+            "furigana": "そだち",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "行儀",
+            "meaning": "etiquette, behavior",
+            "furigana": "ぎょうぎ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "マナー",
+            "meaning": "manners",
+            "furigana": "マナー",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "個人",
+            "meaning": "individual",
+            "furigana": "こじん",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "アドレス",
+            "meaning": "mail address",
+            "furigana": "アドレス",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "本人",
+            "meaning": "person in question, said person",
+            "furigana": "ほんにん",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "独身",
+            "meaning": "single",
+            "furigana": "どくしん",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "主婦",
+            "meaning": "housewife",
+            "furigana": "しゅふ",
+            "romaji": "aizu",
+            "level": 3
+        },
+        {
+            "word": "フリーター",
+            "meaning": "freeter",
+            "furigana": "フリーター",
+            "romaji": "seiketあ",
+            "level": 3
+        },
+        {
+            "word": "無職",
+            "meaning": "unemployed",
+            "furigana": "むしょく",
+            "romaji": "aizu",
+            "level": 3
+        }
+    ]
+}

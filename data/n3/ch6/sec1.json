@@ -1,0 +1,175 @@
+{
+    "title_jpn" : "就職",
+    "title_eng" : "Getting a Job",
+    "words" :
+    [
+        {
+            "word": "企業",
+            "meaning": "industry",
+            "furigana": "きぎょう",
+            "level": 3
+        },
+        {
+            "word": "条件",
+            "meaning": "condition",
+            "furigana": "じょうけん",
+            "level": 3
+        },
+        {
+            "word": "募集　する",
+            "meaning": "recruiting, taking applications",
+            "furigana": "ぼしゅう　する",
+            "level": 3
+        },
+        {
+            "word": "応募　する",
+            "meaning": "applying for (a job)",
+            "furigana": "おうぼ　する",
+            "level": 3
+        },
+        {
+            "word": "登録　する",
+            "meaning": "registration",
+            "furigana": "とうろく　する",
+            "level": 3
+        },
+        {
+            "word": "面接　する",
+            "meaning": "interview",
+            "furigana": "めんせつ　する",
+            "level": 3
+        },
+        {
+            "word": "履歴書",
+            "meaning": "Resume",
+            "furigana": "りれきしょ",
+            "level": 3
+        },
+        {
+            "word": "記入　する",
+            "meaning": "filling out",
+            "furigana": "きにゅう　する",
+            "level": 3
+        },
+        {
+            "word": "資格　する",
+            "meaning": "qualifications",
+            "furigana": "しかく　する",
+            "level": 3
+        },
+        {
+            "word": "服装",
+            "meaning": "attire, garments",
+            "furigana": "ふくそう",
+            "level": 3
+        },
+        {
+            "word": "長所",
+            "meaning": "strong point, merit",
+            "furigana": "ちょうしょ",
+            "level": 3
+        },
+        {
+            "word": "短所",
+            "meaning": "weak point, shortcoming",
+            "furigana": "たんしょ",
+            "level": 3
+        },
+        {
+            "word": "全て",
+            "meaning": "all, every",
+            "furigana": "すべて",
+            "level": 3
+        },
+        {
+            "word": "ワイシャツ",
+            "meaning": "white collared shirt",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ぜひ",
+            "meaning": "certainly. By all means.",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ぜひとも",
+            "meaning": "by all means",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "やとう",
+            "meaning": "to hire. to employ",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "採用　する",
+            "meaning": "hiring",
+            "furigana": "さいよう　する",
+            "level": 3
+        },
+        {
+            "word": "受け取る",
+            "meaning": "to receive",
+            "furigana": "うけとる",
+            "level": 3
+        },
+        {
+            "word": "受け入れ",
+            "meaning": "receiving, acceptance",
+            "furigana": "うけいれ",
+            "level": 3
+        },
+        {
+            "word": "正社員",
+            "meaning": "full employee",
+            "furigana": "せいしゃいん",
+            "level": 3
+        },
+        {
+            "word": "サラリーマン",
+            "meaning": "Salaryman. Businessman.",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "研修　する",
+            "meaning": "training",
+            "furigana": "けんしゅう　する",
+            "level": 3
+        },
+        {
+            "word": "実習　する",
+            "meaning": "practical training. on-the-job training.",
+            "furigana": "じしゅう　する",
+            "level": 3
+        },
+        {
+            "word": "インターン",
+            "meaning": "intern",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "職場",
+            "meaning": "workplace",
+            "furigana": "しょくば",
+            "level": 3
+        },
+        {
+            "word": "得る",
+            "meaning": "to procure, to get.",
+            "furigana": "える",
+            "level": 3
+        },
+        {
+            "word": "たとえ",
+            "meaning": "even if, supposing that.",
+            "furigana": "",
+            "level": 3
+        }
+    ]
+}

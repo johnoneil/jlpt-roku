@@ -4,6 +4,15 @@ import json
 import os
 from text2image import text_to_image
 
+def get_word_list(infile):
+    data = json.load(infile)
+    if type(data) == list:
+        # json is a pure array of word structures
+        return data
+    else:
+        # json should have the word list tagged as a 'words' member
+        return data["words"]
+
 def generate_brs(input_files, output_file):
 
     word_number = 1
@@ -16,8 +25,8 @@ def generate_brs(input_files, output_file):
             outfile.write(f"d = ")
             with open(input_file, 'r') as infile:
 
-                data = json.load(infile)
-                for word in data:
+                word_list = get_word_list(infile)
+                for word in word_list:
                     word["word_number"] = word_number
                     
                     # also generate an image of every word
@@ -36,16 +45,17 @@ def generate_brs(input_files, output_file):
                     word["furigana_image_height"] = f_image_height
                     word_number += 1
                 
-                json.dump(data, outfile, ensure_ascii=False, indent=4)
+                json.dump(word_list, outfile, ensure_ascii=False, indent=4)
             outfile.write(f"\nreturn d\n")
             outfile.write("end function\n")
 
 input_files = {
-    "Chapter1" : "data/n3/ch1.json",
-    "Chapter2" : "data/n3/ch2.json",
-    "Chapter3" : "data/n3/ch3.json",
-    "Chapter4" : "data/n3/ch4.json",
-    "Chapter5" : "data/n3/ch5.json",
+    "Chapter1Section1" : "data/n3/ch1/sec1.json",
+    "Chapter2Section1" : "data/n3/ch2/sec1.json",
+    "Chapter3Section1" : "data/n3/ch3/sec1.json",
+    "Chapter4Section1" : "data/n3/ch4/sec1.json",
+    "Chapter5Section1" : "data/n3/ch5/sec1.json",
+    "Chapter6Section1" : "data/n3/ch6/sec1.json",
     "N3Vocabulary" : "data/n3/vocabulary.json",
     "N4Vocabulary" : "data/n4/vocabulary.json",
 }
