@@ -9,7 +9,23 @@ STROKE_WIDTH = 1
 BG_COLOR = (1, 1, 1, 0)
 TEXT_COLOR = "white"
 
-def text_to_image(input_text, output_path="output.png", font_size=80):
+def get_image_dimensions_pil(image_path):
+    try:
+        img = Image.open(image_path)
+        width, height = img.size
+        return (width, height)
+    except FileNotFoundError:
+        print(f"Error: Image file not found at {image_path}")
+        return None
+    except Exception as e:
+         print(f"An error occurred: {e}")
+         return None
+
+def text_to_image(input_text, output_path="output.png", font_size=80, overwrite=False):
+
+    # unless we're forcing overwrite, just get the image dimensions and bail
+    if overwrite == False and os.path.exists(output_path):
+        return get_image_dimensions_pil(output_path)
 
     # Try to load a font that supports Japanese characters
     try:

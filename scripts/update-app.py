@@ -22,7 +22,6 @@ def generate_brs(input_files, output_file):
                     
                     # also generate an image of every word
                     dir = f"images/{chapter}"
-                    print(f"Creating directory {dir} if it doesn't exist.")
                     os.makedirs(f"roku-app/{dir}", exist_ok=True)
                     word_image_path = f"{dir}/{word_number}.png"
                     word["image_path"] = f"pkg:/{word_image_path}"
@@ -30,7 +29,7 @@ def generate_brs(input_files, output_file):
                     word["image_width"] = image_width
                     word["image_height"] = image_height
                     output_furigana_path = f"{dir}/furigana_{word_number}.png"
-                    print(f"word: {word["word"]}")
+                    #print(f"word: {word["word"]}")
                     (f_image_width, f_image_height) = text_to_image(word["furigana"], output_path=f"roku-app/{output_furigana_path}")
                     word["furigana_image_path"] = f"pkg:/{output_furigana_path}"
                     word["furigana_image_width"] = f_image_width
