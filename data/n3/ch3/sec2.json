@@ -1,0 +1,189 @@
+{
+    "title_jpn" : "就職",
+    "title_eng" : "Getting a Job",
+    "words" :
+    [
+        {
+            "word": "お礼",
+            "meaning": "monetary note",
+            "furigana": "おれい",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "コイン",
+            "meaning": "coin",
+            "furigana": "コイン",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "小銭",
+            "meaning": "change",
+            "furigana": "こぜに",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "生活費",
+            "meaning": "cost of living",
+            "furigana": "せいかつひ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "食費",
+            "meaning": "food expense",
+            "furigana": "しょくひ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "光熱費",
+            "meaning": "heating and electricity expense",
+            "furigana": "こうねつひ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "交際費",
+            "meaning": "entertainment expense",
+            "furigana": "こうさいひ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "公共料金",
+            "meaning": "public utilities charge",
+            "furigana": "こうきょうりょうきん",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "お　こづかい",
+            "meaning": "allowance",
+            "furigana": "お　こづかい",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "節約　する",
+            "meaning": "saving, economizing",
+            "furigana": "せつやく　する",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ぜいたく　な・する",
+            "meaning": "luxury, extravagance",
+            "furigana": "ぜいたく",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "割り勘",
+            "meaning": "splitting the cost",
+            "furigana": "わりかん",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "レンタル　する",
+            "meaning": "rental",
+            "furigana": "",
+            "romaji": "レンタル　する",
+            "level": 3
+        },
+        {
+            "word": "支払う",
+            "meaning": "to pay",
+            "furigana": "しはらう",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "支払い",
+            "meaning": "payment",
+            "furigana": "しはらい",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "勘定　する",
+            "meaning": "bill, check",
+            "furigana": "かんじょう　する",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "講座",
+            "meaning": "account",
+            "furigana": "こうざ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "キャッシュカード",
+            "meaning": "cash card",
+            "furigana": "キャッシュカード",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "暗証番号",
+            "meaning": "PIN number",
+            "furigana": "あんしょうばんごう",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "預金",
+            "meaning": "deposit",
+            "furigana": "よきん",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ためる",
+            "meaning": "to save, to gather",
+            "furigana": "ためる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "たまる",
+            "meaning": "to be saved, to be gathered",
+            "furigana": "たまる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "引き出す",
+            "meaning": "to pull out",
+            "furigana": "ひきだす",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "振り込む",
+            "meaning": "to deposit, to make a deposit",
+            "furigana": "ふりこむ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "送金　する",
+            "meaning": "to send money, to transfer money",
+            "furigana": "そうきん　する",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "通帳記入",
+            "meaning": "entering in bankbook",
+            "furigana": "つうちょうきにゅう",
+            "romaji": "",
+            "level": 3
+        }
+    ]
+}

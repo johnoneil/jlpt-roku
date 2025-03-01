@@ -1,0 +1,771 @@
+{
+    "title_jpn" : "就職",
+    "title_eng" : "Getting a Job",
+    "words" :
+    [
+        {
+            "word": "入学式",
+            "meaning": "shool entrance ceremony",
+            "furigana": "にゅうがくしき",
+            "level": 3
+        },
+        {
+            "word": "卒業式",
+            "meaning": "graduation ceremony",
+            "furigana": "そつぎょうしき",
+            "level": 3
+        },
+        {
+            "word": "通学　する",
+            "meaning": "commuting to school",
+            "furigana": "つうがく",
+            "level": 3
+        },
+        {
+            "word": "学年",
+            "meaning": "school year, grade",
+            "furigana": "がくねん",
+            "level": 3
+        },
+        {
+            "word": "学期",
+            "meaning": "school term, semester",
+            "furigana": "がっき",
+            "level": 3
+        },
+        {
+            "word": "欠席　する",
+            "meaning": "to be absent",
+            "furigana": "けっせき　する",
+            "level": 3
+        },
+        {
+            "word": "遅れる",
+            "meaning": "to be late",
+            "furigana": "おくれる",
+            "level": 3
+        },
+        {
+            "word": "遅刻　する",
+            "meaning": "tardiness, being late",
+            "furigana": "ちこく　する",
+            "level": 3
+        },
+        {
+            "word": "サボる",
+            "meaning": "to skip, to cut class",
+            "furigana": "サボる",
+            "level": 3
+        },
+        {
+            "word": "集中　する",
+            "meaning": "focus",
+            "furigana": "しゅうちゅう　する",
+            "level": 3
+        },
+        {
+            "word": "うとううとう　と　する",
+            "meaning": "dozing",
+            "furigana": "うとううとう",
+            "level": 3
+        },
+        {
+            "word": "居眠り　する",
+            "meaning": "nodding off, dozing",
+            "furigana": "いねむり　する",
+            "level": 3
+        },    {
+            "word": "寝不足　な",
+            "meaning": "sleep deprivation, not enough to sleep.",
+            "furigana": "ねぶそく　な",
+            "level": 3
+        },    {
+            "word": "期間",
+            "meaning": "period of time",
+            "furigana": "きかん",
+            "level": 3
+        },    {
+            "word": "期限",
+            "meaning": "time frame, duration",
+            "furigana": "きげん",
+            "level": 3
+        },    {
+            "word": "時間割",
+            "meaning": "timetable",
+            "furigana": "じかんわり",
+            "level": 3
+        },    {
+            "word": "項目",
+            "meaning": "item, entry",
+            "furigana": "こうもく",
+            "level": 3
+        },    {
+            "word": "座席",
+            "meaning": "seat",
+            "furigana": "ざせき",
+            "level": 3
+        },    {
+            "word": "締め切り",
+            "meaning": "deadline",
+            "furigana": "しめきり",
+            "level": 3
+        },    {
+            "word": "開く",
+            "meaning": "to open (a book, e.g.)",
+            "furigana": "ひらく",
+            "level": 3
+        },    {
+            "word": "一応",
+            "meaning": "more or less, pretty much",
+            "furigana": "いちおう",
+            "level": 3
+        },    {
+            "word": "きちんと　する",
+            "meaning": "precisely, accurately, properly",
+            "furigana": "きちんと　する",
+            "level": 3
+        },    {
+            "word": "きっかけ",
+            "meaning": "opportunity, motive",
+            "furigana": "きっかけ",
+            "level": 3
+        },    {
+            "word": "かしこい",
+            "meaning": "clever, smart",
+            "furigana": "かしこい",
+            "level": 3
+        },    {
+            "word": "貸し出し",
+            "meaning": "renting",
+            "furigana": "かしだし",
+            "level": 3
+        },    {
+            "word": "返却　する",
+            "meaning": "returning (a book to the library, e.g.)",
+            "furigana": "へんきゃく　する",
+            "level": 3
+        },    {
+            "word": "名札",
+            "meaning": "name plate, name tage",
+            "furigana": "なふだ",
+            "level": 3
+        },    {
+            "word": "給食",
+            "meaning": "lunch service",
+            "furigana": "きゅうしょく",
+            "level": 3
+        },    {
+            "word": "体育",
+            "meaning": "physical education",
+            "furigana": "たいいく",
+            "level": 3
+        },    {
+            "word": "単語",
+            "meaning": "vocabulary, word",
+            "furigana": "たんご",
+            "level": 3
+        },    {
+            "word": "アクセント",
+            "meaning": "accent",
+            "furigana": "アクセント",
+            "level": 3
+        },    {
+            "word": "暗記　する",
+            "meaning": "memorize",
+            "furigana": "あんき　する",
+            "level": 3
+        },    {
+            "word": "繰り返す",
+            "meaning": "to repeat after (a teacher, e.g.)",
+            "furigana": "くりかえす",
+            "level": 3
+        },    {
+            "word": "聞き取る",
+            "meaning": "to hear, to catch",
+            "furigana": "ききとる",
+            "level": 3
+        },    {
+            "word": "聞き返す",
+            "meaning": "to ask again",
+            "furigana": "ききかえす",
+            "level": 3
+        },    {
+            "word": "聞き直す",
+            "meaning": "to listen again",
+            "furigana": "ききなおす",
+            "level": 3
+        },    {
+            "word": "言い直す",
+            "meaning": "to restate",
+            "furigana": "いいなおす",
+            "level": 3
+        },    {
+            "word": "英会話",
+            "meaning": "english conversation",
+            "furigana": "えいかいわ",
+            "level": 3
+        },    {
+            "word": "入門",
+            "meaning": "a primer. entering, beginning.",
+            "furigana": "にゅうもん",
+            "level": 3
+        },    {
+            "word": "下書き　する",
+            "meaning": "rough copy, draft.",
+            "furigana": "したがき　する",
+            "level": 3
+        },
+        {
+            "word": "清書　する",
+            "meaning": "clean copy.",
+            "furigana": "せいしょ　する",
+            "level": 3
+        },
+        {
+            "word": "表れる",
+            "meaning": "to be expressed, to be apparent.",
+            "furigana": "あらわれる",
+            "level": 3
+        },
+        {
+            "word": "物語",
+            "meaning": "A tale. A story.",
+            "furigana": "ものがたり",
+            "level": 3
+        },
+        {
+            "word": "教科",
+            "meaning": "subject (at school)",
+            "furigana": "きょうか",
+            "level": 3
+        },
+        {
+            "word": "科目",
+            "meaning": "subject. Class. (at school)",
+            "furigana": "かもく",
+            "level": 3
+        },
+        {
+            "word": "足し算",
+            "meaning": "addition",
+            "furigana": "たしざん",
+            "level": 3
+        },
+        {
+            "word": "イコール",
+            "meaning": "equals",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "グラフ",
+            "meaning": "graph",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "三角形",
+            "meaning": "triangle",
+            "furigana": "さんかくけい",
+            "level": 3
+        },
+        {
+            "word": "定規",
+            "meaning": "ruler (measuring ruler)",
+            "furigana": "じょうぎ",
+            "level": 3
+        },
+        {
+            "word": "センチ",
+            "meaning": "centimeter",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "自習　する",
+            "meaning": "self study",
+            "furigana": "じしゅう　する",
+            "level": 3
+        },
+        {
+            "word": "ローマ字",
+            "meaning": "Roman (i.e. Latin) characters",
+            "furigana": "ローマじ",
+            "level": 3
+        },
+        {
+            "word": "補講　する",
+            "meaning": "supplementary classes",
+            "furigana": "ほこう　する",
+            "level": 3
+        },
+        {
+            "word": "けずる",
+            "meaning": "to sharpen (a pencil)",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "学部",
+            "meaning": "school department",
+            "furigana": "がくぶ",
+            "level": 3
+        },
+        {
+            "word": "文系",
+            "meaning": "humanities, fine arts",
+            "furigana": "ぶんけい",
+            "level": 3
+        },
+        {
+            "word": "理系",
+            "meaning": "sciences",
+            "furigana": "りけい",
+            "level": 3
+        },
+        {
+            "word": "学科",
+            "meaning": "course of study",
+            "furigana": "がっか",
+            "level": 3
+        },
+        {
+            "word": "専攻　する",
+            "meaning": "major",
+            "furigana": "せんこう　する",
+            "level": 3
+        },
+        {
+            "word": "前期",
+            "meaning": "first term (at school)",
+            "furigana": "ぜんき",
+            "level": 3
+        },
+        {
+            "word": "学費",
+            "meaning": "school tuition",
+            "furigana": "がくひ",
+            "level": 3
+        },
+        {
+            "word": "奨学金",
+            "meaning": "scholarship",
+            "furigana": "しょうがくきん",
+            "level": 3
+        },
+        {
+            "word": "公立",
+            "meaning": "public institution",
+            "furigana": "こうりつ",
+            "level": 3
+        },
+        {
+            "word": "私立",
+            "meaning": "private institution",
+            "furigana": "しりつ",
+            "level": 3
+        },
+        {
+            "word": "教授",
+            "meaning": "professor",
+            "furigana": "きょうじゅ",
+            "level": 3
+        },
+        {
+            "word": "講義　する",
+            "meaning": "lecture",
+            "furigana": "こうぎ　する",
+            "level": 3
+        },
+        {
+            "word": "えらい",
+            "meaning": "excellent, eminent",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ゼミ",
+            "meaning": "seminar",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "テーマ",
+            "meaning": "theme",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "手続き　する",
+            "meaning": "procedure, process",
+            "furigana": "てつづき　する",
+            "level": 3
+        },
+        {
+            "word": "日付",
+            "meaning": "date",
+            "furigana": "ひづけ",
+            "level": 3
+        },
+        {
+            "word": "筆者",
+            "meaning": "writer, author",
+            "furigana": "ひっしゃ",
+            "level": 3
+        },
+        {
+            "word": "内容",
+            "meaning": "content",
+            "furigana": "ないよう",
+            "level": 3
+        },
+        {
+            "word": "まとめる",
+            "meaning": "summarize",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "仕上げる",
+            "meaning": "to finish up, to complete.",
+            "furigana": "しあげる",
+            "level": 3
+        },
+        {
+            "word": "提出　する",
+            "meaning": "submission (of a paper to school, e.g.)",
+            "furigana": "ていしゅつ　する",
+            "level": 3
+        },
+        {
+            "word": "進路",
+            "meaning": "route, course, university choices.",
+            "furigana": "しんろ",
+            "level": 3
+        },
+        {
+            "word": "大学院",
+            "meaning": "Graduate school.",
+            "furigana": "だいがくいん",
+            "level": 3
+        },
+        {
+            "word": "進学　する",
+            "meaning": "school progression",
+            "furigana": "しんがく　する",
+            "level": 3
+        },
+        {
+            "word": "一人暮らし",
+            "meaning": "living alone",
+            "furigana": "ひとりぐらし",
+            "level": 3
+        },
+        {
+            "word": "アルバイト　する",
+            "meaning": "part time job",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "時給",
+            "meaning": "hourly wage",
+            "furigana": "じきゅう",
+            "level": 3
+        },
+        {
+            "word": "寮",
+            "meaning": "dorm",
+            "furigana": "りょう",
+            "level": 3
+        },
+        {
+            "word": "休学　する",
+            "meaning": "taking time off from school",
+            "furigana": "きゅうがく　する",
+            "level": 3
+        },
+        {
+            "word": "退学　する",
+            "meaning": "leaving school, dropping out",
+            "furigana": "たいがく　する",
+            "level": 3
+        },
+        {
+            "word": "受験　する",
+            "meaning": "taking a test",
+            "furigana": "じゅけん　する",
+            "level": 3
+        },
+        {
+            "word": "受験生",
+            "meaning": "test taker",
+            "furigana": "じゅけんせい",
+            "level": 3
+        },
+        {
+            "word": "合格　する",
+            "meaning": "passing",
+            "furigana": "ごうかく　する",
+            "level": 3
+        },
+        {
+            "word": "配る",
+            "meaning": "to distribute, to hand out",
+            "furigana": "くばる",
+            "level": 3
+        },
+        {
+            "word": "指名",
+            "meaning": "full name",
+            "furigana": "しめい",
+            "level": 3
+        },
+        {
+            "word": "裏返す",
+            "meaning": "to turn over",
+            "furigana": "うらがえす",
+            "level": 3
+        },
+        {
+            "word": "問い",
+            "meaning": "question",
+            "furigana": "とい",
+            "level": 3
+        },
+        {
+            "word": "解く",
+            "meaning": "to solve",
+            "furigana": "とく",
+            "level": 3
+        },
+        {
+            "word": "正解　する",
+            "meaning": "correct answer",
+            "furigana": "せいかい　する",
+            "level": 3
+        },
+        {
+            "word": "正確　な",
+            "meaning": "accuracy",
+            "furigana": "せいかく　な",
+            "level": 3
+        },
+        {
+            "word": "すらすら　と",
+            "meaning": "smoothly",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ちっとも",
+            "meaning": "not at all",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "カニング　する",
+            "meaning": "cheating",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ギリギリ　な",
+            "meaning": "barely",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "余る",
+            "meaning": "to remain, to be left over (e.g. time)",
+            "furigana": "あまる",
+            "level": 3
+        },
+        {
+            "word": "適当な",
+            "meaning": "appropriately, suitable",
+            "furigana": "てきとうな",
+            "level": 3
+        },
+        {
+            "word": "でたらめ　な",
+            "meaning": "nonsense, haphazard, random.",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "間違い",
+            "meaning": "mistake",
+            "furigana": "まちがい",
+            "level": 3
+        },
+        {
+            "word": "優れる",
+            "meaning": "to suprass, to excel (e.g. grades)",
+            "furigana": "すぐれる",
+            "level": 3
+        },
+        {
+            "word": "実力",
+            "meaning": "real ability, actual ability",
+            "furigana": "じつりょく",
+            "level": 3
+        },
+        {
+            "word": "結果",
+            "meaning": "result",
+            "furigana": "けっか",
+            "level": 3
+        },
+        {
+            "word": "少数",
+            "meaning": "small amount",
+            "furigana": "しょうすう",
+            "level": 3
+        },
+        {
+            "word": "可能性",
+            "meaning": "possibility",
+            "furigana": "かのうせい",
+            "level": 3
+        },
+        {
+            "word": "あきらめる",
+            "meaning": "to give up",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "掲示板",
+            "meaning": "bulletin board",
+            "furigana": "けいじばん",
+            "level": 3
+        },
+        {
+            "word": "知識",
+            "meaning": "knowledge",
+            "furigana": "ちしき",
+            "level": 3
+        },
+        {
+            "word": "理解　する",
+            "meaning": "understanding",
+            "furigana": "りかい　する",
+            "level": 3
+        },
+        {
+            "word": "目指す",
+            "meaning": "to aim for, to head for",
+            "furigana": "めざす",
+            "level": 3
+        },
+        {
+            "word": "試す",
+            "meaning": "to test, to try",
+            "furigana": "ためす",
+            "level": 3
+        },
+        {
+            "word": "自信",
+            "meaning": "self confidence",
+            "furigana": "じしん",
+            "level": 3
+        },
+        {
+            "word": "やる気",
+            "meaning": "motivation",
+            "furigana": "やるき",
+            "level": 3
+        },
+        {
+            "word": "くやしい",
+            "meaning": "annoying, vexing",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "レベル",
+            "meaning": "level",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "利口　な",
+            "meaning": "clever",
+            "furigana": "りこう　な",
+            "level": 3
+        },
+        {
+            "word": "さっそく",
+            "meaning": "at once, without delay.",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ざっと",
+            "meaning": "roughly",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "しっかり　と　する",
+            "meaning": "properly, thoroughly",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "じっくり　と",
+            "meaning": "carefully, thoroughly",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "相当　な",
+            "meaning": "extremely, considerably",
+            "furigana": "そうとう　な",
+            "level": 3
+        },
+        {
+            "word": "まあまあ　な",
+            "meaning": "so-so",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "努力　する",
+            "meaning": "effort",
+            "furigana": "どりょく　する",
+            "level": 3
+        },
+        {
+            "word": "なまける",
+            "meaning": "to be idle, to slack off.",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "得意な",
+            "meaning": "good at, skillful. (your specialty)",
+            "furigana": "とくい　な",
+            "level": 3
+        },
+        {
+            "word": "苦手な",
+            "meaning": "unskillful, not good at.",
+            "furigana": "にがて　な",
+            "level": 3
+        },
+        {
+            "word": "マスター　する",
+            "meaning": "mastery",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "問い合わせる",
+            "meaning": "to inquire",
+            "furigana": "といあわせる",
+            "level": 3
+        }
+    ]
+}

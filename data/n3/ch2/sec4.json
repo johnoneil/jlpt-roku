@@ -1,0 +1,217 @@
+{
+    "title_jpn" : "料理の作り方",
+    "title_eng" : "How to Make Recipies (sic)",
+    "words" :
+    [
+        {
+            "word": "刻む",
+            "meaning": "to chop finely",
+            "furigana": "きざむ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "卵を　割る",
+            "meaning": "to break (an egg)",
+            "furigana": "たまごを　わる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "むく",
+            "meaning": "to peel",
+            "furigana": "むく",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "加える",
+            "meaning": "to add",
+            "furigana": "くわえる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "少々",
+            "meaning": "a little",
+            "furigana": "しょうしょう",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "揚げる",
+            "meaning": "to fry",
+            "furigana": "あげる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "煮る",
+            "meaning": "to cook, to stew",
+            "furigana": "にる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ゆでる",
+            "meaning": "to boil",
+            "furigana": "ゆでる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "蒸す",
+            "meaning": "to steam",
+            "furigana": "むす",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "くるむ",
+            "meaning": "to wrap",
+            "furigana": "くるむ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "にぎる",
+            "meaning": "to squeeze with one's hands, to grasp",
+            "furigana": "にぎる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "熱する",
+            "meaning": "to heat",
+            "furigana": "ねっする",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "こげる",
+            "meaning": "to burn",
+            "furigana": "こげる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "取り出す",
+            "meaning": "to take out",
+            "furigana": "とりだす",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "塗る",
+            "meaning": "to spread",
+            "furigana": "ぬる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "温める",
+            "meaning": "to warm, to heat up",
+            "furigana": "あたためる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "冷やす",
+            "meaning": "to cool, to chill",
+            "furigana": "ひやす",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ぬるい",
+            "meaning": "tepid, lukewarm",
+            "furigana": "ぬるい",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "水分",
+            "meaning": "moisture, fluid",
+            "furigana": "すいぶん",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "沸かす",
+            "meaning": "to boil (water)",
+            "furigana": "わかす",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "注ぐ",
+            "meaning": "to pour",
+            "furigana": "そそぐ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "味見　する",
+            "meaning": "to taste, to check by tasting",
+            "furigana": "味見　する",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "手間",
+            "meaning": "hassle",
+            "furigana": "てま",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "手軽な",
+            "meaning": "easy, convenient",
+            "furigana": "たがるな",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "出来上がり",
+            "meaning": "completion",
+            "furigana": "できあがり",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "分ける",
+            "meaning": "to split, to divide, to share",
+            "furigana": "わける",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "つまむ",
+            "meaning": "to pick up",
+            "furigana": "つまむ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "塩辛い",
+            "meaning": "salty",
+            "furigana": "しおからい",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "すっぱい",
+            "meaning": "sour",
+            "furigana": "すっぱい",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "冷凍　する",
+            "meaning": "freezing",
+            "furigana": "れいとう",
+            "romaji": "",
+            "level": 3
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "title_jpn" : "就職",
+    "title_eng" : "Getting a Job",
+    "words" :
+    [
+        {
+            "word": "日常",
+            "meaning": "daily, everyday",
+            "furigana": "にちじょう",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "常に",
+            "meaning": "always",
+            "furigana": "つねに",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "出迎え",
+            "meaning": "reception, welcome",
+            "furigana": "でむかえ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "出迎える",
+            "meaning": "to receive, to welcome",
+            "furigana": "でむかえる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "見送り",
+            "meaning": "seeing off",
+            "furigana": "みおくり",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "見送る",
+            "meaning": "to see off",
+            "furigana": "みおくる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "郵送　する",
+            "meaning": "mail",
+            "furigana": "ゆうそう　する",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "小包",
+            "meaning": "package",
+            "furigana": "こづつみ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "送料",
+            "meaning": "fee, charge",
+            "furigana": "そうりょう",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "あて先",
+            "meaning": "address of recipient",
+            "furigana": "あてさき",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "あて名",
+            "meaning": "name of recipient",
+            "furigana": "あてな",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "差出人",
+            "meaning": "sender",
+            "furigana": "さしだしにん",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "とりあえず",
+            "meaning": "first, for the moment, for the time being",
+            "furigana": "とりあえず",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "出前",
+            "meaning": "delivery",
+            "furigana": "でまえ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ひどく",
+            "meaning": "to unwind, to untie, to unfold",
+            "furigana": "ほどく",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "留守番電話",
+            "meaning": "answering machine",
+            "furigana": "るすばんでんわ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "よく",
+            "meaning": "often",
+            "furigana": "よく",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "早め　な",
+            "meaning": "early",
+            "furigana": "はやめ　な",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "リサイクル　する",
+            "meaning": "recycle",
+            "furigana": "リサイクル　する",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "どける",
+            "meaning": "to move (out of the way)",
+            "furigana": "どける",
+            "romaji": "",
+            "level": 3
+        }
+    ]
+}

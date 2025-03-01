@@ -1,0 +1,238 @@
+{
+    "title_jpn" : "家事",
+    "title_eng" : "House Chores",
+    "words" :
+    [
+        {
+            "word": "ちらかる",
+            "meaning": "to be scattered",
+            "furigana": "ちらかる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "片付ける",
+            "meaning": "to clean up",
+            "furigana": "",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "清潔な",
+            "meaning": "clean",
+            "furigana": "せいけつな",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "掃く",
+            "meaning": "to sweep",
+            "furigana": "はく",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ほうき",
+            "meaning": "broom",
+            "furigana": "ほうき",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ちりとり",
+            "meaning": "dustpan",
+            "furigana": "ちりとり",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "掃除機",
+            "meaning": "vacuum cleaner",
+            "furigana": "そうじき",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ふく",
+            "meaning": "to wipe",
+            "furigana": "ふく",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ぞうきん",
+            "meaning": "rag, dustcloth",
+            "furigana": "ぞうきん",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "バケツ",
+            "meaning": "bucket",
+            "furigana": "バケツ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "しぼる",
+            "meaning": "to wring",
+            "furigana": "しぼる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "こぼす",
+            "meaning": "to spill",
+            "furigana": "",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "洗剤",
+            "meaning": "detergent",
+            "furigana": "せんざい",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "かび",
+            "meaning": "mold",
+            "furigana": "かび",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ほこり",
+            "meaning": "dust",
+            "furigana": "ほこり",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "みがく",
+            "meaning": "to polish, to brush",
+            "furigana": "みがく",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ブラシ",
+            "meaning": "brush",
+            "furigana": "ブラシ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "あわ",
+            "meaning": "bubble",
+            "furigana": "あわ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "臭う",
+            "meaning": "to smell, to give of an odor",
+            "furigana": "におう",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "洗濯物",
+            "meaning": "laundry",
+            "furigana": "せんたくもの",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "汚れ",
+            "meaning": "dirt, grime",
+            "furigana": "よごれ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "干す",
+            "meaning": "to hang",
+            "furigana": "ほす",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "乾燥　する",
+            "meaning": "drying",
+            "furigana": "かんそう　する",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "たたむ",
+            "meaning": "to fold",
+            "furigana": "たたむ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "アイロン",
+            "meaning": "iron",
+            "furigana": "アイロン",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "敷く",
+            "meaning": "to spread, to lay out",
+            "furigana": "しく",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "育児",
+            "meaning": "childcare, upbringing",
+            "furigana": "いくじ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "人を　起こす",
+            "meaning": "to wake (someone) up",
+            "furigana": "ひとを　おこす",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "糸",
+            "meaning": "thread",
+            "furigana": "いと",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "針",
+            "meaning": "needle",
+            "furigana": "はり",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "生ごみ",
+            "meaning": "raw garbage, wet garbage",
+            "furigana": "なまごみ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "空き缶",
+            "meaning": "empty can",
+            "furigana": "あきかん",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ゴミを　出す",
+            "meaning": "to take out (the trash)",
+            "furigana": "ゴミを　だす",
+            "romaji": "",
+            "level": 3
+        }
+    ]
+}

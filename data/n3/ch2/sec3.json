@@ -1,0 +1,161 @@
+{
+    "title_jpn" : "料理の道具と材料",
+    "title_eng" : "Cooking Utensils and Ingredients",
+    "words" :
+    [
+        {
+            "word": "なべ",
+            "meaning": "pot",
+            "furigana": "なべ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "フライパン",
+            "meaning": "frying pan",
+            "furigana": "フライパン",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "包丁",
+            "meaning": "kitchen knife",
+            "furigana": "ほうちょう",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "まな板",
+            "meaning": "cutting board",
+            "furigana": "まないた",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "おたま",
+            "meaning": "ladle",
+            "furigana": "おたま",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "しゃもじ",
+            "meaning": "rice scoop, wooden spoon",
+            "furigana": "しゃもじ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "大さじ",
+            "meaning": "tablespoon",
+            "furigana": "おおさじ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "炊飯器",
+            "meaning": "rice cooker",
+            "furigana": "すいはんき",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "流し台",
+            "meaning": "sink",
+            "furigana": "ながしだい",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "電子レンジ",
+            "meaning": "microwave",
+            "furigana": "でんしれんじ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ガスレンジ",
+            "meaning": "gas stove, gas cooker",
+            "furigana": "ガスレンジ",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "調味料",
+            "meaning": "seasoning",
+            "furigana": "ちゃみりょう",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "サラダ油",
+            "meaning": "salad oil",
+            "furigana": "サラダあぶら",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "食品",
+            "meaning": "food, food products",
+            "furigana": "しょくひん",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "切らす",
+            "meaning": "to run out of, to use up",
+            "furigana": "きらす",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "くさる",
+            "meaning": "to spoil, to go bad.",
+            "furigana": "くさる",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "アルミホイル",
+            "meaning": "aluminum foil",
+            "furigana": "アルミホイル",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ラップ　する",
+            "meaning": "plastic wrap",
+            "furigana": "ラップ　する",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "おしぼり",
+            "meaning": "hot towel, moistened hand towel",
+            "furigana": "おしぼり",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "食器",
+            "meaning": "tableware, dinnerware",
+            "furigana": "しょっき",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "ちゃわん",
+            "meaning": "bowl, rice bowl, teacup",
+            "furigana": "ちゃわん",
+            "romaji": "",
+            "level": 3
+        },
+        {
+            "word": "グラス",
+            "meaning": "(drinking) glass",
+            "furigana": "グラス",
+            "romaji": "",
+            "level": 3
+        }
+    ]
+}
