@@ -4,21 +4,129 @@
     "words" :
     [
         {
-            "word": "",
-            "meaning": "",
+            "word": "勤務　する",
+            "meaning": "work, duty",
+            "furigana": "きんむ　する",
+            "level": 3
+        },
+        {
+            "word": "事務",
+            "meaning": "business, office work",
+            "furigana": "じむ",
+            "level": 3
+        },
+        {
+            "word": "担当　する",
+            "meaning": "charge",
+            "furigana": "たんとう　する",
+            "level": 3
+        },
+        {
+            "word": "営業　する",
+            "meaning": "sales",
+            "furigana": "えいぎょう　する",
+            "level": 3
+        },
+        {
+            "word": "経営　する",
+            "meaning": "management",
+            "furigana": "けいえい　する",
+            "level": 3
+        },
+        {
+            "word": "広告　する",
+            "meaning": "advertising",
+            "furigana": "こうこく　する",
+            "level": 3
+        },
+        {
+            "word": "出版　する",
+            "meaning": "publishing",
+            "furigana": "しゅっぱん　する",
+            "level": 3
+        },
+        {
+            "word": "制作　する",
+            "meaning": "production",
+            "furigana": "せいさく　する",
+            "level": 3
+        },
+        {
+            "word": "通訳　する",
+            "meaning": "interpreting (translation)",
+            "furigana": "つうやく　する",
+            "level": 3
+        },
+        {
+            "word": "精算　する",
+            "meaning": "settlement, adjustment",
+            "furigana": "せいさん　する",
+            "level": 3
+        },
+        {
+            "word": "（予定　を）　立てる",
+            "meaning": "to make (plans)",
+            "furigana": "（よてい　を）たてる",
+            "level": 3
+        },
+        {
+            "word": "長期",
+            "meaning": "long term, long time period",
+            "furigana": "ちょうき",
+            "level": 3
+        },
+        {
+            "word": "日程",
+            "meaning": "schedule",
+            "furigana": "にってい",
+            "level": 3
+        },
+        {
+            "word": "ずらす",
+            "meaning": "to shift, so slide, to push back",
             "furigana": "",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "延期　する",
+            "meaning": "postponement",
+            "furigana": "えんき　する",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "携帯　する",
+            "meaning": "carrying around",
+            "furigana": "けいたい　する",
+            "level": 3
+        },
+        {
+            "word": "協力　する",
+            "meaning": "cooperation",
+            "furigana": "きょうりょく　する",
+            "level": 3
+        },
+        {
+            "word": "省略　する",
+            "meaning": "abbreviation, omission",
+            "furigana": "しょうりゃく　する",
+            "level": 3
+        },
+        {
+            "word": "積む",
+            "meaning": "to pile up, to stack, to gain (experience)",
+            "furigana": "つむ",
+            "level": 3
+        },
+        {
+            "word": "成長　する",
+            "meaning": "to grow",
+            "furigana": "せいちょう　する",
+            "level": 3
+        },
+        {
+            "word": "稼ぐ",
+            "meaning": "to earn income",
+            "furigana": "かせぐ",
             "level": 3
         }
     ]

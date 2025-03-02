@@ -4,20 +4,152 @@
     "words" :
     [
         {
-            "word": "",
-            "meaning": "",
+            "word": "画面",
+            "meaning": "screen",
+            "furigana": "がめん",
+            "level": 3
+        },
+        {
+            "word": "件名",
+            "meaning": "subject (of an email)",
+            "furigana": "けんめい",
+            "level": 3
+        },
+        {
+            "word": "受信　する",
+            "meaning": "receiving, to receive (an email)",
+            "furigana": "じゅしん　する",
+            "level": 3
+        },
+        {
+            "word": "送信　する",
+            "meaning": "sending, to send (an email)",
+            "furigana": "そうしん　する",
+            "level": 3
+        },
+        {
+            "word": "返信　する",
+            "meaning": "reply, to reply (to an email)",
+            "furigana": "へんしん　する",
+            "level": 3
+        },
+        {
+            "word": "やり取り　する",
+            "meaning": "to have an exchange",
+            "furigana": "やりとり　する",
+            "level": 3
+        },
+        {
+            "word": "入力　する",
+            "meaning": "input, writing",
+            "furigana": "にゅうりょく　する",
+            "level": 3
+        },
+        {
+            "word": "変換　する",
+            "meaning": "conversion",
+            "furigana": "へんかん　する",
+            "level": 3
+        },
+        {
+            "word": "改行　する",
+            "meaning": "new line, new paragraph",
+            "furigana": "かいぎょう　する",
+            "level": 3
+        },
+        {
+            "word": "見直す",
+            "meaning": "to review, to check",
+            "furigana": "みなおす",
+            "level": 3
+        },
+        {
+            "word": "変更　する",
+            "meaning": "change, modification",
+            "furigana": "へんこう　する",
+            "level": 3
+        },
+        {
+            "word": "画像",
+            "meaning": "image, picture",
+            "furigana": "がぞう",
+            "level": 3
+        },
+        {
+            "word": "映像",
+            "meaning": "a video",
+            "furigana": "えいぞう",
+            "level": 3
+        },
+        {
+            "word": "挿入　する",
+            "meaning": "insertion",
+            "furigana": "そうにゅう　する",
+            "level": 3
+        },
+        {
+            "word": "添付 する",
+            "meaning": "attachement",
+            "furigana": "てんぷ",
+            "level": 3
+        },
+        {
+            "word": "削除　する",
+            "meaning": "deletion",
+            "furigana": "さくじょ　する",
+            "level": 3
+        },
+        {
+            "word": "保存　する",
+            "meaning": "saving",
+            "furigana": "ほぞん　する",
+            "level": 3
+        },
+        {
+            "word": "新規作成　する",
+            "meaning": "new file",
+            "furigana": "しんきさくせい　する",
+            "level": 3
+        },
+        {
+            "word": "完了　する",
+            "meaning": "competion",
+            "furigana": "かんりょう　する",
+            "level": 3
+        },
+        {
+            "word": "ブログ",
+            "meaning": "blog",
             "furigana": "",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
+            "word": "マウス",
+            "meaning": "mouse",
             "furigana": "",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
+            "word": "クリック　する",
+            "meaning": "click",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "プロバイダー",
+            "meaning": "internet provider",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ダウンロード　する",
+            "meaning": "download",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ノートパソコン",
+            "meaning": "notebook computer, laptop",
             "furigana": "",
             "level": 3
         }
