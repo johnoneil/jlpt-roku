@@ -52,7 +52,7 @@
         component = "Chapter5Section1"
       />
     </ContentNode>
-      <ContentNode title = "Chapter 1" >
+    <ContentNode title = "Chapter 1" >
       <SelectionScreenContent 
         HDPosterUrl = "pkg:/images/N3.png" 
         title = "Section 1" 
@@ -87,6 +87,154 @@
         description = "Section 5"
         difficulty = "easy"
         component = "Ch1S5"
+      />
+    </ContentNode>
+    <ContentNode title = "Chapter 2" >
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 1" 
+        description = "Section 1"
+        difficulty = "easy"
+        component = "Ch2S1"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 2" 
+        description = "Section 2"
+        difficulty = "easy"
+        component = "Ch2S2"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 3" 
+        description = "Section 3"
+        difficulty = "easy"
+        component = "Ch2S3"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 4" 
+        description = "Section 4"
+        difficulty = "easy"
+        component = "Ch2S4"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 5" 
+        description = "Section 5"
+        difficulty = "easy"
+        component = "Ch2S5"
+      />
+    </ContentNode>
+    <ContentNode title = "Chapter 3" >
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 1" 
+        description = "Section 1"
+        difficulty = "easy"
+        component = "Ch3S1"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 2" 
+        description = "Section 2"
+        difficulty = "easy"
+        component = "Ch3S2"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 3" 
+        description = "Section 3"
+        difficulty = "easy"
+        component = "Ch3S3"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 4" 
+        description = "Section 4"
+        difficulty = "easy"
+        component = "Ch3S4"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 5" 
+        description = "Section 5"
+        difficulty = "easy"
+        component = "Ch3S5"
+      />
+    </ContentNode>
+    <ContentNode title = "Chapter 4" >
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 1" 
+        description = "Section 1"
+        difficulty = "easy"
+        component = "Ch4S1"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 2" 
+        description = "Section 2"
+        difficulty = "easy"
+        component = "Ch4S2"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 3" 
+        description = "Section 3"
+        difficulty = "easy"
+        component = "Ch4S3"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 4" 
+        description = "Section 4"
+        difficulty = "easy"
+        component = "Ch4S4"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 5" 
+        description = "Section 5"
+        difficulty = "easy"
+        component = "Ch4S5"
+      />
+    </ContentNode>
+    <ContentNode title = "Chapter 5" >
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 1" 
+        description = "Section 1"
+        difficulty = "easy"
+        component = "Ch5S1"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 2" 
+        description = "Section 2"
+        difficulty = "easy"
+        component = "Ch5S2"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 3" 
+        description = "Section 3"
+        difficulty = "easy"
+        component = "Ch5S3"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 4" 
+        description = "Section 4"
+        difficulty = "easy"
+        component = "Ch5S4"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 5" 
+        description = "Section 5"
+        difficulty = "easy"
+        component = "Ch5S5"
       />
     </ContentNode>
     <ContentNode title = "Chapter 6" >

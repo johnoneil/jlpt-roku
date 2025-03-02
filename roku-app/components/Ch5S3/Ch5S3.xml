@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="Ch5S3" extends = "Quiz" >
+
+  <script type="text/brightscript" uri="Ch5S3.brs" />
+
+</component>
