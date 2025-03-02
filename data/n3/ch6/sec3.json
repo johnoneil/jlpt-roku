@@ -4,20 +4,140 @@
     "words" :
     [
         {
-            "word": "",
-            "meaning": "",
+            "word": "上司",
+            "meaning": "boss, supervisor",
+            "furigana": "じょうし",
+            "level": 3
+        },
+        {
+            "word": "部下",
+            "meaning": "subordinate",
+            "furigana": "ぶか",
+            "level": 3
+        },
+        {
+            "word": "先輩",
+            "meaning": "senior",
+            "furigana": "せんぱい",
+            "level": 3
+        },
+        {
+            "word": "肩書き",
+            "meaning": "title",
+            "furigana": "かたがき",
+            "level": 3
+        },
+        {
+            "word": "アドバイス　する",
+            "meaning": "advice",
             "furigana": "",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
+            "word": "ひとこと",
+            "meaning": "a word",
             "furigana": "",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
+            "word": "同僚",
+            "meaning": "coworker",
+            "furigana": "どうりょう",
+            "level": 3
+        },
+        {
+            "word": "同期",
+            "meaning": "one's contemporary, someone who joined at the same time.",
+            "furigana": "どうき",
+            "level": 3
+        },
+        {
+            "word": "休暇",
+            "meaning": "break, rest",
+            "furigana": "きゅうか",
+            "level": 3
+        },
+        {
+            "word": "オフ",
+            "meaning": "off, day off",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "責任",
+            "meaning": "responsibility",
+            "furigana": "せきにん",
+            "level": 3
+        },
+        {
+            "word": "プレッシャー",
+            "meaning": "pressure",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "不満　な",
+            "meaning": "dissatisfaction, displeasure",
+            "furigana": "ふまん　な",
+            "level": 3
+        },
+        {
+            "word": "命令　する",
+            "meaning": "order",
+            "furigana": "めいれい　する",
+            "level": 3
+        },
+        {
+            "word": "指示　する",
+            "meaning": "direction",
+            "furigana": "しじ　する",
+            "level": 3
+        },
+        {
+            "word": "苦労　する",
+            "meaning": "trouble, hardship",
+            "furigana": "くろう　する",
+            "level": 3
+        },
+        {
+            "word": "くたくたな",
+            "meaning": "exhausted",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ミス　する",
+            "meaning": "mistake",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "報告　する",
+            "meaning": "report",
+            "furigana": "ほうこく　する",
+            "level": 3
+        },
+        {
+            "word": "飲み会",
+            "meaning": "drinking party",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "歓迎会",
+            "meaning": "welcome party",
+            "furigana": "かんげいかい",
+            "level": 3
+        },
+        {
+            "word": "飲み放題",
+            "meaning": "all you can drink",
+            "furigana": "のみほうだい",
+            "level": 3
+        },
+        {
+            "word": "つぐ",
+            "meaning": "to pour",
             "furigana": "",
             "level": 3
         }

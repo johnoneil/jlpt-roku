@@ -4,21 +4,135 @@
     "words" :
     [
         {
-            "word": "",
-            "meaning": "",
+            "word": "受付",
+            "meaning": "reception desk",
+            "furigana": "うけつけ",
+            "level": 3
+        },
+        {
+            "word": "ミーテイング　する",
+            "meaning": "meeting",
             "furigana": "",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
+            "word": "話し合う",
+            "meaning": "to discuss",
+            "furigana": "はなしあう",
+            "level": 3
+        },
+        {
+            "word": "調整　する",
+            "meaning": "adjustment",
+            "furigana": "ちょうせい　する",
+            "level": 3
+        },
+        {
+            "word": "能力",
+            "meaning": "ability",
+            "furigana": "のうりょく",
+            "level": 3
+        },
+        {
+            "word": "役割",
+            "meaning": "role",
+            "furigana": "やくわり",
+            "level": 3
+        },
+        {
+            "word": "もうかる",
+            "meaning": "to be profitable",
             "furigana": "",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
+            "word": "通勤　する",
+            "meaning": "commuting to work",
+            "furigana": "つうきん　する",
+            "level": 3
+        },
+        {
+            "word": "早退　する",
+            "meaning": "leaving early",
+            "furigana": "そうたい　する",
+            "level": 3
+        },
+        {
+            "word": "無断",
+            "meaning": "without permission",
+            "furigana": "むだん",
+            "level": 3
+        },
+        {
+            "word": "社会人",
+            "meaning": "working adult, member of society",
+            "furigana": "しゃかいじん",
+            "level": 3
+        },
+        {
+            "word": "一人ひとり",
+            "meaning": "one by one, each person",
+            "furigana": "ひとりひとり",
+            "level": 3
+        },
+        {
+            "word": "印鑑",
+            "meaning": "seal",
+            "furigana": "いんかん",
+            "level": 3
+        },
+        {
+            "word": "インタビュー　する",
+            "meaning": "interview",
             "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "アンケート",
+            "meaning": "survey",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "解答　する",
+            "meaning": "answer, fill out",
+            "furigana": "かいとう　する",
+            "level": 3
+        },
+        {
+            "word": "ノック　する",
+            "meaning": "knock",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "月末",
+            "meaning": "end of the month",
+            "furigana": "げつまつ",
+            "level": 3
+        },
+        {
+            "word": "確かめる",
+            "meaning": "to confirm",
+            "furigana": "たしかめる",
+            "level": 3
+        },
+        {
+            "word": "確かに",
+            "meaning": "surely, truly, certainly",
+            "furigana": "たしかに",
+            "level": 3
+        },
+        {
+            "word": "とっくに",
+            "meaning": "long ago",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "失業　する",
+            "meaning": "unemployment",
+            "furigana": "しつぎょう　する",
             "level": 3
         }
     ]
