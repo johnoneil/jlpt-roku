@@ -1,0 +1,193 @@
+{
+    "title_jpn" : "旅行",
+    "title_eng" : "Travel",
+    "words" :
+    [
+        {
+            "word": "日にち",
+            "meaning": "day, the number of days",
+            "furigana": "ひにち",
+            "level": 3
+        },
+        {
+            "word": "日帰り",
+            "meaning": "day trip",
+            "furigana": "ひがえり",
+            "level": 3
+        },
+        {
+            "word": "泊まり",
+            "meaning": "staying at",
+            "furigana": "とまり",
+            "level": 3
+        },
+        {
+            "word": "宿泊　する",
+            "meaning": "lodging",
+            "furigana": "しゅくはく　する",
+            "level": 3
+        },
+        {
+            "word": "滞在　する",
+            "meaning": "stay",
+            "furigana": "たいざい",
+            "level": 3
+        },
+        {
+            "word": "団体",
+            "meaning": "group, organization",
+            "furigana": "だんたい",
+            "level": 3
+        },
+        {
+            "word": "ツアー",
+            "meaning": "tour",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "あちこち",
+            "meaning": "here and there",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "観光　する",
+            "meaning": "sightseeing",
+            "furigana": "かんこう　する",
+            "level": 3
+        },
+        {
+            "word": "費用",
+            "meaning": "expense, cost",
+            "furigana": "ひよう",
+            "level": 3
+        },
+        {
+            "word": "予算",
+            "meaning": "budget",
+            "furigana": "よさん",
+            "level": 3
+        },
+        {
+            "word": "集合　する",
+            "meaning": "gathering, joining up",
+            "furigana": "しゅうごう　する",
+            "level": 3
+        },
+        {
+            "word": "解散　する",
+            "meaning": "breaking up. Dispersing.",
+            "furigana": "かいさん　する",
+            "level": 3
+        },
+        {
+            "word": "旅館",
+            "meaning": "Japanese style inn",
+            "furigana": "りょかん",
+            "level": 3
+        },
+        {
+            "word": "五つ星ホテル",
+            "meaning": "5 star hotel",
+            "furigana": "いつつぼしホテル",
+            "level": 3
+        },
+        {
+            "word": "満室",
+            "meaning": "all rooms full, no vacancy",
+            "furigana": "まんしつ",
+            "level": 3
+        },
+        {
+            "word": "チエックイン　する",
+            "meaning": "check in",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "近づく",
+            "meaning": "to get close to, to approach",
+            "furigana": "ちかずく",
+            "level": 3
+        },
+        {
+            "word": "取り消す",
+            "meaning": "to cancel, to retract",
+            "furigana": "とりけす",
+            "level": 3
+        },
+        {
+            "word": "追加　する",
+            "meaning": "addition, add on",
+            "furigana": "ついか　する",
+            "level": 3
+        },
+        {
+            "word": "持ち物",
+            "meaning": "one's belongings",
+            "furigana": "もちもの",
+            "level": 3
+        },
+        {
+            "word": "足りる",
+            "meaning": "to be sufficient, to be enough",
+            "furigana": "たりる",
+            "level": 3
+        },
+        {
+            "word": "スーツケース",
+            "meaning": "suitcase",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "使用　する",
+            "meaning": "usage",
+            "furigana": "しよう　する",
+            "level": 3
+        },
+        {
+            "word": "船旅",
+            "meaning": "boat trip",
+            "furigana": "ふなたび",
+            "level": 3
+        },
+        {
+            "word": "船便",
+            "meaning": "surface mail",
+            "furigana": "ふなびん",
+            "level": 3
+        },
+        {
+            "word": "時差",
+            "meaning": "time difference",
+            "furigana": "じさ",
+            "level": 3
+        },
+        {
+            "word": "時差ぼけ",
+            "meaning": "jet lag",
+            "furigana": "じさぼけ",
+            "level": 3
+        },
+        {
+            "word": "両替　する",
+            "meaning": "Money exchange",
+            "furigana": "りょうがえ　する",
+            "level": 3
+        },
+        {
+            "word": "ドル",
+            "meaning": "dollar",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "来日　する",
+            "meaning": "going to Japan",
+            "furigana": "らいにち　する",
+            "level": 3
+        }
+    ]
+}

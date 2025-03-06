@@ -1,0 +1,175 @@
+{
+    "title_jpn" : "スポーツ",
+    "title_eng" : "Sports",
+    "words" :
+    [
+        {
+            "word": "競争　する",
+            "meaning": "competition",
+            "furigana": "きょうそう　する",
+            "level": 3
+        },
+        {
+            "word": "活躍　する",
+            "meaning": "being active, flourishing",
+            "furigana": "かつやく　する",
+            "level": 3
+        },
+        {
+            "word": "ウェア",
+            "meaning": "(sports) wear",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ける",
+            "meaning": "to kick",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ホームラン",
+            "meaning": "home run",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "打つ",
+            "meaning": "to hit, to strike, to send an email, to transmit",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "前半",
+            "meaning": "first half",
+            "furigana": "ぜんはん",
+            "level": 3
+        },
+        {
+            "word": "ポイント",
+            "meaning": "point",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "引き分け",
+            "meaning": "a draw, a tie",
+            "furigana": "ひきわけ",
+            "level": 3
+        },
+        {
+            "word": "運動会",
+            "meaning": "sports day, field day",
+            "furigana": "うんどうかい",
+            "level": 3
+        },
+        {
+            "word": "大声",
+            "meaning": "loud voice, a great voice",
+            "furigana": "おおごえ",
+            "level": 3
+        },
+        {
+            "word": "思い切り",
+            "meaning": "with all one's might",
+            "furigana": "おもいぎり",
+            "level": 3
+        },
+        {
+            "word": "ペース",
+            "meaning": "pace",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ゴール　する",
+            "meaning": "goal",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "拍手　する",
+            "meaning": "clapping, applause",
+            "furigana": "はくしゅ　する",
+            "level": 3
+        },
+        {
+            "word": "ライバル",
+            "meaning": "rivals",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "握手　する",
+            "meaning": "shaking hands",
+            "furigana": "あくしゅ　する",
+            "level": 3
+        },
+        {
+            "word": "惜しい",
+            "meaning": "regrettable, disappointing",
+            "furigana": "おしい",
+            "level": 3
+        },
+        {
+            "word": "素早い",
+            "meaning": "fast, quick, swift",
+            "furigana": "すばやい",
+            "level": 3
+        },
+        {
+            "word": "体操　する",
+            "meaning": "gymnastics",
+            "furigana": "たいそう　する",
+            "level": 3
+        },
+        {
+            "word": "トレーニング　する",
+            "meaning": "training",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "日課",
+            "meaning": "daily routine",
+            "furigana": "にっか",
+            "level": 3
+        },
+        {
+            "word": "キャプテン",
+            "meaning": "captain",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "プロ",
+            "meaning": "professional, pro",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "プレー　する",
+            "meaning": "playing",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ファン",
+            "meaning": "a fan, enthusiast",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "引退　する",
+            "meaning": "retirement",
+            "furigana": "いんたい　する",
+            "level": 3
+        },
+        {
+            "word": "水着",
+            "meaning": "swimsuit, bathing suit",
+            "furigana": "みずぎ",
+            "level": 3
+        }
+    ]
+}
