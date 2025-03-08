@@ -274,6 +274,43 @@
         component = "Ch6S5"
       />
     </ContentNode>
+    <ContentNode title = "Chapter 7" >
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 1" 
+        description = "Section 1"
+        difficulty = "easy"
+        component = "Ch7S1"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 2" 
+        description = "Section 2"
+        difficulty = "easy"
+        component = "Ch7S2"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 3" 
+        description = "Section 3"
+        difficulty = "easy"
+        component = "Ch7S3"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 4" 
+        description = "Section 4"
+        difficulty = "easy"
+        component = "Ch7S4"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 5" 
+        description = "Section 5"
+        difficulty = "easy"
+        component = "Ch7S5"
+      />
+    </ContentNode>
   </children>
 
 </component>
