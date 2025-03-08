@@ -1,0 +1,127 @@
+{
+    "title_jpn" : "趣味",
+    "title_eng" : "Hobbies",
+    "words" :
+    [
+        {
+            "word": "気に入る",
+            "meaning": "to be pleased with, to like",
+            "furigana": "きにいる",
+            "level": 3
+        },
+        {
+            "word": "お気に入り",
+            "meaning": "favorite",
+            "furigana": "おきにいり",
+            "level": 3
+        },
+        {
+            "word": "芸術",
+            "meaning": "art, the arts",
+            "furigana": "げいじゅつ",
+            "level": 3
+        },
+        {
+            "word": "絵画",
+            "meaning": "picture, painting",
+            "furigana": "かいが",
+            "level": 3
+        },
+        {
+            "word": "才能",
+            "meaning": "talent, ability",
+            "furigana": "さいのう",
+            "level": 3
+        },
+        {
+            "word": "けいこ　する",
+            "meaning": "training, practice",
+            "furigana": "けいこ　する",
+            "level": 3
+        },
+        {
+            "word": "アニメ",
+            "meaning": "anime",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "読書　する",
+            "meaning": "reading",
+            "furigana": "どくしょ　する",
+            "level": 3
+        },
+        {
+            "word": "おすすめ",
+            "meaning": "suggestion, recommendation",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ストーリー",
+            "meaning": "story",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "シリーズ",
+            "meaning": "series",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "名作",
+            "meaning": "famous work",
+            "furigana": "めいさく",
+            "level": 3
+        },
+        {
+            "word": "登場　する",
+            "meaning": "appearance, entrance (theatrical etc.)",
+            "furigana": "とうじょう　する",
+            "level": 3
+        },
+        {
+            "word": "好奇心",
+            "meaning": "curiosity",
+            "furigana": "こうきしん",
+            "level": 3
+        },
+        {
+            "word": "コンクール",
+            "meaning": "competition, contest",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "出品　する",
+            "meaning": "submit (a work or piece)",
+            "furigana": "しゅっぴん　する",
+            "level": 3
+        },
+        {
+            "word": "演奏　する",
+            "meaning": "performance",
+            "furigana": "えんそう　する",
+            "level": 3
+        },
+        {
+            "word": "イヤホン",
+            "meaning": "earphones",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "講演会",
+            "meaning": "lecture",
+            "furigana": "こうえんかい",
+            "level": 3
+        },
+        {
+            "word": "サークル",
+            "meaning": "circle, club",
+            "furigana": "",
+            "level": 3
+        }
+    ]
+}

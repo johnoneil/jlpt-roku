@@ -1,0 +1,152 @@
+{
+    "title_jpn" : "ファッション",
+    "title_eng" : "Fashion",
+    "words" :
+    [
+        {
+            "word": "おしゃれ　な　する",
+            "meaning": "fashionable",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "好む",
+            "meaning": "to favor, to like",
+            "furigana": "このむ",
+            "level": 3
+        },
+        {
+            "word": "好み",
+            "meaning": "liking",
+            "furigana": "このみ",
+            "level": 3
+        },
+        {
+            "word": "流行　する",
+            "meaning": "being popular, be in fashion",
+            "furigana": "りゅうこう　する",
+            "level": 3
+        },
+        {
+            "word": "はやり",
+            "meaning": "fad, craze",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "カタログ",
+            "meaning": "catalogue",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "サンプル",
+            "meaning": "sample",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "探す",
+            "meaning": "to look for, to seek",
+            "furigana": "さがす",
+            "level": 3
+        },
+        {
+            "word": "似合う",
+            "meaning": "tosuit, to go well with",
+            "furigana": "にあう",
+            "level": 3
+        },
+        {
+            "word": "ぴったり　する",
+            "meaning": "fit just right",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "高級　な",
+            "meaning": "high grade, high quality",
+            "furigana": "こうきゅう　な",
+            "level": 3
+        },
+        {
+            "word": "ブランド",
+            "meaning": "brand, brand name",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "本物",
+            "meaning": "real thing, authentic",
+            "furigana": "ほんもの",
+            "level": 3
+        },
+        {
+            "word": "にせ物",
+            "meaning": "fake, imitation",
+            "furigana": "にせもの",
+            "level": 3
+        },
+        {
+            "word": "保証　する",
+            "meaning": "guarantee",
+            "furigana": "ほしょう　する",
+            "level": 3
+        },
+        {
+            "word": "バーゲンセール",
+            "meaning": "bargain sale",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "取り替える",
+            "meaning": "to exchange, to replace",
+            "furigana": "とりかえる",
+            "level": 3
+        },
+        {
+            "word": "はめる",
+            "meaning": "to put on, to place on (e.g. a ring)",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "外す",
+            "meaning": "to take off, to remove (e.g. a ring)",
+            "furigana": "はずす",
+            "level": 3
+        },
+        {
+            "word": "外れる",
+            "meaning": "to come off, to come undone",
+            "furigana": "はずれる",
+            "level": 3
+        },
+        {
+            "word": "カット　する",
+            "meaning": "cutting",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "パーマ",
+            "meaning": "perm",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "染める",
+            "meaning": "to dye",
+            "furigana": "そめる",
+            "level": 3
+        },
+        {
+            "word": "サイズ",
+            "meaning": "size",
+            "furigana": "",
+            "level": 3
+        }
+        
+    ]
+}

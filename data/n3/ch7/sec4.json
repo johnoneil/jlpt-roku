@@ -1,0 +1,157 @@
+{
+    "title_jpn" : "おしゃれ",
+    "title_eng" : "Fashionable",
+    "words" :
+    [
+        {
+            "word": "夏物",
+            "meaning": "summer goods",
+            "furigana": "なつもの",
+            "level": 3
+        },
+        {
+            "word": "冬物",
+            "meaning": "winter goods",
+            "furigana": "ふゆもの",
+            "level": 3
+        },
+        {
+            "word": "上着",
+            "meaning": "upper garment, jacket",
+            "furigana": "うわぎ",
+            "level": 3
+        },
+        {
+            "word": "婦人服",
+            "meaning": "women's clothing",
+            "furigana": "ふじんふく",
+            "level": 3
+        },
+        {
+            "word": "紳士服",
+            "meaning": "men's wear",
+            "furigana": "しんしふく",
+            "level": 3
+        },
+        {
+            "word": "ジーンズ",
+            "meaning": "jeans",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "パンツ",
+            "meaning": "pants",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "イヤリング",
+            "meaning": "clip on earring",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ネックレス",
+            "meaning": "necklace",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "宝石",
+            "meaning": "precious gem",
+            "furigana": "ほうせき",
+            "level": 3
+        },
+        {
+            "word": "スカーフ",
+            "meaning": "scarf",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "手袋",
+            "meaning": "gloves",
+            "furigana": "てぶくろ",
+            "level": 3
+        },
+        {
+            "word": "マフラー",
+            "meaning": "scarf, muffler",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "お　化粧　する",
+            "meaning": "makeup",
+            "furigana": "お　けしょう　する",
+            "level": 3
+        },
+        {
+            "word": "口紅",
+            "meaning": "lipstick",
+            "furigana": "くちべに",
+            "level": 3
+        },
+        {
+            "word": "まつ毛",
+            "meaning": "eyelash",
+            "furigana": "まつげ",
+            "level": 3
+        },
+        {
+            "word": "まゆげ",
+            "meaning": "eyebrow",
+            "furigana": "まゆげ",
+            "level": 3
+        },
+        {
+            "word": "ほほ",
+            "meaning": "cheek",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "爪",
+            "meaning": "nail",
+            "furigana": "つめ",
+            "level": 3
+        },
+        {
+            "word": "香水",
+            "meaning": "perfume",
+            "furigana": "こうすい",
+            "level": 3
+        },
+        {
+            "word": "古着",
+            "meaning": "used clothing, 2nd hand clothing",
+            "furigana": "ふるぎ",
+            "level": 3
+        },
+        {
+            "word": "革",
+            "meaning": "leather",
+            "furigana": "かわ",
+            "level": 3
+        },
+        {
+            "word": "ベルト",
+            "meaning": "belt",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "そで",
+            "meaning": "sleeve",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ショップ",
+            "meaning": "a shop",
+            "furigana": "",
+            "level": 3
+        }
+    ]
+}
