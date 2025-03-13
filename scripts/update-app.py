@@ -85,6 +85,11 @@ input_files = {
     "Chapter7Section3" : "data/n3/ch7/sec3.json",
     "Chapter7Section4" : "data/n3/ch7/sec4.json",
     "Chapter7Section5" : "data/n3/ch7/sec5.json",
+    "Chapter8Section1" : "data/n3/ch8/sec1.json",
+    "Chapter8Section2" : "data/n3/ch8/sec2.json",
+    "Chapter8Section3" : "data/n3/ch8/sec3.json",
+    "Chapter8Section4" : "data/n3/ch8/sec4.json",
+    "Chapter8Section5" : "data/n3/ch8/sec5.json",
     "N3Vocabulary" : "data/n3/vocabulary.json",
     "N4Vocabulary" : "data/n4/vocabulary.json",
 }
