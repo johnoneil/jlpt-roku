@@ -1,0 +1,109 @@
+{
+    "title_jpn" : "症状　（しょうじょう）",
+    "title_eng" : "Symptoms",
+    "words" :
+    [
+        {
+            "word": "アレルギー",
+            "meaning": "allergy",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "花粉症",
+            "meaning": "hay fever",
+            "furigana": "かふんしょう",
+            "level": 3
+        },
+        {
+            "word": "うがい　する",
+            "meaning": "gargling",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "手洗い",
+            "meaning": "washing one's hands",
+            "furigana": "てあらい",
+            "level": 3
+        },
+        {
+            "word": "くしゃみ　する",
+            "meaning": "sneeze",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "鼻水",
+            "meaning": "runny nose",
+            "furigana": "はなみず",
+            "level": 3
+        },
+        {
+            "word": "マスク",
+            "meaning": "(face) mask",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "辛い",
+            "meaning": "tough, painful",
+            "furigana": "つらい",
+            "level": 3
+        },
+        {
+            "word": "かゆい",
+            "meaning": "itchy",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "かゆみ",
+            "meaning": "itch",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "かく",
+            "meaning": "to scratch",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "こする",
+            "meaning": "to rub",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "(肩が)　こる",
+            "meaning": "to get stiff shoulders/neck)",
+            "furigana": "かたが　こる",
+            "level": 3
+        },
+        {
+            "word": "肩こり",
+            "meaning": "to get stiff shoulders/neck",
+            "furigana": "かたこり",
+            "level": 3
+        },
+        {
+            "word": "だるい",
+            "meaning": "sluggish",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "だるさ",
+            "meaning": "sluggishness",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "マッサージ　する",
+            "meaning": "massage",
+            "furigana": "",
+            "level": 3
+        }
+    ]
+}

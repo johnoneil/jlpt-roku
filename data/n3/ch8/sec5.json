@@ -1,0 +1,145 @@
+{
+    "title_jpn" : "病院　（びょういん）",
+    "title_eng" : "Hospital",
+    "words" :
+    [
+        {
+            "word": "患者",
+            "meaning": "patient",
+            "furigana": "かんじゃ",
+            "level": 3
+        },
+        {
+            "word": "診察　する",
+            "meaning": "examination",
+            "furigana": "しんさつ　する",
+            "level": 3
+        },
+        {
+            "word": "検査　する",
+            "meaning": "scan",
+            "furigana": "けんさ　する",
+            "level": 3
+        },
+        {
+            "word": "治療　する",
+            "meaning": "medical treatment",
+            "furigana": "ちりょう　する",
+            "level": 3
+        },
+        {
+            "word": "健康診断",
+            "meaning": "health examination",
+            "furigana": "けんこうしんだん",
+            "level": 3
+        },
+        {
+            "word": "内科",
+            "meaning": "internal medicine",
+            "furigana": "ないか",
+            "level": 3
+        },
+        {
+            "word": "外科",
+            "meaning": "surgery, department of surgery",
+            "furigana": "げか",
+            "level": 3
+        },
+        {
+            "word": "小児科",
+            "meaning": "pediatrics",
+            "furigana": "しょうにか",
+            "level": 3
+        },
+        {
+            "word": "保険",
+            "meaning": "health insurance",
+            "furigana": "ほけん",
+            "level": 3
+        },
+        {
+            "word": "保険証",
+            "meaning": "health insurance card",
+            "furigana": "ほけんしょう",
+            "level": 3
+        },
+        {
+            "word": "効く",
+            "meaning": "to work, to be effective",
+            "furigana": "きく",
+            "level": 3
+        },
+        {
+            "word": "注射　する",
+            "meaning": "injection",
+            "furigana": "ちゅうしゃ　する",
+            "level": 3
+        },
+        {
+            "word": "おんぶ　する",
+            "meaning": "carrying on one's back",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "だっこ　する",
+            "meaning": "carrying in one's arms",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "栄養",
+            "meaning": "nutrition",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "回復　する",
+            "meaning": "to recover",
+            "furigana": "かいふく　する",
+            "level": 3
+        },
+        {
+            "word": "証明　する",
+            "meaning": "proof verification",
+            "furigana": "しょうめい　する",
+            "level": 3
+        },
+        {
+            "word": "そっと　する",
+            "meaning": "gently, softly",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "じっと　する",
+            "meaning": "quietly",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "手術　する",
+            "meaning": "surgery",
+            "furigana": "しゅじゅつ　する",
+            "level": 3
+        },
+        {
+            "word": "包帯",
+            "meaning": "bandage",
+            "furigana": "ほうたい",
+            "level": 3
+        },
+        {
+            "word": "巻く",
+            "meaning": "to wrap",
+            "furigana": "まく",
+            "level": 3
+        },
+        {
+            "word": "長生き　する",
+            "meaning": "long life, longevity",
+            "furigana": "",
+            "level": 3
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "title_jpn" : "何のサイン",
+    "title_eng" : "What Sign?",
+    "words" :
+    [
+        {
+            "word": "調子",
+            "meaning": "condition",
+            "furigana": "ちょうし",
+            "level": 3
+        },
+        {
+            "word": "あくび　する",
+            "meaning": "yawn",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "しゃっくり　する",
+            "meaning": "hiccup",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "よだれ",
+            "meaning": "drool",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "にきび",
+            "meaning": "pimple, acne",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "気になる",
+            "meaning": "to be on one's mind, to worry",
+            "furigana": "きになる",
+            "level": 3
+        },
+        {
+            "word": "気にする",
+            "meaning": "to worry about",
+            "furigana": "きにする",
+            "level": 3
+        },
+        {
+            "word": "白髪",
+            "meaning": "gray hair",
+            "furigana": "しらが",
+            "level": 3
+        },
+        {
+            "word": "抜く",
+            "meaning": "to pull out, to remove",
+            "furigana": "ぬく",
+            "level": 3
+        },
+        {
+            "word": "生える",
+            "meaning": "to grow, to come in",
+            "furigana": "はえる",
+            "level": 3
+        },
+        {
+            "word": "しみ",
+            "meaning": "blotch, spot (on the skin)",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "しわ",
+            "meaning": "wrinkle",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "日焼け　する",
+            "meaning": "tan, sunburn",
+            "furigana": "ひやけ　する",
+            "level": 3
+        },
+        {
+            "word": "傷",
+            "meaning": "wound, cut",
+            "furigana": "きず",
+            "level": 3
+        },
+        {
+            "word": "酔っぱらう",
+            "meaning": "to get drunk",
+            "furigana": "よっぱらう",
+            "level": 3
+        },
+        {
+            "word": "酔っぱらい",
+            "meaning": "drunk",
+            "furigana": "よっぱらい",
+            "level": 3
+        },
+        {
+            "word": "ぺこぺこ　な",
+            "meaning": "starving, famished",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "からから　な",
+            "meaning": "parched",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ダイエット",
+            "meaning": "diet",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "カロリー",
+            "meaning": "calorie",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "控える",
+            "meaning": "to abstain from",
+            "furigana": "ひかえる",
+            "level": 3
+        },
+        {
+            "word": "つい",
+            "meaning": "just now, by mistake, against one's better judgment.",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "遂に",
+            "meaning": "finally",
+            "furigana": "ついに",
+            "level": 3
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "title_jpn" : "大丈夫？",
+    "title_eng" : "Are you okay?",
+    "words" :
+    [
+        {
+            "word": "痛み",
+            "meaning": "pain",
+            "furigana": "いたみ",
+            "level": 3
+        },
+        {
+            "word": "頭痛",
+            "meaning": "headache",
+            "furigana": "ずつう",
+            "level": 3
+        },
+        {
+            "word": "腹痛",
+            "meaning": "stomachache",
+            "furigana": "ふくつう",
+            "level": 3
+        },
+        {
+            "word": "激しい",
+            "meaning": "intense, rough, violent",
+            "furigana": "はげしい",
+            "level": 3
+        },
+        {
+            "word": "異常　な",
+            "meaning": "abnormality, unusual",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "めまい",
+            "meaning": "dizziness",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "やけど　する",
+            "meaning": "burn",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "吐く",
+            "meaning": "to throw up, to spit up, to vomit",
+            "furigana": "はく",
+            "level": 3
+        },
+        {
+            "word": "吐き気",
+            "meaning": "feeling of throwing up, nausea",
+            "furigana": "はきけ",
+            "level": 3
+        },
+        {
+            "word": "(痛みが)　とれる",
+            "meaning": "to recede (pain)",
+            "furigana": "いたみが　とれる",
+            "level": 3
+        },
+        {
+            "word": "インフルエンザ",
+            "meaning": "influenze, the flu",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ウイルス",
+            "meaning": "virus",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "震える",
+            "meaning": "to shake, to shiver",
+            "furigana": "ふるえる",
+            "level": 3
+        },
+        {
+            "word": "うなる",
+            "meaning": "to groan, to moan",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "苦しむ",
+            "meaning": "to suffer",
+            "furigana": "くるしむ",
+            "level": 3
+        },
+        {
+            "word": "痺れる",
+            "meaning": "to go numb",
+            "furigana": "しびれる",
+            "level": 3
+        },
+        {
+            "word": "部分",
+            "meaning": "area, part",
+            "furigana": "ぶぶん",
+            "level": 3
+        },
+        {
+            "word": "骨折　する",
+            "meaning": "bone break, bone fracture",
+            "furigana": "こっせつ　する",
+            "level": 3
+        },
+        {
+            "word": "触る",
+            "meaning": "to touch",
+            "furigana": "さわる",
+            "level": 3
+        }
+    ]
+}

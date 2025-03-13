@@ -1,0 +1,145 @@
+{
+    "title_jpn" : "体",
+    "title_eng" : "Body",
+    "words" :
+    [
+        {
+            "word": "身長",
+            "meaning": "height",
+            "furigana": "しんちょう",
+            "level": 3
+        },
+        {
+            "word": "伸びる",
+            "meaning": "to grow, to extend",
+            "furigana": "のびる",
+            "level": 3
+        },
+        {
+            "word": "測る",
+            "meaning": "to mesure (length, heat)",
+            "furigana": "はかる",
+            "level": 3
+        },
+        {
+            "word": "量る",
+            "meaning": "to measure (weight, volume)",
+            "furigana": "はかる",
+            "level": 3
+        },
+        {
+            "word": "体重",
+            "meaning": "body weight",
+            "furigana": "たいじゅう",
+            "level": 3
+        },
+        {
+            "word": "体重計",
+            "meaning": "scale (for measuring weight)",
+            "furigana": "たいじゅうけい",
+            "level": 3
+        },
+        {
+            "word": "体温",
+            "meaning": "body temperature",
+            "furigana": "たいおん",
+            "level": 3
+        },
+        {
+            "word": "額",
+            "meaning": "forehead",
+            "furigana": "ひたい",
+            "level": 3
+        },
+        {
+            "word": "血液",
+            "meaning": "blood",
+            "furigana": "けつえき",
+            "level": 3
+        },
+        {
+            "word": "血液型",
+            "meaning": "blood type",
+            "furigana": "けつえきがた",
+            "level": 3
+        },
+        {
+            "word": "心臓",
+            "meaning": "heart",
+            "furigana": "しんぞう",
+            "level": 3
+        },
+        {
+            "word": "汗",
+            "meaning": "sweat",
+            "furigana": "あせ",
+            "level": 3
+        },
+        {
+            "word": "息",
+            "meaning": "breath",
+            "furigana": "いき",
+            "level": 3
+        },
+        {
+            "word": "ため息",
+            "meaning": "sigh",
+            "furigana": "ためいき",
+            "level": 3
+        },
+        {
+            "word": "皮膚",
+            "meaning": "skin",
+            "furigana": "ひふ",
+            "level": 3
+        },
+        {
+            "word": "顔色",
+            "meaning": "complexion",
+            "furigana": "かおいろ",
+            "level": 3
+        },
+        {
+            "word": "睡眠",
+            "meaning": "sleep",
+            "furigana": "すいみん",
+            "level": 3
+        },
+        {
+            "word": "まぶた",
+            "meaning": "",
+            "furigana": "eyelid",
+            "level": 3
+        },
+        {
+            "word": "丈夫　な",
+            "meaning": "sturdy, strong",
+            "furigana": "じょうぶ　な",
+            "level": 3
+        },
+        {
+            "word": "歯科医",
+            "meaning": "dentist",
+            "furigana": "しかい",
+            "level": 3
+        },
+        {
+            "word": "虫歯",
+            "meaning": "tooth cavity",
+            "furigana": "むしば",
+            "level": 3
+        },
+        {
+            "word": "裸",
+            "meaning": "nakedness, nudity",
+            "furigana": "はだか",
+            "level": 3
+        },
+        {
+            "word": "裸足",
+            "meaning": "barefoot",
+            "furigana": "はだし",
+            "level": 3
+        }
+    ]
+}
