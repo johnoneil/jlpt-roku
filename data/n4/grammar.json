@@ -998,15 +998,329 @@
         ]
     },
     {
-        "name" : "",
-        "meaning" : "",
+        "name" : "（〜も）〜し、（〜も）。。。",
+        "meaning" : "Used when you list multiple reasons for something.",
+        "forms" : [
+            {
+            "form": "（名も＋）普通形＋し、（（なも＋）普通形＋し）",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "荷物も多いし、雨も降っているし、タクシーで行きましょう。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "頭が痛いし。。。",
+                    "notes:": "If is used only once, there is the implicaiton there are additional unspoken reasons."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "この店のパンは美味しいし、安いです。",
+                    "notes:": "Expands on information already given."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "ハワイではきれいな海で泳ぎたいし、買い物もしたい。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜たり〜たりします",
+        "meaning" : "Used to express a string of actions or behaviors.",
         "forms" : [
             {
             "form": "",
             "examples:" : [
                 {
                     "prompt" : "",
-                    "example" : "",
+                    "example" : "休みの日は本を読んだりゲームを遊んだりします。",
+                    "notes:": "Used with no regard to sequence in time."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "今日は雨が降ったり止んだりしていました。",
+                    "notes:": "When verbs with opposite meaning are used, it expresses the repated nature of both actions/behaviors."
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜かもしれません",
+        "meaning" : "\"Might be...\". Expresses possibility or potentiality.",
+        "forms" : [
+            {
+            "form": "普通形(ナ形「〜だ〜」・名「〜だ〜」）＋かもしれません",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "明日は雪が降るかろしれません",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "あのノートはサラさんのかもしれない。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "今度の仕事は大変かもしれないけど、頑張ってね。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜はずです",
+        "meaning" : "\"Ought to be\".Use to make an *objectively* grounded observation you are confident of.",
+        "forms" : [
+            {
+            "form": "普通形(ナ形「〜だ〜」な・名「〜だ〜」の）＋はずです",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "明日の会議には山川先生も出席するはずです。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "新鮮な魚だから、美味しいはずです。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "母は飛行機に乗ったはずです。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜ようです",
+        "meaning" : "\"Appears. Seems\". Used to make a statement about the speaker's personal surmise or impression. Avoid in formal situations.",
+        "forms" : [
+            {
+            "form": "普通形(ナ形「〜だ〜」な・名「〜だ〜」の）＋ようです",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "誰もいないようです。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "道が濡れています。雨が降ったようです",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "この肉は少し古いようです。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "けんくんは　本が好きなようです。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜みたいです",
+        "meaning" : "\"Looks like..\". Used to make a statement about the speaker's personal surmise or impression. Avoid in formal situations.",
+        "forms" : [
+            {
+            "form": "普通形(ナ形「〜だ〜」・名「〜だ〜」）＋みたいです",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "夢みたいだ。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "このパソコンはこわれているみたいだ。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "食べすぎたみたいだ。",
+                    "notes:": ""
+                }
+
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜なさい",
+        "meaning" : "Use by teachers giving instructions and parents to children. Also used in instructoins in examinations.",
+        "forms" : [
+            {
+            "form": "動「~ます~」＋なさい",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "漢字で書きなさい。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜ほうがいいです",
+        "meaning" : "\"You had best...\". Expresses a mild warning. Used to suggest an undesirable result that will likely arise if something is not done. Frequently takes ending particles よ、ね .",
+        "forms" : [
+            {
+            "form": "動「た形・ない形」＋ほうがいいです",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "寒いです。上着を着たほうがいいよ。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "出かけないほうがいいよ。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜ないと",
+        "meaning" : "Use to instigate personal action or action by another person when you feel the situation will deteriorate unless something is done. A colloquial expression.",
+        "forms" : [
+            {
+            "form": "動「ない形」＋と",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "ご飯の前には手を洗わないと。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "急がないと。間に合わないよ。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜たら。。。",
+        "meaning" : "\"If\". When ~ is assumed ... will result. Concrete one time specific results, emphasises the *consequences*.",
+        "forms" : [
+            {
+            "form": "普通形（「ーた・ーなかった」だけ）＋ら",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "もし大きい地震が起きたら、机の下に入ってください。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "明日天気が良かったら、どこかへ行きませんか。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜ば。。。・〜なら。。。",
+        "meaning" : "\"Hypothetically if\". When condition ~ is met, ... will arise or result. Emphasises the *condition*. Sometimes used together with もし。Cannot be followed by statements expressing intention of the speaker or of inducement.",
+        "forms" : [
+            {
+            "form": "「〜ば・〜ならの形」",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "バスに乗れば、駅まで１０分です。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "子供の名前は、男の子なら「こうた」、女の子なら「みちる」がいいです。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "辞書を使わなければ、読めません。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜と。。。",
+        "meaning" : "\"The natrual consequence\". When ~ arises or happens, it will *definitely* lead to ..., but ... canot be followed by statements expressing intention of the spekaer or inducement.",
+        "forms" : [
+            {
+            "form": "",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "お金を入れてボタンを押すと、切符が出ます。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "あの角を左に曲がると、駅が見えます。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜たら。。。",
+        "meaning" : "\"When\". When ~ arises, ... is our should be done. *Not an assumption*. We know in advance it will happen.",
+        "forms" : [
+            {
+            "form": "動「た形」＋ら",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "３時になったら、休みましょう。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "この学校を卒業したら、何をしますか？",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜なら",
+        "meaning" : "\"When it comes to X\". Expresses the speaker's judement, volition or inducement in light of ~ (information). The ~ must be a topic raised by another person's words or actions.",
+        "forms" : [
+            {
+            "form": "",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "A:ケーキが美味しい店をぢ知りませんか　B:　ケーキなら、駅前の店が美味しいですよ。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "見ていないなら、テレビはもう消すよ。",
                     "notes:": ""
                 }
             ]
