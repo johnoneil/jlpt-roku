@@ -623,15 +623,374 @@
         ]
     },
     {
-        "name" : "",
-        "meaning" : "",
+        "name" : "〜そうです",
+        "meaning" : "Used to express the sense that something will occur based on outside appearance or circumstances, as well as to make inferences based on state or quality. Judgements. Presentiments.",
         "forms" : [
             {
-            "form": "",
+            "form": "動「~ます~」＋そうです・そうもありません",
             "examples:" : [
                 {
                     "prompt" : "",
-                    "example" : "",
+                    "example" : "コップが落ちそうです",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "雨が降りそうもありません。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "いい品物はなさそうです",
+                    "notes:": "Note exception. ありません-> なさそう"
+                }
+            ]
+            },
+            {
+                "form": "イ形「〜い〜」・ナ形「〜ナ〜」＋そうです",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "美味しそうなケーキ",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "心配そうに電話しました",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "天気が良さそうです。",
+                        "notes:": "Note exception. いい　->　よさそう "
+                    }
+                ]
+            },
+            {
+                "form": "イ形「〜い〜」く・ナ形「〜ナ〜」では・名では＋なさそうです",
+                "examples:" : [
+                    {
+                        "prompt" : "ケーキは美味しくなさそうです。",
+                        "example" : "",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "あの人は親切ではなさそうです。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "今日ではなさそうです。",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜がっています・〜がります",
+        "meaning" : "Expresses the wishes or emotions of a third party (usually relatives or people of lower status than the speaker.",
+        "forms" : [
+            {
+            "form": "イ形「〜い〜」・ナ形「〜ナ〜」＋がっています",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "犬は嬉しがっています",
+                    "notes:": "Used when describing the current situation, rather than any usual trend."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "子供達は面白がってゲームで遊んでいます。",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "イ形「〜い〜」・ナ形「〜ナ〜」＋がります",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "弟は怖い話を嫌がります。",
+                        "notes:": "Used when expressing a general trend rather than the situation at hand."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜まま。。。",
+        "meaning" : "Expresses a state that is continuous and has not changed. Often used where the speaker feels the situation is undesirable because no change has occurred.",
+        "forms" : [
+            {
+            "form": "動「た形・ない形」＋まま",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "窓を開けたまま寝ました。",
+                    "notes:": "Example of undesirable situation."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "手を洗わないまま。",
+                    "notes:": "Example of undesirable situation."
+                }
+            ]
+            },
+            {
+                "form": "イ形「い」＋まま",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "手が汚いまま食べました。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "ナ形「ナ」＋まま",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "自由なまま歩きます。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "名の＋まま",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "",
+                        "notes:": "昨日のまま"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜から・〜からです",
+        "meaning" : "Used to epxplain cause, reason or grounds, somewhat emphatically.",
+        "forms" : [
+            {
+            "form": "普通形・丁寧形＋から",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "用事がありますから、先に帰ります。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "危ないから、触らないで！",
+                    "notes:": ""
+                }
+
+            ]
+            },
+            {
+                "form": "普通形＋からです",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "失敗しました。練習が足りなかったからです",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜ので。。。",
+        "meaning" : "Expresses cause and reason. It is more polite than 〜から , and cannot be used before phrases with imperatives and polite every day formulas like すみません、ありがとう。",
+        "forms" : [
+            {
+            "form": "普通形（ナ形「〜だ〜」な・名「〜だ〜」な）＋ので",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "頭が痛いので休みます。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "子供は５歳なので、バス代はかかりません。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "雨が降っていたので散歩に行かながった。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜て。。。・〜くて。。。・〜で。。。",
+        "meaning" : "used to express cause and reason. It often expresses cause and reason for *emotions and perceptions*, more so than 〜から、〜ので. In addition to words expressing mood, such as , it is often followd by temrs expressing impossibility and polite everyday formulas such as　すみません、ありがとう. It cannot be followed by statements of hope, intention or inducement on the part of the speaker.",
+        "forms" : [
+            {
+            "form": "動て形",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "たくさん仕事があって、大変でした",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "友達がいなくて、寂しい。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "遅れて、すみませんでした。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "教えてくれて、ありがとう。",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "イ形「〜い〜」くて",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "汚くて、ごめなさい。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "ナ形「〜な〜」で",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "心配で、よく眠れませんでした。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "名で",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "あなたので、ありがとうございます。",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜に。。。",
+        "meaning" : "\"Purpose of movement\". After　に can come a limited number of verbs of motion.",
+        "forms" : [
+            {
+            "form": "名「〜する〜」＋に",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "散歩に行きました。",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "動「〜ます〜」＋に",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "とりに帰りました。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "向かいにくる",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜ため（に）",
+        "meaning" : "Expresses purpose of action. It is attached to words expressing *intentional action* and the subject is the same before and after the　ため .",
+        "forms" : [
+            {
+            "form": "名の＋ため（に）",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "結婚式のために、じゅんびをしています。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "勉強のために、日本に留学します。",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "動「辞書形」＋ため（に）",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "出席するため、アメリカへ行きました。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "名の＋ための＋名",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "掃除のための道具。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "動「辞書形」＋ための＋名",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "これは漢字を練習するための本です。",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜ように。。。",
+        "meaning" : "Expresses one's *wish* that something should occur. It is added to verbs which do not include the intention of the speaker (non volitional verbs, verbs expressing possibility, and verbs for which the subject is the 3rd person.",
+        "forms" : [
+            {
+            "form": "動「辞書形・ない形」＋ように",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "よく聞こえるように、前のほうに座りましょう。",
+                    "notes:": "Expresses possibility."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "風が入るように、窓を開けてください。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "けがをしないように、きをつけてね。",
                     "notes:": ""
                 }
             ]
