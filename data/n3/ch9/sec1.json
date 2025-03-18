@@ -1,0 +1,157 @@
+{
+    "title_jpn" : "自然　（じぜん）",
+    "title_eng" : "Nature",
+    "words" :
+    [
+        {
+            "word": "豊か　な",
+            "meaning": "Abundant, rich (anyting, metaphorical)",
+            "furigana": "ゆたか　な",
+            "level": 3
+        },
+        {
+            "word": "豊富　な",
+            "meaning": "an abundance of things.",
+            "furigana": "ほうふ　な",
+            "level": 3
+        },
+        {
+            "word": "資源",
+            "meaning": "resource",
+            "furigana": "しげん",
+            "level": 3
+        },
+        {
+            "word": "種類",
+            "meaning": "type, kind",
+            "furigana": "しゅるい",
+            "level": 3
+        },
+        {
+            "word": "枯れる",
+            "meaning": "to wither",
+            "furigana": "かれる",
+            "level": 3
+        },
+        {
+            "word": "草",
+            "meaning": "grass",
+            "furigana": "くさ",
+            "level": 3
+        },
+        {
+            "word": "雑草",
+            "meaning": "weed",
+            "furigana": "ざっそう",
+            "level": 3
+        },
+        {
+            "word": "種",
+            "meaning": "seed",
+            "furigana": "たね",
+            "level": 3
+        },
+        {
+            "word": "浮かぶ",
+            "meaning": "to float",
+            "furigana": "うかぶ",
+            "level": 3
+        },
+        {
+            "word": "太陽",
+            "meaning": "sun",
+            "furigana": "たいよう",
+            "level": 3
+        },
+        {
+            "word": "表れる",
+            "meaning": "to appear",
+            "furigana": "あらわれる",
+            "level": 3
+        },
+        {
+            "word": "沈む",
+            "meaning": "to sink, go down",
+            "furigana": "しずむ",
+            "level": 3
+        },
+        {
+            "word": "薄暗い",
+            "meaning": "dim, gloomy",
+            "furigana": "うすぐらい",
+            "level": 3
+        },
+        {
+            "word": "穴",
+            "meaning": "hole",
+            "furigana": "あな",
+            "level": 3
+        },
+        {
+            "word": "ほる",
+            "meaning": "to dig",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "埋める",
+            "meaning": "to bury",
+            "furigana": "うめる",
+            "level": 3
+        },
+        {
+            "word": "土",
+            "meaning": "soil",
+            "furigana": "つち",
+            "level": 3
+        },
+        {
+            "word": "岩",
+            "meaning": "rock, boulder",
+            "furigana": "いわ",
+            "level": 3
+        },
+        {
+            "word": "火山",
+            "meaning": "volcano",
+            "furigana": "かざん",
+            "level": 3
+        },
+        {
+            "word": "想像　する",
+            "meaning": "imagining",
+            "furigana": "そうぞう　する",
+            "level": 3
+        },
+        {
+            "word": "見上げる",
+            "meaning": "to look up",
+            "furigana": "みあげる",
+            "level": 3
+        },
+        {
+            "word": "見下ろす",
+            "meaning": "to look down",
+            "furigana": "みおろす",
+            "level": 3
+        },
+        {
+            "word": "吠える",
+            "meaning": "to howl",
+            "furigana": "ほえる",
+            "level": 3
+        },
+        {
+            "word": "しっぽ",
+            "meaning": "tail",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "さびる",
+            "meaning": "to rust",
+            "furigana": "",
+            "level": 3
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "title_jpn" : "明日の天気",
+    "title_eng" : "Tomorrow's weather.",
+    "words" :
+    [
+        {
+            "word": "予想　する",
+            "meaning": "expectation, prediction",
+            "furigana": "よそう　する",
+            "level": 3
+        },
+        {
+            "word": "予報　する",
+            "meaning": "forecast",
+            "furigana": "よほう　する",
+            "level": 3
+        },
+        {
+            "word": "湿度",
+            "meaning": "level of humidity",
+            "furigana": "しつど",
+            "level": 3
+        },
+        {
+            "word": "湿気",
+            "meaning": "humidity, moisture",
+            "furigana": "しっけ",
+            "level": 3
+        },
+        {
+            "word": "曇る",
+            "meaning": "to be cloudy",
+            "furigana": "くもる",
+            "level": 3
+        },
+        {
+            "word": "嵐",
+            "meaning": "storm",
+            "furigana": "あらし",
+            "level": 3
+        },
+        {
+            "word": "強風",
+            "meaning": "strong wind",
+            "furigana": "きょうふう",
+            "level": 3
+        },
+        {
+            "word": "大雨",
+            "meaning": "heavy rain",
+            "furigana": "おおあめ",
+            "level": 3
+        },
+        {
+            "word": "折りたたみ傘",
+            "meaning": "folding umbrella",
+            "furigana": "おりたたみかさ",
+            "level": 3
+        },
+        {
+            "word": "（傘を）さす",
+            "meaning": "to open (an umbrella)",
+            "furigana": "（かさを）さす",
+            "level": 3
+        },
+        {
+            "word": "いわか雨",
+            "meaning": "rain shower",
+            "furigana": "いわかあめ",
+            "level": 3
+        },
+        {
+            "word": "いわかに",
+            "meaning": "happened so suddenly it could not have been predicted.",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "突然",
+            "meaning": "suddenly",
+            "furigana": "とつぜん",
+            "level": 3
+        },
+        {
+            "word": "とたん　に",
+            "meaning": "as soon as, in the moment that",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "濡れる",
+            "meaning": "to get wet",
+            "furigana": "ぬれる",
+            "level": 3
+        },
+        {
+            "word": "あっという間",
+            "meaning": "in the blink of an eye",
+            "furigana": "あっというま",
+            "level": 3
+        },
+        {
+            "word": "止む",
+            "meaning": "to stop (e.g. rain)",
+            "furigana": "やむ",
+            "level": 3
+        },
+        {
+            "word": "ところどころ",
+            "meaning": "here and there",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "積もる",
+            "meaning": "to pile up, to accumulate (e.g. snow)",
+            "furigana": "つもる",
+            "level": 3
+        },
+        {
+            "word": "快晴",
+            "meaning": "clear weather",
+            "furigana": "かいせい",
+            "level": 3
+        },
+        {
+            "word": "輝く",
+            "meaning": "to shine",
+            "furigana": "かがやく",
+            "level": 3
+        },
+        {
+            "word": "まぶしい",
+            "meaning": "blinding, overly bright",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "のち",
+            "meaning": "later",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "当たる",
+            "meaning": "to be right, to be correct",
+            "furigana": "あたる",
+            "level": 3
+        },
+        {
+            "word": "故郷",
+            "meaning": "hometown",
+            "furigana": "ふるさと",
+            "level": 3
+        },
+        {
+            "word": "やむを得ない",
+            "meaning": "can't be helped",
+            "furigana": "やむをえない",
+            "level": 3
+        }
+    ]
+}
