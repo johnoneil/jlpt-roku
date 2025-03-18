@@ -1,0 +1,103 @@
+{
+    "title_jpn" : "どう変わる？",
+    "title_eng" : "Change in what way?",
+    "words" :
+    [
+        {
+            "word": "状態",
+            "meaning": "condition, status",
+            "furigana": "じょうたい",
+            "level": 3
+        },
+        {
+            "word": "変化　する",
+            "meaning": "change",
+            "furigana": "へんか　する",
+            "level": 3
+        },
+        {
+            "word": "一定　する",
+            "meaning": "fixed, set",
+            "furigana": "いってい　する",
+            "level": 3
+        },
+        {
+            "word": "観察　する",
+            "meaning": "observing, watching",
+            "furigana": "かんさつ　する",
+            "level": 3
+        },
+        {
+            "word": "次第に",
+            "meaning": "gradually",
+            "furigana": "しだいに",
+            "level": 3
+        },
+        {
+            "word": "じょじょに",
+            "meaning": "gradually, steadily",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "だんだん　と",
+            "meaning": "gradually, by degrees",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ますます",
+            "meaning": "more and more, increasingely",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "すっかり",
+            "meaning": "completely, thoroughly",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "一気に",
+            "meaning": "all of a sudden",
+            "furigana": "いっきに",
+            "level": 3
+        },
+        {
+            "word": "一度に",
+            "meaning": "all at once",
+            "furigana": "いちどに",
+            "level": 3
+        },
+        {
+            "word": "いっぺんい",
+            "meaning": "all together, at one time",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "いつの間にか",
+            "meaning": "before one knows it",
+            "furigana": "いつのまにか",
+            "level": 3
+        },
+        {
+            "word": "温暖化",
+            "meaning": "warming, global warming",
+            "furigana": "おんだんか",
+            "level": 3
+        },
+        {
+            "word": "影響　する",
+            "meaning": "influence",
+            "furigana": "えいきょう　する",
+            "level": 3
+        },
+        {
+            "word": "変　な",
+            "meaning": "strange",
+            "furigana": "へん　な",
+            "level": 3
+        }
+    ]
+}

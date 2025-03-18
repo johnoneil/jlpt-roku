@@ -1,0 +1,115 @@
+{
+    "title_jpn" : "日本の１年",
+    "title_eng" : "A year in Japan",
+    "words" :
+    [
+        {
+            "word": "祝日",
+            "meaning": "holiday",
+            "furigana": "しゅくじつ",
+            "level": 3
+        },
+        {
+            "word": "年末年次",
+            "meaning": "New Year's holiday",
+            "furigana": "ねんまつねんし",
+            "level": 3
+        },
+        {
+            "word": "元日",
+            "meaning": "New Year's day",
+            "furigana": "ガンじつ",
+            "level": 3
+        },
+        {
+            "word": "迎える",
+            "meaning": "to receive, to welcome",
+            "furigana": "むかえる",
+            "level": 3
+        },
+        {
+            "word": "年賀状",
+            "meaning": "New year's card",
+            "furigana": "ねんがじょう",
+            "level": 3
+        },
+        {
+            "word": "お年玉",
+            "meaning": "New year's gift (usually given to young children)",
+            "furigana": "おとしだま",
+            "level": 3
+        },
+        {
+            "word": "成人の日",
+            "meaning": "Coming-of-age day (2nd Monday of January)",
+            "furigana": "せいじんのひ",
+            "level": 3
+        },
+        {
+            "word": "ひな祭り",
+            "meaning": "Girl's festival (March 3rd)",
+            "furigana": "ひなまつり",
+            "level": 3
+        },
+        {
+            "word": "ゴールデンウイーク",
+            "meaning": "Golden week",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "子供の日",
+            "meaning": "Children's day.  May 5th",
+            "furigana": "こどものひ",
+            "level": 3
+        },
+        {
+            "word": "母の日",
+            "meaning": "Mother's day. 2nd Sunday of May",
+            "furigana": "ははのひ",
+            "level": 3
+        },
+        {
+            "word": "父の日",
+            "meaning": "Father's day. 3rd Sunday of June",
+            "furigana": "ちちのひ",
+            "level": 3
+        },
+        {
+            "word": "海の日",
+            "meaning": "Marine day. 3rd Monday of July.",
+            "furigana": "うみのひ",
+            "level": 3
+        },
+        {
+            "word": "敬老の日",
+            "meaning": "Respect-for-the-aged Day. 3rd Monday of September.",
+            "furigana": "けいろうのひ",
+            "level": 3
+        },
+        {
+            "word": "体育の日",
+            "meaning": "Sports Day. 2nd Monday of October.",
+            "furigana": "たいいくのひ",
+            "level": 3
+        },
+        {
+            "word": "もともと",
+            "meaning": "originally",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "七五三",
+            "meaning": "Celebration of children's 3rd, 5th, and 7th birthdays. November 15th.",
+            "furigana": "しちごさん",
+            "level": 3
+        },
+        {
+            "word": "大みそか",
+            "meaning": "New year's eve.",
+            "furigana": "おおみそか",
+            "level": 3
+        }
+    ]
+}

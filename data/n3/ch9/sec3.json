@@ -1,0 +1,109 @@
+{
+    "title_jpn" : "暑いひと寒い日",
+    "title_eng" : "Hot days and cold days.",
+    "words" :
+    [
+        {
+            "word": "蒸し暑い",
+            "meaning": "humid",
+            "furigana": "むしあつい",
+            "level": 3
+        },
+        {
+            "word": "温度計",
+            "meaning": "thermometer",
+            "furigana": "おんどけい",
+            "level": 3
+        },
+        {
+            "word": "プラス",
+            "meaning": "plus, higher",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "マイナス",
+            "meaning": "minus, lower",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "凍る",
+            "meaning": "to freeze",
+            "furigana": "こおる",
+            "level": 3
+        },
+        {
+            "word": "氷",
+            "meaning": "ice",
+            "furigana": "こおり",
+            "level": 3
+        },
+        {
+            "word": "冷える",
+            "meaning": "to chill",
+            "furigana": "ひえる",
+            "level": 3
+        },
+        {
+            "word": "結構",
+            "meaning": "pretty, quite, considerably",
+            "furigana": "けっこう",
+            "level": 3
+        },
+        {
+            "word": "非常　な",
+            "meaning": "severly, extremely",
+            "furigana": "ひじょう　な",
+            "level": 3
+        },
+        {
+            "word": "夏日",
+            "meaning": "summer day",
+            "furigana": "なつび",
+            "level": 3
+        },
+        {
+            "word": "真夏日",
+            "meaning": "tropical day",
+            "furigana": "まなつび",
+            "level": 3
+        },
+        {
+            "word": "猛暑日",
+            "meaning": "extremely hot day",
+            "furigana": "もうしょび",
+            "level": 3
+        },
+        {
+            "word": "冬び",
+            "meaning": "chilly day",
+            "furigana": "ふゆび",
+            "level": 3
+        },
+        {
+            "word": "真冬日",
+            "meaning": "ice day",
+            "furigana": "まふゆび",
+            "level": 3
+        },
+        {
+            "word": "暖冬",
+            "meaning": "warm winter",
+            "furigana": "だんとう",
+            "level": 3
+        },
+        {
+            "word": "冷夏",
+            "meaning": "cold summer",
+            "furigana": "れいか",
+            "level": 3
+        },
+        {
+            "word": "せっかく",
+            "meaning": "at long last, with considerably effort, at great pains",
+            "furigana": "",
+            "level": 3
+        }
+    ]
+}
