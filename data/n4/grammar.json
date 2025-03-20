@@ -1328,6 +1328,475 @@
         ]
     },
     {
+        "name" : "〜ても・〜でも。。。",
+        "meaning" : "\"Even\". ...does not happen or arise as would be expected.",
+        "forms" : [
+            {
+            "form": "動「て形」",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "明日、雪が降っても、休みじゃない。",
+                    "notes:": "Case where the expected clause is merely a assumption."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "何回読んでも、意味がわかりません。",
+                    "notes:": "Sometimes used with the interrogative (何回), or もし、どんなに、いくら."
+                }
+            ]
+            },
+            {
+                "form": "イ形「〜い〜」くて＋も",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "暑くても、スーツを着ています。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "ナ形「〜な〜」で＋も",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "安全でもしたくない。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "名で＋も",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "初めて作る人でもできます。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "動「〜ない〜」＋なくても",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "明日、雪が降らなくても、休みです。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "イ形「〜い〜」く＋なくても",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "美味しなくても、食べます。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "ナ形「〜な〜」で＋なくても",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "安全でなくても、したい。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "名で＋なくても",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "いい人でなくても、信じます。",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜のに。。。",
+        "meaning" : "\"Although\". ... happens or arises despite what would be expected in light of ~. Cannot be followed by statements expressing intention of the speaker or of inducement.",
+        "forms" : [
+            {
+            "form": "普通形(ナ形「〜だ〜」な・名「〜だ〜」な）＋のに",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "宿題をやったのに、持って来ませんでした。",
+                    "notes:": "Used to express the speaker's feelings of surprise, dissatisfaction, reproach or regret."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "雨が降っていないのに、あの人はかさをさしています。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "まだ新しいのに、もう壊れました。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "彼女がきれいなのに、彼氏がいません。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "A:雨が降っているよ。B:運動会なのに",
+                    "notes:": "Can also be found at the end of a sentence as shown, indicating disappointment."
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜と。。。",
+        "meaning" : "Quoted speech. Used before proper nouns and quoted speech, and to express thoughts.",
+        "forms" : [
+            {
+            "form": "名前・普通形・「言うこと・言ったこと」と",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "初めて会った人には「初めまして」と言います。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "日本語で何と言いますか。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "好きな季節は春だと答えました。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "とても良かったと思います。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "母は帰らないと思っています。",
+                    "notes:": "When the subject is the 3rd person, と思っています is used."
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜か。。。・〜かどうか。。。",
+        "meaning" : "\"Whether (or not)\". Used when the question is embedded in a sentence.",
+        "forms" : [
+            {
+            "form": "疑問詞（何・いつ・誰・どこ）＋か",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "彼の誕生日はいつか知っていますか。",
+                    "notes:": "When an interrogative is included in the question, か is used."
+                }
+            ]
+            },
+            {
+                "form": "疑問詞（何・いつ・誰・どこ）＋普通形（ナ形「〜な〜」・名「〜だ〜」）＋か",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "誰が来るか教えてください。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "普通形（ナ形「〜な〜」・名「〜だ〜」）＋かどうか",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "文法が正しかどうかチェックしてください。",
+                        "notes:": "When an interrogative is not included in the question, かどうか is used."
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "行けるかどうかまだわかりません。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "必要かどうか知っていますか。",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜（よ）うと思います",
+        "meaning" : "\"Planning to\". Expresses intent.",
+        "forms" : [
+            {
+            "form": "動「う・よう形」＋と思います。",
+            "examples:" : [
+                {
+                    "prompt" : "いい天気だから、出かけようと思います。",
+                    "example" : "",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "安いだから、買おうと思っています。",
+                    "example" : "",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "来年ヨーロッパを旅行しょうと思っている。",
+                    "example" : "",
+                    "notes:": "If the subject is the 1st person, is 思っています used where the the intent dates back some time.."
+                },
+                {
+                    "prompt" : "一人でカラオケに行こうと思いません。",
+                    "example" : "",
+                    "notes:": "Negative implies strong denial or rejection."
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜つもりです",
+        "meaning" : "\"Intend to\". Used to express intent slightly more strongly than 〜ようと思っています.　It is not used when decision is made, but when a pervious intention is affirmed.",
+        "forms" : [
+            {
+            "form": "動「辞書形・ない形」＋つもりです",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "国へ帰るつもりです。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "何も買わないつもりです。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "妹はこの服を着ていくつもりらしいです。",
+                    "notes:": "If the subject is the 3rd person, 〜そうです、〜らしいです、〜と言っていました、etc. are added."
+                }
+            ]
+            },
+            {
+                "form": "動「辞書形」＋つもりはありません",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "私の意見を変えるつもりはありません。",
+                        "notes:": "A stronger form of negation than above."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜と言っていました",
+        "meaning" : "\"Said that...\". Restateor pass on something previously said by someone else.",
+        "forms" : [
+            {
+            "form": "普通形＋と言っていました",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "トムさん休むと言っていました。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "何と言っていましたか。",
+                    "notes:": "Interrogative uses 何と."
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜そうです",
+        "meaning" : "\"Heard that...\". Restate or pass on information you have heard or read.",
+        "forms" : [
+            {
+            "form": "普通形＋そうです",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "天気予報によると、明日は寒いそうです。",
+                    "notes:": "Often used with 〜によると、〜では etc."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "先輩の話で、この試験はあまり難しくないそうです。",
+                    "notes:": ""
+                }
+                {
+                    "prompt" : "",
+                    "example" : "新聞で帆見ましたが、駅前で火事が会ったそうですね。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜らしいです",
+        "meaning" : "\"Seems that...\". Used when the source and details are less clear than with 〜そうです.",
+        "forms" : [
+            {
+            "form": "普通形(ナ形「〜だ〜」・名「〜だ〜」）＋らしいです",
+            "examples:" : [
+                {
+                    "prompt" : "噂によると、あのホテルはあまりよくないらしいです。",
+                    "example" : "",
+                    "notes:": "Pass on to another person information obtained from someone else."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "事故が、あったらしいです。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "この店は有名らしいね。よく名前を聞くよ。",
+                    "notes:": "Pass on information based on your own judgement of a situation."
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜くします・〜にします",
+        "meaning" : "\"Make a change\". Indicates deliberate action to make change.",
+        "forms" : [
+            {
+            "form": "イ形「〜い〜」く＋します",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "音を大きくしました",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "ズボンを少し短くしてください。",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "ナ形「〜な〜」に・名「〜だ〜」に＋します",
+                "examples:" : [
+                    {
+                        "prompt" : "部屋をきれいにしましょう。",
+                        "example" : "",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "ご飯の量を半分にしてください。",
+                        "example" : "",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜くなります・〜になります・〜ようになります",
+        "meaning" : "\"Becoming...\" Describe change. May happen natually or may not be deliberate.",
+        "forms" : [
+            {
+            "form": "イ形「〜い〜」く・ナ形「〜ナ〜」に＋なります",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "犬は大きくなります。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "都会はもっときれいになります。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "最近、この店ではお客さんの数が半分になりました。",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "動「辞書形」ように＋なります",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "日本語が上手に話せるようになりたいです。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "家の庭に鳥が来るようになりました。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "動「〜ない〜」なく＋なります",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "この頃、前ほど本を読まなくなった。",
+                        "notes:": ""
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "name" : "",
+        "meaning" : "",
+        "forms" : [
+            {
+            "form": "",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "",
+        "meaning" : "",
+        "forms" : [
+            {
+            "form": "",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
         "name" : "",
         "meaning" : "",
         "forms" : [
