@@ -1765,16 +1765,336 @@
         ]
     },
     {
-        "name" : "",
-        "meaning" : "",
+        "name" : "〜にします・〜ことにします",
+        "meaning" : "\"Decide to\". Descision in some matter, based on *personal volition*. Implies a positive attitude, without reluctance.",
         "forms" : [
             {
-            "form": "",
+            "form": "名＋にします",
             "examples:" : [
                 {
                     "prompt" : "",
+                    "example" : "ばんご飯はカレーにします。",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "動「辞書形・ない形」＋ことにします",
+                "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "タバコをやめることにします。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "夏休みは国へ帰らないことにしました。",
+                    "notes:": ""
+                }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜になります・〜ことになります",
+        "meaning" : "\"Come to pass\". Express someone's decision on some matter, regardless of the speakers' personal volition.",
+        "forms" : [
+            {
+            "form": "名＋になります",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "チームの名前は「さむらい」になりました",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "動「辞書形・ない形」＋ことになります",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "駅前に高いビルがたつことになりました。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "雨で試合はしないことになりました。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "来年結婚することになりました。",
+                        "notes:": "Here used when it is based on a personal decision or volition, but the speaker doesn't want to state this directly."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜てみます",
+        "meaning" : "\"Try\". Try something out to see if it is appropriate, or expressing inclination to know more.",
+        "forms" : [
+            {
+            "form": "動「て形」＋みます",
+            "examples:" : [
+                {
+                    "prompt" : "靴をはいてみます。",
                     "example" : "",
                     "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "京都へ行ってみたい。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "この料理を食べてみてください。",
+                    "notes:": "Also used to make mild recommendations."
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜て置きます",
+        "meaning" : "\"Before\" \"Keep\". Suggests an action is taken pre-emptively to avoid possible future trouble.",
+        "forms" : [
+            {
+            "form": "動「て形」＋置きます",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "旅行の前に、服をかばんに入れて置きます。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "ごみを外に出して置きましょう。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "窓はそのまま開けて置いてください",
+                    "notes:": "Also used to indicate an action should continue."
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜てしまいます",
+        "meaning" : "\"Completely\" \"Unfortunately\". Expresses rapid or early completion of an action.",
+        "forms" : [
+            {
+            "form": "動「て形」＋しまいます",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "レポートは明日出してしまいます。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "今日買った本はもう読んでしまって。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "あの人の名前を忘れてしまいますよ。",
+                    "notes:": "Also expresses regret at an error that can't easily be undone."
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "あげます・〜てあげます",
+        "meaning" : "\"(I) Give/Do for ...\". Subject is the speaker or someone close to the speaker. Recipient of action is someone other than the speaker.",
+        "forms" : [
+            {
+            "form": "名を＋あげます・差し上げます",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "サラさんに花をあげました。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "先生にカップを差し上げました。",
+                    "notes:": "When recipient of action is higher status, 差し上げます is used."
+                }
+            ]
+            },
+            {
+                "form": "動「て形」＋あげます・差し上げます",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "地図を書いてあげるよ。",
+                        "notes:": ""
+                    }
+                ]
+                }
+        ]
+    },
+    {
+        "name" : "くれます・〜てくれます",
+        "meaning" : "\"They give/do ... (for me)\". Subject is other than the speaker. Person recieving the action is the speaker or someone close to the speaker.",
+        "forms" : [
+            {
+            "form": "名を＋くれます・くださいます",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "山田さんは私に時計をくれました。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "先生が妹に本をくださいました。",
+                    "notes:": "When the giver is higher status, くださいます is used."
+                }
+            ]
+            },
+            {
+                "form": "動「て形」＋くれます・くださいます",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "（私に）友達が店の場所を教えてくれました。",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "もらいます・〜てもらいます",
+        "meaning" : "\"(I) receive ... from them\". The subject is the speaker or someone close to the speaker, and they are recieving a item or action.",
+        "forms" : [
+            {
+            "form": "名を＋もらいます・いただきます",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "山田さんに時計をもらいました",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "山田さんから時計をもらいました",
+                    "notes:": "に or から can be used to indicate the giver interchangeaboly."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "妹は先生に本をいただきました。",
+                    "notes:": "When the giver is higher status, いただきます is used."
+                }
+            ]
+            },
+            {
+                "form": "動「て形」＋もらいます・いただきます",
+                "examples:" : [
+                    {
+                        "prompt" : "",
+                        "example" : "サラさんに一緒に病院へ行ってもらった。",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜（ら）れます",
+        "meaning" : "Passive voice.",
+        "forms" : [
+            {
+            "form": "動「受身の形」",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "先生に褒められました",
+                    "notes:": "If the subject is 私, it can usually be omitted."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "女の人に道を聞かれました。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "（私は）電車の中であしを踏まれました。",
+                    "notes:": "The passive can frequently convey a feeling of annoyance."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "弟にケーキを食べられてしまいました。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "うちの前にごみを捨てられて、困っています。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "来年、夏のオリンピックが開かれます。",
+                    "notes:": "The passive may be used for simple statements of fact. Used only with facts, without reference to the emotions of the speaker."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "本は世界中で読まれている。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜（さ）せます",
+        "meaning" : "\"Made to...\". Causitive.",
+        "forms" : [
+            {
+            "form": "動「使役の形」",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "弟に部屋の掃除をさせました。",
+                    "notes:": "The particle に indicating agent of action is for intransitive verbs."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "けんは犬を自由に遊ばせます。",
+                    "notes:": "Causitive can be used to express giving permission or doing a favor."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "嘘をついて、父を怒らせてしまいました。",
+                    "notes:": "Causitive frequently evokes emotions. Particle is を used for transitive verbs."
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜（せら）れます",
+        "meaning" : "\"Forced to...\". Causitive Passive.",
+        "forms" : [
+            {
+            "form": "動「使役受身の形」",
+            "examples:" : [
+                {
+                    "prompt" : "",
+                    "example" : "兄に部屋の掃除をさせられました。",
+                    "notes:": "The subject is being reluctantly forced to do an action."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "子供が遅くまで帰って来なくて、心配させられました。",
+                    "notes:": "The causitive-passive frequently conveys emotion."
                 }
             ]
             }
