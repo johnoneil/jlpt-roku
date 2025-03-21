@@ -434,7 +434,7 @@
                 {
                     "prompt" : "",
                     "example" : "飲まなくてもいいです。",
-                    "notes:": ""
+                    "notes:": "**Important** Usually the negative of 飲んで is 飲まないで (the verbal form). But here we use the adjectival form 飲まなくて. This is less commonly used than the verbal."
                 }
             ]
             },
@@ -839,6 +839,11 @@
                     "prompt" : "",
                     "example" : "たくさん仕事があって、大変でした",
                     "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "電車が来なくて,遅刻しました",
+                    "notes:": "**Important** Usually the negative of 来て is 来ないで (the verbal form). But here we use the adjectival form 来なくて. This is less commonly used than the verbal."
                 },
                 {
                     "prompt" : "",
@@ -1640,7 +1645,7 @@
                     "prompt" : "",
                     "example" : "先輩の話で、この試験はあまり難しくないそうです。",
                     "notes:": ""
-                }
+                },
                 {
                     "prompt" : "",
                     "example" : "新聞で帆見ましたが、駅前で火事が会ったそうですね。",
