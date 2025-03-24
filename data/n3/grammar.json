@@ -8,7 +8,7 @@
             "examples" : [
                 {
                     "prompt" : "",
-                    "example" : "",
+                    "example" : "独身のうちに、たくさん遊んでおきたい。",
                     "notes:": ""
                 }
             ]
@@ -24,6 +24,16 @@
                     {
                         "prompt" : "",
                         "example" : "アイスクリームが溶けないうちに早く食べてください。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "忘すれないうちに、メモをしておこう。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "雨が降らないうちに、帰りましょう。",
                         "notes:": ""
                     }
                 ]
@@ -43,7 +53,7 @@
                 "examples" : [
                     {
                         "prompt" : "",
-                        "example" : "",
+                        "example" : "桜がきれいなうちにお花見に行きましょう。",
                         "notes:": ""
                     }
                 ]
@@ -52,7 +62,7 @@
     },
     {
         "name" : "〜うちに",
-        "meaning" : "'while (continous process or action)'. While ~ is happening, ... also happens. Refers to a change that happens without the volition of the speaker.",
+        "meaning" : "'while (continuous process or action)'. While ~ is happening, ... also happens. Refers to a change that happens without the volition of the speaker.",
         "forms" : [
             {
                 "form": "動「辞書形・ている・ない形」＋うちに",
@@ -125,6 +135,111 @@
                         "notes:": ""
                     }
                 ]
+            }
+        ]
+    },
+    {
+        "name" : "〜てから出ないと。。。・〜てからでなければ。。。",
+        "meaning" : "'Unless' or 'Until'. Until ~ happens, ... cannot happen or be done. Used in negating or negative statements.",
+        "forms" : [
+            {
+            "form": "動「て形」＋からでないと・からでなければ",
+            "examples" : [
+                {
+                    "prompt" : "",
+                    "example" : "家族と相談してからでないと、買うかどうか決めれません。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "運転免許をとってからでなければ車を運転してはいけない。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "病気が治ってからでなければ激しい運動は無理だ。",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "〜ところだ・〜ところ（＋助詞）",
+        "meaning" : "'When', 'While' or 'just as'. Indicates a point in time, see details below..",
+        "forms" : [
+            {
+            "form": "動「辞書形・ている・た形」＋ところだ・ところ（＋助詞",
+            "examples" : [
+                {
+                    "prompt" : "",
+                    "example" : "ロケットは飛び立つところです。",
+                    "notes:": "Dictionary form denotes time just before an action starts."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "試験中、隣の人の答えを見ているところを先生に注意された。",
+                    "notes:": "Continuing form denotes time while the action is underway."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "楽しみにしていたテレビドラマが始まったところで電話がなった。",
+                    "notes:": "Past form denotes time just after the action has started."
+                },
+                {
+                    "prompt" : "",
+                    "example" : "ケーキが出来上がったところへ子供達が帰ってきた。",
+                    "notes:": "Past form denotes time just after the action has started."
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "",
+        "meaning" : "",
+        "forms" : [
+            {
+            "form": "",
+            "examples" : [
+                {
+                    "prompt" : "",
+                    "example" : "",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "",
+        "meaning" : "",
+        "forms" : [
+            {
+            "form": "",
+            "examples" : [
+                {
+                    "prompt" : "",
+                    "example" : "",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    },
+    {
+        "name" : "",
+        "meaning" : "",
+        "forms" : [
+            {
+            "form": "",
+            "examples" : [
+                {
+                    "prompt" : "",
+                    "example" : "",
+                    "notes:": ""
+                }
+            ]
             }
         ]
     },
