@@ -4,6 +4,7 @@ import json
 import os
 from text2image import text_to_image
 
+# get a vocabulary list from json data
 def get_word_list(infile):
     data = json.load(infile)
     if type(data) == list:
@@ -13,7 +14,13 @@ def get_word_list(infile):
         # json should have the word list tagged as a 'words' member
         return data["words"]
 
-def generate_brs(input_files, output_file):
+# get a list of example phrases from grammar json
+def get_phrase_list(infile):
+    print(f"getting phrase list from file {infile}")
+    data = json.load(infile)
+    return data
+
+def generate_vocabulary_brs(input_files, output_file):
 
     word_number = 1
 
@@ -46,6 +53,78 @@ def generate_brs(input_files, output_file):
                     word_number += 1
                 
                 json.dump(word_list, outfile, ensure_ascii=False, indent=4)
+            outfile.write(f"\nreturn d\n")
+            outfile.write("end function\n")
+
+# grammar is stored in JSON in a form like:
+# [
+#     {
+#         "name" : "〜より",
+#         "meaning" : "\"Than\". Used to express the extent of something forming a topic, by comparison with something else.",
+#         "forms" : [
+#             {
+#             "form": "名＋より",
+#             "examples:" : [
+#                 {
+#                     "prompt" : "アパート　便利",
+#                     "example" : "このアパートは前のアパートより便利です",
+#                     "notes:": ""
+#                 }
+#             ]
+#             },
+#
+# Ultimately we want to iterate through all examples for all forms for all phrases (structures).
+   
+def generate_grammar_brs(input_files, output_file):
+    phrase_id = 1
+    form_id = 1
+    example_id = 1
+    with open(output_file, 'w', encoding="utf-8") as outfile:
+        for level, input_file in input_files.items():
+            outfile.write(f"function {level}_database() as Object\n")
+            outfile.write(f"d = ")
+            with open(input_file, 'r') as infile:
+                phrase_list = get_phrase_list(infile)
+                for phrase in phrase_list:
+                    phrase["phrase_id"] = phrase_id
+
+                    # generate an image of the phrase (grammatical structure)
+                    dir = f"images/{level}/phrases"
+                    os.makedirs(f"roku-app/{dir}", exist_ok=True)
+                    phrase_image_path = f"{dir}/{phrase_id}.png"
+                    phrase["image_path"] = f"pkg:/{phrase_image_path}"
+                    (image_width, image_height) = text_to_image(phrase["name"], output_path=f"roku-app/{phrase_image_path}")
+                    phrase["image_width"] = image_width
+                    phrase["image_height"] = image_height
+
+                    for form in phrase["forms"]:
+                        form["form_id"] = form_id
+                        
+                        # generate an image of the grammatical form
+                        dir = f"images/{level}/forms"
+                        os.makedirs(f"roku-app/{dir}", exist_ok=True)
+                        form_image_path = f"{dir}/{form_id}.png"
+                        form["image_path"] = f"pkg:/{form_image_path}"
+                        (image_width, image_height) = text_to_image(form["form"], output_path=f"roku-app/{form_image_path}")
+                        form["image_width"] = image_width
+                        form["image_height"] = image_height
+
+                        for example in form["examples"]:
+                            example["example_id"] = example_id
+
+                            # also generate an image of every word
+                            dir = f"images/{level}/examples"
+                            os.makedirs(f"roku-app/{dir}", exist_ok=True)
+                            example_image_path = f"{dir}/{example_id}.png"
+                            example["image_path"] = f"pkg:/{example_image_path}"
+                            (image_width, image_height) = text_to_image(example["example"], output_path=f"roku-app/{example_image_path}")
+                            example["image_width"] = image_width
+                            example["image_height"] = image_height
+                            example_id += 1
+                        form_id += 1
+                    phrase_id += 1
+                
+                json.dump(phrase_list, outfile, ensure_ascii=False, indent=4)
             outfile.write(f"\nreturn d\n")
             outfile.write("end function\n")
 
@@ -94,6 +173,12 @@ input_files = {
     "N4Vocabulary" : "data/n4/vocabulary.json",
 }
 output_file = 'roku-app/source/Vocabulary.brs'
+generate_vocabulary_brs(input_files, output_file)
 
-generate_brs(input_files, output_file)
+input_files = {
+    "N4Grammar" : "data/n4/grammar.json",
+}
+output_file = 'roku-app/source/Grammar.brs'
+# not yet enabled.
+#generate_grammar_brs(input_files, output_file)
 
