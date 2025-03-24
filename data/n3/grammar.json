@@ -1,0 +1,147 @@
+[
+    {
+        "name" : "〜うちに...",
+        "meaning" : "'while'. Do ... before ~ changes.",
+        "forms" : [
+            {
+            "form": "名の＋うちに",
+            "examples" : [
+                {
+                    "prompt" : "",
+                    "example" : "",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "動「辞書形・ている・ない形」＋うちに",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "日本にいるうちに富士山に登ってみたい",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "アイスクリームが溶けないうちに早く食べてください。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "イ形「い」＋うちに",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "明るいうちに庭おの掃除をしてしまおう。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "ナ形「な」＋うちに",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜うちに",
+        "meaning" : "'while (continous process or action)'. While ~ is happening, ... also happens. Refers to a change that happens without the volition of the speaker.",
+        "forms" : [
+            {
+                "form": "動「辞書形・ている・ない形」＋うちに",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "音楽を聞いているうちに眠ってしまった。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "少し難しい曲でも、練習を重ねるうちに弾けるようになりますよ。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "気が付かないうちに外は暗くなっていた。",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "~間。。。",
+        "meaning" : "'While' or 'during'. ~ is a continuous state, and ... occurs throughout the same time period.",
+        "forms" : [
+            {
+            "form": "名の＋間",
+            "examples" : [
+                {
+                    "prompt" : "",
+                    "example" : "私が旅行で留守の間、うちの犬の世話を願いできないでしょうか。",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "動「辞書形・ている・ない形」＋間",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "お母さんが昼寝をしている間、子供達はテレビを見ていた。",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜間に。。。",
+        "meaning" : "'while' or 'during'. ~ is a continuous state, and ... is an *momentary action or change* that happens during that state.",
+        "forms" : [
+            {
+            "form": "名の＋間に",
+            "examples" : [
+                {
+                    "prompt" : "",
+                    "example" : "私が旅行で留守の間に、庭に草がたくさん生えてしまった。",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "動「辞書形・ている・ない形」＋間に",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "お母さんが昼寝をしている間に、子供達は遊びに出かけた。",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "",
+        "meaning" : "",
+        "forms" : [
+            {
+            "form": "",
+            "examples" : [
+                {
+                    "prompt" : "",
+                    "example" : "",
+                    "notes:": ""
+                }
+            ]
+            }
+        ]
+    }
+]

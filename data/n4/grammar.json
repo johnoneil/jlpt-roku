@@ -19,7 +19,7 @@
                     {
                         "prompt" : "何　音楽",
                         "example" : "私は何より音楽が好きです",
-                        "notes:": "The superlative is expressed though the use of interogetive word ＋より."
+                        "notes:": "The superlative is expressed though the use of interrogative word ＋より."
                     }
                 ]
             }
@@ -75,7 +75,7 @@
     },
     {
         "name" : "〜ながら。。。",
-        "meaning" : "used when main action or behavior (...) is accompanied by a separate, simultaneous ancillary action or behavior (~). It is adde to a verb expressing a continuous action or behavior.",
+        "meaning" : "used when main action or behavior (...) is accompanied by a separate, simultaneous ancillary action or behavior (~). It is added to a verb expressing a continuous action or behavior.",
         "forms" : [
             {
             "form": "動「~ます~」＋ながら",
@@ -135,7 +135,7 @@
                 {
                     "prompt" : "",
                     "example" : "飛行機の出発時間までここで待っています。",
-                    "notes:": "A phrase expressing a continous action, behavior or state follows 〜まで."
+                    "notes:": "A phrase expressing a continuous action, behavior or state follows 〜まで."
                 }
             ]
             },
@@ -153,7 +153,7 @@
     },
     {
         "name" : "〜までに。。。",
-        "meaning" : "'By'. Expresses time limitaiton.",
+        "meaning" : "'By'. Expresses time limitation.",
         "forms" : [
             {
             "form": "名＋までに",
@@ -179,7 +179,7 @@
     },
     {
         "name" : "〜ませんか",
-        "meaning" : "Used when making a proposal or invitaiton. Can be used for joint activities by speakers and also when only the other person is involved.",
+        "meaning" : "Used when making a proposal or invitation. Can be used for joint activities by speakers and also when only the other person is involved.",
         "forms" : [
             {
             "form": "動「~ます~」＋ませんか",
@@ -266,7 +266,7 @@
         ]
     },    {
         "name" : "が見えます・が聞こえます",
-        "meaning" : "Expresses natural ability to see or hear someting. *Not* situational.",
+        "meaning" : "Expresses natural ability to see or hear something. *Not* situational.",
         "forms" : [
             {
             "form": "名＋が見えます",
@@ -308,7 +308,7 @@
     },
     {
         "name" : "〜ことがあります",
-        "meaning" : "Used when you withto say something unusual may happen. Not used with things that happen very frequently.",
+        "meaning" : "Used to describe something unusual that may happen. Not used with things that happen very frequently.",
         "forms" : [
             {
             "form": "動「辞書形」＋ことがあります",
@@ -598,7 +598,7 @@
     },
     {
         "name" : "〜といいです",
-        "meaning" : "Expresses a situation hoped for by the speaker. Uses verbs that do not indicate the intentions of the speaker (non volitional verbs, verbs expressing potentiality nand verbs for which the 3rd person is the subject).",
+        "meaning" : "Expresses a situation hoped for by the speaker. Uses verbs that do not indicate the intentions of the speaker (non volitional verbs, verbs expressing potentiality and verbs for which the 3rd person is the subject).",
         "forms" : [
             {
             "form": "普通形（「ーた・ーなかった」は使わない）＋といいです",
@@ -624,7 +624,7 @@
     },
     {
         "name" : "〜そうです",
-        "meaning" : "Used to express the sense that something will occur based on outside appearance or circumstances, as well as to make inferences based on state or quality. Judgements. Presentiments.",
+        "meaning" : "Used to express the sense that something will occur based on outside appearance or circumstances, as well as to make inferences based on state or quality. Judgments. Presentiments.",
         "forms" : [
             {
             "form": "動「~ます~」＋そうです・そうもありません",
@@ -772,7 +772,7 @@
     },
     {
         "name" : "〜から・〜からです",
-        "meaning" : "Used to epxplain cause, reason or grounds, somewhat emphatically.",
+        "meaning" : "Used to explain cause, reason or grounds, somewhat emphatically.",
         "forms" : [
             {
             "form": "普通形・丁寧形＋から",
@@ -830,7 +830,7 @@
     },
     {
         "name" : "〜て。。。・〜くて。。。・〜で。。。",
-        "meaning" : "used to express cause and reason. It often expresses cause and reason for *emotions and perceptions*, more so than 〜から、〜ので. In addition to words expressing mood, such as , it is often followd by temrs expressing impossibility and polite everyday formulas such as　すみません、ありがとう. It cannot be followed by statements of hope, intention or inducement on the part of the speaker.",
+        "meaning" : "used to express cause and reason. It often expresses cause and reason for *emotions and perceptions*, more so than 〜から、〜ので. In addition to words expressing mood, such as , it is often followed by terms expressing impossibility and polite everyday formulas such as　すみません、ありがとう. It cannot be followed by statements of hope, intention or inducement on the part of the speaker.",
         "forms" : [
             {
             "form": "動て形",
@@ -1017,7 +1017,7 @@
                 {
                     "prompt" : "",
                     "example" : "頭が痛いし。。。",
-                    "notes:": "If is used only once, there is the implicaiton there are additional unspoken reasons."
+                    "notes:": "If is used only once, there is the implication there are additional unspoken reasons."
                 },
                 {
                     "prompt" : "",
@@ -1048,7 +1048,7 @@
                 {
                     "prompt" : "",
                     "example" : "今日は雨が降ったり止んだりしていました。",
-                    "notes:": "When verbs with opposite meaning are used, it expresses the repated nature of both actions/behaviors."
+                    "notes:": "When verbs with opposite meaning are used, it expresses the repeated nature of both actions/behaviors."
                 }
             ]
             }
@@ -1166,7 +1166,7 @@
     },
     {
         "name" : "〜なさい",
-        "meaning" : "Use by teachers giving instructions and parents to children. Also used in instructoins in examinations.",
+        "meaning" : "Use by teachers giving instructions and parents to children. Also used in instructions in examinations.",
         "forms" : [
             {
             "form": "動「~ます~」＋なさい",
@@ -1224,7 +1224,7 @@
     },
     {
         "name" : "〜たら。。。",
-        "meaning" : "'If'. When ~ is assumed ... will result. Concrete one time specific results, emphasises the *consequences*.",
+        "meaning" : "'If'. When ~ is assumed ... will result. Concrete one time specific results, emphasizes the *consequences*.",
         "forms" : [
             {
             "form": "普通形（「ーた・ーなかった」だけ）＋ら",
@@ -1245,7 +1245,7 @@
     },
     {
         "name" : "〜ば。。。・〜なら。。。",
-        "meaning" : "'Hypothetically if'. When condition ~ is met, ... will arise or result. Emphasises the *condition*. Sometimes used together with もし。Cannot be followed by statements expressing intention of the speaker or of inducement.",
+        "meaning" : "'Hypothetically if'. When condition ~ is met, ... will arise or result. Emphasizes the *condition*. Sometimes used together with もし。Cannot be followed by statements expressing intention of the speaker or of inducement.",
         "forms" : [
             {
             "form": "「〜ば・〜ならの形」",
@@ -1271,7 +1271,7 @@
     },
     {
         "name" : "〜と。。。",
-        "meaning" : "'The natrual consequence'. When ~ arises or happens, it will *definitely* lead to ..., but ... canot be followed by statements expressing intention of the spekaer or inducement.",
+        "meaning" : "'The natural consequence'. When ~ arises or happens, it will *definitely* lead to ..., but ... cannot be followed by statements expressing intention of the spekaer or inducement.",
         "forms" : [
             {
             "form": "",
@@ -1313,7 +1313,7 @@
     },
     {
         "name" : "〜なら",
-        "meaning" : "'When it comes to X'. Expresses the speaker's judement, volition or inducement in light of ~ (information). The ~ must be a topic raised by another person's words or actions.",
+        "meaning" : "'When it comes to X'. Expresses the speaker's judgment, volition or inducement in light of ~ (information). The ~ must be a topic raised by another person's words or actions.",
         "forms" : [
             {
             "form": "",
@@ -1610,7 +1610,7 @@
     },
     {
         "name" : "〜と言っていました",
-        "meaning" : "'Said that...'. Restateor pass on something previously said by someone else.",
+        "meaning" : "'Said that...'. Restate or pass on something previously said by someone else.",
         "forms" : [
             {
             "form": "普通形＋と言っていました",
@@ -1719,7 +1719,7 @@
     },
     {
         "name" : "〜くなります・〜になります・〜ようになります",
-        "meaning" : "'Becoming...' Describe change. May happen natually or may not be deliberate.",
+        "meaning" : "'Becoming...' Describe change. May happen naturally or may not be deliberate.",
         "forms" : [
             {
             "form": "イ形「〜い〜」く・ナ形「〜ナ〜」に＋なります",
@@ -1771,7 +1771,7 @@
     },
     {
         "name" : "〜にします・〜ことにします",
-        "meaning" : "'Decide to'. Descision in some matter, based on *personal volition*. Implies a positive attitude, without reluctance.",
+        "meaning" : "'Decide to'. Decision in some matter, based on *personal volition*. Implies a positive attitude, without reluctance.",
         "forms" : [
             {
             "form": "名＋にします",
@@ -1864,7 +1864,7 @@
     },
     {
         "name" : "〜て置きます",
-        "meaning" : "'Before' 'Keep'. Suggests an action is taken pre-emptively to avoid possible future trouble.",
+        "meaning" : "'Before' 'Keep'. Suggests an action is taken preemptively to avoid possible future trouble.",
         "forms" : [
             {
             "form": "動「て形」＋置きます",
@@ -1947,7 +1947,7 @@
     },
     {
         "name" : "くれます・〜てくれます",
-        "meaning" : "'They give/do ... (for me)'. Subject is other than the speaker. Person recieving the action is the speaker or someone close to the speaker.",
+        "meaning" : "'They give/do ... (for me)'. Subject is other than the speaker. Person receiving the action is the speaker or someone close to the speaker.",
         "forms" : [
             {
             "form": "名を＋くれます・くださいます",
@@ -1978,7 +1978,7 @@
     },
     {
         "name" : "もらいます・〜てもらいます",
-        "meaning" : "'(I) receive ... from them'. The subject is the speaker or someone close to the speaker, and they are recieving a item or action.",
+        "meaning" : "'(I) receive ... from them'. The subject is the speaker or someone close to the speaker, and they are receiving a item or action.",
         "forms" : [
             {
             "form": "名を＋もらいます・いただきます",
@@ -1991,7 +1991,7 @@
                 {
                     "prompt" : "",
                     "example" : "山田さんから時計をもらいました",
-                    "notes:": "に or から can be used to indicate the giver interchangeaboly."
+                    "notes:": "に or から can be used to indicate the giver interchangeably."
                 },
                 {
                     "prompt" : "",
@@ -2060,7 +2060,7 @@
     },
     {
         "name" : "〜（さ）せます",
-        "meaning" : "'Made to...'. Causitive.",
+        "meaning" : "'Made to...'. Causative.",
         "forms" : [
             {
             "form": "動「使役の形」",
@@ -2073,12 +2073,12 @@
                 {
                     "prompt" : "",
                     "example" : "けんは犬を自由に遊ばせます。",
-                    "notes:": "Causitive can be used to express giving permission or doing a favor."
+                    "notes:": "Causative can be used to express giving permission or doing a favor."
                 },
                 {
                     "prompt" : "",
                     "example" : "嘘をついて、父を怒らせてしまいました。",
-                    "notes:": "Causitive frequently evokes emotions. Particle is を used for transitive verbs."
+                    "notes:": "Causative frequently evokes emotions. Particle is を used for transitive verbs."
                 }
             ]
             }
@@ -2086,7 +2086,7 @@
     },
     {
         "name" : "〜（せら）れます",
-        "meaning" : "'Forced to...'. Causitive Passive.",
+        "meaning" : "'Forced to...'. Causative Passive.",
         "forms" : [
             {
             "form": "動「使役受身の形」",
@@ -2099,7 +2099,7 @@
                 {
                     "prompt" : "",
                     "example" : "子供が遅くまで帰って来なくて、心配させられました。",
-                    "notes:": "The causitive-passive frequently conveys emotion."
+                    "notes:": "The causative-passive frequently conveys emotion."
                 }
             ]
             }
