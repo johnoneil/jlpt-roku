@@ -196,15 +196,66 @@
         ]
     },
     {
-        "name" : "",
-        "meaning" : "",
+        "name" : "〜とりだ・〜とおり（に）。。。・〜どおりだ・〜・どおり（に）。。。",
+        "meaning" : "'In the way of...'. Do ~ in the same way as .... To be in conformity with ...",
         "forms" : [
             {
-            "form": "",
+            "form": "名の＋とおりだ・とおり（に）",
             "examples" : [
                 {
                     "prompt" : "",
-                    "example" : "",
+                    "example" : "彼は時間どおりにやって来た。",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "動「辞書形・ている・た形・てある」＋とおりだ・とおり（に）",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "交番で教えてもらったとおりに歩いていたので、迷わず会場に着いた。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "この本に書いてあるとおりのやり方で作ってみよう。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "名＋どおりだ・どおり（に）",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "サッカーの試合の結果は私たちの期待どおりだった。",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜によって。。。・〜によっては。。。",
+        "meaning" : "'To each...'. The state of ... changes according to cases of ~. ",
+        "forms" : [
+            {
+            "form": "名＋によって・によっては",
+            "examples" : [
+                {
+                    "prompt" : "",
+                    "example" : "国によって習慣が違う。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "漢字方は人によって様々だ。",
+                    "notes:": "Frequently used with the phrase 様々だ"
+                },
+                {
+                    "prompt" : "",
+                    "example" : "場合によっては今年の文化祭は中止になるかもしれない。",
                     "notes:": ""
                 }
             ]
@@ -212,19 +263,116 @@
         ]
     },
     {
-        "name" : "",
-        "meaning" : "",
+        "name" : "〜たびに。。。",
+        "meaning" : "'Whenever'. Whenever ~ happens, ... happens too. Used when emphasizing the repeated nature of an action, but not for everyday or matter-of-course events.",
         "forms" : [
             {
-            "form": "",
+            "form": "名の＋たびに",
             "examples" : [
                 {
                     "prompt" : "",
-                    "example" : "",
+                    "example" : "このチームは試合のたびに強くなっていく。",
                     "notes:": ""
                 }
             ]
+            },
+            {
+                "form": "動「辞書形」＋たびに",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "この地方は台風が来るたびに大水の害が起こる。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "母は私が電話をかけるたびに、ちゃんとごはんを食べているかと聞く。",
+                        "notes:": ""
+                    }
+                ]
             }
+        ]
+    },
+    {
+        "name" : "（〜ば）〜ほど。。。・（〜なら）〜ほど。。。・〜ほど。。。",
+        "meaning" : "'The more... the more...'. The more ~ happens, the more ... happens.",
+        "forms" : [
+            {
+            "form": "（動「ば形」＋）動「辞書形」＋ほど",
+            "examples" : [
+                {
+                    "prompt" : "",
+                    "example" : "物が増えれば増えるほど整理が大変になる。",
+                    "notes:": ""
+                },
+                {
+                    "prompt" : "",
+                    "example" : "いい家具は時間が経つほど価値が上がる。",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "（イ形「〜い〜」ければ＋）イ形「い」＋ほど",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "休みの日は多ければ多いほど嬉しい。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "（ナ形「なら」＋）ナ形「な」＋ほど",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "街がにぎやかなほど商店でものがよく売れるのだ。",
+                        "notes:": ""
+                    }
+                ]
+            },
+            {
+                "form": "イ形「い」・ナ形「な」＋名＋ほど",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "忙しい人ほど時間の使い方が上手だ。",
+                        "notes:": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name" : "〜ついでに",
+        "meaning" : "'While'. When doing ~, take the opportunity to do do ... as well.",
+        "forms" : [
+            {
+            "form": "名「〜する〜」の＋ついでに",
+            "examples" : [
+                {
+                    "prompt" : "",
+                    "example" : "散歩のついでにこのはがきをポストに出してきた。",
+                    "notes:": ""
+                }
+            ]
+            },
+            {
+                "form": "動「辞書形・た形」＋ついでに",
+                "examples" : [
+                    {
+                        "prompt" : "",
+                        "example" : "玄関の掃除をするついでに靴の整理をしょう。",
+                        "notes:": ""
+                    },
+                    {
+                        "prompt" : "",
+                        "example" : "インターネットでほんを注文したついでに新しく出たDVDも調べた。",
+                        "notes:": ""
+                    }
+                ]
+                }
         ]
     },
     {
