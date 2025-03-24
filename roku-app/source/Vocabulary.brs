@@ -13288,7 +13288,7 @@ d = [
     {
         "word": "栄養",
         "meaning": "nutrition",
-        "furigana": "",
+        "furigana": "えいよう",
         "level": 3,
         "word_number": 970,
         "image_path": "pkg:/images/Chapter8Section5/970.png",
@@ -13392,7 +13392,7 @@ d = [
     {
         "word": "長生き　する",
         "meaning": "long life, longevity",
-        "furigana": "",
+        "furigana": "ながいき　する",
         "level": 3,
         "word_number": 978,
         "image_path": "pkg:/images/Chapter8Section5/978.png",
