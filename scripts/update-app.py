@@ -83,6 +83,11 @@ def generate_grammar_brs(input_files, output_file):
         for level, input_file in input_files.items():
             outfile.write(f"function {level}_database() as Object\n")
             outfile.write(f"d = ")
+
+            # create a derivative flat list of examples (with a lot of redundant data)
+            # because it's easier to deal with that in brightscript.
+            examples_list = []
+
             with open(input_file, 'r') as infile:
                 phrase_list = get_phrase_list(infile)
                 for phrase in phrase_list:
@@ -120,11 +125,26 @@ def generate_grammar_brs(input_files, output_file):
                             (image_width, image_height) = text_to_image(example["example"], output_path=f"roku-app/{example_image_path}")
                             example["image_width"] = image_width
                             example["image_height"] = image_height
+
+                            e = {}
+                            e["example_id"] = example_id
+                            e["image_path"] = example["image_path"]
+                            e["form_id"] = form_id
+                            e["form_image_path"] = form["image_path"]
+                            e["phrase_id"] = phrase_id
+                            e["phrase_image_path"] = phrase["image_path"]
+                            e["meaning"] = phrase["meaning"]
+
+                            #print(f"example: {example["example"]}")
+                            e["notes"] = example["notes"]
+
+                            examples_list.append(e)
+
                             example_id += 1
                         form_id += 1
                     phrase_id += 1
                 
-                json.dump(phrase_list, outfile, ensure_ascii=False, indent=4)
+                json.dump(examples_list, outfile, ensure_ascii=False, indent=4)
             outfile.write(f"\nreturn d\n")
             outfile.write("end function\n")
 
@@ -184,6 +204,5 @@ input_files = {
     "N4Grammar" : "data/n4/grammar.json",
 }
 output_file = 'roku-app/source/Grammar.brs'
-# not yet enabled.
-#generate_grammar_brs(input_files, output_file)
+generate_grammar_brs(input_files, output_file)
 
