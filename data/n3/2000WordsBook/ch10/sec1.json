@@ -1,0 +1,151 @@
+{
+    "title_jpn" : "マスコミ",
+    "title_eng" : "The Media",
+    "words" :
+    [
+        {
+            "word": "伝わる",
+            "meaning": "to be conveyed, to be passed along, to be communicated.",
+            "furigana": "つたわる",
+            "level": 3
+        },
+        {
+            "word": "うわさ　する",
+            "meaning": "rumor",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "記事",
+            "meaning": "article",
+            "furigana": "きじ",
+            "level": 3
+        },
+        {
+            "word": "週刊誌",
+            "meaning": "weekly magazine",
+            "furigana": "しゅうかんし",
+            "level": 3
+        },
+        {
+            "word": "政治家",
+            "meaning": "politician",
+            "furigana": "せいじか",
+            "level": 3
+        },
+        {
+            "word": "政府",
+            "meaning": "government",
+            "furigana": "せいふ",
+            "level": 3
+        },
+        {
+            "word": "市民",
+            "meaning": "citizen",
+            "furigana": "しみん",
+            "level": 3
+        },
+        {
+            "word": "立場",
+            "meaning": "position, standpoint",
+            "furigana": "たちば",
+            "level": 3
+        },
+        {
+            "word": "世の中",
+            "meaning": "world, in the world",
+            "furigana": "よのなか",
+            "level": 3
+        },
+        {
+            "word": "重大　な",
+            "meaning": "serious, important",
+            "furigana": "じゅうだい　な",
+            "level": 3
+        },
+        {
+            "word": "重要　な",
+            "meaning": "important",
+            "furigana": "じゅうよう　な",
+            "level": 3
+        },
+        {
+            "word": "大して",
+            "meaning": "(not so) much. (not) very.",
+            "furigana": "たいして",
+            "level": 3
+        },
+        {
+            "word": "くだらない",
+            "meaning": "trivial. good for nothing.",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "司会者",
+            "meaning": "master of ceremonies",
+            "furigana": "しかいしゃ",
+            "level": 3
+        },
+        {
+            "word": "生放送",
+            "meaning": "live broadcast",
+            "furigana": "なまほうそう",
+            "level": 3
+        },
+        {
+            "word": "商品",
+            "meaning": "goods, merchandise",
+            "furigana": "しょうひん",
+            "level": 3
+        },
+        {
+            "word": "発売　する",
+            "meaning": "on sale (on the market)",
+            "furigana": "はつばい　する",
+            "level": 3
+        },
+        {
+            "word": "評判　する",
+            "meaning": "reputation",
+            "furigana": "ひょうばん　する",
+            "level": 3
+        },
+        {
+            "word": "注目　する",
+            "meaning": "notice, attention",
+            "furigana": "ちゅうもく　する",
+            "level": 3
+        },
+        {
+            "word": "ヒット　する",
+            "meaning": "a hit",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "やっぱり",
+            "meaning": "as I thought",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "まさか",
+            "meaning": "no way. cannot be. (unexpected)",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "やっと",
+            "meaning": "finally",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "結局",
+            "meaning": "ultimately, in the end",
+            "furigana": "けっきょく",
+            "level": 3
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "title_jpn" : "事件",
+    "title_eng" : "Incidents",
+    "words" :
+    [
+        {
+            "word": "怪しい",
+            "meaning": "suspicious",
+            "furigana": "あやしい",
+            "level": 3
+        },
+        {
+            "word": "恐ろしい",
+            "meaning": "horrible, frightful",
+            "furigana": "おそろしい",
+            "level": 3
+        },
+        {
+            "word": "暴れる",
+            "meaning": "to behave violently, to be unruly",
+            "furigana": "あばれる",
+            "level": 3
+        },
+        {
+            "word": "争う",
+            "meaning": "to fight",
+            "furigana": "あらそう",
+            "level": 3
+        },
+        {
+            "word": "犯罪",
+            "meaning": "crime",
+            "furigana": "はんざい",
+            "level": 3
+        },
+        {
+            "word": "発見者",
+            "meaning": "discoverer. Witness",
+            "furigana": "はっけんしゃ",
+            "level": 3
+        },
+        {
+            "word": "疑う",
+            "meaning": "to doubt",
+            "furigana": "うたがう",
+            "level": 3
+        },
+        {
+            "word": "嘘つき",
+            "meaning": "liar",
+            "furigana": "うそつき",
+            "level": 3
+        },
+        {
+            "word": "嘘をつく",
+            "meaning": "to tell a lie",
+            "furigana": "うそをつく",
+            "level": 3
+        },
+        {
+            "word": "犯人",
+            "meaning": "culprit. criminal",
+            "furigana": "はんにん",
+            "level": 3
+        },
+        {
+            "word": "いたずら　な・する",
+            "meaning": "prank, practical joke, mischief",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "叫ぶ",
+            "meaning": "to scream, to shout",
+            "furigana": "さけぶ",
+            "level": 3
+        },
+        {
+            "word": "叩く",
+            "meaning": "to strike, to hit.",
+            "furigana": "たたく",
+            "level": 3
+        },
+        {
+            "word": "盗む",
+            "meaning": "to steal.",
+            "furigana": "ぬすむ",
+            "level": 3
+        },
+        {
+            "word": "奪う",
+            "meaning": "to take. to steal",
+            "furigana": "うばう",
+            "level": 3
+        },
+        {
+            "word": "探す",
+            "meaning": "to look for",
+            "furigana": "さがす",
+            "level": 3
+        },
+        {
+            "word": "追う",
+            "meaning": "to chase, to pursue",
+            "furigana": "おう",
+            "level": 3
+        },
+        {
+            "word": "捕まる",
+            "meaning": "to be caught (intransitive)",
+            "furigana": "つかまる",
+            "level": 3
+        },
+        {
+            "word": "逮捕　する",
+            "meaning": "arrest",
+            "furigana": "たいほ　する",
+            "level": 3
+        },
+        {
+            "word": "気味が悪い",
+            "meaning": "creepy. uneasy feeling.",
+            "furigana": "きみがわるい",
+            "level": 3
+        },
+        {
+            "word": "パトカー",
+            "meaning": "patrol car",
+            "furigana": "",
+            "level": 3
+        }
+    ]
+}
