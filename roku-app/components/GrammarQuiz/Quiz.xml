@@ -18,17 +18,22 @@
               id="Name"
               loadSync="true"
               uri = ""
-              translation = "[0, 0]"
+        />
+        <Poster
+            id="Form"
+            loadSync="true"
+            uri = ""
         />
         <Poster
             id="Example"
             loadSync="true"
             uri = ""
-            translation = "[0, 100]"
         />
         <Label
           id="Meaning"
-          translation = "[0, 200]"
+        />
+        <Label
+          id="Notes"
         />
       </LayoutGroup>
     </children>

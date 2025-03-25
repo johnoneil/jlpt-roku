@@ -110,7 +110,7 @@ def generate_grammar_brs(input_files, output_file):
                         os.makedirs(f"roku-app/{dir}", exist_ok=True)
                         form_image_path = f"{dir}/{form_id}.png"
                         form["image_path"] = f"pkg:/{form_image_path}"
-                        (image_width, image_height) = text_to_image(form["form"], output_path=f"roku-app/{form_image_path}")
+                        (image_width, image_height) = text_to_image(form["form"], output_path=f"roku-app/{form_image_path}", font_size=40)
                         form["image_width"] = image_width
                         form["image_height"] = image_height
 

@@ -5,6 +5,8 @@ sub init()
     m.name = m.top.findNode("Name")
     m.example = m.top.findNode("Example")
     m.meaning = m.top.findNode("Meaning")
+    m.form = m.top.findNode("Form")
+    m.notes = m.top.findNode("Notes")
     m.questionNumber = -1
 
     root = m.top.getScene()
@@ -31,9 +33,13 @@ sub nextQuestion()
         word = m.dictionary[m.examples[m.questionNumber]]
         m.example.visible = false
         m.meaning.visible = false
+        m.form.visible = false
+        m.notes.visible = false
         m.name.uri = word.phrase_image_path
         m.example.uri = word.image_path
         m.meaning.text = word.meaning
+        m.form.uri = word.form_image_path
+        m.notes.text = word.notes
     end if
 end sub
 
@@ -41,6 +47,8 @@ sub showAnswer()
     m.showing_answer = true
     m.example.visible = true
     m.meaning.visible = true
+    m.form.visible = true
+    m.notes.visible = true
 end sub
 
 function onKeyEvent(key as String, press as Boolean) as Boolean
