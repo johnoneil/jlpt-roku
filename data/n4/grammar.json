@@ -7,7 +7,7 @@
             "form": "名＋より",
             "examples" : [
                 {
-                    "prompt" : "アパート　便利",
+                    "prompt" : "このアパート　前のアパート 便利",
                     "example" : "このアパートは前のアパートより便利です",
                     "notes": ""
                 }
@@ -17,7 +17,7 @@
                 "form": "名＋より",
                 "examples" : [
                     {
-                        "prompt" : "何　音楽",
+                        "prompt" : "私は 何　音楽 好きです",
                         "example" : "私は何より音楽が好きです",
                         "notes": "The superlative is expressed though the use of interrogative word ＋より."
                     }
@@ -33,7 +33,7 @@
             "form": "名＋ほど。。。ません",
             "examples" : [
                 {
-                    "prompt" : "昔　賑やか",
+                    "prompt" : "昔　今 賑やか",
                     "example" : "昔は今ほど賑やかではありませんでしたよ。",
                     "notes": ""
                 }
@@ -49,7 +49,7 @@
             "form": "名1＋より＋名2＋のほう",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "私 弟 背が高いです",
                     "example" : "私より弟のほうが背が高いです。",
                     "notes": ""
                 }
@@ -65,7 +65,7 @@
             "form": "名1＋と＋名2＋とどちら",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "コーヒーと 紅茶 いいですか",
                     "example" : "コーヒーと紅茶とどちらがいいですか。",
                     "notes": ""
                 }
@@ -81,7 +81,7 @@
             "form": "動「~ます~」＋ながら",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "きれいな海 見る　散歩しました",
                     "example" : "きれいな海を見ながら散歩しました。",
                     "notes": ""
                 }
@@ -97,8 +97,8 @@
             "form": "動「辞書形」＋ところです",
             "examples" : [
                 {
-                    "prompt" : "",
-                    "example" : "試合が始まる所です。",
+                    "prompt" : "試合　始まる",
+                    "example" : "試合が始まるところです。",
                     "notes": "Expresses the time point just before the action started."
                 }
             ]
@@ -107,7 +107,7 @@
                 "form": "動「ている」＋ところです",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "インターネット　店の場所　調べている",
                         "example" : "インターネットで店の場所を調べているところです。",
                         "notes": "Indicates a time point in a continuous action."
                     }
@@ -117,8 +117,8 @@
                 "form": "動「た形」＋ところです",
                 "examples" : [
                     {
-                        "prompt" : "",
-                        "example" : "ちょうど今駅に着いた所だよ。",
+                        "prompt" : "ちょうど　今駅　着いた",
+                        "example" : "ちょうど今駅に着いたところだよ。",
                         "notes": "Indicates a time point just after the action has completed."
                     }
                 ]
@@ -133,7 +133,7 @@
             "form": "名＋まで",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "飛行機の出発時間　ここで待っています",
                     "example" : "飛行機の出発時間までここで待っています。",
                     "notes": "A phrase expressing a continuous action, behavior or state follows 〜まで."
                 }
@@ -143,7 +143,7 @@
                 "form": "動「辞書形」＋まで",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "仕事が終わる　帰らないでください",
                         "example" : "仕事が終わるまで帰らないでください。",
                         "notes": "Followed by a phrase expressing a short duration, therefore 'by'."
                     }
@@ -159,7 +159,7 @@
             "form": "名＋までに",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "二十日　旅行のお金　払います",
                     "example" : "二十日までに旅行のお金を払います。",
                     "notes": "Followed by a phrase expressing a short duration, therefore 'by'."
                 }
@@ -169,8 +169,8 @@
                 "form": "動「辞書形」＋までに",
                 "examples" : [
                     {
-                        "prompt" : "",
-                        "example" : "お客さんが来るまでに毛矢を片付けてね",
+                        "prompt" : "お客さん　来る　部屋を片付けてね",
+                        "example" : "お客さんが来るまでに部屋を片付けてね",
                         "notes": "Followed by a phrase expressing a short duration, therefore 'by'."
                     }
                 ]
@@ -185,7 +185,7 @@
             "form": "動「~ます~」＋ませんか",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "テニス　する",
                     "example" : "テニスをしませんか。",
                     "notes": ""
                 }
@@ -201,7 +201,7 @@
             "form": "動「~ます~」＋ましょう（か）",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "電気　つける",
                     "example" : "A:電気つけましょうか。B:ええ、お願いします。",
                     "notes": ""
                 }
@@ -217,7 +217,7 @@
             "form": "可能の形、を→が",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "中国語　話す",
                     "example" : "中国語が話せます。",
                     "notes": "Expressing capability. Note object particle を　frequently changes to　が."
                 }
@@ -227,7 +227,7 @@
                 "form": "可能の形",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "この美術館　有名な絵　みる",
                         "example" : "この美術館で有名な絵が見られます。",
                         "notes": "Potentiality of situation. Compare　見える with below."
                     }
@@ -242,7 +242,7 @@
             "form": "名＋ができます。",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "コンビニで　買い物",
                     "example" : "コンビニで買い物ができます。",
                     "notes": ""
                 }
@@ -257,7 +257,7 @@
             "form": "動「辞書形」＋ことができます",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "この建物の中　入る",
                     "example" : "この建物の中には入ることができません。",
                     "notes": ""
                 }
@@ -272,7 +272,7 @@
             "form": "名＋が見えます",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "この部屋の窓　海　見る",
                     "example" : "この部屋の窓から海が見えます。",
                     "notes": "Contrast with 見られます."
                 }
@@ -282,7 +282,7 @@
                 "form": "名＋が見えます",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "風の音　聞く",
                         "example" : "風の音が聞こえるね",
                         "notes": "Contrast with 聞けます。"
                     }
@@ -298,7 +298,7 @@
             "form": "動「た形」＋ことがあります",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "一度テレビドラマ　出る",
                     "example" : "一度テレビドラマに出たことがあります。",
                     "notes": "Often used with words denoting frequency, such as 一度 一度も　何度か or 何度も. Not used with words expressing long duration such as: いつも　たいてい"
                 }
@@ -314,7 +314,7 @@
             "form": "動「辞書形」＋ことがあります",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "人の名前　忘れる",
                     "example" : "人の名前を忘れることがあります。",
                     "notes": ""
                 }
@@ -324,7 +324,7 @@
                 "form": "動「ない形」＋ことがあります",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "時間がない時　食べる",
                         "example" : "時間がない時は食べないこともあります。",
                         "notes": "In this form　が may change to も."
                     }
@@ -340,7 +340,7 @@
             "form": "動「て形」＋もいいです",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "座る",
                     "example" : "座ってもいいですか。",
                     "notes": ""
                 }
@@ -350,7 +350,7 @@
                 "form": "イ形「〜い〜」くて＋もいいです",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "狭い",
                         "example" : "狭くてもいいです",
                         "notes": ""
                     }
@@ -360,7 +360,7 @@
                 "form": "ナ形「〜ナ〜」で＋もいいです",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "下手な",
                         "example" : "下手でもいいです。",
                         "notes": ""
                     }
@@ -370,7 +370,7 @@
                 "form": "名で＋もいいです",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "服　Tシャツ",
                         "example" : "服はTシャツでもいいです。",
                         "notes": ""
                     }
@@ -386,7 +386,7 @@
                 "form": "動「て形」＋はいけません",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "いく",
                         "example" : "行ってはいけません。",
                         "notes": ""
                     }
@@ -396,7 +396,7 @@
                     "form": "イ形「〜い〜」くて＋はいけません",
                     "examples" : [
                         {
-                            "prompt" : "",
+                            "prompt" : "狭い",
                             "example" : "狭くてはいけません",
                             "notes": ""
                         }
@@ -406,7 +406,7 @@
                     "form": "ナ形「〜ナ〜」で＋はいけません",
                     "examples" : [
                         {
-                            "prompt" : "",
+                            "prompt" : "下手　な",
                             "example" : "下手ではいけません。",
                             "notes": ""
                         }
@@ -416,7 +416,7 @@
                     "form": "名で＋はいけません",
                     "examples" : [
                         {
-                            "prompt" : "",
+                            "prompt" : "服　Tシャツ",
                             "example" : "服はTシャツではいけません。",
                             "notes": ""
                         }
@@ -432,7 +432,7 @@
             "form": "動「〜ない〜」＋なくてもいいです。",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "飲む",
                     "example" : "飲まなくてもいいです。",
                     "notes": "**Important** Usually the negative of 飲んで is 飲まないで (the verbal form). But here we use the adjectival form 飲まなくて. This is less commonly used than the verbal."
                 }
@@ -442,7 +442,7 @@
                 "form": "イ形「〜い〜」く＋なくてもいいです",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "駅　近くない",
                         "example" : "駅に近くなくてもいいです。",
                         "notes": ""
                     }
@@ -452,7 +452,7 @@
                 "form": "ナ形「〜ナ〜」で＋なくてもいいです",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "便利　な",
                         "example" : "便利でなくてもいいです。",
                         "notes": ""
                     }
@@ -462,7 +462,7 @@
                 "form": "名で＋なくてもいいです",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "私の",
                         "example" : "私のでなくてもいいです",
                         "notes": ""
                     }
@@ -478,7 +478,7 @@
             "form": "動「〜ない〜」＋なければなりません。",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "飲む",
                     "example" : "飲まなければなりません。",
                     "notes": ""
                 }
@@ -488,7 +488,7 @@
                 "form": "イ形「〜い〜」く＋なければなりません",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "駅に近い",
                         "example" : "駅に近くなければなりません。",
                         "notes": ""
                     }
@@ -498,7 +498,7 @@
                 "form": "ナ形「〜ナ〜」で＋なければなりません",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "便利な",
                         "example" : "便利でなければなりません。",
                         "notes": ""
                     }
@@ -524,7 +524,7 @@
             "form": "名が＋ほしいです",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "自分の部屋",
                     "example" : "自分の部屋がほしいです。",
                     "notes": ""
                 }
@@ -540,7 +540,7 @@
             "form": "名を＋ほしがります",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "犬　食べ物",
                     "example" : "犬は食べ物を欲しがります",
                     "notes": ""
                 }
@@ -556,7 +556,7 @@
             "form": "動「~ます~」＋たいです",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "本　読む",
                     "example" : "本が読みたい。",
                     "notes": ""
                 }
@@ -572,24 +572,8 @@
             "form": "動「~ます~」＋たがります",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "誰も　いく",
                     "example" : "誰も行きたがりません。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "",
-        "meaning" : "",
-        "forms" : [
-            {
-            "form": "",
-            "examples" : [
-                {
-                    "prompt" : "",
-                    "example" : "",
                     "notes": ""
                 }
             ]
@@ -604,18 +588,18 @@
             "form": "普通形（「ーた・ーなかった」は使わない）＋といいです",
             "examples" : [
                 {
-                    "prompt" : "仕事が見つかるといいですね。",
-                    "example" : "",
+                    "prompt" : "仕事　見つかる",
+                    "example" : "仕事が見つかるといいですね。",
                     "notes": "Often ね、けど、なあ are added to the end of the sentence or phrase."
                 },
                 {
-                    "prompt" : "広いといいけどなあ。",
-                    "example" : "",
+                    "prompt" : "広い",
+                    "example" : "広いといいけどなあ。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "家族がみんな親切だといいなあ。",
-                    "example" : "",
+                    "prompt" : "家族　みんな　親切　な",
+                    "example" : "家族がみんな親切だといいなあ。",
                     "notes": ""
                 }
             ]
@@ -630,17 +614,17 @@
             "form": "動「~ます~」＋そうです・そうもありません",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "コップ　落ちる",
                     "example" : "コップが落ちそうです",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "雨　降る　ありません",
                     "example" : "雨が降りそうもありません。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "いい品物　ありません",
                     "example" : "いい品物はなさそうです",
                     "notes": "Note exception. ありません-> なさそう"
                 }
@@ -650,17 +634,17 @@
                 "form": "イ形「〜い〜」・ナ形「〜ナ〜」＋そうです",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "美味しい　ケーキ",
                         "example" : "美味しそうなケーキ",
                         "notes": ""
                     },
                     {
-                        "prompt" : "",
+                        "prompt" : "心配　電話しました",
                         "example" : "心配そうに電話しました",
                         "notes": ""
                     },
                     {
-                        "prompt" : "",
+                        "prompt" : "天気　良い",
                         "example" : "天気が良さそうです。",
                         "notes": "Note exception. いい　->　よさそう "
                     }
@@ -670,17 +654,17 @@
                 "form": "イ形「〜い〜」く・ナ形「〜ナ〜」では・名では＋なさそうです",
                 "examples" : [
                     {
-                        "prompt" : "ケーキは美味しくなさそうです。",
-                        "example" : "",
+                        "prompt" : "ケーキ　美味しい",
+                        "example" : "ケーキは美味しくなさそうです。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "",
+                        "prompt" : "あの人　親切な　じゃありません",
                         "example" : "あの人は親切ではなさそうです。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "",
+                        "prompt" : "今日　じゃありません",
                         "example" : "今日ではなさそうです。",
                         "notes": ""
                     }
@@ -696,12 +680,12 @@
             "form": "イ形「〜い〜」・ナ形「〜ナ〜」＋がっています",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "犬　嬉しい",
                     "example" : "犬は嬉しがっています",
                     "notes": "Used when describing the current situation, rather than any usual trend."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "子供達　面白い　ゲームを遊んでいます",
                     "example" : "子供達は面白がってゲームで遊んでいます。",
                     "notes": ""
                 }
@@ -711,7 +695,7 @@
                 "form": "イ形「〜い〜」・ナ形「〜ナ〜」＋がります",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "弟 怖い　話　嫌　です",
                         "example" : "弟は怖い話を嫌がります。",
                         "notes": "Used when expressing a general trend rather than the situation at hand."
                     }
@@ -727,12 +711,12 @@
             "form": "動「た形・ない形」＋まま",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "窓　開ける　寝ました",
                     "example" : "窓を開けたまま寝ました。",
                     "notes": "Example of undesirable situation."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "手　洗わない",
                     "example" : "手を洗わないまま。",
                     "notes": "Example of undesirable situation."
                 }
@@ -742,7 +726,7 @@
                 "form": "イ形「い」＋まま",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "手　汚い　食べました",
                         "example" : "手が汚いまま食べました。",
                         "notes": ""
                     }
@@ -752,7 +736,7 @@
                 "form": "ナ形「ナ」＋まま",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "自由な　歩きます",
                         "example" : "自由なまま歩きます。",
                         "notes": ""
                     }
@@ -762,9 +746,9 @@
                 "form": "名の＋まま",
                 "examples" : [
                     {
-                        "prompt" : "",
-                        "example" : "",
-                        "notes": "昨日のまま"
+                        "prompt" : "昨日",
+                        "example" : "昨日のまま",
+                        "notes": ""
                     }
                 ]
             }
@@ -778,12 +762,12 @@
             "form": "普通形・丁寧形＋から",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "用事　先に帰ります",
                     "example" : "用事がありますから、先に帰ります。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "危ない　触らないで",
                     "example" : "危ないから、触らないで！",
                     "notes": ""
                 }
@@ -794,8 +778,8 @@
                 "form": "普通形＋からです",
                 "examples" : [
                     {
-                        "prompt" : "",
-                        "example" : "失敗しました。練習が足りなかったからです",
+                        "prompt" : "練習　足りる",
+                        "example" : "練習が足りなかったからです",
                         "notes": ""
                     }
                 ]
@@ -810,17 +794,17 @@
             "form": "普通形（ナ形「〜だ〜」な・名「〜だ〜」な）＋ので",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "頭　痛い　休みます",
                     "example" : "頭が痛いので休みます。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "子供は５歳　バス代はかかりません",
                     "example" : "子供は５歳なので、バス代はかかりません。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "雨が降る　散歩に行かながった",
                     "example" : "雨が降っていたので散歩に行かながった。",
                     "notes": ""
                 }
@@ -836,27 +820,27 @@
             "form": "動て形",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "たくさん仕事がある　大変でした",
                     "example" : "たくさん仕事があって、大変でした",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "電車が来ない　遅刻しました",
                     "example" : "電車が来なくて,遅刻しました",
                     "notes": "**Important** Usually the negative of 来て is 来ないで (the verbal form). But here we use the adjectival form 来なくて. This is less commonly used than the verbal."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "友達がいない　寂しい",
                     "example" : "友達がいなくて、寂しい。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "遅れる　すみませんでした",
                     "example" : "遅れて、すみませんでした。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "教えてくれる　ありがとう",
                     "example" : "教えてくれて、ありがとう。",
                     "notes": ""
                 }
@@ -866,7 +850,7 @@
                 "form": "イ形「〜い〜」くて",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "汚い　ごめなさい",
                         "example" : "汚くて、ごめなさい。",
                         "notes": ""
                     }
@@ -876,7 +860,7 @@
                 "form": "ナ形「〜な〜」で",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "心配な　よく眠れませんでした",
                         "example" : "心配で、よく眠れませんでした。",
                         "notes": ""
                     }
@@ -886,7 +870,7 @@
                 "form": "名で",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "あなたの　ありがとうございます",
                         "example" : "あなたので、ありがとうございます。",
                         "notes": ""
                     }
@@ -902,7 +886,7 @@
             "form": "名「〜する〜」＋に",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "散歩 行きました",
                     "example" : "散歩に行きました。",
                     "notes": ""
                 }
@@ -912,12 +896,12 @@
                 "form": "動「〜ます〜」＋に",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "とり 帰りました",
                         "example" : "とりに帰りました。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "",
+                        "prompt" : "向かい くる",
                         "example" : "向かいにくる",
                         "notes": ""
                     }
@@ -933,12 +917,12 @@
             "form": "名の＋ため（に）",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "結婚式 じゅんびをしています",
                     "example" : "結婚式のために、じゅんびをしています。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "勉強 日本に留学します",
                     "example" : "勉強のために、日本に留学します。",
                     "notes": ""
                 }
@@ -948,7 +932,7 @@
                 "form": "動「辞書形」＋ため（に）",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "出席する アメリカへ行きました",
                         "example" : "出席するため、アメリカへ行きました。",
                         "notes": ""
                     }
@@ -958,7 +942,7 @@
                 "form": "名の＋ための＋名",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "掃除 道具",
                         "example" : "掃除のための道具。",
                         "notes": ""
                     }
@@ -968,8 +952,8 @@
                 "form": "動「辞書形」＋ための＋名",
                 "examples" : [
                     {
-                        "prompt" : "",
-                        "example" : "これは漢字を練習するための本です。",
+                        "prompt" : "漢字を練習する 本です",
+                        "example" : "漢字を練習するための本です。",
                         "notes": ""
                     }
                 ]
@@ -984,18 +968,18 @@
             "form": "動「辞書形・ない形」＋ように",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "よく聞こえる 前のほうに座りましょう",
                     "example" : "よく聞こえるように、前のほうに座りましょう。",
                     "notes": "Expresses possibility."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "風が入る 窓を開けてください",
                     "example" : "風が入るように、窓を開けてください。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
-                    "example" : "けがをしないように、きをつけてね。",
+                    "prompt" : "けがをしない きをつけて",
+                    "example" : "けがをしないように、きをつけて。",
                     "notes": ""
                 }
             ]
@@ -1010,22 +994,22 @@
             "form": "（名も＋）普通形＋し、（（なも＋）普通形＋し）",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "荷物も多い 雨も降っている タクシーで行きましょう",
                     "example" : "荷物も多いし、雨も降っているし、タクシーで行きましょう。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "頭が痛い",
                     "example" : "頭が痛いし。。。",
                     "notes": "If is used only once, there is the implication there are additional unspoken reasons."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "この店のパン 美味しい 安いです",
                     "example" : "この店のパンは美味しいし、安いです。",
                     "notes": "Expands on information already given."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "ハワイではきれいな海で泳ぐ　買い物もしたい",
                     "example" : "ハワイではきれいな海で泳ぎたいし、買い物もしたい。",
                     "notes": ""
                 }
@@ -1041,12 +1025,12 @@
             "form": "",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "休みの日　本を読む　ゲームを遊ぶ",
                     "example" : "休みの日は本を読んだりゲームを遊んだりします。",
                     "notes": "Used with no regard to sequence in time."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "今日は雨が降る　止む",
                     "example" : "今日は雨が降ったり止んだりしていました。",
                     "notes": "When verbs with opposite meaning are used, it expresses the repeated nature of both actions/behaviors."
                 }
@@ -1062,17 +1046,17 @@
             "form": "普通形(ナ形「〜だ〜」・名「〜だ〜」）＋かもしれません",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "明日は雪が降る",
                     "example" : "明日は雪が降るかろしれません",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "あのノートはサラさんの",
                     "example" : "あのノートはサラさんのかもしれない。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "今度の仕事は大変な",
                     "example" : "今度の仕事は大変かもしれないけど、頑張ってね。",
                     "notes": ""
                 }
@@ -1088,17 +1072,17 @@
             "form": "普通形(ナ形「〜だ〜」な・名「〜だ〜」の）＋はずです",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "明日の会議には山川先生も出席する",
                     "example" : "明日の会議には山川先生も出席するはずです。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "新鮮な魚だから、美味しい",
                     "example" : "新鮮な魚だから、美味しいはずです。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "母は飛行機に乗る",
                     "example" : "母は飛行機に乗ったはずです。",
                     "notes": ""
                 }
@@ -1114,23 +1098,23 @@
             "form": "普通形(ナ形「〜だ〜」な・名「〜だ〜」の）＋ようです",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "誰もいない",
                     "example" : "誰もいないようです。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "道が濡れています。雨が降る",
                     "example" : "道が濡れています。雨が降ったようです",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "この肉は少し古い",
                     "example" : "この肉は少し古いようです。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
-                    "example" : "けんくんは　本が好きなようです。",
+                    "prompt" : "けんくんは本が好きだ",
+                    "example" : "けんくんは本が好きなようです。",
                     "notes": ""
                 }
             ]
@@ -1145,17 +1129,17 @@
             "form": "普通形(ナ形「〜だ〜」・名「〜だ〜」）＋みたいです",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "夢",
                     "example" : "夢みたいだ。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "このパソコンはこわれている",
                     "example" : "このパソコンはこわれているみたいだ。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "食べすぎた",
                     "example" : "食べすぎたみたいだ。",
                     "notes": ""
                 }
@@ -1172,7 +1156,7 @@
             "form": "動「~ます~」＋なさい",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "漢字で書く",
                     "example" : "漢字で書きなさい。",
                     "notes": ""
                 }
@@ -1188,12 +1172,12 @@
             "form": "動「た形・ない形」＋ほうがいいです",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "寒いです。上着を着る",
                     "example" : "寒いです。上着を着たほうがいいよ。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "出かけない",
                     "example" : "出かけないほうがいいよ。",
                     "notes": ""
                 }
@@ -1209,12 +1193,12 @@
             "form": "動「ない形」＋と",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "ご飯の前には手を洗う",
                     "example" : "ご飯の前には手を洗わないと。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "急がないと。間に合わない",
                     "example" : "急がないと。間に合わないよ。",
                     "notes": ""
                 }
@@ -1230,12 +1214,12 @@
             "form": "普通形（「ーた・ーなかった」だけ）＋ら",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "大きい地震が起きる、机の下に入る",
                     "example" : "もし大きい地震が起きたら、机の下に入ってください。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "明日天気がいい、どこかへ行きませんか。",
                     "example" : "明日天気が良かったら、どこかへ行きませんか。",
                     "notes": ""
                 }
@@ -1251,17 +1235,17 @@
             "form": "「〜ば・〜ならの形」",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "バスに乗る、駅まで１０分です",
                     "example" : "バスに乗れば、駅まで１０分です。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "子供の名前は、男の子だ「こうた」、女の子だ「みちる」がいいです",
                     "example" : "子供の名前は、男の子なら「こうた」、女の子なら「みちる」がいいです。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "辞書を使わない、読めません。",
                     "example" : "辞書を使わなければ、読めません。",
                     "notes": ""
                 }
@@ -1277,12 +1261,12 @@
             "form": "",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "お金を入れてボタンを押す、切符が出ます",
                     "example" : "お金を入れてボタンを押すと、切符が出ます。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "あの角を左に曲がる、駅が見えます。",
                     "example" : "あの角を左に曲がると、駅が見えます。",
                     "notes": ""
                 }
@@ -1298,12 +1282,12 @@
             "form": "動「た形」＋ら",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "３時になる、休みましょう。",
                     "example" : "３時になったら、休みましょう。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "この学校を卒業する、何をしますか？",
                     "example" : "この学校を卒業したら、何をしますか？",
                     "notes": ""
                 }
@@ -1319,7 +1303,7 @@
             "form": "",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "A:ケーキが美味しい店をぢ知りませんか　B:　ケーキ、駅前の店が美味しいですよ。",
                     "example" : "A:ケーキが美味しい店をぢ知りませんか　B:　ケーキなら、駅前の店が美味しいですよ。",
                     "notes": ""
                 },
@@ -1340,12 +1324,12 @@
             "form": "動「て形」",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "明日、雪が降る、休みじゃない。",
                     "example" : "明日、雪が降っても、休みじゃない。",
                     "notes": "Case where the expected clause is merely a assumption."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "何回読む、意味がわかりません。",
                     "example" : "何回読んでも、意味がわかりません。",
                     "notes": "Sometimes used with the interrogative (何回), or もし、どんなに、いくら."
                 }
@@ -1355,7 +1339,7 @@
                 "form": "イ形「〜い〜」くて＋も",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "暑い、スーツを着ています。",
                         "example" : "暑くても、スーツを着ています。",
                         "notes": ""
                     }
@@ -1365,7 +1349,7 @@
                 "form": "ナ形「〜な〜」で＋も",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "安全な　したくない。",
                         "example" : "安全でもしたくない。",
                         "notes": ""
                     }
@@ -1375,7 +1359,7 @@
                 "form": "名で＋も",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "初めて作る人　できます。",
                         "example" : "初めて作る人でもできます。",
                         "notes": ""
                     }
@@ -1385,7 +1369,7 @@
                 "form": "動「〜ない〜」＋なくても",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "明日、雪が降らない、休みです。",
                         "example" : "明日、雪が降らなくても、休みです。",
                         "notes": ""
                     }
@@ -1395,7 +1379,7 @@
                 "form": "イ形「〜い〜」く＋なくても",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "美味しくない、食べます。",
                         "example" : "美味しなくても、食べます。",
                         "notes": ""
                     }
@@ -1405,7 +1389,7 @@
                 "form": "ナ形「〜な〜」で＋なくても",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "安全ではない、したい。",
                         "example" : "安全でなくても、したい。",
                         "notes": ""
                     }
@@ -1415,7 +1399,7 @@
                 "form": "名で＋なくても",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "いい人ではない、信じます",
                         "example" : "いい人でなくても、信じます。",
                         "notes": ""
                     }
@@ -1431,27 +1415,27 @@
             "form": "普通形(ナ形「〜だ〜」な・名「〜だ〜」な）＋のに",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "宿題をやった、持って来ませんでした。",
                     "example" : "宿題をやったのに、持って来ませんでした。",
                     "notes": "Used to express the speaker's feelings of surprise, dissatisfaction, reproach or regret."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "雨が降っていない、あの人はかさをさしています。",
                     "example" : "雨が降っていないのに、あの人はかさをさしています。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "まだ新しい、もう壊れました",
                     "example" : "まだ新しいのに、もう壊れました。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "彼女がきれいな、彼氏がいません",
                     "example" : "彼女がきれいなのに、彼氏がいません。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "A:雨が降っているよ。B:運動会",
                     "example" : "A:雨が降っているよ。B:運動会なのに",
                     "notes": "Can also be found at the end of a sentence as shown, indicating disappointment."
                 }
@@ -1460,34 +1444,34 @@
         ]
     },
     {
-        "name" : "〜と。。。",
+        "name" : "〜と。。。「言う・答える・思う・思っています」",
         "meaning" : "Quoted speech. Used before proper nouns and quoted speech, and to express thoughts.",
         "forms" : [
             {
             "form": "名前・普通形・「言うこと・言ったこと」と",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "初めて会った人には「初めまして」言います。",
                     "example" : "初めて会った人には「初めまして」と言います。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "日本語で何　言いますか。",
                     "example" : "日本語で何と言いますか。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "好きな季節は春だ　答えました。",
                     "example" : "好きな季節は春だと答えました。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "とても良かった　思います。",
                     "example" : "とても良かったと思います。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "母は帰らない　思っています。",
                     "example" : "母は帰らないと思っています。",
                     "notes": "When the subject is the 3rd person, と思っています is used."
                 }
@@ -1497,13 +1481,13 @@
     },
     {
         "name" : "〜か。。。・〜かどうか。。。",
-        "meaning" : "'Whether (or not)'. Used when the question is embedded in a sentence.",
+        "meaning" : "Used when the question is embedded in a sentence.",
         "forms" : [
             {
             "form": "疑問詞（何・いつ・誰・どこ）＋か",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "彼の誕生日はいつ　知っていますか。",
                     "example" : "彼の誕生日はいつか知っていますか。",
                     "notes": "When an interrogative is included in the question, か is used."
                 }
@@ -1513,7 +1497,7 @@
                 "form": "疑問詞（何・いつ・誰・どこ）＋普通形（ナ形「〜な〜」・名「〜だ〜」）＋か",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "誰が来る　教えてください。",
                         "example" : "誰が来るか教えてください。",
                         "notes": ""
                     }
@@ -1523,19 +1507,19 @@
                 "form": "普通形（ナ形「〜な〜」・名「〜だ〜」）＋かどうか",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "文法が正し　チェックしてください。",
                         "example" : "文法が正しかどうかチェックしてください。",
-                        "notes": "When an interrogative is not included in the question, かどうか is used."
+                        "notes": "'Whether (or not)'. When an interrogative is not included in the question, かどうか is used."
                     },
                     {
-                        "prompt" : "",
+                        "prompt" : "行ける　まだわかりません。",
                         "example" : "行けるかどうかまだわかりません。",
-                        "notes": ""
+                        "notes": "'Whether (or not)'. "
                     },
                     {
-                        "prompt" : "",
+                        "prompt" : "必要　知っていますか。",
                         "example" : "必要かどうか知っていますか。",
-                        "notes": ""
+                        "notes": "'Whether (or not)'. "
                     }
                 ]
             }
@@ -1549,23 +1533,23 @@
             "form": "動「う・よう形」＋と思います。",
             "examples" : [
                 {
-                    "prompt" : "いい天気だから、出かけようと思います。",
-                    "example" : "",
+                    "prompt" : "いい天気だから、出かける　と思います。",
+                    "example" : "いい天気だから、出かけようと思います。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "安いだから、買おうと思っています。",
-                    "example" : "",
+                    "prompt" : "安いだから、買う　と思っています。",
+                    "example" : "安いだから、買おうと思っています。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "来年ヨーロッパを旅行しょうと思っている。",
-                    "example" : "",
+                    "prompt" : "来年ヨーロッパを旅行する　と思っている。",
+                    "example" : "来年ヨーロッパを旅行しょうと思っている。",
                     "notes": "If the subject is the 1st person, is 思っています used where the the intent dates back some time.."
                 },
                 {
                     "prompt" : "一人でカラオケに行こうと思いません。",
-                    "example" : "",
+                    "example" : "一人でカラオケに行く　と思いません。",
                     "notes": "Negative implies strong denial or rejection."
                 }
             ]
@@ -1580,17 +1564,17 @@
             "form": "動「辞書形・ない形」＋つもりです",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "国へ帰る",
                     "example" : "国へ帰るつもりです。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "何も買わない",
                     "example" : "何も買わないつもりです。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "妹はこの服を着ていく　らしいです。",
                     "example" : "妹はこの服を着ていくつもりらしいです。",
                     "notes": "If the subject is the 3rd person, 〜そうです、〜らしいです、〜と言っていました、etc. are added."
                 }
@@ -1600,7 +1584,7 @@
                 "form": "動「辞書形」＋つもりはありません",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "私の意見を変わない。",
                         "example" : "私の意見を変えるつもりはありません。",
                         "notes": "A stronger form of negation than above."
                     }
@@ -1616,12 +1600,12 @@
             "form": "普通形＋と言っていました",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "トムさん休む",
                     "example" : "トムさん休むと言っていました。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "何　か",
                     "example" : "何と言っていましたか。",
                     "notes": "Interrogative uses 何と."
                 }
@@ -1637,18 +1621,18 @@
             "form": "普通形＋そうです",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "天気予報によると、明日は寒い",
                     "example" : "天気予報によると、明日は寒いそうです。",
                     "notes": "Often used with 〜によると、〜では etc."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "先輩の話で、この試験はあまり難しくない",
                     "example" : "先輩の話で、この試験はあまり難しくないそうです。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
-                    "example" : "新聞で帆見ましたが、駅前で火事が会ったそうですね。",
+                    "prompt" : "新聞で読ましたが、駅前で火事が会った",
+                    "example" : "新聞で読ましたが、駅前で火事が会った",
                     "notes": ""
                 }
             ]
@@ -1664,16 +1648,16 @@
             "examples" : [
                 {
                     "prompt" : "噂によると、あのホテルはあまりよくないらしいです。",
-                    "example" : "",
+                    "example" : "噂によると、あのホテルはあまりよくない",
                     "notes": "Pass on to another person information obtained from someone else."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "事故が、あった",
                     "example" : "事故が、あったらしいです。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "この店は有名　よく名前を聞くよ。",
                     "example" : "この店は有名らしいね。よく名前を聞くよ。",
                     "notes": "Pass on information based on your own judgement of a situation."
                 }
@@ -1689,12 +1673,12 @@
             "form": "イ形「〜い〜」く＋します",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "音を大きい",
                     "example" : "音を大きくしました",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "ズボンを少し短い　ください",
                     "example" : "ズボンを少し短くしてください。",
                     "notes": ""
                 }
@@ -1704,13 +1688,13 @@
                 "form": "ナ形「〜な〜」に・名「〜だ〜」に＋します",
                 "examples" : [
                     {
-                        "prompt" : "部屋をきれいにしましょう。",
-                        "example" : "",
+                        "prompt" : "部屋をきれい",
+                        "example" : "部屋をきれいにしましょう。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "ご飯の量を半分にしてください。",
-                        "example" : "",
+                        "prompt" : "ご飯の量を半分　ください。",
+                        "example" : "ご飯の量を半分にしてください。",
                         "notes": ""
                     }
                 ]
@@ -1725,17 +1709,17 @@
             "form": "イ形「〜い〜」く・ナ形「〜ナ〜」に＋なります",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "犬は大　大きい",
                     "example" : "犬は大きくなります。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "都会はもっときれいな",
                     "example" : "都会はもっときれいになります。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "最近、この店ではお客さんの数が半分",
                     "example" : "最近、この店ではお客さんの数が半分になりました。",
                     "notes": ""
                 }
@@ -1745,12 +1729,12 @@
                 "form": "動「辞書形」ように＋なります",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "日本語が上手に話せる",
                         "example" : "日本語が上手に話せるようになりたいです。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "",
+                        "prompt" : "家の庭に鳥が来る",
                         "example" : "家の庭に鳥が来るようになりました。",
                         "notes": ""
                     }
@@ -1760,7 +1744,7 @@
                 "form": "動「〜ない〜」なく＋なります",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "この頃、前ほど本を読まない",
                         "example" : "この頃、前ほど本を読まなくなった。",
                         "notes": ""
                     }
@@ -1777,7 +1761,7 @@
             "form": "名＋にします",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "ばんご飯はカレー",
                     "example" : "ばんご飯はカレーにします。",
                     "notes": ""
                 }
@@ -1787,12 +1771,12 @@
                 "form": "動「辞書形・ない形」＋ことにします",
                 "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "タバコをやめる",
                     "example" : "タバコをやめることにします。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "夏休みは国へ帰らない",
                     "example" : "夏休みは国へ帰らないことにしました。",
                     "notes": ""
                 }
@@ -1808,7 +1792,7 @@
             "form": "名＋になります",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "チームの名前は「さむらい」",
                     "example" : "チームの名前は「さむらい」になりました",
                     "notes": ""
                 }
@@ -1818,17 +1802,17 @@
                 "form": "動「辞書形・ない形」＋ことになります",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "駅前に高いビルがたつ",
                         "example" : "駅前に高いビルがたつことになりました。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "",
+                        "prompt" : "雨で試合はしない",
                         "example" : "雨で試合はしないことになりました。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "",
+                        "prompt" : "来年結婚する",
                         "example" : "来年結婚することになりました。",
                         "notes": "Here used when it is based on a personal decision or volition, but the speaker doesn't want to state this directly."
                     }
@@ -1844,17 +1828,17 @@
             "form": "動「て形」＋みます",
             "examples" : [
                 {
-                    "prompt" : "靴をはいてみます。",
-                    "example" : "",
+                    "prompt" : "靴をはく",
+                    "example" : "靴をはいてみます。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "京都へ行く",
                     "example" : "京都へ行ってみたい。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "この料理を食べる",
                     "example" : "この料理を食べてみてください。",
                     "notes": "Also used to make mild recommendations."
                 }
@@ -1870,19 +1854,19 @@
             "form": "動「て形」＋置きます",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "旅行の前に、服をかばんに入れる",
                     "example" : "旅行の前に、服をかばんに入れて置きます。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "ごみを外に出す",
                     "example" : "ごみを外に出して置きましょう。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "窓はそのまま開ける",
                     "example" : "窓はそのまま開けて置いてください",
-                    "notes": "Also used to indicate an action should continue."
+                    "notes": "Also used to indicate an action should continue. 'keep it ...'"
                 }
             ]
             }
@@ -1896,17 +1880,17 @@
             "form": "動「て形」＋しまいます",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "レポートは明日出す",
                     "example" : "レポートは明日出してしまいます。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "今日買った本はもう読む",
                     "example" : "今日買った本はもう読んでしまって。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "あの人の名前を忘れる",
                     "example" : "あの人の名前を忘れてしまいますよ。",
                     "notes": "Also expresses regret at an error that can't easily be undone."
                 }
@@ -1922,12 +1906,12 @@
             "form": "名を＋あげます・差し上げます",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "サラさんに花を",
                     "example" : "サラさんに花をあげました。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "先生にカップを",
                     "example" : "先生にカップを差し上げました。",
                     "notes": "When recipient of action is higher status, 差し上げます is used."
                 }
@@ -1937,7 +1921,7 @@
                 "form": "動「て形」＋あげます・差し上げます",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "地図を書く",
                         "example" : "地図を書いてあげるよ。",
                         "notes": ""
                     }
@@ -1953,12 +1937,12 @@
             "form": "名を＋くれます・くださいます",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "山田さんは私に時計を",
                     "example" : "山田さんは私に時計をくれました。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "先生が妹に本を",
                     "example" : "先生が妹に本をくださいました。",
                     "notes": "When the giver is higher status, くださいます is used."
                 }
@@ -1968,7 +1952,7 @@
                 "form": "動「て形」＋くれます・くださいます",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "（私に）友達が店の場所を教える",
                         "example" : "（私に）友達が店の場所を教えてくれました。",
                         "notes": ""
                     }
@@ -1984,17 +1968,17 @@
             "form": "名を＋もらいます・いただきます",
             "examples" : [
                 {
-                    "prompt" : "",
-                    "example" : "山田さんに時計をもらいました",
+                    "prompt" : "山田さんに時計を",
+                    "example" : "山田さんに時計をもらいました。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
-                    "example" : "山田さんから時計をもらいました",
+                    "prompt" : "山田さんから時計を",
+                    "example" : "山田さんから時計をもらいました。",
                     "notes": "に or から can be used to indicate the giver interchangeably."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "妹は先生に本を",
                     "example" : "妹は先生に本をいただきました。",
                     "notes": "When the giver is higher status, いただきます is used."
                 }
@@ -2004,7 +1988,7 @@
                 "form": "動「て形」＋もらいます・いただきます",
                 "examples" : [
                     {
-                        "prompt" : "",
+                        "prompt" : "サラさんに一緒に病院へ行く。",
                         "example" : "サラさんに一緒に病院へ行ってもらった。",
                         "notes": ""
                     }
@@ -2020,37 +2004,37 @@
             "form": "動「受身の形」",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "先生に褒める",
                     "example" : "先生に褒められました",
                     "notes": "If the subject is 私, it can usually be omitted."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "女の人に道を聞く",
                     "example" : "女の人に道を聞かれました。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
-                    "example" : "（私は）電車の中であしを踏まれました。",
+                    "prompt" : "電車の中であしを踏む",
+                    "example" : "電車の中であしを踏まれました。",
                     "notes": "The passive can frequently convey a feeling of annoyance."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "弟にケーキを食べる　しまいました",
                     "example" : "弟にケーキを食べられてしまいました。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "うちの前にごみを捨てる、困っています。",
                     "example" : "うちの前にごみを捨てられて、困っています。",
                     "notes": ""
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "来年、夏のオリンピックが開く",
                     "example" : "来年、夏のオリンピックが開かれます。",
                     "notes": "The passive may be used for simple statements of fact. Used only with facts, without reference to the emotions of the speaker."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "本は世界中で　読んでいうる",
                     "example" : "本は世界中で読まれている。",
                     "notes": ""
                 }
@@ -2066,17 +2050,17 @@
             "form": "動「使役の形」",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "弟に部屋の掃除をする",
                     "example" : "弟に部屋の掃除をさせました。",
                     "notes": "The particle に indicating agent of action is for intransitive verbs."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "けんは犬を自由に遊ぶ",
                     "example" : "けんは犬を自由に遊ばせます。",
                     "notes": "Causative can be used to express giving permission or doing a favor."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "嘘をついて、父を　怒る　しまいました",
                     "example" : "嘘をついて、父を怒らせてしまいました。",
                     "notes": "Causative frequently evokes emotions. Particle is を used for transitive verbs."
                 }
@@ -2092,12 +2076,12 @@
             "form": "動「使役受身の形」",
             "examples" : [
                 {
-                    "prompt" : "",
+                    "prompt" : "兄に部屋の掃除をする",
                     "example" : "兄に部屋の掃除をさせられました。",
                     "notes": "The subject is being reluctantly forced to do an action."
                 },
                 {
-                    "prompt" : "",
+                    "prompt" : "子供が遅くまで帰って来なくて、心配する",
                     "example" : "子供が遅くまで帰って来なくて、心配させられました。",
                     "notes": "The causative-passive frequently conveys emotion."
                 }
