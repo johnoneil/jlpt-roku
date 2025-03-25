@@ -169,6 +169,11 @@ input_files = {
     "Chapter8Section3" : "data/n3/2000WordsBook/ch8/sec3.json",
     "Chapter8Section4" : "data/n3/2000WordsBook/ch8/sec4.json",
     "Chapter8Section5" : "data/n3/2000WordsBook/ch8/sec5.json",
+    "Chapter9Section1" : "data/n3/2000WordsBook/ch9/sec1.json",
+    "Chapter9Section2" : "data/n3/2000WordsBook/ch9/sec2.json",
+    "Chapter9Section3" : "data/n3/2000WordsBook/ch9/sec3.json",
+    "Chapter9Section4" : "data/n3/2000WordsBook/ch9/sec4.json",
+    "Chapter9Section5" : "data/n3/2000WordsBook/ch9/sec5.json",
     "N3Vocabulary" : "data/n3/vocabulary.json",
     "N4Vocabulary" : "data/n4/vocabulary.json",
 }
