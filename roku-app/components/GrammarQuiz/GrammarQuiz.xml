@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <component name="GrammarQuiz" extends = "SceneBase" initialFocus = "QuizSelection">
 
-  <script type="text/brightscript" uri="Quiz.brs" />
+  <script type="text/brightscript" uri="GrammarQuiz.brs" />
   <script type="text/brightscript" uri="pkg:/source/WorldInfo.brs" />
   <script type="text/brightscript" uri="pkg:/source/RandomValues.brs" />
   <script type="text/brightscript" uri="pkg:/source/Grammar.brs" />
@@ -20,6 +20,17 @@
               uri = ""
         />
         <Poster
+              id="Prompt"
+              loadSync="true"
+              uri = ""
+        />
+        <Label
+          id="Meaning"
+        />
+        <Label
+          id="Notes"
+        />
+        <Poster
             id="Form"
             loadSync="true"
             uri = ""
@@ -28,12 +39,6 @@
             id="Example"
             loadSync="true"
             uri = ""
-        />
-        <Label
-          id="Meaning"
-        />
-        <Label
-          id="Notes"
         />
       </LayoutGroup>
     </children>

@@ -1,2092 +1,2142 @@
 [
-    {
-        "name" : "〜より",
-        "meaning" : "'Than'. Used to express the extent of something forming a topic, by comparison with something else.",
-        "forms" : [
-            {
-            "form": "名＋より",
-            "examples" : [
+    [
+        {
+            "name" : "〜より",
+            "meaning" : "'Than'. Used to express the extent of something forming a topic, by comparison with something else.",
+            "forms" : [
                 {
-                    "prompt" : "このアパート　前のアパート 便利",
-                    "example" : "このアパートは前のアパートより便利です",
-                    "notes": ""
-                }
-            ]
-            },
-            {
                 "form": "名＋より",
                 "examples" : [
                     {
-                        "prompt" : "私は 何　音楽 好きです",
-                        "example" : "私は何より音楽が好きです",
-                        "notes": "The superlative is expressed though the use of interrogative word ＋より."
+                        "prompt" : "このアパート　前のアパート 便利",
+                        "example" : "このアパートは前のアパートより便利です",
+                        "notes": ""
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ほど。。。ません",
-        "meaning" : "'Not as.. as..'. Negative comparison.",
-        "forms" : [
-            {
-            "form": "名＋ほど。。。ません",
-            "examples" : [
+                },
                 {
-                    "prompt" : "昔　今 賑やか",
-                    "example" : "昔は今ほど賑やかではありませんでしたよ。",
-                    "notes": ""
+                    "form": "名＋より",
+                    "examples" : [
+                        {
+                            "prompt" : "私は 何　音楽 好きです",
+                            "example" : "私は何より音楽が好きです",
+                            "notes": "The superlative is expressed though the use of interrogative word ＋より."
+                        }
+                    ]
                 }
             ]
-            }
-        ]
-    },
-    {
-        "name" : "〜より。。。のほう",
-        "meaning" : "A way of expressing a preference, or comparison of extent of two things (noun 2 > noun 1). Not normally used in negative statements.",
-        "forms" : [
-            {
-            "form": "名1＋より＋名2＋のほう",
-            "examples" : [
+        },
+        {
+            "name" : "〜ほど。。。ません",
+            "meaning" : "'Not as.. as..'. Negative comparison.",
+            "forms" : [
                 {
-                    "prompt" : "私 弟 背が高いです",
-                    "example" : "私より弟のほうが背が高いです。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜と〜とどちら",
-        "meaning" : "A way of asking someone to express a preference, or comparison of extent of two things. Responses usually take the 〜のほう or　〜どちらも forms.",
-        "forms" : [
-            {
-            "form": "名1＋と＋名2＋とどちら",
-            "examples" : [
-                {
-                    "prompt" : "コーヒーと 紅茶 いいですか",
-                    "example" : "コーヒーと紅茶とどちらがいいですか。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ながら。。。",
-        "meaning" : "used when main action or behavior (...) is accompanied by a separate, simultaneous ancillary action or behavior (~). It is added to a verb expressing a continuous action or behavior.",
-        "forms" : [
-            {
-            "form": "動「~ます~」＋ながら",
-            "examples" : [
-                {
-                    "prompt" : "きれいな海 見る　散歩しました",
-                    "example" : "きれいな海を見ながら散歩しました。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ところです",
-        "meaning" : "Expresses a time point in an action or a change.",
-        "forms" : [
-            {
-            "form": "動「辞書形」＋ところです",
-            "examples" : [
-                {
-                    "prompt" : "試合　始まる",
-                    "example" : "試合が始まるところです。",
-                    "notes": "Expresses the time point just before the action started."
-                }
-            ]
-            },
-            {
-                "form": "動「ている」＋ところです",
+                "form": "名＋ほど。。。ません",
                 "examples" : [
                     {
-                        "prompt" : "インターネット　店の場所　調べている",
-                        "example" : "インターネットで店の場所を調べているところです。",
-                        "notes": "Indicates a time point in a continuous action."
+                        "prompt" : "昔　今 賑やか",
+                        "example" : "昔は今ほど賑やかではありませんでしたよ。",
+                        "notes": ""
                     }
                 ]
-            },
-            {
-                "form": "動「た形」＋ところです",
-                "examples" : [
-                    {
-                        "prompt" : "ちょうど　今駅　着いた",
-                        "example" : "ちょうど今駅に着いたところだよ。",
-                        "notes": "Indicates a time point just after the action has completed."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜まで。。。",
-        "meaning" : "'Until'. Expresses time limitation.",
-        "forms" : [
-            {
-            "form": "名＋まで",
-            "examples" : [
-                {
-                    "prompt" : "飛行機の出発時間　ここで待っています",
-                    "example" : "飛行機の出発時間までここで待っています。",
-                    "notes": "A phrase expressing a continuous action, behavior or state follows 〜まで."
                 }
             ]
-            },
-            {
-                "form": "動「辞書形」＋まで",
+        },
+        {
+            "name" : "〜より。。。のほう",
+            "meaning" : "A way of expressing a preference, or comparison of extent of two things (noun 2 > noun 1). Not normally used in negative statements.",
+            "forms" : [
+                {
+                "form": "名1＋より＋名2＋のほう",
                 "examples" : [
                     {
-                        "prompt" : "仕事が終わる　帰らないでください",
-                        "example" : "仕事が終わるまで帰らないでください。",
+                        "prompt" : "私 弟 背が高いです",
+                        "example" : "私より弟のほうが背が高いです。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜と〜とどちら",
+            "meaning" : "A way of asking someone to express a preference, or comparison of extent of two things. Responses usually take the 〜のほう or　〜どちらも forms.",
+            "forms" : [
+                {
+                "form": "名1＋と＋名2＋とどちら",
+                "examples" : [
+                    {
+                        "prompt" : "コーヒーと 紅茶 いいですか",
+                        "example" : "コーヒーと紅茶とどちらがいいですか。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜ながら。。。",
+            "meaning" : "used when main action or behavior (...) is accompanied by a separate, simultaneous ancillary action or behavior (~). It is added to a verb expressing a continuous action or behavior.",
+            "forms" : [
+                {
+                "form": "動「~ます~」＋ながら",
+                "examples" : [
+                    {
+                        "prompt" : "きれいな海 見る　散歩しました",
+                        "example" : "きれいな海を見ながら散歩しました。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜ところです",
+            "meaning" : "Expresses a time point in an action or a change.",
+            "forms" : [
+                {
+                "form": "動「辞書形」＋ところです",
+                "examples" : [
+                    {
+                        "prompt" : "試合　始まる",
+                        "example" : "試合が始まるところです。",
+                        "notes": "Expresses the time point just before the action started."
+                    }
+                ]
+                },
+                {
+                    "form": "動「ている」＋ところです",
+                    "examples" : [
+                        {
+                            "prompt" : "インターネット　店の場所　調べている",
+                            "example" : "インターネットで店の場所を調べているところです。",
+                            "notes": "Indicates a time point in a continuous action."
+                        }
+                    ]
+                },
+                {
+                    "form": "動「た形」＋ところです",
+                    "examples" : [
+                        {
+                            "prompt" : "ちょうど　今駅　着いた",
+                            "example" : "ちょうど今駅に着いたところだよ。",
+                            "notes": "Indicates a time point just after the action has completed."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "〜まで。。。",
+            "meaning" : "'Until'. Expresses time limitation.",
+            "forms" : [
+                {
+                "form": "名＋まで",
+                "examples" : [
+                    {
+                        "prompt" : "飛行機の出発時間　ここで待っています",
+                        "example" : "飛行機の出発時間までここで待っています。",
+                        "notes": "A phrase expressing a continuous action, behavior or state follows 〜まで."
+                    }
+                ]
+                },
+                {
+                    "form": "動「辞書形」＋まで",
+                    "examples" : [
+                        {
+                            "prompt" : "仕事が終わる　帰らないでください",
+                            "example" : "仕事が終わるまで帰らないでください。",
+                            "notes": "Followed by a phrase expressing a short duration, therefore 'by'."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "〜までに。。。",
+            "meaning" : "'By'. Expresses time limitation.",
+            "forms" : [
+                {
+                "form": "名＋までに",
+                "examples" : [
+                    {
+                        "prompt" : "二十日　旅行のお金　払います",
+                        "example" : "二十日までに旅行のお金を払います。",
                         "notes": "Followed by a phrase expressing a short duration, therefore 'by'."
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name" : "〜までに。。。",
-        "meaning" : "'By'. Expresses time limitation.",
-        "forms" : [
-            {
-            "form": "名＋までに",
-            "examples" : [
+                },
                 {
-                    "prompt" : "二十日　旅行のお金　払います",
-                    "example" : "二十日までに旅行のお金を払います。",
-                    "notes": "Followed by a phrase expressing a short duration, therefore 'by'."
+                    "form": "動「辞書形」＋までに",
+                    "examples" : [
+                        {
+                            "prompt" : "お客さん　来る　部屋を片付けてね",
+                            "example" : "お客さんが来るまでに部屋を片付けてね",
+                            "notes": "Followed by a phrase expressing a short duration, therefore 'by'."
+                        }
+                    ]
                 }
             ]
-            },
-            {
-                "form": "動「辞書形」＋までに",
+        }
+    ],
+    [
+        {
+            "name" : "〜ませんか",
+            "meaning" : "Used when making a proposal or invitation. Can be used for joint activities by speakers and also when only the other person is involved.",
+            "forms" : [
+                {
+                "form": "動「~ます~」＋ませんか",
                 "examples" : [
                     {
-                        "prompt" : "お客さん　来る　部屋を片付けてね",
-                        "example" : "お客さんが来るまでに部屋を片付けてね",
-                        "notes": "Followed by a phrase expressing a short duration, therefore 'by'."
+                        "prompt" : "テニス　する",
+                        "example" : "テニスをしませんか。",
+                        "notes": ""
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ませんか",
-        "meaning" : "Used when making a proposal or invitation. Can be used for joint activities by speakers and also when only the other person is involved.",
-        "forms" : [
-            {
-            "form": "動「~ます~」＋ませんか",
-            "examples" : [
-                {
-                    "prompt" : "テニス　する",
-                    "example" : "テニスをしませんか。",
-                    "notes": ""
                 }
             ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ましょう（か）",
-        "meaning" : "Used to propose that a certain action be performed *together* with the partner's consent. In conversation with intimates, the う・よう form may be used.",
-        "forms" : [
-            {
-            "form": "動「~ます~」＋ましょう（か）",
-            "examples" : [
+        },
+        {
+            "name" : "〜ましょう（か）",
+            "meaning" : "Used to propose that a certain action be performed *together* with the partner's consent. In conversation with intimates, the う・よう form may be used.",
+            "forms" : [
                 {
-                    "prompt" : "電気　つける",
-                    "example" : "A:電気つけましょうか。B:ええ、お願いします。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜（られ）ます",
-        "meaning" : "Potential form. Expresses capability or potentiality of situation.",
-        "forms" : [
-            {
-            "form": "可能の形、を→が",
-            "examples" : [
-                {
-                    "prompt" : "中国語　話す",
-                    "example" : "中国語が話せます。",
-                    "notes": "Expressing capability. Note object particle を　frequently changes to　が."
-                }
-            ]
-            },
-            {
-                "form": "可能の形",
+                "form": "動「~ます~」＋ましょう（か）",
                 "examples" : [
                     {
-                        "prompt" : "この美術館　有名な絵　みる",
-                        "example" : "この美術館で有名な絵が見られます。",
-                        "notes": "Potentiality of situation. Compare　見える with below."
+                        "prompt" : "電気　つける",
+                        "example" : "A:電気つけましょうか。B:ええ、お願いします。",
+                        "notes": ""
                     }
                 ]
-            }
-        ]
-    },    {
-        "name" : "〜ができます",
-        "meaning" : "Expresses a situation of enablement or receipt of permission. Used with verbs expressing intentional behavior, and slightly more formal than 〜（られ）ます.",
-        "forms" : [
-            {
-            "form": "名＋ができます。",
-            "examples" : [
-                {
-                    "prompt" : "コンビニで　買い物",
-                    "example" : "コンビニで買い物ができます。",
-                    "notes": ""
                 }
             ]
-            }
-        ]
-    },    {
-        "name" : "〜ことができます",
-        "meaning" : "",
-        "forms" : [
-            {
-            "form": "動「辞書形」＋ことができます",
-            "examples" : [
+        }
+    ],
+    [
+        {
+            "name" : "〜（られ）ます",
+            "meaning" : "Potential form. Expresses capability or potentiality of situation.",
+            "forms" : [
                 {
-                    "prompt" : "この建物の中　入る",
-                    "example" : "この建物の中には入ることができません。",
-                    "notes": ""
+                "form": "可能の形、を→が",
+                "examples" : [
+                    {
+                        "prompt" : "中国語　話す",
+                        "example" : "中国語が話せます。",
+                        "notes": "Expressing capability. Note object particle を　frequently changes to　が."
+                    }
+                ]
+                },
+                {
+                    "form": "可能の形",
+                    "examples" : [
+                        {
+                            "prompt" : "この美術館　有名な絵　みる",
+                            "example" : "この美術館で有名な絵が見られます。",
+                            "notes": "Potentiality of situation. Compare　見える with below."
+                        }
+                    ]
                 }
             ]
-            }
-        ]
-    },    {
-        "name" : "が見えます・が聞こえます",
-        "meaning" : "Expresses natural ability to see or hear something. *Not* situational.",
-        "forms" : [
-            {
-            "form": "名＋が見えます",
-            "examples" : [
+        },    {
+            "name" : "〜ができます",
+            "meaning" : "Expresses a situation of enablement or receipt of permission. Used with verbs expressing intentional behavior, and slightly more formal than 〜（られ）ます.",
+            "forms" : [
                 {
-                    "prompt" : "この部屋の窓　海　見る",
-                    "example" : "この部屋の窓から海が見えます。",
-                    "notes": "Contrast with 見られます."
+                "form": "名＋ができます。",
+                "examples" : [
+                    {
+                        "prompt" : "コンビニで　買い物",
+                        "example" : "コンビニで買い物ができます。",
+                        "notes": ""
+                    }
+                ]
                 }
             ]
-            },
-            {
+        },    {
+            "name" : "〜ことができます",
+            "meaning" : "",
+            "forms" : [
+                {
+                "form": "動「辞書形」＋ことができます",
+                "examples" : [
+                    {
+                        "prompt" : "この建物の中　入る",
+                        "example" : "この建物の中には入ることができません。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },    {
+            "name" : "が見えます・が聞こえます",
+            "meaning" : "Expresses natural ability to see or hear something. *Not* situational.",
+            "forms" : [
+                {
                 "form": "名＋が見えます",
                 "examples" : [
                     {
-                        "prompt" : "風の音　聞く",
-                        "example" : "風の音が聞こえるね",
-                        "notes": "Contrast with 聞けます。"
+                        "prompt" : "この部屋の窓　海　見る",
+                        "example" : "この部屋の窓から海が見えます。",
+                        "notes": "Contrast with 見られます."
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name" : "〜たことがあります",
-        "meaning" : "Expresses past experience. It is not used for this that have happened in the recent past.",
-        "forms" : [
-            {
-            "form": "動「た形」＋ことがあります",
-            "examples" : [
+                },
                 {
-                    "prompt" : "一度テレビドラマ　出る",
-                    "example" : "一度テレビドラマに出たことがあります。",
-                    "notes": "Often used with words denoting frequency, such as 一度 一度も　何度か or 何度も. Not used with words expressing long duration such as: いつも　たいてい"
+                    "form": "名＋が見えます",
+                    "examples" : [
+                        {
+                            "prompt" : "風の音　聞く",
+                            "example" : "風の音が聞こえるね",
+                            "notes": "Contrast with 聞けます。"
+                        }
+                    ]
                 }
             ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ことがあります",
-        "meaning" : "Used to describe something unusual that may happen. Not used with things that happen very frequently.",
-        "forms" : [
-            {
-            "form": "動「辞書形」＋ことがあります",
-            "examples" : [
+        }
+    ],
+    [
+        {
+            "name" : "〜たことがあります",
+            "meaning" : "Expresses past experience. It is not used for this that have happened in the recent past.",
+            "forms" : [
                 {
-                    "prompt" : "人の名前　忘れる",
-                    "example" : "人の名前を忘れることがあります。",
-                    "notes": ""
+                "form": "動「た形」＋ことがあります",
+                "examples" : [
+                    {
+                        "prompt" : "一度テレビドラマ　出る",
+                        "example" : "一度テレビドラマに出たことがあります。",
+                        "notes": "Often used with words denoting frequency, such as 一度 一度も　何度か or 何度も. Not used with words expressing long duration such as: いつも　たいてい"
+                    }
+                ]
                 }
             ]
-            },
-            {
-                "form": "動「ない形」＋ことがあります",
-                "examples" : [
-                    {
-                        "prompt" : "時間がない時　食べる",
-                        "example" : "時間がない時は食べないこともあります。",
-                        "notes": "In this form　が may change to も."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜てもいいです",
-        "meaning" : "'May'. Expresses permission or concession.",
-        "forms" : [
-            {
-            "form": "動「て形」＋もいいです",
-            "examples" : [
+        },
+        {
+            "name" : "〜ことがあります",
+            "meaning" : "Used to describe something unusual that may happen. Not used with things that happen very frequently.",
+            "forms" : [
                 {
-                    "prompt" : "座る",
-                    "example" : "座ってもいいですか。",
-                    "notes": ""
-                }
-            ]
-            },
-            {
-                "form": "イ形「〜い〜」くて＋もいいです",
+                "form": "動「辞書形」＋ことがあります",
                 "examples" : [
                     {
-                        "prompt" : "狭い",
-                        "example" : "狭くてもいいです",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "ナ形「〜ナ〜」で＋もいいです",
-                "examples" : [
-                    {
-                        "prompt" : "下手な",
-                        "example" : "下手でもいいです。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "名で＋もいいです",
-                "examples" : [
-                    {
-                        "prompt" : "服　Tシャツ",
-                        "example" : "服はTシャツでもいいです。",
-                        "notes": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜てはいけません",
-        "meaning" : "'Must not'. Expresses prohibition.",
-        "forms" : [
-            {
-                "form": "動「て形」＋はいけません",
-                "examples" : [
-                    {
-                        "prompt" : "いく",
-                        "example" : "行ってはいけません。",
+                        "prompt" : "人の名前　忘れる",
+                        "example" : "人の名前を忘れることがあります。",
                         "notes": ""
                     }
                 ]
                 },
                 {
-                    "form": "イ形「〜い〜」くて＋はいけません",
+                    "form": "動「ない形」＋ことがあります",
+                    "examples" : [
+                        {
+                            "prompt" : "時間がない時　食べる",
+                            "example" : "時間がない時は食べないこともあります。",
+                            "notes": "In this form　が may change to も."
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜てもいいです",
+            "meaning" : "'May'. Expresses permission or concession.",
+            "forms" : [
+                {
+                "form": "動「て形」＋もいいです",
+                "examples" : [
+                    {
+                        "prompt" : "座る",
+                        "example" : "座ってもいいですか。",
+                        "notes": ""
+                    }
+                ]
+                },
+                {
+                    "form": "イ形「〜い〜」くて＋もいいです",
                     "examples" : [
                         {
                             "prompt" : "狭い",
-                            "example" : "狭くてはいけません",
+                            "example" : "狭くてもいいです",
                             "notes": ""
                         }
                     ]
                 },
                 {
-                    "form": "ナ形「〜ナ〜」で＋はいけません",
+                    "form": "ナ形「〜ナ〜」で＋もいいです",
                     "examples" : [
                         {
-                            "prompt" : "下手　な",
-                            "example" : "下手ではいけません。",
+                            "prompt" : "下手な",
+                            "example" : "下手でもいいです。",
                             "notes": ""
                         }
                     ]
                 },
                 {
-                    "form": "名で＋はいけません",
+                    "form": "名で＋もいいです",
                     "examples" : [
                         {
                             "prompt" : "服　Tシャツ",
-                            "example" : "服はTシャツではいけません。",
+                            "example" : "服はTシャツでもいいです。",
                             "notes": ""
                         }
                     ]
                 }
-        ]
-    },
-    {
-        "name" : "なくてもいいです",
-        "meaning" : "'May not' 'Don't have to'. Expresses absence of necessity or concession.",
-        "forms" : [
-            {
-            "form": "動「〜ない〜」＋なくてもいいです。",
-            "examples" : [
+            ]
+        },
+        {
+            "name" : "〜てはいけません",
+            "meaning" : "'Must not'. Expresses prohibition.",
+            "forms" : [
                 {
-                    "prompt" : "飲む",
-                    "example" : "飲まなくてもいいです。",
-                    "notes": "**Important** Usually the negative of 飲んで is 飲まないで (the verbal form). But here we use the adjectival form 飲まなくて. This is less commonly used than the verbal."
+                    "form": "動「て形」＋はいけません",
+                    "examples" : [
+                        {
+                            "prompt" : "いく",
+                            "example" : "行ってはいけません。",
+                            "notes": ""
+                        }
+                    ]
+                    },
+                    {
+                        "form": "イ形「〜い〜」くて＋はいけません",
+                        "examples" : [
+                            {
+                                "prompt" : "狭い",
+                                "example" : "狭くてはいけません",
+                                "notes": ""
+                            }
+                        ]
+                    },
+                    {
+                        "form": "ナ形「〜ナ〜」で＋はいけません",
+                        "examples" : [
+                            {
+                                "prompt" : "下手　な",
+                                "example" : "下手ではいけません。",
+                                "notes": ""
+                            }
+                        ]
+                    },
+                    {
+                        "form": "名で＋はいけません",
+                        "examples" : [
+                            {
+                                "prompt" : "服　Tシャツ",
+                                "example" : "服はTシャツではいけません。",
+                                "notes": ""
+                            }
+                        ]
+                    }
+            ]
+        },
+        {
+            "name" : "なくてもいいです",
+            "meaning" : "'May not' 'Don't have to'. Expresses absence of necessity or concession.",
+            "forms" : [
+                {
+                "form": "動「〜ない〜」＋なくてもいいです。",
+                "examples" : [
+                    {
+                        "prompt" : "飲む",
+                        "example" : "飲まなくてもいいです。",
+                        "notes": "**Important** Usually the negative of 飲んで is 飲まないで (the verbal form). But here we use the adjectival form 飲まなくて. This is less commonly used than the verbal."
+                    }
+                ]
+                },
+                {
+                    "form": "イ形「〜い〜」く＋なくてもいいです",
+                    "examples" : [
+                        {
+                            "prompt" : "駅　近くない",
+                            "example" : "駅に近くなくてもいいです。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "ナ形「〜ナ〜」で＋なくてもいいです",
+                    "examples" : [
+                        {
+                            "prompt" : "便利　な",
+                            "example" : "便利でなくてもいいです。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "名で＋なくてもいいです",
+                    "examples" : [
+                        {
+                            "prompt" : "私の",
+                            "example" : "私のでなくてもいいです",
+                            "notes": ""
+                        }
+                    ]
                 }
             ]
-            },
-            {
-                "form": "イ形「〜い〜」く＋なくてもいいです",
-                "examples" : [
-                    {
-                        "prompt" : "駅　近くない",
-                        "example" : "駅に近くなくてもいいです。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "ナ形「〜ナ〜」で＋なくてもいいです",
-                "examples" : [
-                    {
-                        "prompt" : "便利　な",
-                        "example" : "便利でなくてもいいです。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "名で＋なくてもいいです",
-                "examples" : [
-                    {
-                        "prompt" : "私の",
-                        "example" : "私のでなくてもいいです",
-                        "notes": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜なければなりません",
-        "meaning" : "'Must' Expresses obligation.",
-        "forms" : [
-            {
-            "form": "動「〜ない〜」＋なければなりません。",
-            "examples" : [
+        },
+        {
+            "name" : "〜なければなりません",
+            "meaning" : "'Must' Expresses obligation.",
+            "forms" : [
                 {
-                    "prompt" : "飲む",
-                    "example" : "飲まなければなりません。",
-                    "notes": ""
+                "form": "動「〜ない〜」＋なければなりません。",
+                "examples" : [
+                    {
+                        "prompt" : "飲む",
+                        "example" : "飲まなければなりません。",
+                        "notes": ""
+                    }
+                ]
+                },
+                {
+                    "form": "イ形「〜い〜」く＋なければなりません",
+                    "examples" : [
+                        {
+                            "prompt" : "駅に近い",
+                            "example" : "駅に近くなければなりません。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "ナ形「〜ナ〜」で＋なければなりません",
+                    "examples" : [
+                        {
+                            "prompt" : "便利な",
+                            "example" : "便利でなければなりません。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "名で＋なければなりません",
+                    "examples" : [
+                        {
+                            "prompt" : "",
+                            "example" : "私のでなければなりません",
+                            "notes": ""
+                        }
+                    ]
                 }
             ]
-            },
-            {
-                "form": "イ形「〜い〜」く＋なければなりません",
+        }
+    ],
+    [
+        {
+            "name" : "〜がほしいです",
+            "meaning" : "Expresses the speaker's hopes and desires.",
+            "forms" : [
+                {
+                "form": "名が＋ほしいです",
                 "examples" : [
                     {
-                        "prompt" : "駅に近い",
-                        "example" : "駅に近くなければなりません。",
+                        "prompt" : "自分の部屋",
+                        "example" : "自分の部屋がほしいです。",
                         "notes": ""
                     }
                 ]
-            },
-            {
-                "form": "ナ形「〜ナ〜」で＋なければなりません",
+                }
+            ]
+        },
+        {
+            "name" : "〜をほしがります",
+            "meaning" : "Expresses a third party's hopes and desires.",
+            "forms" : [
+                {
+                "form": "名を＋ほしがります",
                 "examples" : [
                     {
-                        "prompt" : "便利な",
-                        "example" : "便利でなければなりません。",
+                        "prompt" : "犬　食べ物",
+                        "example" : "犬は食べ物を欲しがります",
                         "notes": ""
                     }
                 ]
-            },
-            {
-                "form": "名で＋なければなりません",
+                }
+            ]
+        },
+        {
+            "name" : "〜たいです",
+            "meaning" : "Expresses speaker's hopes or desires. Note particle　を frequently changes to が.",
+            "forms" : [
+                {
+                "form": "動「~ます~」＋たいです",
                 "examples" : [
+                    {
+                        "prompt" : "本　読む",
+                        "example" : "本が読みたい。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜たがります",
+            "meaning" : "Expresses a third party's hopes or desires. Note particle　を frequently changes to が.",
+            "forms" : [
+                {
+                "form": "動「~ます~」＋たがります",
+                "examples" : [
+                    {
+                        "prompt" : "誰も　いく",
+                        "example" : "誰も行きたがりません。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜といいです",
+            "meaning" : "Expresses a situation hoped for by the speaker. Uses verbs that do not indicate the intentions of the speaker (non volitional verbs, verbs expressing potentiality and verbs for which the 3rd person is the subject).",
+            "forms" : [
+                {
+                "form": "普通形（「ーた・ーなかった」は使わない）＋といいです",
+                "examples" : [
+                    {
+                        "prompt" : "仕事　見つかる",
+                        "example" : "仕事が見つかるといいですね。",
+                        "notes": "Often ね、けど、なあ are added to the end of the sentence or phrase."
+                    },
+                    {
+                        "prompt" : "広い",
+                        "example" : "広いといいけどなあ。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "家族　みんな　親切　な",
+                        "example" : "家族がみんな親切だといいなあ。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜そうです",
+            "meaning" : "Used to express the sense that something will occur based on outside appearance or circumstances, as well as to make inferences based on state or quality. Judgments. Presentiments.",
+            "forms" : [
+                {
+                "form": "動「~ます~」＋そうです・そうもありません",
+                "examples" : [
+                    {
+                        "prompt" : "コップ　落ちる",
+                        "example" : "コップが落ちそうです",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "雨　降る　ありません",
+                        "example" : "雨が降りそうもありません。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "いい品物　ありません",
+                        "example" : "いい品物はなさそうです",
+                        "notes": "Note exception. ありません-> なさそう"
+                    }
+                ]
+                },
+                {
+                    "form": "イ形「〜い〜」・ナ形「〜ナ〜」＋そうです",
+                    "examples" : [
+                        {
+                            "prompt" : "美味しい　ケーキ",
+                            "example" : "美味しそうなケーキ",
+                            "notes": ""
+                        },
+                        {
+                            "prompt" : "心配　電話しました",
+                            "example" : "心配そうに電話しました",
+                            "notes": ""
+                        },
+                        {
+                            "prompt" : "天気　良い",
+                            "example" : "天気が良さそうです。",
+                            "notes": "Note exception. いい　->　よさそう "
+                        }
+                    ]
+                },
+                {
+                    "form": "イ形「〜い〜」く・ナ形「〜ナ〜」では・名では＋なさそうです",
+                    "examples" : [
+                        {
+                            "prompt" : "ケーキ　美味しい",
+                            "example" : "ケーキは美味しくなさそうです。",
+                            "notes": ""
+                        },
+                        {
+                            "prompt" : "あの人　親切な　じゃありません",
+                            "example" : "あの人は親切ではなさそうです。",
+                            "notes": ""
+                        },
+                        {
+                            "prompt" : "今日　じゃありません",
+                            "example" : "今日ではなさそうです。",
+                            "notes": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "〜がっています・〜がります",
+            "meaning" : "Expresses the wishes or emotions of a third party (usually relatives or people of lower status than the speaker.",
+            "forms" : [
+                {
+                "form": "イ形「〜い〜」・ナ形「〜ナ〜」＋がっています",
+                "examples" : [
+                    {
+                        "prompt" : "犬　嬉しい",
+                        "example" : "犬は嬉しがっています",
+                        "notes": "Used when describing the current situation, rather than any usual trend."
+                    },
+                    {
+                        "prompt" : "子供達　面白い　ゲームを遊んでいます",
+                        "example" : "子供達は面白がってゲームで遊んでいます。",
+                        "notes": ""
+                    }
+                ]
+                },
+                {
+                    "form": "イ形「〜い〜」・ナ形「〜ナ〜」＋がります",
+                    "examples" : [
+                        {
+                            "prompt" : "弟 怖い　話　嫌　です",
+                            "example" : "弟は怖い話を嫌がります。",
+                            "notes": "Used when expressing a general trend rather than the situation at hand."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "〜まま。。。",
+            "meaning" : "Expresses a state that is continuous and has not changed. Often used where the speaker feels the situation is undesirable because no change has occurred.",
+            "forms" : [
+                {
+                "form": "動「た形・ない形」＋まま",
+                "examples" : [
+                    {
+                        "prompt" : "窓　開ける　寝ました",
+                        "example" : "窓を開けたまま寝ました。",
+                        "notes": "Example of undesirable situation."
+                    },
+                    {
+                        "prompt" : "手　洗わない",
+                        "example" : "手を洗わないまま。",
+                        "notes": "Example of undesirable situation."
+                    }
+                ]
+                },
+                {
+                    "form": "イ形「い」＋まま",
+                    "examples" : [
+                        {
+                            "prompt" : "手　汚い　食べました",
+                            "example" : "手が汚いまま食べました。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "ナ形「ナ」＋まま",
+                    "examples" : [
+                        {
+                            "prompt" : "自由な　歩きます",
+                            "example" : "自由なまま歩きます。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "名の＋まま",
+                    "examples" : [
+                        {
+                            "prompt" : "昨日",
+                            "example" : "昨日のまま",
+                            "notes": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜から・〜からです",
+            "meaning" : "Used to explain cause, reason or grounds, somewhat emphatically.",
+            "forms" : [
+                {
+                "form": "普通形・丁寧形＋から",
+                "examples" : [
+                    {
+                        "prompt" : "用事　先に帰ります",
+                        "example" : "用事がありますから、先に帰ります。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "危ない　触らないで",
+                        "example" : "危ないから、触らないで！",
+                        "notes": ""
+                    }
+
+                ]
+                },
+                {
+                    "form": "普通形＋からです",
+                    "examples" : [
+                        {
+                            "prompt" : "練習　足りる",
+                            "example" : "練習が足りなかったからです",
+                            "notes": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "〜ので。。。",
+            "meaning" : "Expresses cause and reason. It is more polite than 〜から , and cannot be used before phrases with imperatives and polite every day formulas like すみません、ありがとう。",
+            "forms" : [
+                {
+                "form": "普通形（ナ形「〜だ〜」な・名「〜だ〜」な）＋ので",
+                "examples" : [
+                    {
+                        "prompt" : "頭　痛い　休みます",
+                        "example" : "頭が痛いので休みます。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "子供は５歳　バス代はかかりません",
+                        "example" : "子供は５歳なので、バス代はかかりません。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "雨が降る　散歩に行かながった",
+                        "example" : "雨が降っていたので散歩に行かながった。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜て。。。・〜くて。。。・〜で。。。",
+            "meaning" : "used to express cause and reason. It often expresses cause and reason for *emotions and perceptions*, more so than 〜から、〜ので. In addition to words expressing mood, such as , it is often followed by terms expressing impossibility and polite everyday formulas such as　すみません、ありがとう. It cannot be followed by statements of hope, intention or inducement on the part of the speaker.",
+            "forms" : [
+                {
+                "form": "動て形",
+                "examples" : [
+                    {
+                        "prompt" : "たくさん仕事がある　大変でした",
+                        "example" : "たくさん仕事があって、大変でした",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "電車が来ない　遅刻しました",
+                        "example" : "電車が来なくて,遅刻しました",
+                        "notes": "**Important** Usually the negative of 来て is 来ないで (the verbal form). But here we use the adjectival form 来なくて. This is less commonly used than the verbal."
+                    },
+                    {
+                        "prompt" : "友達がいない　寂しい",
+                        "example" : "友達がいなくて、寂しい。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "遅れる　すみませんでした",
+                        "example" : "遅れて、すみませんでした。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "教えてくれる　ありがとう",
+                        "example" : "教えてくれて、ありがとう。",
+                        "notes": ""
+                    }
+                ]
+                },
+                {
+                    "form": "イ形「〜い〜」くて",
+                    "examples" : [
+                        {
+                            "prompt" : "汚い　ごめなさい",
+                            "example" : "汚くて、ごめなさい。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "ナ形「〜な〜」で",
+                    "examples" : [
+                        {
+                            "prompt" : "心配な　よく眠れませんでした",
+                            "example" : "心配で、よく眠れませんでした。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "名で",
+                    "examples" : [
+                        {
+                            "prompt" : "あなたの　ありがとうございます",
+                            "example" : "あなたので、ありがとうございます。",
+                            "notes": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜に。。。「行く。来る。帰る」",
+            "meaning" : "'Purpose of movement'. After　に can come a limited number of verbs of motion.",
+            "forms" : [
+                {
+                "form": "名「〜する〜」＋に",
+                "examples" : [
+                    {
+                        "prompt" : "散歩 行きました",
+                        "example" : "散歩に行きました。",
+                        "notes": ""
+                    }
+                ]
+                },
+                {
+                    "form": "動「〜ます〜」＋に",
+                    "examples" : [
+                        {
+                            "prompt" : "とり 帰りました",
+                            "example" : "とりに帰りました。",
+                            "notes": ""
+                        },
+                        {
+                            "prompt" : "向かい くる",
+                            "example" : "向かいにくる",
+                            "notes": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "〜ため（に）",
+            "meaning" : "Expresses purpose of action. It is attached to words expressing *intentional action* and the subject is the same before and after the　ため .",
+            "forms" : [
+                {
+                "form": "名の＋ため（に）",
+                "examples" : [
+                    {
+                        "prompt" : "結婚式 じゅんびをしています",
+                        "example" : "結婚式のために、じゅんびをしています。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "勉強 日本に留学します",
+                        "example" : "勉強のために、日本に留学します。",
+                        "notes": ""
+                    }
+                ]
+                },
+                {
+                    "form": "動「辞書形」＋ため（に）",
+                    "examples" : [
+                        {
+                            "prompt" : "出席する アメリカへ行きました",
+                            "example" : "出席するため、アメリカへ行きました。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "名の＋ための＋名",
+                    "examples" : [
+                        {
+                            "prompt" : "掃除 道具",
+                            "example" : "掃除のための道具。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "動「辞書形」＋ための＋名",
+                    "examples" : [
+                        {
+                            "prompt" : "漢字を練習する 本です",
+                            "example" : "漢字を練習するための本です。",
+                            "notes": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "〜ように。。。",
+            "meaning" : "Expresses one's *wish* that something should occur. It is added to verbs which do not include the intention of the speaker (non volitional verbs, verbs expressing possibility, and verbs for which the subject is the 3rd person.",
+            "forms" : [
+                {
+                "form": "動「辞書形・ない形」＋ように",
+                "examples" : [
+                    {
+                        "prompt" : "よく聞こえる 前のほうに座りましょう",
+                        "example" : "よく聞こえるように、前のほうに座りましょう。",
+                        "notes": "Expresses possibility."
+                    },
+                    {
+                        "prompt" : "風が入る 窓を開けてください",
+                        "example" : "風が入るように、窓を開けてください。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "けがをしない きをつけて",
+                        "example" : "けがをしないように、きをつけて。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "（〜も）〜し、（〜も）。。。",
+            "meaning" : "Used when you list multiple reasons for something.",
+            "forms" : [
+                {
+                "form": "（名も＋）普通形＋し、（（なも＋）普通形＋し）",
+                "examples" : [
+                    {
+                        "prompt" : "荷物も多い 雨も降っている タクシーで行きましょう",
+                        "example" : "荷物も多いし、雨も降っているし、タクシーで行きましょう。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "頭が痛い",
+                        "example" : "頭が痛いし。。。",
+                        "notes": "If is used only once, there is the implication there are additional unspoken reasons."
+                    },
+                    {
+                        "prompt" : "この店のパン 美味しい 安いです",
+                        "example" : "この店のパンは美味しいし、安いです。",
+                        "notes": "Expands on information already given."
+                    },
+                    {
+                        "prompt" : "ハワイではきれいな海で泳ぐ　買い物もしたい",
+                        "example" : "ハワイではきれいな海で泳ぎたいし、買い物もしたい。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜たり〜たりします",
+            "meaning" : "Used to express a string of actions or behaviors.",
+            "forms" : [
+                {
+                "form": "",
+                "examples" : [
+                    {
+                        "prompt" : "休みの日　本を読む　ゲームを遊ぶ",
+                        "example" : "休みの日は本を読んだりゲームを遊んだりします。",
+                        "notes": "Used with no regard to sequence in time."
+                    },
+                    {
+                        "prompt" : "今日は雨が降る　止む",
+                        "example" : "今日は雨が降ったり止んだりしていました。",
+                        "notes": "When verbs with opposite meaning are used, it expresses the repeated nature of both actions/behaviors."
+                    }
+                ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜かもしれません",
+            "meaning" : "'Might be...'. Expresses possibility or potentiality.",
+            "forms" : [
+                {
+                "form": "普通形(ナ形「〜だ〜」・名「〜だ〜」）＋かもしれません",
+                "examples" : [
+                    {
+                        "prompt" : "明日は雪が降る",
+                        "example" : "明日は雪が降るかろしれません",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "あのノートはサラさんの",
+                        "example" : "あのノートはサラさんのかもしれない。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "今度の仕事は大変な",
+                        "example" : "今度の仕事は大変かもしれないけど、頑張ってね。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜はずです",
+            "meaning" : "'Ought to be'.Use to make an *objectively* grounded observation you are confident of.",
+            "forms" : [
+                {
+                "form": "普通形(ナ形「〜だ〜」な・名「〜だ〜」の）＋はずです",
+                "examples" : [
+                    {
+                        "prompt" : "明日の会議には山川先生も出席する",
+                        "example" : "明日の会議には山川先生も出席するはずです。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "新鮮な魚だから、美味しい",
+                        "example" : "新鮮な魚だから、美味しいはずです。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "母は飛行機に乗る",
+                        "example" : "母は飛行機に乗ったはずです。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜ようです",
+            "meaning" : "'Appears. Seems'. Used to make a statement about the speaker's personal surmise or impression. Avoid in formal situations.",
+            "forms" : [
+                {
+                "form": "普通形(ナ形「〜だ〜」な・名「〜だ〜」の）＋ようです",
+                "examples" : [
+                    {
+                        "prompt" : "誰もいない",
+                        "example" : "誰もいないようです。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "道が濡れています。雨が降る",
+                        "example" : "道が濡れています。雨が降ったようです",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "この肉は少し古い",
+                        "example" : "この肉は少し古いようです。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "けんくんは本が好きだ",
+                        "example" : "けんくんは本が好きなようです。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜みたいです",
+            "meaning" : "'Looks like..'. Used to make a statement about the speaker's personal surmise or impression. Avoid in formal situations.",
+            "forms" : [
+                {
+                "form": "普通形(ナ形「〜だ〜」・名「〜だ〜」）＋みたいです",
+                "examples" : [
+                    {
+                        "prompt" : "夢",
+                        "example" : "夢みたいだ。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "このパソコンはこわれている",
+                        "example" : "このパソコンはこわれているみたいだ。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "食べすぎた",
+                        "example" : "食べすぎたみたいだ。",
+                        "notes": ""
+                    }
+
+                ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜なさい",
+            "meaning" : "Use by teachers giving instructions and parents to children. Also used in instructions in examinations.",
+            "forms" : [
+                {
+                "form": "動「~ます~」＋なさい",
+                "examples" : [
+                    {
+                        "prompt" : "漢字で書く",
+                        "example" : "漢字で書きなさい。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜ほうがいいです",
+            "meaning" : "'You had best...'. Expresses a mild warning. Used to suggest an undesirable result that will likely arise if something is not done. Frequently takes ending particles よ、ね .",
+            "forms" : [
+                {
+                "form": "動「た形・ない形」＋ほうがいいです",
+                "examples" : [
+                    {
+                        "prompt" : "寒いです。上着を着る",
+                        "example" : "寒いです。上着を着たほうがいいよ。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "出かけない",
+                        "example" : "出かけないほうがいいよ。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜ないと",
+            "meaning" : "Use to instigate personal action or action by another person when you feel the situation will deteriorate unless something is done. A colloquial expression.",
+            "forms" : [
+                {
+                "form": "動「ない形」＋と",
+                "examples" : [
+                    {
+                        "prompt" : "ご飯の前には手を洗う",
+                        "example" : "ご飯の前には手を洗わないと。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "急がないと。間に合わない",
+                        "example" : "急がないと。間に合わないよ。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜たら。。。",
+            "meaning" : "'If'. When ~ is assumed ... will result. Concrete one time specific results, emphasizes the *consequences*.",
+            "forms" : [
+                {
+                "form": "普通形（「ーた・ーなかった」だけ）＋ら",
+                "examples" : [
+                    {
+                        "prompt" : "大きい地震が起きる、机の下に入る",
+                        "example" : "もし大きい地震が起きたら、机の下に入ってください。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "明日天気がいい、どこかへ行きませんか。",
+                        "example" : "明日天気が良かったら、どこかへ行きませんか。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜ば。。。・〜なら。。。",
+            "meaning" : "'Hypothetically if'. When condition ~ is met, ... will arise or result. Emphasizes the *condition*. Sometimes used together with もし。Cannot be followed by statements expressing intention of the speaker or of inducement.",
+            "forms" : [
+                {
+                "form": "「〜ば・〜ならの形」",
+                "examples" : [
+                    {
+                        "prompt" : "バスに乗る、駅まで１０分です",
+                        "example" : "バスに乗れば、駅まで１０分です。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "子供の名前は、男の子だ「こうた」、女の子だ「みちる」がいいです",
+                        "example" : "子供の名前は、男の子なら「こうた」、女の子なら「みちる」がいいです。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "辞書を使わない、読めません。",
+                        "example" : "辞書を使わなければ、読めません。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜と。。。",
+            "meaning" : "'The natural consequence'. When ~ arises or happens, it will *definitely* lead to ..., but ... cannot be followed by statements expressing intention of the spekaer or inducement.",
+            "forms" : [
+                {
+                "form": "",
+                "examples" : [
+                    {
+                        "prompt" : "お金を入れてボタンを押す、切符が出ます",
+                        "example" : "お金を入れてボタンを押すと、切符が出ます。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "あの角を左に曲がる、駅が見えます。",
+                        "example" : "あの角を左に曲がると、駅が見えます。",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜たら。。。",
+            "meaning" : "'When'. When ~ arises, ... is our should be done. *Not an assumption*. We know in advance it will happen.",
+            "forms" : [
+                {
+                "form": "動「た形」＋ら",
+                "examples" : [
+                    {
+                        "prompt" : "３時になる、休みましょう。",
+                        "example" : "３時になったら、休みましょう。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "この学校を卒業する、何をしますか？",
+                        "example" : "この学校を卒業したら、何をしますか？",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜なら",
+            "meaning" : "'When it comes to X'. Expresses the speaker's judgment, volition or inducement in light of ~ (information). The ~ must be a topic raised by another person's words or actions.",
+            "forms" : [
+                {
+                "form": "",
+                "examples" : [
+                    {
+                        "prompt" : "A:ケーキが美味しい店をぢ知りませんか　B:　ケーキ、駅前の店が美味しいですよ。",
+                        "example" : "A:ケーキが美味しい店をぢ知りませんか　B:　ケーキなら、駅前の店が美味しいですよ。",
+                        "notes": ""
+                    },
                     {
                         "prompt" : "",
-                        "example" : "私のでなければなりません",
+                        "example" : "見ていないなら、テレビはもう消すよ。",
                         "notes": ""
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name" : "〜がほしいです",
-        "meaning" : "Expresses the speaker's hopes and desires.",
-        "forms" : [
-            {
-            "form": "名が＋ほしいです",
-            "examples" : [
-                {
-                    "prompt" : "自分の部屋",
-                    "example" : "自分の部屋がほしいです。",
-                    "notes": ""
                 }
             ]
-            }
-        ]
-    },
-    {
-        "name" : "〜をほしがります",
-        "meaning" : "Expresses a third party's hopes and desires.",
-        "forms" : [
-            {
-            "form": "名を＋ほしがります",
-            "examples" : [
+        }
+    ],
+    [
+        {
+            "name" : "〜ても・〜でも。。。",
+            "meaning" : "'Even'. ...does not happen or arise as would be expected.",
+            "forms" : [
                 {
-                    "prompt" : "犬　食べ物",
-                    "example" : "犬は食べ物を欲しがります",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜たいです",
-        "meaning" : "Expresses speaker's hopes or desires. Note particle　を frequently changes to が.",
-        "forms" : [
-            {
-            "form": "動「~ます~」＋たいです",
-            "examples" : [
-                {
-                    "prompt" : "本　読む",
-                    "example" : "本が読みたい。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜たがります",
-        "meaning" : "Expresses a third party's hopes or desires. Note particle　を frequently changes to が.",
-        "forms" : [
-            {
-            "form": "動「~ます~」＋たがります",
-            "examples" : [
-                {
-                    "prompt" : "誰も　いく",
-                    "example" : "誰も行きたがりません。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜といいです",
-        "meaning" : "Expresses a situation hoped for by the speaker. Uses verbs that do not indicate the intentions of the speaker (non volitional verbs, verbs expressing potentiality and verbs for which the 3rd person is the subject).",
-        "forms" : [
-            {
-            "form": "普通形（「ーた・ーなかった」は使わない）＋といいです",
-            "examples" : [
-                {
-                    "prompt" : "仕事　見つかる",
-                    "example" : "仕事が見つかるといいですね。",
-                    "notes": "Often ね、けど、なあ are added to the end of the sentence or phrase."
-                },
-                {
-                    "prompt" : "広い",
-                    "example" : "広いといいけどなあ。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "家族　みんな　親切　な",
-                    "example" : "家族がみんな親切だといいなあ。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜そうです",
-        "meaning" : "Used to express the sense that something will occur based on outside appearance or circumstances, as well as to make inferences based on state or quality. Judgments. Presentiments.",
-        "forms" : [
-            {
-            "form": "動「~ます~」＋そうです・そうもありません",
-            "examples" : [
-                {
-                    "prompt" : "コップ　落ちる",
-                    "example" : "コップが落ちそうです",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "雨　降る　ありません",
-                    "example" : "雨が降りそうもありません。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "いい品物　ありません",
-                    "example" : "いい品物はなさそうです",
-                    "notes": "Note exception. ありません-> なさそう"
-                }
-            ]
-            },
-            {
-                "form": "イ形「〜い〜」・ナ形「〜ナ〜」＋そうです",
+                "form": "動「て形」",
                 "examples" : [
                     {
-                        "prompt" : "美味しい　ケーキ",
-                        "example" : "美味しそうなケーキ",
+                        "prompt" : "明日、雪が降る、休みじゃない。",
+                        "example" : "明日、雪が降っても、休みじゃない。",
+                        "notes": "Case where the expected clause is merely a assumption."
+                    },
+                    {
+                        "prompt" : "何回読む、意味がわかりません。",
+                        "example" : "何回読んでも、意味がわかりません。",
+                        "notes": "Sometimes used with the interrogative (何回), or もし、どんなに、いくら."
+                    }
+                ]
+                },
+                {
+                    "form": "イ形「〜い〜」くて＋も",
+                    "examples" : [
+                        {
+                            "prompt" : "暑い、スーツを着ています。",
+                            "example" : "暑くても、スーツを着ています。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "ナ形「〜な〜」で＋も",
+                    "examples" : [
+                        {
+                            "prompt" : "安全な　したくない。",
+                            "example" : "安全でもしたくない。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "名で＋も",
+                    "examples" : [
+                        {
+                            "prompt" : "初めて作る人　できます。",
+                            "example" : "初めて作る人でもできます。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "動「〜ない〜」＋なくても",
+                    "examples" : [
+                        {
+                            "prompt" : "明日、雪が降らない、休みです。",
+                            "example" : "明日、雪が降らなくても、休みです。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "イ形「〜い〜」く＋なくても",
+                    "examples" : [
+                        {
+                            "prompt" : "美味しくない、食べます。",
+                            "example" : "美味しなくても、食べます。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "ナ形「〜な〜」で＋なくても",
+                    "examples" : [
+                        {
+                            "prompt" : "安全ではない、したい。",
+                            "example" : "安全でなくても、したい。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "名で＋なくても",
+                    "examples" : [
+                        {
+                            "prompt" : "いい人ではない、信じます",
+                            "example" : "いい人でなくても、信じます。",
+                            "notes": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "〜のに。。。",
+            "meaning" : "'Although'. ... happens or arises despite what would be expected in light of ~. Cannot be followed by statements expressing intention of the speaker or of inducement.",
+            "forms" : [
+                {
+                "form": "普通形(ナ形「〜だ〜」な・名「〜だ〜」な）＋のに",
+                "examples" : [
+                    {
+                        "prompt" : "宿題をやった、持って来ませんでした。",
+                        "example" : "宿題をやったのに、持って来ませんでした。",
+                        "notes": "Used to express the speaker's feelings of surprise, dissatisfaction, reproach or regret."
+                    },
+                    {
+                        "prompt" : "雨が降っていない、あの人はかさをさしています。",
+                        "example" : "雨が降っていないのに、あの人はかさをさしています。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "心配　電話しました",
-                        "example" : "心配そうに電話しました",
+                        "prompt" : "まだ新しい、もう壊れました",
+                        "example" : "まだ新しいのに、もう壊れました。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "天気　良い",
-                        "example" : "天気が良さそうです。",
-                        "notes": "Note exception. いい　->　よさそう "
+                        "prompt" : "彼女がきれいな、彼氏がいません",
+                        "example" : "彼女がきれいなのに、彼氏がいません。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "A:雨が降っているよ。B:運動会",
+                        "example" : "A:雨が降っているよ。B:運動会なのに",
+                        "notes": "Can also be found at the end of a sentence as shown, indicating disappointment."
                     }
                 ]
-            },
-            {
-                "form": "イ形「〜い〜」く・ナ形「〜ナ〜」では・名では＋なさそうです",
-                "examples" : [
-                    {
-                        "prompt" : "ケーキ　美味しい",
-                        "example" : "ケーキは美味しくなさそうです。",
-                        "notes": ""
-                    },
-                    {
-                        "prompt" : "あの人　親切な　じゃありません",
-                        "example" : "あの人は親切ではなさそうです。",
-                        "notes": ""
-                    },
-                    {
-                        "prompt" : "今日　じゃありません",
-                        "example" : "今日ではなさそうです。",
-                        "notes": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜がっています・〜がります",
-        "meaning" : "Expresses the wishes or emotions of a third party (usually relatives or people of lower status than the speaker.",
-        "forms" : [
-            {
-            "form": "イ形「〜い〜」・ナ形「〜ナ〜」＋がっています",
-            "examples" : [
-                {
-                    "prompt" : "犬　嬉しい",
-                    "example" : "犬は嬉しがっています",
-                    "notes": "Used when describing the current situation, rather than any usual trend."
-                },
-                {
-                    "prompt" : "子供達　面白い　ゲームを遊んでいます",
-                    "example" : "子供達は面白がってゲームで遊んでいます。",
-                    "notes": ""
                 }
             ]
-            },
-            {
-                "form": "イ形「〜い〜」・ナ形「〜ナ〜」＋がります",
+        }
+    ],
+    [
+        {
+            "name" : "〜と。。。「言う・答える・思う・思っています」",
+            "meaning" : "Quoted speech. Used before proper nouns and quoted speech, and to express thoughts.",
+            "forms" : [
+                {
+                "form": "名前・普通形・「言うこと・言ったこと」と",
                 "examples" : [
                     {
-                        "prompt" : "弟 怖い　話　嫌　です",
-                        "example" : "弟は怖い話を嫌がります。",
-                        "notes": "Used when expressing a general trend rather than the situation at hand."
+                        "prompt" : "初めて会った人には「初めまして」言います。",
+                        "example" : "初めて会った人には「初めまして」と言います。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "日本語で何　言いますか。",
+                        "example" : "日本語で何と言いますか。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "好きな季節は春だ　答えました。",
+                        "example" : "好きな季節は春だと答えました。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "とても良かった　思います。",
+                        "example" : "とても良かったと思います。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "母は帰らない　思っています。",
+                        "example" : "母は帰らないと思っています。",
+                        "notes": "When the subject is the 3rd person, と思っています is used."
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name" : "〜まま。。。",
-        "meaning" : "Expresses a state that is continuous and has not changed. Often used where the speaker feels the situation is undesirable because no change has occurred.",
-        "forms" : [
-            {
-            "form": "動「た形・ない形」＋まま",
-            "examples" : [
-                {
-                    "prompt" : "窓　開ける　寝ました",
-                    "example" : "窓を開けたまま寝ました。",
-                    "notes": "Example of undesirable situation."
-                },
-                {
-                    "prompt" : "手　洗わない",
-                    "example" : "手を洗わないまま。",
-                    "notes": "Example of undesirable situation."
                 }
             ]
-            },
-            {
-                "form": "イ形「い」＋まま",
-                "examples" : [
-                    {
-                        "prompt" : "手　汚い　食べました",
-                        "example" : "手が汚いまま食べました。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "ナ形「ナ」＋まま",
-                "examples" : [
-                    {
-                        "prompt" : "自由な　歩きます",
-                        "example" : "自由なまま歩きます。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "名の＋まま",
-                "examples" : [
-                    {
-                        "prompt" : "昨日",
-                        "example" : "昨日のまま",
-                        "notes": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜から・〜からです",
-        "meaning" : "Used to explain cause, reason or grounds, somewhat emphatically.",
-        "forms" : [
-            {
-            "form": "普通形・丁寧形＋から",
-            "examples" : [
+        },
+        {
+            "name" : "〜か。。。・〜かどうか。。。",
+            "meaning" : "Used when the question is embedded in a sentence.",
+            "forms" : [
                 {
-                    "prompt" : "用事　先に帰ります",
-                    "example" : "用事がありますから、先に帰ります。",
-                    "notes": ""
+                "form": "疑問詞（何・いつ・誰・どこ）＋か",
+                "examples" : [
+                    {
+                        "prompt" : "彼の誕生日はいつ　知っていますか。",
+                        "example" : "彼の誕生日はいつか知っていますか。",
+                        "notes": "When an interrogative is included in the question, か is used."
+                    }
+                ]
                 },
                 {
-                    "prompt" : "危ない　触らないで",
-                    "example" : "危ないから、触らないで！",
-                    "notes": ""
+                    "form": "疑問詞（何・いつ・誰・どこ）＋普通形（ナ形「〜な〜」・名「〜だ〜」）＋か",
+                    "examples" : [
+                        {
+                            "prompt" : "誰が来る　教えてください。",
+                            "example" : "誰が来るか教えてください。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "普通形（ナ形「〜な〜」・名「〜だ〜」）＋かどうか",
+                    "examples" : [
+                        {
+                            "prompt" : "文法が正し　チェックしてください。",
+                            "example" : "文法が正しかどうかチェックしてください。",
+                            "notes": "'Whether (or not)'. When an interrogative is not included in the question, かどうか is used."
+                        },
+                        {
+                            "prompt" : "行ける　まだわかりません。",
+                            "example" : "行けるかどうかまだわかりません。",
+                            "notes": "'Whether (or not)'. "
+                        },
+                        {
+                            "prompt" : "必要　知っていますか。",
+                            "example" : "必要かどうか知っていますか。",
+                            "notes": "'Whether (or not)'. "
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜（よ）うと思います",
+            "meaning" : "'Planning to'. Expresses intent.",
+            "forms" : [
+                {
+                "form": "動「う・よう形」＋と思います。",
+                "examples" : [
+                    {
+                        "prompt" : "いい天気だから、出かける　と思います。",
+                        "example" : "いい天気だから、出かけようと思います。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "安いだから、買う　と思っています。",
+                        "example" : "安いだから、買おうと思っています。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "来年ヨーロッパを旅行する　と思っている。",
+                        "example" : "来年ヨーロッパを旅行しょうと思っている。",
+                        "notes": "If the subject is the 1st person, is 思っています used where the the intent dates back some time.."
+                    },
+                    {
+                        "prompt" : "一人でカラオケに行こうと思いません。",
+                        "example" : "一人でカラオケに行く　と思いません。",
+                        "notes": "Negative implies strong denial or rejection."
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜つもりです",
+            "meaning" : "'Intend to'. Used to express intent slightly more strongly than 〜ようと思っています.　It is not used when decision is made, but when a pervious intention is affirmed.",
+            "forms" : [
+                {
+                "form": "動「辞書形・ない形」＋つもりです",
+                "examples" : [
+                    {
+                        "prompt" : "国へ帰る",
+                        "example" : "国へ帰るつもりです。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "何も買わない",
+                        "example" : "何も買わないつもりです。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "妹はこの服を着ていく　らしいです。",
+                        "example" : "妹はこの服を着ていくつもりらしいです。",
+                        "notes": "If the subject is the 3rd person, 〜そうです、〜らしいです、〜と言っていました、etc. are added."
+                    }
+                ]
+                },
+                {
+                    "form": "動「辞書形」＋つもりはありません",
+                    "examples" : [
+                        {
+                            "prompt" : "私の意見を変わない。",
+                            "example" : "私の意見を変えるつもりはありません。",
+                            "notes": "A stronger form of negation than above."
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜と言っていました",
+            "meaning" : "'Said that...'. Restate or pass on something previously said by someone else.",
+            "forms" : [
+                {
+                "form": "普通形＋と言っていました",
+                "examples" : [
+                    {
+                        "prompt" : "トムさん休む",
+                        "example" : "トムさん休むと言っていました。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "何　か",
+                        "example" : "何と言っていましたか。",
+                        "notes": "Interrogative uses 何と."
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜そうです",
+            "meaning" : "'Heard that...'. Restate or pass on information you have heard or read.",
+            "forms" : [
+                {
+                "form": "普通形＋そうです",
+                "examples" : [
+                    {
+                        "prompt" : "天気予報によると、明日は寒い",
+                        "example" : "天気予報によると、明日は寒いそうです。",
+                        "notes": "Often used with 〜によると、〜では etc."
+                    },
+                    {
+                        "prompt" : "先輩の話で、この試験はあまり難しくない",
+                        "example" : "先輩の話で、この試験はあまり難しくないそうです。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "新聞で読ましたが、駅前で火事が会った",
+                        "example" : "新聞で読ましたが、駅前で火事が会った",
+                        "notes": ""
+                    }
+                ]
+                }
+            ]
+        },
+        {
+            "name" : "〜らしいです",
+            "meaning" : "'Seems that...'. Used when the source and details are less clear than with 〜そうです.",
+            "forms" : [
+                {
+                "form": "普通形(ナ形「〜だ〜」・名「〜だ〜」）＋らしいです",
+                "examples" : [
+                    {
+                        "prompt" : "噂によると、あのホテルはあまりよくないらしいです。",
+                        "example" : "噂によると、あのホテルはあまりよくない",
+                        "notes": "Pass on to another person information obtained from someone else."
+                    },
+                    {
+                        "prompt" : "事故が、あった",
+                        "example" : "事故が、あったらしいです。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "この店は有名　よく名前を聞くよ。",
+                        "example" : "この店は有名らしいね。よく名前を聞くよ。",
+                        "notes": "Pass on information based on your own judgement of a situation."
+                    }
+                ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜くします・〜にします",
+            "meaning" : "'Make a change'. Indicates deliberate action to make change.",
+            "forms" : [
+                {
+                "form": "イ形「〜い〜」く＋します",
+                "examples" : [
+                    {
+                        "prompt" : "音を大きい",
+                        "example" : "音を大きくしました",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "ズボンを少し短い　ください",
+                        "example" : "ズボンを少し短くしてください。",
+                        "notes": ""
+                    }
+                ]
+                },
+                {
+                    "form": "ナ形「〜な〜」に・名「〜だ〜」に＋します",
+                    "examples" : [
+                        {
+                            "prompt" : "部屋をきれい",
+                            "example" : "部屋をきれいにしましょう。",
+                            "notes": ""
+                        },
+                        {
+                            "prompt" : "ご飯の量を半分　ください。",
+                            "example" : "ご飯の量を半分にしてください。",
+                            "notes": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "〜くなります・〜になります・〜ようになります",
+            "meaning" : "'Becoming...' Describe change. May happen naturally or may not be deliberate.",
+            "forms" : [
+                {
+                "form": "イ形「〜い〜」く・ナ形「〜ナ〜」に＋なります",
+                "examples" : [
+                    {
+                        "prompt" : "犬は大　大きい",
+                        "example" : "犬は大きくなります。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "都会はもっときれいな",
+                        "example" : "都会はもっときれいになります。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "最近、この店ではお客さんの数が半分",
+                        "example" : "最近、この店ではお客さんの数が半分になりました。",
+                        "notes": ""
+                    }
+                ]
+                },
+                {
+                    "form": "動「辞書形」ように＋なります",
+                    "examples" : [
+                        {
+                            "prompt" : "日本語が上手に話せる",
+                            "example" : "日本語が上手に話せるようになりたいです。",
+                            "notes": ""
+                        },
+                        {
+                            "prompt" : "家の庭に鳥が来る",
+                            "example" : "家の庭に鳥が来るようになりました。",
+                            "notes": ""
+                        }
+                    ]
+                },
+                {
+                    "form": "動「〜ない〜」なく＋なります",
+                    "examples" : [
+                        {
+                            "prompt" : "この頃、前ほど本を読まない",
+                            "example" : "この頃、前ほど本を読まなくなった。",
+                            "notes": ""
+                        }
+                    ]
                 }
 
             ]
-            },
-            {
-                "form": "普通形＋からです",
+        }
+    ],
+    [
+        {
+            "name" : "〜にします・〜ことにします",
+            "meaning" : "'Decide to'. Decision in some matter, based on *personal volition*. Implies a positive attitude, without reluctance.",
+            "forms" : [
+                {
+                "form": "名＋にします",
                 "examples" : [
                     {
-                        "prompt" : "練習　足りる",
-                        "example" : "練習が足りなかったからです",
+                        "prompt" : "ばんご飯はカレー",
+                        "example" : "ばんご飯はカレーにします。",
                         "notes": ""
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ので。。。",
-        "meaning" : "Expresses cause and reason. It is more polite than 〜から , and cannot be used before phrases with imperatives and polite every day formulas like すみません、ありがとう。",
-        "forms" : [
-            {
-            "form": "普通形（ナ形「〜だ〜」な・名「〜だ〜」な）＋ので",
-            "examples" : [
-                {
-                    "prompt" : "頭　痛い　休みます",
-                    "example" : "頭が痛いので休みます。",
-                    "notes": ""
                 },
                 {
-                    "prompt" : "子供は５歳　バス代はかかりません",
-                    "example" : "子供は５歳なので、バス代はかかりません。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "雨が降る　散歩に行かながった",
-                    "example" : "雨が降っていたので散歩に行かながった。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜て。。。・〜くて。。。・〜で。。。",
-        "meaning" : "used to express cause and reason. It often expresses cause and reason for *emotions and perceptions*, more so than 〜から、〜ので. In addition to words expressing mood, such as , it is often followed by terms expressing impossibility and polite everyday formulas such as　すみません、ありがとう. It cannot be followed by statements of hope, intention or inducement on the part of the speaker.",
-        "forms" : [
-            {
-            "form": "動て形",
-            "examples" : [
-                {
-                    "prompt" : "たくさん仕事がある　大変でした",
-                    "example" : "たくさん仕事があって、大変でした",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "電車が来ない　遅刻しました",
-                    "example" : "電車が来なくて,遅刻しました",
-                    "notes": "**Important** Usually the negative of 来て is 来ないで (the verbal form). But here we use the adjectival form 来なくて. This is less commonly used than the verbal."
-                },
-                {
-                    "prompt" : "友達がいない　寂しい",
-                    "example" : "友達がいなくて、寂しい。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "遅れる　すみませんでした",
-                    "example" : "遅れて、すみませんでした。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "教えてくれる　ありがとう",
-                    "example" : "教えてくれて、ありがとう。",
-                    "notes": ""
-                }
-            ]
-            },
-            {
-                "form": "イ形「〜い〜」くて",
-                "examples" : [
+                    "form": "動「辞書形・ない形」＋ことにします",
+                    "examples" : [
                     {
-                        "prompt" : "汚い　ごめなさい",
-                        "example" : "汚くて、ごめなさい。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "ナ形「〜な〜」で",
-                "examples" : [
-                    {
-                        "prompt" : "心配な　よく眠れませんでした",
-                        "example" : "心配で、よく眠れませんでした。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "名で",
-                "examples" : [
-                    {
-                        "prompt" : "あなたの　ありがとうございます",
-                        "example" : "あなたので、ありがとうございます。",
-                        "notes": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜に。。。",
-        "meaning" : "'Purpose of movement'. After　に can come a limited number of verbs of motion.",
-        "forms" : [
-            {
-            "form": "名「〜する〜」＋に",
-            "examples" : [
-                {
-                    "prompt" : "散歩 行きました",
-                    "example" : "散歩に行きました。",
-                    "notes": ""
-                }
-            ]
-            },
-            {
-                "form": "動「〜ます〜」＋に",
-                "examples" : [
-                    {
-                        "prompt" : "とり 帰りました",
-                        "example" : "とりに帰りました。",
+                        "prompt" : "タバコをやめる",
+                        "example" : "タバコをやめることにします。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "向かい くる",
-                        "example" : "向かいにくる",
+                        "prompt" : "夏休みは国へ帰らない",
+                        "example" : "夏休みは国へ帰らないことにしました。",
+                        "notes": ""
+                    }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "〜になります・〜ことになります",
+            "meaning" : "'Come to pass'. Express someone's decision on some matter, regardless of the speakers' personal volition.",
+            "forms" : [
+                {
+                "form": "名＋になります",
+                "examples" : [
+                    {
+                        "prompt" : "チームの名前は「さむらい」",
+                        "example" : "チームの名前は「さむらい」になりました",
                         "notes": ""
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ため（に）",
-        "meaning" : "Expresses purpose of action. It is attached to words expressing *intentional action* and the subject is the same before and after the　ため .",
-        "forms" : [
-            {
-            "form": "名の＋ため（に）",
-            "examples" : [
-                {
-                    "prompt" : "結婚式 じゅんびをしています",
-                    "example" : "結婚式のために、じゅんびをしています。",
-                    "notes": ""
                 },
                 {
-                    "prompt" : "勉強 日本に留学します",
-                    "example" : "勉強のために、日本に留学します。",
-                    "notes": ""
+                    "form": "動「辞書形・ない形」＋ことになります",
+                    "examples" : [
+                        {
+                            "prompt" : "駅前に高いビルがたつ",
+                            "example" : "駅前に高いビルがたつことになりました。",
+                            "notes": ""
+                        },
+                        {
+                            "prompt" : "雨で試合はしない",
+                            "example" : "雨で試合はしないことになりました。",
+                            "notes": ""
+                        },
+                        {
+                            "prompt" : "来年結婚する",
+                            "example" : "来年結婚することになりました。",
+                            "notes": "Here used when it is based on a personal decision or volition, but the speaker doesn't want to state this directly."
+                        }
+                    ]
                 }
             ]
-            },
-            {
-                "form": "動「辞書形」＋ため（に）",
+        }
+    ],
+    [
+        {
+            "name" : "〜てみます",
+            "meaning" : "'Try'. Try something out to see if it is appropriate, or expressing inclination to know more.",
+            "forms" : [
+                {
+                "form": "動「て形」＋みます",
                 "examples" : [
                     {
-                        "prompt" : "出席する アメリカへ行きました",
-                        "example" : "出席するため、アメリカへ行きました。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "名の＋ための＋名",
-                "examples" : [
-                    {
-                        "prompt" : "掃除 道具",
-                        "example" : "掃除のための道具。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "動「辞書形」＋ための＋名",
-                "examples" : [
-                    {
-                        "prompt" : "漢字を練習する 本です",
-                        "example" : "漢字を練習するための本です。",
-                        "notes": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ように。。。",
-        "meaning" : "Expresses one's *wish* that something should occur. It is added to verbs which do not include the intention of the speaker (non volitional verbs, verbs expressing possibility, and verbs for which the subject is the 3rd person.",
-        "forms" : [
-            {
-            "form": "動「辞書形・ない形」＋ように",
-            "examples" : [
-                {
-                    "prompt" : "よく聞こえる 前のほうに座りましょう",
-                    "example" : "よく聞こえるように、前のほうに座りましょう。",
-                    "notes": "Expresses possibility."
-                },
-                {
-                    "prompt" : "風が入る 窓を開けてください",
-                    "example" : "風が入るように、窓を開けてください。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "けがをしない きをつけて",
-                    "example" : "けがをしないように、きをつけて。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "（〜も）〜し、（〜も）。。。",
-        "meaning" : "Used when you list multiple reasons for something.",
-        "forms" : [
-            {
-            "form": "（名も＋）普通形＋し、（（なも＋）普通形＋し）",
-            "examples" : [
-                {
-                    "prompt" : "荷物も多い 雨も降っている タクシーで行きましょう",
-                    "example" : "荷物も多いし、雨も降っているし、タクシーで行きましょう。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "頭が痛い",
-                    "example" : "頭が痛いし。。。",
-                    "notes": "If is used only once, there is the implication there are additional unspoken reasons."
-                },
-                {
-                    "prompt" : "この店のパン 美味しい 安いです",
-                    "example" : "この店のパンは美味しいし、安いです。",
-                    "notes": "Expands on information already given."
-                },
-                {
-                    "prompt" : "ハワイではきれいな海で泳ぐ　買い物もしたい",
-                    "example" : "ハワイではきれいな海で泳ぎたいし、買い物もしたい。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜たり〜たりします",
-        "meaning" : "Used to express a string of actions or behaviors.",
-        "forms" : [
-            {
-            "form": "",
-            "examples" : [
-                {
-                    "prompt" : "休みの日　本を読む　ゲームを遊ぶ",
-                    "example" : "休みの日は本を読んだりゲームを遊んだりします。",
-                    "notes": "Used with no regard to sequence in time."
-                },
-                {
-                    "prompt" : "今日は雨が降る　止む",
-                    "example" : "今日は雨が降ったり止んだりしていました。",
-                    "notes": "When verbs with opposite meaning are used, it expresses the repeated nature of both actions/behaviors."
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜かもしれません",
-        "meaning" : "'Might be...'. Expresses possibility or potentiality.",
-        "forms" : [
-            {
-            "form": "普通形(ナ形「〜だ〜」・名「〜だ〜」）＋かもしれません",
-            "examples" : [
-                {
-                    "prompt" : "明日は雪が降る",
-                    "example" : "明日は雪が降るかろしれません",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "あのノートはサラさんの",
-                    "example" : "あのノートはサラさんのかもしれない。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "今度の仕事は大変な",
-                    "example" : "今度の仕事は大変かもしれないけど、頑張ってね。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜はずです",
-        "meaning" : "'Ought to be'.Use to make an *objectively* grounded observation you are confident of.",
-        "forms" : [
-            {
-            "form": "普通形(ナ形「〜だ〜」な・名「〜だ〜」の）＋はずです",
-            "examples" : [
-                {
-                    "prompt" : "明日の会議には山川先生も出席する",
-                    "example" : "明日の会議には山川先生も出席するはずです。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "新鮮な魚だから、美味しい",
-                    "example" : "新鮮な魚だから、美味しいはずです。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "母は飛行機に乗る",
-                    "example" : "母は飛行機に乗ったはずです。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ようです",
-        "meaning" : "'Appears. Seems'. Used to make a statement about the speaker's personal surmise or impression. Avoid in formal situations.",
-        "forms" : [
-            {
-            "form": "普通形(ナ形「〜だ〜」な・名「〜だ〜」の）＋ようです",
-            "examples" : [
-                {
-                    "prompt" : "誰もいない",
-                    "example" : "誰もいないようです。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "道が濡れています。雨が降る",
-                    "example" : "道が濡れています。雨が降ったようです",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "この肉は少し古い",
-                    "example" : "この肉は少し古いようです。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "けんくんは本が好きだ",
-                    "example" : "けんくんは本が好きなようです。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜みたいです",
-        "meaning" : "'Looks like..'. Used to make a statement about the speaker's personal surmise or impression. Avoid in formal situations.",
-        "forms" : [
-            {
-            "form": "普通形(ナ形「〜だ〜」・名「〜だ〜」）＋みたいです",
-            "examples" : [
-                {
-                    "prompt" : "夢",
-                    "example" : "夢みたいだ。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "このパソコンはこわれている",
-                    "example" : "このパソコンはこわれているみたいだ。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "食べすぎた",
-                    "example" : "食べすぎたみたいだ。",
-                    "notes": ""
-                }
-
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜なさい",
-        "meaning" : "Use by teachers giving instructions and parents to children. Also used in instructions in examinations.",
-        "forms" : [
-            {
-            "form": "動「~ます~」＋なさい",
-            "examples" : [
-                {
-                    "prompt" : "漢字で書く",
-                    "example" : "漢字で書きなさい。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ほうがいいです",
-        "meaning" : "'You had best...'. Expresses a mild warning. Used to suggest an undesirable result that will likely arise if something is not done. Frequently takes ending particles よ、ね .",
-        "forms" : [
-            {
-            "form": "動「た形・ない形」＋ほうがいいです",
-            "examples" : [
-                {
-                    "prompt" : "寒いです。上着を着る",
-                    "example" : "寒いです。上着を着たほうがいいよ。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "出かけない",
-                    "example" : "出かけないほうがいいよ。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ないと",
-        "meaning" : "Use to instigate personal action or action by another person when you feel the situation will deteriorate unless something is done. A colloquial expression.",
-        "forms" : [
-            {
-            "form": "動「ない形」＋と",
-            "examples" : [
-                {
-                    "prompt" : "ご飯の前には手を洗う",
-                    "example" : "ご飯の前には手を洗わないと。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "急がないと。間に合わない",
-                    "example" : "急がないと。間に合わないよ。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜たら。。。",
-        "meaning" : "'If'. When ~ is assumed ... will result. Concrete one time specific results, emphasizes the *consequences*.",
-        "forms" : [
-            {
-            "form": "普通形（「ーた・ーなかった」だけ）＋ら",
-            "examples" : [
-                {
-                    "prompt" : "大きい地震が起きる、机の下に入る",
-                    "example" : "もし大きい地震が起きたら、机の下に入ってください。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "明日天気がいい、どこかへ行きませんか。",
-                    "example" : "明日天気が良かったら、どこかへ行きませんか。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ば。。。・〜なら。。。",
-        "meaning" : "'Hypothetically if'. When condition ~ is met, ... will arise or result. Emphasizes the *condition*. Sometimes used together with もし。Cannot be followed by statements expressing intention of the speaker or of inducement.",
-        "forms" : [
-            {
-            "form": "「〜ば・〜ならの形」",
-            "examples" : [
-                {
-                    "prompt" : "バスに乗る、駅まで１０分です",
-                    "example" : "バスに乗れば、駅まで１０分です。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "子供の名前は、男の子だ「こうた」、女の子だ「みちる」がいいです",
-                    "example" : "子供の名前は、男の子なら「こうた」、女の子なら「みちる」がいいです。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "辞書を使わない、読めません。",
-                    "example" : "辞書を使わなければ、読めません。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜と。。。",
-        "meaning" : "'The natural consequence'. When ~ arises or happens, it will *definitely* lead to ..., but ... cannot be followed by statements expressing intention of the spekaer or inducement.",
-        "forms" : [
-            {
-            "form": "",
-            "examples" : [
-                {
-                    "prompt" : "お金を入れてボタンを押す、切符が出ます",
-                    "example" : "お金を入れてボタンを押すと、切符が出ます。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "あの角を左に曲がる、駅が見えます。",
-                    "example" : "あの角を左に曲がると、駅が見えます。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜たら。。。",
-        "meaning" : "'When'. When ~ arises, ... is our should be done. *Not an assumption*. We know in advance it will happen.",
-        "forms" : [
-            {
-            "form": "動「た形」＋ら",
-            "examples" : [
-                {
-                    "prompt" : "３時になる、休みましょう。",
-                    "example" : "３時になったら、休みましょう。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "この学校を卒業する、何をしますか？",
-                    "example" : "この学校を卒業したら、何をしますか？",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜なら",
-        "meaning" : "'When it comes to X'. Expresses the speaker's judgment, volition or inducement in light of ~ (information). The ~ must be a topic raised by another person's words or actions.",
-        "forms" : [
-            {
-            "form": "",
-            "examples" : [
-                {
-                    "prompt" : "A:ケーキが美味しい店をぢ知りませんか　B:　ケーキ、駅前の店が美味しいですよ。",
-                    "example" : "A:ケーキが美味しい店をぢ知りませんか　B:　ケーキなら、駅前の店が美味しいですよ。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "",
-                    "example" : "見ていないなら、テレビはもう消すよ。",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜ても・〜でも。。。",
-        "meaning" : "'Even'. ...does not happen or arise as would be expected.",
-        "forms" : [
-            {
-            "form": "動「て形」",
-            "examples" : [
-                {
-                    "prompt" : "明日、雪が降る、休みじゃない。",
-                    "example" : "明日、雪が降っても、休みじゃない。",
-                    "notes": "Case where the expected clause is merely a assumption."
-                },
-                {
-                    "prompt" : "何回読む、意味がわかりません。",
-                    "example" : "何回読んでも、意味がわかりません。",
-                    "notes": "Sometimes used with the interrogative (何回), or もし、どんなに、いくら."
-                }
-            ]
-            },
-            {
-                "form": "イ形「〜い〜」くて＋も",
-                "examples" : [
-                    {
-                        "prompt" : "暑い、スーツを着ています。",
-                        "example" : "暑くても、スーツを着ています。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "ナ形「〜な〜」で＋も",
-                "examples" : [
-                    {
-                        "prompt" : "安全な　したくない。",
-                        "example" : "安全でもしたくない。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "名で＋も",
-                "examples" : [
-                    {
-                        "prompt" : "初めて作る人　できます。",
-                        "example" : "初めて作る人でもできます。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "動「〜ない〜」＋なくても",
-                "examples" : [
-                    {
-                        "prompt" : "明日、雪が降らない、休みです。",
-                        "example" : "明日、雪が降らなくても、休みです。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "イ形「〜い〜」く＋なくても",
-                "examples" : [
-                    {
-                        "prompt" : "美味しくない、食べます。",
-                        "example" : "美味しなくても、食べます。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "ナ形「〜な〜」で＋なくても",
-                "examples" : [
-                    {
-                        "prompt" : "安全ではない、したい。",
-                        "example" : "安全でなくても、したい。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "名で＋なくても",
-                "examples" : [
-                    {
-                        "prompt" : "いい人ではない、信じます",
-                        "example" : "いい人でなくても、信じます。",
-                        "notes": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜のに。。。",
-        "meaning" : "'Although'. ... happens or arises despite what would be expected in light of ~. Cannot be followed by statements expressing intention of the speaker or of inducement.",
-        "forms" : [
-            {
-            "form": "普通形(ナ形「〜だ〜」な・名「〜だ〜」な）＋のに",
-            "examples" : [
-                {
-                    "prompt" : "宿題をやった、持って来ませんでした。",
-                    "example" : "宿題をやったのに、持って来ませんでした。",
-                    "notes": "Used to express the speaker's feelings of surprise, dissatisfaction, reproach or regret."
-                },
-                {
-                    "prompt" : "雨が降っていない、あの人はかさをさしています。",
-                    "example" : "雨が降っていないのに、あの人はかさをさしています。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "まだ新しい、もう壊れました",
-                    "example" : "まだ新しいのに、もう壊れました。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "彼女がきれいな、彼氏がいません",
-                    "example" : "彼女がきれいなのに、彼氏がいません。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "A:雨が降っているよ。B:運動会",
-                    "example" : "A:雨が降っているよ。B:運動会なのに",
-                    "notes": "Can also be found at the end of a sentence as shown, indicating disappointment."
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜と。。。「言う・答える・思う・思っています」",
-        "meaning" : "Quoted speech. Used before proper nouns and quoted speech, and to express thoughts.",
-        "forms" : [
-            {
-            "form": "名前・普通形・「言うこと・言ったこと」と",
-            "examples" : [
-                {
-                    "prompt" : "初めて会った人には「初めまして」言います。",
-                    "example" : "初めて会った人には「初めまして」と言います。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "日本語で何　言いますか。",
-                    "example" : "日本語で何と言いますか。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "好きな季節は春だ　答えました。",
-                    "example" : "好きな季節は春だと答えました。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "とても良かった　思います。",
-                    "example" : "とても良かったと思います。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "母は帰らない　思っています。",
-                    "example" : "母は帰らないと思っています。",
-                    "notes": "When the subject is the 3rd person, と思っています is used."
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜か。。。・〜かどうか。。。",
-        "meaning" : "Used when the question is embedded in a sentence.",
-        "forms" : [
-            {
-            "form": "疑問詞（何・いつ・誰・どこ）＋か",
-            "examples" : [
-                {
-                    "prompt" : "彼の誕生日はいつ　知っていますか。",
-                    "example" : "彼の誕生日はいつか知っていますか。",
-                    "notes": "When an interrogative is included in the question, か is used."
-                }
-            ]
-            },
-            {
-                "form": "疑問詞（何・いつ・誰・どこ）＋普通形（ナ形「〜な〜」・名「〜だ〜」）＋か",
-                "examples" : [
-                    {
-                        "prompt" : "誰が来る　教えてください。",
-                        "example" : "誰が来るか教えてください。",
-                        "notes": ""
-                    }
-                ]
-            },
-            {
-                "form": "普通形（ナ形「〜な〜」・名「〜だ〜」）＋かどうか",
-                "examples" : [
-                    {
-                        "prompt" : "文法が正し　チェックしてください。",
-                        "example" : "文法が正しかどうかチェックしてください。",
-                        "notes": "'Whether (or not)'. When an interrogative is not included in the question, かどうか is used."
-                    },
-                    {
-                        "prompt" : "行ける　まだわかりません。",
-                        "example" : "行けるかどうかまだわかりません。",
-                        "notes": "'Whether (or not)'. "
-                    },
-                    {
-                        "prompt" : "必要　知っていますか。",
-                        "example" : "必要かどうか知っていますか。",
-                        "notes": "'Whether (or not)'. "
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜（よ）うと思います",
-        "meaning" : "'Planning to'. Expresses intent.",
-        "forms" : [
-            {
-            "form": "動「う・よう形」＋と思います。",
-            "examples" : [
-                {
-                    "prompt" : "いい天気だから、出かける　と思います。",
-                    "example" : "いい天気だから、出かけようと思います。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "安いだから、買う　と思っています。",
-                    "example" : "安いだから、買おうと思っています。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "来年ヨーロッパを旅行する　と思っている。",
-                    "example" : "来年ヨーロッパを旅行しょうと思っている。",
-                    "notes": "If the subject is the 1st person, is 思っています used where the the intent dates back some time.."
-                },
-                {
-                    "prompt" : "一人でカラオケに行こうと思いません。",
-                    "example" : "一人でカラオケに行く　と思いません。",
-                    "notes": "Negative implies strong denial or rejection."
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜つもりです",
-        "meaning" : "'Intend to'. Used to express intent slightly more strongly than 〜ようと思っています.　It is not used when decision is made, but when a pervious intention is affirmed.",
-        "forms" : [
-            {
-            "form": "動「辞書形・ない形」＋つもりです",
-            "examples" : [
-                {
-                    "prompt" : "国へ帰る",
-                    "example" : "国へ帰るつもりです。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "何も買わない",
-                    "example" : "何も買わないつもりです。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "妹はこの服を着ていく　らしいです。",
-                    "example" : "妹はこの服を着ていくつもりらしいです。",
-                    "notes": "If the subject is the 3rd person, 〜そうです、〜らしいです、〜と言っていました、etc. are added."
-                }
-            ]
-            },
-            {
-                "form": "動「辞書形」＋つもりはありません",
-                "examples" : [
-                    {
-                        "prompt" : "私の意見を変わない。",
-                        "example" : "私の意見を変えるつもりはありません。",
-                        "notes": "A stronger form of negation than above."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜と言っていました",
-        "meaning" : "'Said that...'. Restate or pass on something previously said by someone else.",
-        "forms" : [
-            {
-            "form": "普通形＋と言っていました",
-            "examples" : [
-                {
-                    "prompt" : "トムさん休む",
-                    "example" : "トムさん休むと言っていました。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "何　か",
-                    "example" : "何と言っていましたか。",
-                    "notes": "Interrogative uses 何と."
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜そうです",
-        "meaning" : "'Heard that...'. Restate or pass on information you have heard or read.",
-        "forms" : [
-            {
-            "form": "普通形＋そうです",
-            "examples" : [
-                {
-                    "prompt" : "天気予報によると、明日は寒い",
-                    "example" : "天気予報によると、明日は寒いそうです。",
-                    "notes": "Often used with 〜によると、〜では etc."
-                },
-                {
-                    "prompt" : "先輩の話で、この試験はあまり難しくない",
-                    "example" : "先輩の話で、この試験はあまり難しくないそうです。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "新聞で読ましたが、駅前で火事が会った",
-                    "example" : "新聞で読ましたが、駅前で火事が会った",
-                    "notes": ""
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜らしいです",
-        "meaning" : "'Seems that...'. Used when the source and details are less clear than with 〜そうです.",
-        "forms" : [
-            {
-            "form": "普通形(ナ形「〜だ〜」・名「〜だ〜」）＋らしいです",
-            "examples" : [
-                {
-                    "prompt" : "噂によると、あのホテルはあまりよくないらしいです。",
-                    "example" : "噂によると、あのホテルはあまりよくない",
-                    "notes": "Pass on to another person information obtained from someone else."
-                },
-                {
-                    "prompt" : "事故が、あった",
-                    "example" : "事故が、あったらしいです。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "この店は有名　よく名前を聞くよ。",
-                    "example" : "この店は有名らしいね。よく名前を聞くよ。",
-                    "notes": "Pass on information based on your own judgement of a situation."
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜くします・〜にします",
-        "meaning" : "'Make a change'. Indicates deliberate action to make change.",
-        "forms" : [
-            {
-            "form": "イ形「〜い〜」く＋します",
-            "examples" : [
-                {
-                    "prompt" : "音を大きい",
-                    "example" : "音を大きくしました",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "ズボンを少し短い　ください",
-                    "example" : "ズボンを少し短くしてください。",
-                    "notes": ""
-                }
-            ]
-            },
-            {
-                "form": "ナ形「〜な〜」に・名「〜だ〜」に＋します",
-                "examples" : [
-                    {
-                        "prompt" : "部屋をきれい",
-                        "example" : "部屋をきれいにしましょう。",
+                        "prompt" : "靴をはく",
+                        "example" : "靴をはいてみます。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "ご飯の量を半分　ください。",
-                        "example" : "ご飯の量を半分にしてください。",
-                        "notes": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜くなります・〜になります・〜ようになります",
-        "meaning" : "'Becoming...' Describe change. May happen naturally or may not be deliberate.",
-        "forms" : [
-            {
-            "form": "イ形「〜い〜」く・ナ形「〜ナ〜」に＋なります",
-            "examples" : [
-                {
-                    "prompt" : "犬は大　大きい",
-                    "example" : "犬は大きくなります。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "都会はもっときれいな",
-                    "example" : "都会はもっときれいになります。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "最近、この店ではお客さんの数が半分",
-                    "example" : "最近、この店ではお客さんの数が半分になりました。",
-                    "notes": ""
-                }
-            ]
-            },
-            {
-                "form": "動「辞書形」ように＋なります",
-                "examples" : [
-                    {
-                        "prompt" : "日本語が上手に話せる",
-                        "example" : "日本語が上手に話せるようになりたいです。",
+                        "prompt" : "京都へ行く",
+                        "example" : "京都へ行ってみたい。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "家の庭に鳥が来る",
-                        "example" : "家の庭に鳥が来るようになりました。",
-                        "notes": ""
+                        "prompt" : "この料理を食べる",
+                        "example" : "この料理を食べてみてください。",
+                        "notes": "Also used to make mild recommendations."
                     }
                 ]
-            },
-            {
-                "form": "動「〜ない〜」なく＋なります",
-                "examples" : [
-                    {
-                        "prompt" : "この頃、前ほど本を読まない",
-                        "example" : "この頃、前ほど本を読まなくなった。",
-                        "notes": ""
-                    }
-                ]
-            }
-
-        ]
-    },
-    {
-        "name" : "〜にします・〜ことにします",
-        "meaning" : "'Decide to'. Decision in some matter, based on *personal volition*. Implies a positive attitude, without reluctance.",
-        "forms" : [
-            {
-            "form": "名＋にします",
-            "examples" : [
-                {
-                    "prompt" : "ばんご飯はカレー",
-                    "example" : "ばんご飯はカレーにします。",
-                    "notes": ""
                 }
             ]
-            },
-            {
-                "form": "動「辞書形・ない形」＋ことにします",
-                "examples" : [
+        },
+        {
+            "name" : "〜て置きます",
+            "meaning" : "'Before' 'Keep'. Suggests an action is taken preemptively to avoid possible future trouble.",
+            "forms" : [
                 {
-                    "prompt" : "タバコをやめる",
-                    "example" : "タバコをやめることにします。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "夏休みは国へ帰らない",
-                    "example" : "夏休みは国へ帰らないことにしました。",
-                    "notes": ""
-                }
-                ]
-            }
-        ]
-    },
-    {
-        "name" : "〜になります・〜ことになります",
-        "meaning" : "'Come to pass'. Express someone's decision on some matter, regardless of the speakers' personal volition.",
-        "forms" : [
-            {
-            "form": "名＋になります",
-            "examples" : [
-                {
-                    "prompt" : "チームの名前は「さむらい」",
-                    "example" : "チームの名前は「さむらい」になりました",
-                    "notes": ""
-                }
-            ]
-            },
-            {
-                "form": "動「辞書形・ない形」＋ことになります",
+                "form": "動「て形」＋置きます",
                 "examples" : [
                     {
-                        "prompt" : "駅前に高いビルがたつ",
-                        "example" : "駅前に高いビルがたつことになりました。",
+                        "prompt" : "旅行の前に、服をかばんに入れる",
+                        "example" : "旅行の前に、服をかばんに入れて置きます。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "雨で試合はしない",
-                        "example" : "雨で試合はしないことになりました。",
+                        "prompt" : "ごみを外に出す",
+                        "example" : "ごみを外に出して置きましょう。",
                         "notes": ""
                     },
                     {
-                        "prompt" : "来年結婚する",
-                        "example" : "来年結婚することになりました。",
-                        "notes": "Here used when it is based on a personal decision or volition, but the speaker doesn't want to state this directly."
+                        "prompt" : "窓はそのまま開ける",
+                        "example" : "窓はそのまま開けて置いてください",
+                        "notes": "Also used to indicate an action should continue. 'keep it ...'"
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name" : "〜てみます",
-        "meaning" : "'Try'. Try something out to see if it is appropriate, or expressing inclination to know more.",
-        "forms" : [
-            {
-            "form": "動「て形」＋みます",
-            "examples" : [
-                {
-                    "prompt" : "靴をはく",
-                    "example" : "靴をはいてみます。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "京都へ行く",
-                    "example" : "京都へ行ってみたい。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "この料理を食べる",
-                    "example" : "この料理を食べてみてください。",
-                    "notes": "Also used to make mild recommendations."
                 }
             ]
-            }
-        ]
-    },
-    {
-        "name" : "〜て置きます",
-        "meaning" : "'Before' 'Keep'. Suggests an action is taken preemptively to avoid possible future trouble.",
-        "forms" : [
-            {
-            "form": "動「て形」＋置きます",
-            "examples" : [
+        },
+        {
+            "name" : "〜てしまいます",
+            "meaning" : "'Completely' 'Unfortunately'. Expresses rapid or early completion of an action.",
+            "forms" : [
                 {
-                    "prompt" : "旅行の前に、服をかばんに入れる",
-                    "example" : "旅行の前に、服をかばんに入れて置きます。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "ごみを外に出す",
-                    "example" : "ごみを外に出して置きましょう。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "窓はそのまま開ける",
-                    "example" : "窓はそのまま開けて置いてください",
-                    "notes": "Also used to indicate an action should continue. 'keep it ...'"
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜てしまいます",
-        "meaning" : "'Completely' 'Unfortunately'. Expresses rapid or early completion of an action.",
-        "forms" : [
-            {
-            "form": "動「て形」＋しまいます",
-            "examples" : [
-                {
-                    "prompt" : "レポートは明日出す",
-                    "example" : "レポートは明日出してしまいます。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "今日買った本はもう読む",
-                    "example" : "今日買った本はもう読んでしまって。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "あの人の名前を忘れる",
-                    "example" : "あの人の名前を忘れてしまいますよ。",
-                    "notes": "Also expresses regret at an error that can't easily be undone."
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "あげます・〜てあげます",
-        "meaning" : "'(I) Give/Do for ...'. Subject is the speaker or someone close to the speaker. Recipient of action is someone other than the speaker.",
-        "forms" : [
-            {
-            "form": "名を＋あげます・差し上げます",
-            "examples" : [
-                {
-                    "prompt" : "サラさんに花を",
-                    "example" : "サラさんに花をあげました。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "先生にカップを",
-                    "example" : "先生にカップを差し上げました。",
-                    "notes": "When recipient of action is higher status, 差し上げます is used."
-                }
-            ]
-            },
-            {
-                "form": "動「て形」＋あげます・差し上げます",
+                "form": "動「て形」＋しまいます",
                 "examples" : [
                     {
-                        "prompt" : "地図を書く",
-                        "example" : "地図を書いてあげるよ。",
+                        "prompt" : "レポートは明日出す",
+                        "example" : "レポートは明日出してしまいます。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "今日買った本はもう読む",
+                        "example" : "今日買った本はもう読んでしまって。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "あの人の名前を忘れる",
+                        "example" : "あの人の名前を忘れてしまいますよ。",
+                        "notes": "Also expresses regret at an error that can't easily be undone."
+                    }
+                ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "あげます・〜てあげます",
+            "meaning" : "'(I) Give/Do for ...'. Subject is the speaker or someone close to the speaker. Recipient of action is someone other than the speaker.",
+            "forms" : [
+                {
+                "form": "名を＋あげます・差し上げます",
+                "examples" : [
+                    {
+                        "prompt" : "サラさんに花を",
+                        "example" : "サラさんに花をあげました。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "先生にカップを",
+                        "example" : "先生にカップを差し上げました。",
+                        "notes": "When recipient of action is higher status, 差し上げます is used."
+                    }
+                ]
+                },
+                {
+                    "form": "動「て形」＋あげます・差し上げます",
+                    "examples" : [
+                        {
+                            "prompt" : "地図を書く",
+                            "example" : "地図を書いてあげるよ。",
+                            "notes": ""
+                        }
+                    ]
+                    }
+            ]
+        },
+        {
+            "name" : "くれます・〜てくれます",
+            "meaning" : "'They give/do ... (for me)'. Subject is other than the speaker. Person receiving the action is the speaker or someone close to the speaker.",
+            "forms" : [
+                {
+                "form": "名を＋くれます・くださいます",
+                "examples" : [
+                    {
+                        "prompt" : "山田さんは私に時計を",
+                        "example" : "山田さんは私に時計をくれました。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "先生が妹に本を",
+                        "example" : "先生が妹に本をくださいました。",
+                        "notes": "When the giver is higher status, くださいます is used."
+                    }
+                ]
+                },
+                {
+                    "form": "動「て形」＋くれます・くださいます",
+                    "examples" : [
+                        {
+                            "prompt" : "（私に）友達が店の場所を教える",
+                            "example" : "（私に）友達が店の場所を教えてくれました。",
+                            "notes": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name" : "もらいます・〜てもらいます",
+            "meaning" : "'(I) receive ... from them'. The subject is the speaker or someone close to the speaker, and they are receiving a item or action.",
+            "forms" : [
+                {
+                "form": "名を＋もらいます・いただきます",
+                "examples" : [
+                    {
+                        "prompt" : "山田さんに時計を",
+                        "example" : "山田さんに時計をもらいました。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "山田さんから時計を",
+                        "example" : "山田さんから時計をもらいました。",
+                        "notes": "に or から can be used to indicate the giver interchangeably."
+                    },
+                    {
+                        "prompt" : "妹は先生に本を",
+                        "example" : "妹は先生に本をいただきました。",
+                        "notes": "When the giver is higher status, いただきます is used."
+                    }
+                ]
+                },
+                {
+                    "form": "動「て形」＋もらいます・いただきます",
+                    "examples" : [
+                        {
+                            "prompt" : "サラさんに一緒に病院へ行く。",
+                            "example" : "サラさんに一緒に病院へ行ってもらった。",
+                            "notes": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "name" : "〜（ら）れます",
+            "meaning" : "Passive voice.",
+            "forms" : [
+                {
+                "form": "動「受身の形」",
+                "examples" : [
+                    {
+                        "prompt" : "先生に褒める",
+                        "example" : "先生に褒められました",
+                        "notes": "If the subject is 私, it can usually be omitted."
+                    },
+                    {
+                        "prompt" : "女の人に道を聞く",
+                        "example" : "女の人に道を聞かれました。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "電車の中であしを踏む",
+                        "example" : "電車の中であしを踏まれました。",
+                        "notes": "The passive can frequently convey a feeling of annoyance."
+                    },
+                    {
+                        "prompt" : "弟にケーキを食べる　しまいました",
+                        "example" : "弟にケーキを食べられてしまいました。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "うちの前にごみを捨てる、困っています。",
+                        "example" : "うちの前にごみを捨てられて、困っています。",
+                        "notes": ""
+                    },
+                    {
+                        "prompt" : "来年、夏のオリンピックが開く",
+                        "example" : "来年、夏のオリンピックが開かれます。",
+                        "notes": "The passive may be used for simple statements of fact. Used only with facts, without reference to the emotions of the speaker."
+                    },
+                    {
+                        "prompt" : "本は世界中で　読んでいうる",
+                        "example" : "本は世界中で読まれている。",
                         "notes": ""
                     }
                 ]
                 }
-        ]
-    },
-    {
-        "name" : "くれます・〜てくれます",
-        "meaning" : "'They give/do ... (for me)'. Subject is other than the speaker. Person receiving the action is the speaker or someone close to the speaker.",
-        "forms" : [
-            {
-            "form": "名を＋くれます・くださいます",
-            "examples" : [
-                {
-                    "prompt" : "山田さんは私に時計を",
-                    "example" : "山田さんは私に時計をくれました。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "先生が妹に本を",
-                    "example" : "先生が妹に本をくださいました。",
-                    "notes": "When the giver is higher status, くださいます is used."
-                }
             ]
-            },
-            {
-                "form": "動「て形」＋くれます・くださいます",
+        },
+        {
+            "name" : "〜（さ）せます",
+            "meaning" : "'Made to...'. Causative.",
+            "forms" : [
+                {
+                "form": "動「使役の形」",
                 "examples" : [
                     {
-                        "prompt" : "（私に）友達が店の場所を教える",
-                        "example" : "（私に）友達が店の場所を教えてくれました。",
-                        "notes": ""
+                        "prompt" : "弟に部屋の掃除をする",
+                        "example" : "弟に部屋の掃除をさせました。",
+                        "notes": "The particle に indicating agent of action is for intransitive verbs."
+                    },
+                    {
+                        "prompt" : "けんは犬を自由に遊ぶ",
+                        "example" : "けんは犬を自由に遊ばせます。",
+                        "notes": "Causative can be used to express giving permission or doing a favor."
+                    },
+                    {
+                        "prompt" : "嘘をついて、父を　怒る　しまいました",
+                        "example" : "嘘をついて、父を怒らせてしまいました。",
+                        "notes": "Causative frequently evokes emotions. Particle is を used for transitive verbs."
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name" : "もらいます・〜てもらいます",
-        "meaning" : "'(I) receive ... from them'. The subject is the speaker or someone close to the speaker, and they are receiving a item or action.",
-        "forms" : [
-            {
-            "form": "名を＋もらいます・いただきます",
-            "examples" : [
-                {
-                    "prompt" : "山田さんに時計を",
-                    "example" : "山田さんに時計をもらいました。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "山田さんから時計を",
-                    "example" : "山田さんから時計をもらいました。",
-                    "notes": "に or から can be used to indicate the giver interchangeably."
-                },
-                {
-                    "prompt" : "妹は先生に本を",
-                    "example" : "妹は先生に本をいただきました。",
-                    "notes": "When the giver is higher status, いただきます is used."
                 }
             ]
-            },
-            {
-                "form": "動「て形」＋もらいます・いただきます",
+        }
+    ],
+    [
+        {
+            "name" : "〜（せら）れます",
+            "meaning" : "'Forced to...'. Causative Passive.",
+            "forms" : [
+                {
+                "form": "動「使役受身の形」",
                 "examples" : [
                     {
-                        "prompt" : "サラさんに一緒に病院へ行く。",
-                        "example" : "サラさんに一緒に病院へ行ってもらった。",
-                        "notes": ""
+                        "prompt" : "兄に部屋の掃除をする",
+                        "example" : "兄に部屋の掃除をさせられました。",
+                        "notes": "The subject is being reluctantly forced to do an action."
+                    },
+                    {
+                        "prompt" : "子供が遅くまで帰って来なくて、心配する",
+                        "example" : "子供が遅くまで帰って来なくて、心配させられました。",
+                        "notes": "The causative-passive frequently conveys emotion."
                     }
                 ]
-            }
-        ]
-    },
-    {
-        "name" : "〜（ら）れます",
-        "meaning" : "Passive voice.",
-        "forms" : [
-            {
-            "form": "動「受身の形」",
-            "examples" : [
-                {
-                    "prompt" : "先生に褒める",
-                    "example" : "先生に褒められました",
-                    "notes": "If the subject is 私, it can usually be omitted."
-                },
-                {
-                    "prompt" : "女の人に道を聞く",
-                    "example" : "女の人に道を聞かれました。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "電車の中であしを踏む",
-                    "example" : "電車の中であしを踏まれました。",
-                    "notes": "The passive can frequently convey a feeling of annoyance."
-                },
-                {
-                    "prompt" : "弟にケーキを食べる　しまいました",
-                    "example" : "弟にケーキを食べられてしまいました。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "うちの前にごみを捨てる、困っています。",
-                    "example" : "うちの前にごみを捨てられて、困っています。",
-                    "notes": ""
-                },
-                {
-                    "prompt" : "来年、夏のオリンピックが開く",
-                    "example" : "来年、夏のオリンピックが開かれます。",
-                    "notes": "The passive may be used for simple statements of fact. Used only with facts, without reference to the emotions of the speaker."
-                },
-                {
-                    "prompt" : "本は世界中で　読んでいうる",
-                    "example" : "本は世界中で読まれている。",
-                    "notes": ""
                 }
             ]
-            }
-        ]
-    },
-    {
-        "name" : "〜（さ）せます",
-        "meaning" : "'Made to...'. Causative.",
-        "forms" : [
-            {
-            "form": "動「使役の形」",
-            "examples" : [
-                {
-                    "prompt" : "弟に部屋の掃除をする",
-                    "example" : "弟に部屋の掃除をさせました。",
-                    "notes": "The particle に indicating agent of action is for intransitive verbs."
-                },
-                {
-                    "prompt" : "けんは犬を自由に遊ぶ",
-                    "example" : "けんは犬を自由に遊ばせます。",
-                    "notes": "Causative can be used to express giving permission or doing a favor."
-                },
-                {
-                    "prompt" : "嘘をついて、父を　怒る　しまいました",
-                    "example" : "嘘をついて、父を怒らせてしまいました。",
-                    "notes": "Causative frequently evokes emotions. Particle is を used for transitive verbs."
-                }
-            ]
-            }
-        ]
-    },
-    {
-        "name" : "〜（せら）れます",
-        "meaning" : "'Forced to...'. Causative Passive.",
-        "forms" : [
-            {
-            "form": "動「使役受身の形」",
-            "examples" : [
-                {
-                    "prompt" : "兄に部屋の掃除をする",
-                    "example" : "兄に部屋の掃除をさせられました。",
-                    "notes": "The subject is being reluctantly forced to do an action."
-                },
-                {
-                    "prompt" : "子供が遅くまで帰って来なくて、心配する",
-                    "example" : "子供が遅くまで帰って来なくて、心配させられました。",
-                    "notes": "The causative-passive frequently conveys emotion."
-                }
-            ]
-            }
-        ]
-    }
+        }
+    ]
 ]

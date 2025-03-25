@@ -3,6 +3,7 @@
 sub init()
 
     m.name = m.top.findNode("Name")
+    m.prompt = m.top.findNode("Prompt")
     m.example = m.top.findNode("Example")
     m.meaning = m.top.findNode("Meaning")
     m.form = m.top.findNode("Form")
@@ -21,7 +22,7 @@ sub init()
 end sub
 
 sub getDatabase()
-    m.dictionary = N4Grammar_database()
+    m.dictionary = N4Grammar_Chapter1_database()
 end sub
 
 sub nextQuestion()
@@ -36,6 +37,7 @@ sub nextQuestion()
         m.form.visible = false
         m.notes.visible = false
         m.name.uri = word.phrase_image_path
+        m.prompt.uri = word.prompt_image_path
         m.example.uri = word.image_path
         m.meaning.text = word.meaning
         m.form.uri = word.form_image_path
