@@ -381,32 +381,36 @@
     ],
     [
         {
-            name : "〜くらいだ・〜ぐらいだ",
-            meaning : "",
+            name : "〜くらい・〜ぐらい",
+            meaning : "'To the extent that..'. ~ is an example emphasizing extent of what could have, but may not actually happen.",
             forms : [
                 {
-                form: "",
+                form: "名＋くらい（だ・。。。）",
                 examples : [
                     {
                         prompt : "",
-                        example : "",
+                        example : "こんな簡単なことくらい、誰でもできる。",
                         notes: ""
                     }
                 ]
-                }
-            ]
-        },
-        {
-            name : "〜くらい。。。・〜ぐらい。。。",
-            meaning : "",
-            forms : [
+                },
                 {
-                form: "",
+                form: "イ形＋くらい",
                 examples : [
                     {
                         prompt : "",
-                        example : "",
+                        example : "毎日食べたいくらいだ。",
                         notes: ""
+                    }
+                ]
+                },
+                {
+                form: "ナ形「ナ」＋くらい",
+                examples : [
+                    {
+                        prompt : "",
+                        example : "彼女が私と同じくらい背が高いんだ",
+                        notes: "Onaji is a special case, so no na."
                     }
                 ]
                 }
@@ -414,30 +418,82 @@
         },
         {
             name : "〜ほどだ・〜ほど。。。",
-            meaning : "",
+            meaning : "'To the extent that..'. ~ is an example emphasizing extent of what could have, but may not actually happen.",
             forms : [
                 {
-                form: "",
+                form: "名＋ほどだ・ほど",
                 examples : [
                     {
                         prompt : "",
-                        example : "",
+                        example : "君ほど美しい人はいません！",
                         notes: ""
-                    }
+                    },
+                    {
+                        prompt : "",
+                        example : "今年ほど雨の降った年はなかった。",
+                        notes: ""
+                    },
                 ]
-                }
+                },
+                {
+                form: "動「普通形」＋ほどだ・ほど",
+                examples : [
+                    {
+                        prompt : "",
+                        example : "死ぬほどのどがかわいている。",
+                        notes: ""
+                    },
+                    {
+                        prompt : "",
+                        example : "ビックリするほど大きい赤ちゃん。",
+                        notes: ""
+                    },
+
+                ]
+                },
+                {
+                form: "イ形＋ほど",
+                examples : [
+                    {
+                        prompt : "",
+                        example : "彼はあなたの父親でもおかしくないほど年上だ。",
+                        notes: ""
+                    },
+                    {
+                        prompt : "",
+                        example : "駅に近いほど家賃が高い。",
+                        notes: ""
+                    },
+                ]
+                },
+                {
+                form: "ナ形「ナ」＋ほど",
+                examples : [
+                    {
+                        prompt : "",
+                        example : "パーティーは賑やかなほど楽しいです。",
+                        notes: ""
+                    },
+
+                ]
+                },
             ]
         },
         {
             name : "〜くらい。。。はない・〜ぐらい。。。はない",
-            meaning : "",
+            meaning : "'Most of all'. ~ is the most ... (of all).",
             forms : [
                 {
-                form: "",
+                form: "名＋くらい。。。はない",
                 examples : [
                     {
                         prompt : "",
-                        example : "",
+                        example : "リーさんぐらい動物好きな人はいない。",
+                        notes: ""
+                    },
+                    {
+                        prompt : "",
+                        example : "私は料理を作ることぐらい楽しいことはないと思います。",
                         notes: ""
                     }
                 ]
@@ -446,14 +502,14 @@
         },
         {
             name : "〜ほど。。。はない",
-            meaning : "",
+            meaning : "'Most of all'. ~ is the most ... (of all).",
             forms : [
                 {
-                form: "",
+                form: "名＋ほど。。。はない",
                 examples : [
                     {
                         prompt : "",
-                        example : "",
+                        example : "テストほど嫌なものはない。",
                         notes: ""
                     }
                 ]
@@ -462,14 +518,19 @@
         },
         {
             name : "〜くらいなら。。。・〜ぐらいなら。。。",
-            meaning : "",
+            meaning : "'If ~, you're better off ...'. Used to present subjective judgement, not objective fact.",
             forms : [
                 {
-                form: "",
+                form: "動「辞書形」＋くらいなら",
                 examples : [
                     {
                         prompt : "",
-                        example : "",
+                        example : "毎朝自分で弁当を作るくらいなら、コンビニ弁当でいい。",
+                        notes: ""
+                    },
+                    {
+                        prompt : "",
+                        example : "彼と一緒に行くくらいなら家にいた方がましだ。",
                         notes: ""
                     }
                 ]
@@ -478,14 +539,29 @@
         },
         {
             name : "〜に限り",
-            meaning : "",
+            meaning : "'~ is best'. Used to express subjective judgments.",
             forms : [
                 {
-                form: "",
+                form: "名＋に限り",
                 examples : [
                     {
                         prompt : "",
-                        example : "",
+                        example : "映画は映画館でみるに限り。",
+                        notes: ""
+                    }
+                ]
+                },
+                {
+                form: "動「辞書形・ない形」＋に限り",
+                examples : [
+                    {
+                        prompt : "",
+                        example : "風邪には寝ているに限る。",
+                        notes: ""
+                    },
+                    {
+                        prompt : "",
+                        example : "多い所には行かないに限り",
                         notes: ""
                     }
                 ]
@@ -496,14 +572,24 @@
     [
         {
             name : "〜に対して。。。",
-            meaning : "",
+            meaning : "'unlike ~, ...'. Used to clearly contrast to ideas.",
             forms : [
                 {
-                form: "",
+                form: "名＋に対して",
                 examples : [
                     {
                         prompt : "",
-                        example : "",
+                        example : "外遊びが好きな長男に対して、次男は家で遊ぶことが好きだ。",
+                        notes: ""
+                    }
+                ]
+                },
+                {
+                form: "普通形「ナ形（な・である）・名（な・である）」＋の＋に対して",
+                examples : [
+                    {
+                        prompt : "",
+                        example : "昨日は大阪で大雨だったのに対して、東京はいい天気だった。",
                         notes: ""
                     }
                 ]
@@ -512,14 +598,29 @@
         },
         {
             name : "〜反面。。。",
-            meaning : "",
+            meaning : "'~ but on the other hand ...'. Used to present both sides of a proposition.",
             forms : [
                 {
-                form: "",
+                form: "普通形「ナ形（な・である）・名である」＋反面",
                 examples : [
                     {
                         prompt : "",
-                        example : "",
+                        example : "この部屋は日当たりがいい反面、夏はかなり暑いです。",
+                        notes: ""
+                    },
+                    {
+                        prompt : "",
+                        example : "子供にとって、インターネットは便利な反面、悪い影響を与えることもあります。",
+                        notes: ""
+                    },
+                    {
+                        prompt : "",
+                        example : "ノートパソコンは手軽である反面、壊れやすい。",
+                        notes: ""
+                    },
+                    {
+                        prompt : "",
+                        example : "転職をしたら、収入が増えた反面、ストレスも増えました。",
                         notes: ""
                     }
                 ]
@@ -528,14 +629,24 @@
         },
         {
             name : "〜一方（で）。。。",
-            meaning : "",
+            meaning : "'~ but at the same time ...'. Used to present two opposing sides of an idea.",
             forms : [
                 {
-                form: "",
+                form: "普通形「ナ形（な・である）・名である」＋一方（で）",
                 examples : [
                     {
                         prompt : "",
-                        example : "",
+                        example : "お母さんは優しい一方で、お父さんはこわい。",
+                        notes: ""
+                    },
+                    {
+                        prompt : "",
+                        example : "彼は俳優である一方で、歌手としても活躍している。",
+                        notes: ""
+                    },
+                    {
+                        prompt : "",
+                        example : "老人の人口が増えている一方で、若年労働力の数がどんどん減っています。",
                         notes: ""
                     }
                 ]
@@ -544,14 +655,19 @@
         },
         {
             name : "〜というより。。。",
-            meaning : "",
+            meaning : "'not so much ~ as ...'. Clarify a way of describing something.",
             forms : [
                 {
-                form: "",
+                form: "比較するために取り上げる言葉＋というより",
                 examples : [
                     {
                         prompt : "",
-                        example : "",
+                        example : "彼はかっこいいというよりかわいい。",
+                        notes: ""
+                    },
+                    {
+                        prompt : "",
+                        example : "仕事というより趣味に近い。",
                         notes: ""
                     }
                 ]
@@ -560,16 +676,36 @@
         },
         {
             name : "〜かわりに。。。",
-            meaning : "",
+            meaning : "'on the one hand..' or 'in place of'.",
             forms : [
                 {
-                form: "",
+                form: "名の＋かわりに",
                 examples : [
                     {
                         prompt : "",
-                        example : "",
+                        example : "私が部長の代わりに出張に行きます。",
                         notes: ""
-                    }
+                    },
+                    {
+                        prompt : "",
+                        example : "今朝はコーヒーの代わりにお茶を飲んだ。",
+                        notes: ""
+                    },
+                ]
+                },
+                {
+                form: "動「普通形」＋かわりに",
+                examples : [
+                    {
+                        prompt : "",
+                        example : "昨日残業した代わりに、今日は少し早く帰っていいと言われた。",
+                        notes: ""
+                    },
+                    {
+                        prompt : "",
+                        example : "今日は仕事へ車で行く代わりに自転車で行った。",
+                        notes: ""
+                    },
                 ]
                 }
             ]
