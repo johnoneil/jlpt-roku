@@ -1,0 +1,139 @@
+{
+    "title_jpn" : "気をつけよう",
+    "title_eng" : "Let's be careful!",
+    "words" :
+    [
+        {
+            "word": "（事故に）あう",
+            "meaning": "to have (an accident)",
+            "furigana": "（じこに）　あう",
+            "level": 3
+        },
+        {
+            "word": "発生　する",
+            "meaning": "to occur",
+            "furigana": "はっせい　する",
+            "level": 3
+        },
+        {
+            "word": "命",
+            "meaning": "life",
+            "furigana": "いのち",
+            "level": 3
+        },
+        {
+            "word": "救う",
+            "meaning": "to save, to rescue",
+            "furigana": "すくう",
+            "level": 3
+        },
+        {
+            "word": "そうぞうしい",
+            "meaning": "noisy, boisterous",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "さわぐ",
+            "meaning": "to make noise",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "現場",
+            "meaning": "The scene. the actual spot.",
+            "furigana": "げんば",
+            "level": 3
+        },
+        {
+            "word": "混乱　する",
+            "meaning": "confusion, chaos",
+            "furigana": "こんらん　する",
+            "level": 3
+        },
+        {
+            "word": "パニック",
+            "meaning": "panic",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "無事　な",
+            "meaning": "safety, being unharmed",
+            "furigana": "ぶじ　な",
+            "level": 3
+        },
+        {
+            "word": "防ぐ",
+            "meaning": "to protect. to defend. to stop.",
+            "furigana": "ふせぐ",
+            "level": 3
+        },
+        {
+            "word": "再び",
+            "meaning": "again. once more",
+            "furigana": "ふたたび",
+            "level": 3
+        },
+        {
+            "word": "わざと",
+            "meaning": "on purpose. intentionally.",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "被害者",
+            "meaning": "victim",
+            "furigana": "ひがいしゃ",
+            "level": 3
+        },
+        {
+            "word": "お　互いに",
+            "meaning": "both, each other.",
+            "furigana": "お　たがいに",
+            "level": 3
+        },
+        {
+            "word": "疑問",
+            "meaning": "question",
+            "furigana": "ぎもん",
+            "level": 3
+        },
+        {
+            "word": "飛び込む",
+            "meaning": "to jump in",
+            "furigana": "とびこむ",
+            "level": 3
+        },
+        {
+            "word": "溺れる",
+            "meaning": "to drown",
+            "furigana": "おぼれる",
+            "level": 3
+        },
+        {
+            "word": "飛び出す",
+            "meaning": "to jump out",
+            "furigana": "とびだす",
+            "level": 3
+        },
+        {
+            "word": "行方不明",
+            "meaning": "whereabouts unknown",
+            "furigana": "ゆくえふめい",
+            "level": 3
+        },
+        {
+            "word": "亡くなる",
+            "meaning": "to pass away",
+            "furigana": "なくなる",
+            "level": 3
+        },
+        {
+            "word": "偶然",
+            "meaning": "coincidence, chance. by chance",
+            "furigana": "ぐうぜん",
+            "level": 3
+        }
+    ]
+}

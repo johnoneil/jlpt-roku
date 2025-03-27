@@ -1,0 +1,139 @@
+{
+    "title_jpn" : "トラブル",
+    "title_eng" : "trouble",
+    "words" :
+    [
+        {
+            "word": "苦情",
+            "meaning": "grievance, complaint",
+            "furigana": "くじょう",
+            "level": 3
+        },
+        {
+            "word": "慌ただしい",
+            "meaning": "hurried, confused, busy",
+            "furigana": "あわただしい",
+            "level": 3
+        },
+        {
+            "word": "慌てる",
+            "meaning": "to be flustered, to panic",
+            "furigana": "あわてる",
+            "level": 3
+        },
+        {
+            "word": "いきなり",
+            "meaning": "suddenly",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "いじめ",
+            "meaning": "bullying",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "いじめる",
+            "meaning": "to bully",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "迷子",
+            "meaning": "lost child",
+            "furigana": "まいご",
+            "level": 3
+        },
+        {
+            "word": "場合",
+            "meaning": "instance, occasion",
+            "furigana": "ばあい",
+            "level": 3
+        },
+        {
+            "word": "落とす",
+            "meaning": "to drop, to let fall",
+            "furigana": "おとす",
+            "level": 3
+        },
+        {
+            "word": "なくす",
+            "meaning": "to lose",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "借金　する",
+            "meaning": "loan",
+            "furigana": "しゃっきん　する",
+            "level": 3
+        },
+        {
+            "word": "ずるい",
+            "meaning": "dishonest, sly",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "倒れる",
+            "meaning": "to fall over, to collapse",
+            "furigana": "たおれる",
+            "level": 3
+        },
+        {
+            "word": "転ぶ",
+            "meaning": "to trip, to fall",
+            "furigana": "ころぶ",
+            "level": 3
+        },
+        {
+            "word": "（会社が）つぶれる",
+            "meaning": "to go out of business",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "つぶす",
+            "meaning": "to ruin, to crush",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "次々　と",
+            "meaning": "one by one, one after another",
+            "furigana": "つぎつぎ　と",
+            "level": 3
+        },
+        {
+            "word": "停電　する",
+            "meaning": "blackout",
+            "furigana": "ていでん　する",
+            "level": 3
+        },
+        {
+            "word": "断水　する",
+            "meaning": "cut off water supply",
+            "furigana": "だんすい　する",
+            "level": 3
+        },
+        {
+            "word": "ゆれる",
+            "meaning": "to shake, to quake",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ぐらぐら　する",
+            "meaning": "unsteady, faltering",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "非常口",
+            "meaning": "emergency exit",
+            "furigana": "ひじょうぐち",
+            "level": 3
+        }
+    ]
+}

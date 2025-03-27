@@ -1,0 +1,109 @@
+{
+    "title_jpn" : "データ",
+    "title_eng" : "Data",
+    "words" :
+    [
+        {
+            "word": "増加　する",
+            "meaning": "increase",
+            "furigana": "ぞうか　する",
+            "level": 3
+        },
+        {
+            "word": "減少　する",
+            "meaning": "decrease",
+            "furigana": "げんしょう　する",
+            "level": 3
+        },
+        {
+            "word": "超える",
+            "meaning": "to surpass. to pass. to go over.",
+            "furigana": "こえる",
+            "level": 3
+        },
+        {
+            "word": "ピーク",
+            "meaning": "peak",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "全体",
+            "meaning": "all of, entire",
+            "furigana": "ぜんたい",
+            "level": 3
+        },
+        {
+            "word": "かなり",
+            "meaning": "pretty, fairly, quite, considerably",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "信用　する",
+            "meaning": "trust",
+            "furigana": "しんよう　する",
+            "level": 3
+        },
+        {
+            "word": "失う",
+            "meaning": "to lose",
+            "furigana": "うしなう",
+            "level": 3
+        },
+        {
+            "word": "正常　な",
+            "meaning": "normal",
+            "furigana": "せいじょう　な",
+            "level": 3
+        },
+        {
+            "word": "不景気　な",
+            "meaning": "economic crisis",
+            "furigana": "ふけいき　な",
+            "level": 3
+        },
+        {
+            "word": "円高",
+            "meaning": "strong yen",
+            "furigana": "えんだか",
+            "level": 3
+        },
+        {
+            "word": "平均　する",
+            "meaning": "average",
+            "furigana": "へいきん　する",
+            "level": 3
+        },
+        {
+            "word": "およそ",
+            "meaning": "approximately",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "めちゃくちゃ　な",
+            "meaning": "unreasonable, excessive, inordinate",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "最も",
+            "meaning": "most",
+            "furigana": "もっとも",
+            "level": 3
+        },
+        {
+            "word": "ついに",
+            "meaning": "ultimately, in the end, finally",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "とうとう",
+            "meaning": "finally, at last",
+            "furigana": "",
+            "level": 3
+        }
+    ]
+}
