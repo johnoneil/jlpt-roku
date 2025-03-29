@@ -320,3 +320,445 @@
       e: I tend to make a lot of mistakes at work.
     - j: 学校をサボりがちです。
       e: always skipping school.
+
+気味:
+  pronunciation: ぎみ
+  meaning: like; -looking; -looked; tending to
+  use:
+    - Verb (stem form) + 気味
+    - Noun +  気味
+  notes: >
+    This is used to express that something looks or seems to be a certain way.
+    疲れ気味 【つかれぎみ】= looks / seems tired.
+    太り気味 【ふとりぎみ】 = looks / seems large.
+    遅れ気味 【おくれぎみ】= tends to be late.
+    寝不⾜気味 【ねぶそくぎみ】= looks / seems to be sleep deprived.
+  examples:
+    - j: 彼は⼈の名前を忘れ気味である。
+      e: He is apt to forget people's names.
+    - j: ⾵邪気味で、熱っぽいんだ。
+      e: I feel like I'm catching a cold, and I'm a bit feverish.
+    - j: 新⼊社員は緊張気味の顔をしています。
+      e: The new employee looks a little bit nervous.
+
+ごとに:
+  meaning: each; every; at intervals of
+  use:
+    - Verb (dictionary form) + ごとに
+    - Noun + ごとに
+  examples:
+    - j: バスは１０分ごとに通っている。
+      e: The buses run every 10 minutes.
+    - j: オリンピックは４年ごとに開催される。
+      e: The Olympics are held every 4 years.
+
+ほど:
+  meaning: degree; extent; bounds; upper limit
+  use:
+    - Verb (casual, non-past) + (ほど/程)
+    - Noun + (ほど/程)
+    - な-adjective + な + (ほど/程)
+    - い-adjective + (ほど/程)
+  notes: >
+    Usually, this is used to express the degree or extent of something. It can be used both as an approximation or as an upper limit.
+    In some ways, it is similar to くらい・ぐらい (kurai / gurai), but it has a bit of a stronger emphasis and can also be used in other ways.
+  examples:
+    - j: 死ぬほどのどがかわいている。
+      e: I'm so thirsty I could die..
+    - j: 駅に近いほど家賃が⾼い。
+      e: The closer to the station, the more expensive the rent.
+    - j: 君ほど美しい⼈はいません︕
+      e: There is no one that rivals your beauty.
+    - j: 今年ほど⾬の降った年はなかった。
+      e: It rained more this year than any other year.
+
+Xほど〜ない:
+  meaning: is not as… as
+  use:
+    - Noun + ほど + Verb (ない form)
+    - Noun + ほど + Adjective (ない form)
+  examples:
+    - j: 彼⼥ほど優しい⼈はいない。
+      e: There’s no one as kind as her.
+    - j: 健康ほど⼤切なものはないと⾔われている。
+      e: It is said that nothing is more important than health.
+
+⼀度に:
+  pronunciation: いちどに
+  meaning: all at once
+  use:
+    - ⼀度に + phrase
+  examples:
+    - j: ⼀度に全部はできないよ。
+      e: You can't do everything at once.
+    - j: ⼀度に３冊の本を借りることが出来ます。
+      e: You can borrow three books at a time.
+
+いくら〜ても:
+  meaning: no matter how~
+  use:
+    - いくら + Verb (ても form)
+    - いくら + Noun + でも
+    - いくら + な-adjective + でも
+    - いくら + い-adjective + くても
+  notes: >
+    This may also be used as どんなに〜ても (donna ni~temo).
+  examples:
+    - j: これはいくら安くても、買いたくない。
+      e: No matter how cheap this is, I don't want to buy it.
+    - j: いくら調べても分からなかった
+      e: I could not understand no matter how much I studied
+
+⼀⽅だ:
+  pronunciation: いっぽうだ
+  meaning: more and more; continue to
+  use:
+    - Verb (dictionary form) + ⼀⽅だ
+  notes: >
+        Compare with 一方で (N2), which is a conjunction used to contrast clauses like "it's X but at the same time Y."
+  examples:
+    - j: この町の⼈⼝は減る⼀⽅だ。
+      e: This town's population has been decreasing lately.
+    - j: 成績は下がる⼀⽅だ。
+      e: I never study and so my grades just keep dropping.
+
+⼀体:
+  pronunciation: いったい
+  meaning: emphasis; what on earth; what in the world~
+  use:
+    - (⼀体 / いったい) + question
+  notes: >
+    This can be used when asking about something surprising, confusing, or unbelievable.
+    Both the kanji and hiragana form are commonly used.
+  examples:
+    - j: ⼀体何をしていますか︖
+      e: What exactly are you doing?
+    - j: あの⼈は⼀体何の者だ︖
+      e: Who in the world is that?
+
+じゃない:
+  meaning: maybe; most likely; confirmation of information; express surprise towards listener
+  use:
+    - Phrase + じゃない
+  notes: >
+    This is used at the end of a phrase to question or confirm the ideas introduced.
+  examples:
+    - j: トムさんも来るじゃない︖
+      e: Tom will surely come as well?
+    - j: ちょっと︕危ないじゃない。
+      e: Be careful, that's dangerous!
+    - j: 明⽇⾬が降るんじゃないかと⼼配だ。
+      e: I'm worried it might rain tomorrow.
+
+か何か:
+  pronunciation: かなにか
+  meaning: or something
+  use:
+    - Noun + か何か
+  examples:
+    - j: 彼は病気か何かだろう。
+      e: He must be sick or something.
+    - j: 私はアイスクリームか何か⾷べたいです。
+      e: I want to eat ice cream or something.
+
+かける:
+  meaning: half-; not yet finished; in the middle of~
+  use:
+    - Verb (stem form) + ( かける / かけの )
+  examples:
+    - j: この本はまだ読みかけだ。
+      e: I haven’t finished this book yet.
+    - j: テーブルの上に⾷べかけのケーキが置いてある。
+      e: The half-finished cake is put on the table.
+
+から〜にかけて:
+  meaning: through; from [A] to [B]
+  use:
+    - Noun-1 + から + Noun-2 + にかけて
+  examples:
+    - j: 東京から京都にかけて新幹線で⾏くのは何時間かかるの︖
+      e: How long does it take to get from Tokyo to Kyoto by bullet train?
+    - j: 午後から⼣⽅にかけて昼寝をした。
+      e: I took a nap from morning until evening.
+
+代わりに:
+  pronunciation: かわりに
+  meaning: instead of; as a substitute for ; in exchange for; in return for
+  use:
+    - Verb (casual) + 代わりに
+    - Noun + の + 代わりに
+    - その + 代わりに
+  notes: >
+    This can be split into 2 main uses:
+    1. instead of; in place of; as a substitute for.
+    2. in exchange for; in return for; to make up for.
+  examples:
+    - j: 今朝はコーヒーの代わりにお茶を飲んだ。
+      e: This morning, I drank tea instead of coffee.
+    - j: お箸がないので、その代わりにフォークを使う。
+      e: Since I do not have any chopsticks, I will use a fork instead
+    - j: 今⽇は仕事へ⾞で⾏く代わりに⾃転⾞で⾏った。
+      e: Today, instead of going to work by car, I went by bicycle.
+
+結果:
+  pronunciation: けっか
+  meaning: as a result of; after
+  use:
+    - Verb (casual, past) + 結果
+    - Noun + の + 結果
+    - その + 結果
+  notes: >
+    Used with a Verb in past form to be た結果 (ta kekka).
+    Used with with a Noun + の結果 (no kekka).
+    It can also be used after a sentence with その結果 (sono kekka).
+  examples:
+    - j: 彼は仕事をサボった結果として⾸になった。
+      e: As a result of him skipping work, he was fired.
+    - j: ほとんど勉強をしなかった。その結果、試験に落ちてしまった。
+      e: I barely studied. As a result, I failed my exam.
+    - j: これは君の努⼒の結果だと思います。
+      e: I think this is a result of your hard effort.
+
+結局:
+  pronunciation: けっきょく
+  meaning: after all; eventually; in the end
+  use:
+    - (phrase) + 結局（は） + conclusion
+  examples:
+    - j: 結局彼はそれを買わなかった。
+      e: He didn't buy it in the end.
+    - j: 彼は働きすぎて、結局は病気になってしまった。
+      e: He worked so hard that eventually he made himself ill.
+
+決して〜ない:
+  pronunciation: けっして〜ない
+  meaning: never; by no means
+  use:
+    - 決して + Verb (ない form)
+    - 決して + Noun + ではない
+    - 決して + な-adjective + ではない
+    - 決して + い-adjective + くない
+  examples:
+    - j: 私は決して夢をあきらめない。
+      e: I'll never give up on my dream.
+    - j: 決してあなたは⼀⼈じゃありません。
+      e: You are never alone. 
+
+切れない:
+  pronunciation: きれない
+  meaning: too much to finish/complete. unable to do; 
+  use:
+    - Verb (stem form) + 切れない
+  notes: >
+    To instead say “to finish completely”, use 切る (kiru) instead.
+  examples:
+    - j: 彼は使い切れないほど⾦がある。
+      e: He has more money than he can spend.
+    - j: 数え切れないほどたくさん星が光っている。
+      e: An uncountable number of stars are shinning (in the sky).
+
+きり:
+  meaning: only; just; since; after
+  use:
+    - Verb (た form) + (きり / っきり)
+    - Noun + (きり / っきり)
+  notes: >
+    Meaning 1) Noun + きり
+    When used following a noun, this means only~ or just~.
+    Meaning 2) Verb (た form) + きり
+    When used following a verb in た form, this means since~ or after~.
+  examples:
+    - j: ⼆⼈っきりで話をしたいです。
+      e: I want to talk privately with you, just the two of us.
+    - j: 彼⼥に会ったのは１回きりです。
+      e: I've only met her one time.
+    - j: その男の⼈は、森に⼊ったきり、帰ってきませんでした。
+      e: That man hasn't come back since he entered the woods.
+    - j: ⽇本語は5年前に話したきり、全然使っていないから忘れちゃった。
+      e: I haven't spoke Japanese for 5 years, so I forgot it.
+
+切る:
+  pronunciation: きる
+  meaning: to do something completely to the end
+  use:
+    - Verb (stem form) + ( 切る / or potential 切れる)
+  notes: >
+    Change to 切れる (kireru) to express being able to completely do.
+    To say the opposite, use 切れない (kirenai).
+  examples:
+    - j: お⼩遣いを使い切ってしまった。
+      e: I spent all my pocket money.
+    - j: 今⽇はもう⿂を全部売り切れた。。
+      e: I've already sold all of the fish for today.
+
+っけ:
+  meaning: a casual suffix to confirm something you are trying to remember
+  use:
+    - Verb + っけ
+    - Noun + (だ / だった) + っけ
+    - な-adjective + (だ / だった) + っけ
+    - い-adjective + いかった + + っけ
+  examples:
+    - j: あなたの誕⽣⽇、いつだったっけ︖
+      e: When was your birthday again?
+    - j: 誰だっけ︖
+      e: Who were you again? (I can't seem to remember)
+
+込む:
+  pronunciation: こむ
+  meaning: to do something for a long time or to move something (into/inside)
+  use:
+    - Verb (stem form) + 込む
+  notes: >
+    Meaning 1 – To move something in/into/inside.
+    Meaning 2 – To do something for a long time.
+  examples:
+    - j: この紙に必要な情報を書き込んでください。
+      e: Please write the necessary information on this paper.
+    - j: あなたの⼝座にお⾦を振り込んだよ。
+      e: I transferred the money to your account.
+    - j: 今⽇は１時間⾛り込んだ。
+      e: Today I ran for 1 hour.
+    - j: 娘は勉強に打ち込んでいる。
+      e: My daughter is completely dedicating herself to her studies.
+
+こそ:
+  meaning: for sure (emphasize preceding word); precisely; definitely
+  use:
+    - Noun + こそ
+  examples:
+    - j: これこそ望むところです。
+      e: This is the very thing I want
+    - j: こちらこそありがとうございます。
+      e: It is I that should be saying thank you.
+
+こと:
+  meaning: (must) do
+  use:
+    - Verb (dictionary form) + こと
+    - Verb (ない form) + こと
+  notes: >
+    This is used to make a general expression that one should or should not do something.
+    こと (koto) can also be used as a verb nominalizer for a completely different meaning.
+  examples:
+    - j: ⼤声を出さないこと。
+      e: Don't speak with a loud voice.
+    - j: 学校の規則を守ること。
+      e: You must follow school rules.
+
+ことから:
+  meaning: from the fact that~ "It follows"
+  use:
+    - Verb (casual) + ことから
+    - Noun + である/だった + ことから
+    - な-adjective + である/だった + ことから
+    - い-adjective + ことから
+  examples:
+    - j: 道路が濡れていることから、⾬が降ったということが分かる。
+      e: Considering the ground is wet, I know that it must have rained.
+    - j: 教室で席が隣だったことから友⼈になった。
+      e: We became good friends from the fact that our seats were right next to each other in the classroom.
+    - j: ガラスが割れていることから、どろぼうが家に⼊ったと分かりました。
+      e: Because the glass was broken, I knew that a burglar had entered the house.
+
+ことになっている:
+  meaning: to be expected to; to be scheduled to; it has been decided as a rule that...
+  use:
+    - Verb (dictionary form) + (ことになっている / ことになっています)
+    - Verb (ない form) + (ことになっている / ことになっています)
+    - Noun + という + (ことになっている / ことになっています)
+  notes: >
+    This is often used to explain set rules.
+    You can also use ことになっています (koto ni natteimasu) to be more formal.
+  examples:
+    - j: ⽇本では、⾞は左側を⾛ることになっている。
+      e: In Japan, cars drive on the left side of the road.
+    - j: 授業中は、携帯電話を使ってはいけないことになっている。
+      e: Cellphones are not allowed to be used during class.
+
+ことはない:
+  meaning: there is no need to...; (something) never happens; there is no possibility that~
+  use:
+    - Verb (dictionary form) + ことはない
+  notes: >
+    This is often used to help stop someone from worrying about something.
+    In spoken Japanese, the は (wa) will often be removed.
+  examples:
+    - j: 謝ることはないよ。
+      e: There is no need for you to apologize
+    - j: 何も怖がることはない。
+      e: You have nothing to fear.
+    - j: ⾃分を責めることはない。
+      e: There's no need to blame yourself.
+
+ことは〜が:
+  meaning: although; but
+  use:
+    - Verb (casual) + ことは + same verb (casual) + が
+    - い-adjective + ことは + same い-adjective + が
+    - な-adjective + ことは + same な-adjective + が
+  examples:
+    - j: この薬は効くことは効くが、飲むと眠くなってしまう。
+      e: This medicine works, but I feel sleepy when I take it.
+    - j: N3の勉強をしたことはしたが、合格できるか⾃信がない。。
+      e: Although I studied for the JLPT N3, I don't have confidence I can pass.
+
+くらい・ぐらい:
+  meaning: approximately; about; around; to the extent
+  use:
+    - Verb (casual form) + ( くらい / ぐらい )
+    - Noun + ( くらい / ぐらい )
+    - な-adjective + な + ( くらい / ぐらい )
+    - い-adjective + ( くらい / ぐらい )
+  notes: >
+    Meaning 1) Describing an approximate amount
+    Approximate a certain size or amount of something. For example, how much money, how many people,
+    今は100⼈くらいが部屋にいる。
+    ima wa hyaku nin kurai ga heya ni iru.
+    There are approximately 100 people in the room now.
+    Meaning 2) Assess or compare the quality/level of something
+    This grammar point can be used to compare two objects as being equal, for example saying that item
+    [A] is of the same level as item [B].
+    Alternatively, it can also be used to say that something of a high or low / level.
+    Equal level
+    彼⼥が私と同じくらい背が⾼いんだ。
+    kanojo ga watashi to onaji kurai se ga takai n da.
+    My girlfriend is about the same height as me.
+    High level (praising) – NOTE for very high level items, you should use 程 (hodo) instead.
+    カレーが⼤好き。毎⽇⾷べたいくらいだ。
+    karee ga daisuki. Mai nichi tabetai kurai da.
+    I love curry so much (high level) that I could eat it every day.
+    Low Level (disregard)
+    こんな簡単なことくらい、誰でもできる。
+    konna kantanna koto kurai, dare demo dekiru.
+    This task is so simple (low level), anybody could do it.
+  examples:
+    - j: どれくらい⽇本に住んでいますか︖
+      e: (About) how long have you been living in Japan?
+    - j: 家から駅まで⾃転⾞で20分ぐらいかかります。
+      e: It takes about 20 minutes from my house to the station by bicycle.
+    - j: 試験が難しくて、泣きたいくらいだ。
+      e: The test was so difficult, I felt like I wanted to cry.
+    - j: こんな簡単なことくらい、誰でもできる。
+      e: This task is so simple (low level), anybody could do it.
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
