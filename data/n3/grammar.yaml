@@ -16,7 +16,6 @@
       e: I wrote my research report in one day.
 
 あまり:
-  pronunciation: あまり
   meaning: so much… that
   use:
     - Verb (dictionary form) あまり
@@ -31,7 +30,6 @@
       e: The father was so overcome with worry for his daughter that he collapsed.
 
 あまりにも:
-  pronunciation: あまりにも
   meaning: too much; so much… that; excessively~
   use:
     - あまりに(も) Verb
@@ -47,3 +45,278 @@
       e: He changed a lot.
     - j: あまりにも天気が良い。
       e: The weather is excellent.
+
+合う:
+  pronunciation: あう
+  meaning: do something together
+  use:
+    - Verb (stem form) 合う
+  notes: >
+    This verb is connected at the end of another verb to express that action is being done together with someone else.
+  examples:
+    - j: 二人は愛し合っている。
+      e: Those 2 are in love with each other.
+    - j: 私たちはその件について話し合いましょう。
+      e: Let's discuss that matter together.
+
+ばいい:
+  meaning: should, can, it'd be good if...
+  use:
+    - Verb (ば conditional form) いい
+  examples:
+    - j: どうすればいいですか︖
+      e: What should I do?
+    - j: どこに⾏けばいいですか︖
+      e: Where should I go?
+
+ばよかった:
+  meaning: should have; would have been better if~
+  use:
+    - Verb (ば conditional form) よかった（のに）
+  notes: >
+    ばよかった (ba yokatta). Meaning: should have; would have been better if~.
+    You can add のに (no ni) at the end for more emphasis to become ばよかったのに (ba yokatta no ni).
+  examples:
+    - j: そうすればよかった。
+      e: I should have done that.
+    - j: 早く連絡してくればよかったのに。
+      e: You should have contacted me earlier.
+
+ば〜ほど:
+  meaning: the more… the more
+  use:
+    - Verb (ば conditional form) + same Verb + ほど
+    - な-adjective + なら + same な-adj + なほど
+    - い-adjective + ければ + same い-adj + ほど
+  notes: >
+    ばよかった (ba yokatta). Meaning: should have; would have been better if~.
+    You can add のに (no ni) at the end for more emphasis to become ばよかったのに (ba yokatta no ni).
+  examples:
+    - j: 考えれば考えるほどわからなくなる。
+      e: The more I think about it, the less I understand.
+    - j: 勉強すればするほど、⽇本語が上⼿になりますよ。
+      e: The more you study, the better your Japanese will get.
+
+ば〜のに:
+  meaning: if only~ would have; should have; 
+  use:
+    - Verb (conditional form) + clause + のに
+    - Noun + なら + clause + のに
+    - な-adjective + なら + clause + のに
+    - い-adjective + ければ + clause + のに
+  examples:
+    - j: もっと安ければいいのに。
+      e: If only it were a bit cheaper.
+    - j: 映画はとても⾯⽩かった。君も⾏けばよかったのに。
+      e: The movie was very interesting. You should have come!
+
+ばかりで:
+  meaning: only; just (negative description) 
+  use:
+    - Verb (casual) + ばかりで
+    - な-adjective + な + ばかりで
+    - い-adjective + い + ばかりで
+  examples:
+    - j: うちの⼦は毎⽇遊んでいるばかりで勉強をしない。。
+      e: My kid only plays all day and never studies
+    - j: 顔が綺麗なばかりで、性格が悪すぎる。
+      e: They just have a pretty face, but their personality is very bad.
+
+ばかりでなく:
+  meaning: not only.. but also; as well as~ 
+  use:
+    - Verb (casual) + ばかりでなく… (も)
+    - Noun + ばかりでなく… (も)
+    - な-adjective + な + ばかりでなく… (も)
+    - い-adjective + い + ばかりでなく… (も)
+  examples:
+    - j: このマンションは狭いばかりでなく、暗いです。
+      e: This apartment is not only very small, it's also quite dark.
+    - j: 彼は歌ばかりでなくダンスも上⼿です。
+      e: He is not only good at singing, he also good at dancing.
+    - j: 東京を案内してくれたばかりでなく、⾷事もごちそうしてくれた。
+      e: Not only did they show me around Tokyo, but they also paid for my meal.
+
+べきだ:
+  meaning: should do~; must do~ 
+  use:
+    - Verb (standard form) + べき（だ）
+    - する as す + + べき（だ）
+    - な-adjective + である + べき（だ）
+    - い-adjective + くある + べき（だ）
+  notes: >
+    べきだ (beki da). Meaning: should do; must do.
+    This is used to express something we should do or must do.
+    知るべき (shiru beki) = I should know
+    You can also use it in the past tense with だった (datta) / でした (deshita)
+    知るべきだった (shiru beki datta) = I should have known
+    To say the opposite, “you must not do”, use: べきではない (beki dewa nai). てはいけない (te wa ikenai).
+  examples:
+    - j: 私はそれについてもっと知るべきだ。
+      e: I should know more about that.
+    - j: 約束は守るべきだ。
+      e: You should keep your promises.
+    - j: 先ず安全であるべきです。
+      e: Safety comes first for toys.
+    - j: 何をすべきか、もう彼⼥の⼼は決まっていた。
+      e: She had already decided in her heart what she should do.
+
+べきではない:
+  meaning: should not do~; must not do~ 
+  use:
+    - Verb (standard form) + (べきではない/べきではありません)
+    - する As す- + (べきではない/べきではありません)
+    - な-adjective + である + (べきではない/べきではありません)
+    - い-adjective + くある + (べきではない/べきではありません)
+  examples:
+    - j: そんなことをすべきではない。
+      e: You shouldn't do such a thing.
+    - j: 約束を破るべきではありません。
+      e: You shouldn't break your promises.
+
+別に〜ない:
+  pronunciation: べつに〜ない
+  meaning: not really, not particularly
+  use:
+    - 別に + Verb (ない form)
+    - 別に + Noun + ではない
+    - 別に + な-adjective + ではない
+    - 別に + い-adjective + くない
+  examples:
+    - j: それは別に悪いことでもない。
+      e: That's not particularly a bad thing.
+    - j: この仕事には別に期限はない。
+      e: There is no time limit in particular for completing this job
+
+ぶりに:
+  meaning: for the first time in (period of time)
+  use:
+    - Noun (measurement of time) + [ ぶり（に）/ っぷり ]
+  examples:
+    - j: 今⽇、やく2週間ぶりに⾬が降った。。
+      e: Today, it rained for the first time in 2 weeks.
+    - j: ⼀週間ぶりにようやく晴れてきた。
+      e: For the first time in a week, it the sun finally came out.
+
+中:
+  pronunciation: ちゅう
+  meaning: currently; during; at some point; throughout; before the end of~
+  use:
+    - Noun + 中 (read ちゅう or じゅう)
+  examples:
+    - j: 私は⼀晩中泣いていた。
+      e: I cried all night.
+    - j: 英語は世界中で話されています。
+      e: English is spoken throughout the world.
+
+だけ:
+  meaning: as much as~
+  use:
+    - Verb (dictionary form) + だけ
+    - Noun + だけ
+    - な-adjective + な + だけ
+    - い-adjective + だけ
+  examples:
+    - j: ⾷べたいだけ⾷べなさい。
+      e: Eat as much as you like.
+    - j: できるだけ早く返事をいただけると助かります。
+      e: I would appreciate it if you could reply to me as soon as possible.
+    - j: 静かなだけ静かにしましょう。
+      e: Let's be as quiet as we can.
+
+だけでなく...(も):
+  meaning: not only… but also
+  use:
+    - Verb (dictionary form) + だけでなく... (も)
+    - Noun (である) + だけでなく... (も)
+    - な-adjective + な/である  + だけでなく... (も)
+    - い-adjective + だけでなく... (も)
+  examples:
+    - j: ⼦供だけではなく⼤⼈も楽しむことができる。
+      e: enjoyable for not only kids, but for adults as well.
+    - j: ⾁だけでなく野菜も⾷べなさいよ。
+      e: Make sure to eat not just the meat, but the vegetables as well.
+
+だけど:
+  meaning: however; but
+  use:
+    - Clause-1 + だけど + Clause-2
+  examples:
+    - j: 彼⼥はかわいいだけど僕のタイプではない。
+      e: She's cute, but not my type.
+    - j: ⾵邪ひいちゃった。早く良くなるといいんだけど。
+      e: I caught a cold, I hope I can recover quickly.
+
+だらけ:
+  meaning: full of; covered with; a lot of (something undesirable)
+  use:
+    - Noun + だらけ
+  examples:
+    - j: 泥だらけ
+      e: Covered in mud.
+    - j: 今、不安だらけです。
+      e: I'm super nervous right now.
+
+どんなに〜ても:
+  meaning: no matter how (much)
+  use:
+    - どんなに + Verb (ても form)
+    - どんなに + Noun + でも
+    - どんなに + な-adjective + でも
+    - どんなに + い-adjective + くても
+  examples:
+    - j: あの⼈の名前はどんなに聞いても覚えられない。
+      e: I can't remember that person's name no matter how many times I hear it.
+    - j: どんなに練習しても全然うまくならない。
+      e: I'm not getting any better no matter how much I practice.
+
+どうしても:
+  meaning: no matter what; at any cost; after all
+  use:
+    - どうしても + phrase
+  examples:
+    - j: 私はどうしても⾃分の家がほしい。
+      e: I really want to have my own house (to the point I'd do anything).
+    - j: どうしても⾞が動かなかった
+      e: No matter what we tried the car wouldn't star.
+
+ふりをする:
+  meaning: no matter what; at any cost; after all
+  use:
+    - Verb (casual) + ふりをする
+    - Noun + の + ふりをする
+    - な-adjective + な + ふりをする
+    - い-adjective + ふりをする
+  examples:
+    - j: 彼は聞こえないふりをした。
+      e: He pretended to not hear.
+    - j: 宿題をし終わったふりをしてテレビを⾒ている。
+      e: I am pretending that I finished my homework and watching TV.
+
+ふと:
+  meaning: end to; tendency to; frequently; often; to do something easily
+  use:
+    - ふと + action
+  examples:
+    - j: ふと街で彼に会った。
+      e: I met him in the street by chance.
+    - j: 財布がないのにふと気がついた。
+      e: He suddenly realized he had lost his wallet.
+
+がち:
+  meaning: suddenly; accidentally; unexpectedly; unintentionally
+  use:
+    - Noun + がち
+    - Verb (stem form) + がち
+  notes: >
+    This is usually used for something negative.
+    Here are some basic patterns to show how the meanings can change:
+    ありがち = tend to have.
+    になりがち = tend to become~
+    遅れがち 【おくれがち】= tend to be late.
+    留守がち 【るすがち】= tend to be absent.
+  examples:
+    - j: 私は、仕事でミスしがちです。
+      e: I tend to make a lot of mistakes at work.
+    - j: 学校をサボりがちです。
+      e: always skipping school.
