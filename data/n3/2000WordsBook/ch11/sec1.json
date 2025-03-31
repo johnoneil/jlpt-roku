@@ -1,0 +1,181 @@
+{
+    "title_jpn" : "性格",
+    "title_eng" : "Personality",
+    "words" :
+    [
+        {
+            "word": "個性",
+            "meaning": "individuality",
+            "furigana": "こせい",
+            "level": 3
+        },
+        {
+            "word": "真面目　な",
+            "meaning": "serious, diligent",
+            "furigana": "まじめ　な",
+            "level": 3
+        },
+        {
+            "word": "働き者",
+            "meaning": "hard worker",
+            "furigana": "はたらきもの",
+            "level": 3
+        },
+        {
+            "word": "正直　な",
+            "meaning": "honest",
+            "furigana": "しょうじき　な",
+            "level": 3
+        },
+        {
+            "word": "素直　な",
+            "meaning": "straightforward",
+            "furigana": "すなお　な",
+            "level": 3
+        },
+        {
+            "word": "積極的　な",
+            "meaning": "assertive, aggressive",
+            "furigana": "せっきょくてき　な",
+            "level": 3
+        },
+        {
+            "word": "消極的　な",
+            "meaning": "passive",
+            "furigana": "しょうきょくてき　な",
+            "level": 3
+        },
+        {
+            "word": "ほがらか　な",
+            "meaning": "bright, cheerful",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "人なつこい",
+            "meaning": "friendly, sociable",
+            "furigana": "ひとなつこい",
+            "level": 3
+        },
+        {
+            "word": "穏やか　な",
+            "meaning": "clam, gentle, quiet",
+            "furigana": "おだやか　な",
+            "level": 3
+        },
+        {
+            "word": "のん気　な",
+            "meaning": "carefree, happy-go-lucky",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "おとなしい",
+            "meaning": "quiet, docile, well behaved",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "そそっかしい",
+            "meaning": "careless, thoughtless",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "いい加減　な",
+            "meaning": "irresponsible, careless",
+            "furigana": "いいかげんな",
+            "level": 3
+        },
+        {
+            "word": "意地悪　な",
+            "meaning": "mean",
+            "furigana": "いじわる　な",
+            "level": 3
+        },
+        {
+            "word": "わがまま　な",
+            "meaning": "selfish",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "勝手　な",
+            "meaning": "selfish, self-centered",
+            "furigana": "かって　な",
+            "level": 3
+        },
+        {
+            "word": "図々しい",
+            "meaning": "shameless, audacious",
+            "furigana": "ずうずうしい",
+            "level": 3
+        },
+        {
+            "word": "生意気　な",
+            "meaning": "impudent, sassy",
+            "furigana": "なまいき　な",
+            "level": 3
+        },
+        {
+            "word": "けち　な",
+            "meaning": "stinginess, cheapness",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "しつこい",
+            "meaning": "(annoyingly) persistent",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "鋭い",
+            "meaning": "sharp",
+            "furigana": "するどい",
+            "level": 3
+        },
+        {
+            "word": "鈍い",
+            "meaning": "dim, dull",
+            "furigana": "にぶい",
+            "level": 3
+        },
+        {
+            "word": "単純　な",
+            "meaning": "simple, uncomplicated, pure",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "オーバーな",
+            "meaning": "over does it, to an extreme",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "大げさ　な",
+            "meaning": "overdoes it, to an extreme",
+            "furigana": "おおげさ　な",
+            "level": 3
+        },
+        {
+            "word": "欠点",
+            "meaning": "flaw, shortcoming",
+            "furigana": "ケッテン",
+            "level": 3
+        },
+        {
+            "word": "くせ",
+            "meaning": "habit",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "器用　な",
+            "meaning": "dextrous, skillful",
+            "furigana": "きよう　な",
+            "level": 3
+        }
+    ]
+}
