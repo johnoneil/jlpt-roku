@@ -742,15 +742,406 @@ Xほど〜ない:
     - j: こんな簡単なことくらい、誰でもできる。
       e: This task is so simple (low level), anybody could do it.
 
-XXX:
-  meaning: xxx
+くせに:
+  meaning: despite the fact that~; even though~; although~
   use:
-    - xxx
+    - Verb (dictionary form) + くせに
+    - Noun + の + くせに
+    - な-adjective + な + くせに
+    - い-adjective + くせに
+  notes: >
+    This can also be used as くせして (kuse shite).
+    This is similar in meaning to けど (kedo) and のに (noni) (noni), but it expresses more emotion from the speaker and comes off stronger.
+  examples:
+    - j: 医者でもないくせに。
+      e: You aren't even a doctor (so don’t act like you are one).
+    - j: 彼⼥はお⾦持ちのくせにケチだ。
+      e: Although she is rich, she is very frugal with her money.
+    - j: 元気なくせに、病気のふりをしている。
+      e: Despite being tall, he cannot run fast.
+
+まるで:
+  meaning: just like; as if; as though
+  use:
+    - まるで + Verb (casual form) + よう
+    - まるで + Noun + のよう
+  examples:
+    - j: まるで夢のようだ。
+      e: It’s like a dream!
+    - j: まるで魔法のようだ︕
+      e: It's just like magic!
+    - j: 最近できたロボットは、まるで本物の⼈間のように動きます。
+      e: Recently made robots move just like real humans.
+
+まさか:
+  meaning: there's no way; that's impossible; you must be joking
+  use:
+    - まさか + Negative clause
+  examples:
+    - j: まさかそうなるとは思わなかった。
+      e: That's the last thing I expected.
+    - j: 僕はまさかそんなことはできないよ。
+      e: I could never do such a thing.
+
+めったに〜ない:
+  meaning: hardly; rarely; seldom
+  use:
+    - ( めったに / 滅多に ) + Verb (ない form)
+    - Noun + は ( めったにない / 滅多にない )
+  examples:
+    - j: 彼はめったに本を読まない。
+      e: He rarely reads books.
+    - j: こんなチャンスは滅多にないよ。
+      e: You won’t have a second chance like this.
+
+めったに〜ない:
+  meaning: hardly; rarely; seldom
+  use:
+    - Noun-1 + も + Verb(ば form) + Noun-2 + も
+    - Noun-1 + も + Noun + なら + Noun-2 + も
+    - Noun-1 + も + な-adj + なら + Noun-2 + も
+    - Noun-1 + も + い-adj + ければ + Noun-2 + も
+  notes: >
+    This is used to show both [A] and [B] exist together.
+    It can be used with either:
+    2 positive points.
+    2 negative points.
+    1 positive and 1 negative point.
+  examples:
+    - j: 本を読むのが好きな⼈もいれば、嫌いな⼈もいます。
+      e: If there are people who like to read books, there will also be people who dislike it.
+    - j: 学⽣の態度もわるければ教師の態度もわるい。
+      e: If the student's attitude is bad, then the teacher's attitude will also be bad.
+
+もしかしたら:
+  meaning: perhaps; maybe; perchance; by any chance
+  use:
+    - (もしかすると / もしかしたら) +  phrase + かもしれない
+  notes: >
+    This is mostly used in combination with かもしれない (kamo shirenai).
+  examples:
+    - j: もしかしたら、明⽇⾏けないかもしれない。
+      e: I might not be able to come tomorrow.
+    - j: もしかしたら病気かもしれない
+      e: I might be sick.
+
+
+もしも〜たら:
+  meaning: if; in the case; supposing~
+  use:
+    - もしも + Verb (た form) + ら
+  examples:
+    - j: もしも明⽇は晴れたらピクニックに⾏きましょう。
+      e: If it's sunny tomorrow, let's go out for a picnic.
+    - j: もしも⽇本に⾏けたら、⼤阪の友達に会いたいです。
+      e: If I could go to Japan, I would like to meet my friends in Osaka.
+    - j: もしも試験を受けたら、合格したいです。
+      e: In the case that I take the exam, I would like to pass.
+
+
+向け:
+  pronunciation: むけ
+  meaning: intended for; aimed at~
+  use:
+    - Noun + (向け / むけ)
+  examples:
+    - j: 初⼼者向けのコースがありますか。
+      e: Do you have a course for beginners?
+    - j: この映画は⼦供向けなので、⼤⼈は⾒てもつまらない。
+      e: That movie is targeted for children, so it will be boring for adults who watch it.
+
+向き:
+  pronunciation: むき
+  meaning: suitable for~
+  use:
+    - Noun + (向き / むき)
+  examples:
+    - j: この本は初⼼者向きである。
+      e: This book is suitable for beginners.
+    - j: その映画は⼦供向きだ。
+      e: This movie is suitable for children.
+
+むしろ:
+  meaning: rather; instead; better
+  use:
+    - むしろ + phrase
   notes: >
     Notes here
   examples:
-    - j: xxx
-      e: yyy
+    - j: 私はむしろ⼀⼈で⾏きたい。
+      e: I would rather go alone.
+    - j: 私はむしろ電⾞で⾏くだろう。
+      e: I would likely rather go by train.
+
+ながらも:
+  meaning: but; although; despite
+  use:
+    - Verb (stem form) + ながら（も）
+    - Verb (て form) + い + ながら（も）
+    - Noun + ながら（も）
+    - な-adjective + ながら（も）
+    - い-adjective + い + ながら（も）
+  notes: >
+    The も at the end is optional and is often just used as ながら (nagara)
+    Be careful to not confuse this with ながら (nagara), which has a separate meaning.
+  examples:
+    - j: 狭いながらも、このマンションは⼤好きだ。
+      e: Despite it being small, I love this apartment.
+    - j: 残念ながらも、今⽇のイベントに⾏けません。s
+      e: Unfortunately, I will not be able to go to today's event.
+    - j: 彼⼥はダイエットすると⾔っていながらも、今⽇もアイスを⾷べている。
+      e: She says she's going to diet, but she's eating ice cream again today.
+    - j: 悪いことだと知っていながら、彼⼥は平気で嘘をつく。
+      e: Despite knowing what she's doing is wrong, she just plain lied about it.
+
+ないことはない:
+  meaning: can do~; is not impossible to~
+  use:
+    - Verb (ない form) + ことはない
+    - Noun + ではない/じゃない + ことはない
+    - な-adjective + ではない/じゃない + ことはない
+    - い-adjective + いくない + ことはない
+  notes: >
+    This may imply that something is not impossible, but may require some level of work or effort to do.
+  examples:
+    - j: ⾛れば間に合わないことはないよ。急ごう︕
+      e: We can still make it if we run. Let's hurry up!
+    - j: できないこともないですけど、少し時間をいただきたいです。
+      e: It's not that I can't do it, but I would like to have some more time.
+    - j: 私も留学したことがありますから、あなたの苦労が分からないことはありません。
+      e: I have studied abroad so I can understand what you’re going through.
+
+ないと:
+  meaning: must do; unless/if you don't~
+  use:
+    - Verb (ない form) + と
+    - Noun + でない / じゃない + と
+    - な-adjective + でない / じゃない + と
+    - い-adjective + いくない + と
+  notes: >
+    Meaning 1 – must do
+    This is the shortened version of ないといけない (naito ikenai).
+    Meaning 2 – unless / if you don’t do~
+    Unless/if you don’t do (action), something bad will happen.
+  examples:
+    - j: もう⾏かないと...
+      e: I have to go now...
+    - j: 宿題をやらないと。
+      e: I have to do my homework.
+    - j: 早く寝ないと、明⽇起きられないよ。
+      e: If you don't go to bed early, you won't be able to get up tomorrow.
+    - j: この機会を取らないと他⼈に取られますよ。
+      e: If you don't seize this opportunity, it will be taken by someone else.
+
+なかなか:
+  meaning: quite~; pretty~; rather~; just not ~
+  use:
+    - なかなか + Noun
+    - なかなか + Adjective
+    - なかなか + Verb
+  notes: >
+    Usage 1) なかなか + Noun / Adjective
+    When なかなか is used with a noun or adjective, the speaker expresses a sense of unexpectedness or surprise.
+    Usage 2) なかなか + Verb
+    When なかなか is used with a negative verb, it implies that the speaker has attempted to do something, but it is unable to do it.
+  examples:
+    - j: なかなか⾯⽩そうです。
+      e: That sounds quite interesting.
+    - j: ⾞のエンジンがなかなかかからない。
+      e: I can't seem to get the car to start.
+    - j: もう来るはずなんですが、なかなかバスが来ませんね。
+      e: It should have arrived already, but the bus doesn't seem to be coming.
+
+なんか・なんて・など:
+  meaning: give examples; show modesty; make light of~
+  use:
+    - Noun + なんか
+    - Noun + なんて
+    - Noun + など
+  notes: >
+    This used to either:
+    1. give examples.
+    2. show modesty.
+    3. make light of; belittling something .
+  examples:
+    - j: 試験も近いし、テレビなど⾒ている暇はない。
+      e: Exams are close and I don't have time to do things like watch TV. (give example)
+    - j: 彼は私なんかよりすごい⼈だよ。
+      e: He is a much better man than I am. (modesty)
+    - j: お前の話なんか誰が信じるもんか。
+      e: Who's going to believe you're story? (belittling)
+
+直す:
+  pronunciation: なおす
+  meaning: to do something again; to do over
+  use:
+    - Verb (stem form) + (直す / なおす)
+  notes: >
+    直す (naosu) means to fix. Adding this after a verb in stem form expresses doing something again in order to fix something.
+  examples:
+    - j: この作⽂はミスが多いから、書き直したほうがいいよ。
+      e: This essay has a lot of mistakes, so you should do a rewrite.
+    - j: 彼に電話を掛け直すようにお願いしてもらえますか。
+      e: Could you ask him to call me back?
+
+なるべく:
+  meaning: as much as possible
+  use:
+    - なるべく + action
+  examples:
+    - j: なるべく運動すべきです。
+      e: You should exercise as much as possible.
+    - j: ミーティングは、なるべく早い時間に初めてもらいたいです。
+      e: I'd like to start the meeting as early as possible.
+
+なぜなら:
+  meaning: because; the reason is; if you want to know why
+  use:
+    - (Result) +  なぜなら（ば）+ reason
+  notes: >
+    This is usually only used in formal situations.
+    There are a few different variations, including:
+    なぜならば (naze naraba)
+    なぜかというと (naze ka to iu to)
+    どうしてかというと (doushite ka to iu to)
+  examples:
+    - j: なぜなら彼は病気だったからです。
+      e: The reason is because he was sick.
+    - j: 買いたいけど買えません。なぜならばお⾦がないからです。
+      e: I want to buy it, but I cannot, because I have no money.
+
+んだって:
+  meaning: I hear that; heard that~
+  use:
+    - Verb (casual) + (んだって / んですって)
+    - Noun + な + (んだって / んですって)
+    - な-adjective + な + (んだって / んですって)
+    - い-adjective + (んだって / んですって)
+  notes: >
+    This is a quoting particle often used in casual conversation. It can be used to express things that you heard.
+    Sometimes the ん (n) may be dropped to just be だって (datte), but be careful to not confuse this with the N2 grammar for だって (datte) meaning but; after all; even; too
+  examples:
+    - j: 彼、彼⼥ができたんだって。
+      e: I heard he got a girlfriend.
+    - j: この店のカレー、美味しいんだって。
+      e: I heard that this restaurant has good curry.
+
+に違いない:
+  pronunciation: にちがいない
+  meaning: I'm sure/ certain; no doubt that
+  use:
+    - Verb (casual form) + に違いない
+    - Noun + に違いない
+    - な-adjective + に違いない
+    - い-adjective + に違いない
+  examples:
+    - j: それは痛いに違いない。
+      e: I bet that hurts.
+    - j: 彼⼥は⽇本に１０年も住んでいたから、⽇本語が上⼿に話せるに違いない。
+      e: She has been living in Japan for 10 years so she surely speaks Japanese well.
+
+に反して:
+  pronunciation: にはんして
+  meaning: against; contrary to; in contrast to
+  use:
+    - Noun + (に反して / に反する)
+  examples:
+    - j: 予想に反して、試験はとても簡単だった。
+      e: Contrary to my expectations, the test was quite simple.
+    - j: 彼の話は事実に反する。
+      e: What he has said is contrary to the facts.
+
+にかけて:
+  meaning: over (a period); through~; concerning~; regarding~
+  use:
+    - Noun + にかけて（は / も）
+  notes: >
+    This grammar is used when the speaker is either praising someone else or boasting their own ability.
+    One common usage pattern is から〜にかけて (kara~ni kakete).
+  examples:
+    - j: テニスにかけては、彼に勝てる⼈はいない。
+      e: There is no one who can beat him in tennis.
+
+に関する / に関して:
+  pronunciation: にかんする / にかんして
+  meaning: about; regarding; related to
+  use:
+    - Noun + に関して(は）
+    - Noun + に関する
+  examples:
+    - j: 給料に関しては不満はない。
+      e: I have no complaints regarding my salary.
+    - j: ⽇本語の中級⽂法に関する本を探しているんです
+      e: I'm searching for a book on intermediate Japanese grammar
+
+にかわって / にかわり:
+  meaning: instead of~; replacing~; on behalf of~
+  use:
+    - Noun (person) + にかわって
+    - Noun (person) + にかわり
+  notes: >
+    See also 代わりに (kawari ni).
+    にかわり (ni kawari) is more formal than にかわって (ni kawatte).
+  examples:
+    - j: 弟は、⺟にかわってご飯を作った。
+      e: My little brother made dinner instead of my mom.
+    - j: DVDにかわり、ブルーレイが使われるようになった。
+      e: Bluray is starting to be used now instead of DVDs.
+
+に⽐べて:
+  pronunciation: にくらべて
+  meaning: compared to~; in comparison to~
+  use:
+    - Noun + に⽐べて
+    - Noun + に⽐べると
+    - Noun + に⽐べれば
+    - Noun + に⽐べ
+  notes: >
+    This can be conjugated into various formats, including:
+    に⽐べると (ni kureberu to).
+    に⽐べれば (ni kurabereba).
+    に⽐べ (ni kurabe).
+  examples:
+    - j: 昨⽇に⽐べて、今⽇は少し寒いね。
+      e: It's a bit cold today compared to yesterday.
+    - j: ⽇本はアメリカや中国に⽐べれば⼩さな国です。
+      e: Compared with America or China, Japan is a small country.
+
+に慣れる:
+  pronunciation: になれる
+  meaning: to be used to something
+  use:
+    - Noun + に慣れる
+    - Noun + になれる
+  examples:
+    - j: 私は早起きするのに慣れていない。
+      e: I am not used to getting up early.
+    - j: 彼は⼀⼈暮らしに慣れている。
+      e: He is used to living alone.
+
+において / における:
+  meaning: in; at (place); regarding~; as for~; in relation to~
+  use:
+    - Noun +において
+    - Noun +における + Noun
+  notes: >
+    This can be used similarly to the 〜で (de) particle, but it is more formal and mostly only used in written language.
+  examples:
+    - j: 私は全てにおいて頑張ります。
+      e: I do my best with everything.
+    - j: だいたいにおいて春に⾬がよく降る。
+      e: It generally rains a lot in Spring.
+
+にしたがって:
+  meaning: as; therefore; in accordance with; according to; consequently
+  use:
+    - Verb (dictionary form) + (に従って /  にしたがって / にしたがい / に従い)
+    - Noun + (に従って /  にしたがって / にしたがい / に従い)
+  examples:
+    - j: 暗くなるにしたがって、だんだん寒くなってきました。
+      e: It began to get colder as it got darker.
+    - j: ⽇本での⽣活に慣れるにしたがって⽇本⼈の友達が増えた。
+      e: As I got used to life in Japan, my number of Japanese friends increased.
 
 XXX:
   meaning: xxx
