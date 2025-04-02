@@ -1143,6 +1143,368 @@ Xほど〜ない:
     - j: ⽇本での⽣活に慣れるにしたがって⽇本⼈の友達が増えた。
       e: As I got used to life in Japan, my number of Japanese friends increased.
 
+にしても:
+  meaning: even if; even though; regardless of
+  use:
+    - Verb (casual)+ にしても
+    - Noun + (である) + にしても
+    - な-adjective + (である) + にしても
+    - い-adjective + にしても
+  examples:
+    - j: それにしても、⽇本は良い国ですね︕
+      e: Regardless, Japan is a great country!
+    - j: 今回の試験は合格したにしても、点数はあまりよくないと思う。
+      e: Even if I pass this test, I don't think I'll have a high score.
+    - j: どちらにしても賛成できない。
+      e: In either case I cannot agree.
+
+にしては:
+  meaning: considering...; For a...;
+  use:
+    - Verb (casual) + にしては
+    - Noun  + にしては
+  examples:
+    - j: 今４⽉にしては、ちょっと暑いですね。
+      e: It's a bit hot for April.
+    - j: 外国⼈にしては⽇本語が上⼿だ。
+      e: For a foreigner, his Japanese is very good.
+    - j: 彼は勉強しなかったにしては、いい点が取れた。
+      e: For someone who didn't do their homework, he still managed to get a decent score.
+
+に対して:
+  pronunciation: にたいして
+  meaning: towards; against; regarding; in contrast with. "Unlike X..."
+  use:
+    - Noun + に対して
+  examples:
+    - j: 私の先⽣は男の⼦に対して厳しいが、⼥の⼦に対しては優しい。
+      e: My teacher is strict with boys but gentle with girls.
+    - j: ⼦供に対して短気を起こしてはいけない。
+      e: You shouldn't be impatient with children.
+
+にとって:
+  meaning: From X's point of view; to; for; concerning; as far as ... is concerned; regarding
+  use:
+    - Noun + にとって（は/も）
+  notes: >
+    This is used to express one's point of view.
+    私にとっては〜
+    From my point of view~
+  examples:
+    - j: 家族は私にとって、⼀番⼤切な物です。
+      e: For me, the most important thing is family.
+
+について:
+  meaning: concerning; regarding; about; on
+  use:
+    - Noun + について
+  examples:
+    - j: この問題についてどう思いますか。
+      e: What do you think about this problem?
+    - j: あなたの国についていろいろと教えてください。
+      e: Please tell me more about your country.
+
+につれて:
+  meaning: as; in proportion to; with; as… then…
+  use:
+    - Verb (dictionary form) + (につれて / につれ)
+    - Noun + (につれて / につれ)
+  notes: >
+    This can also be shortened to just につれ (ni tsure).
+  examples:
+    - j: 台⾵が近づくにつれて、どんどん⾵が強くなってきた。
+      e: As the typhoon came closer, the wind gradually got stronger.
+    - j: 時がたつにつれて、愛が深くなる。
+      e: Love grows with time.
+
+には:
+  meaning: for the purpose of; in order to~
+  use:
+    - Verb (dictionary form) には
+  examples:
+    - j: ⽇本語が上⼿になるには、どうしたらいいですか。
+      e: What should I do to improve my Japanese?
+    - j: その建物が完成するにはあと1年間ぐらいかかる。
+      e: It will take about another year to complete that building.
+
+によると /によれば:
+  meaning: according to~
+  use:
+    - Noun + (によると / によれば)
+  examples:
+    - j: 天気予報によると、明⽇は⾬だそうです。
+      e: According to the weather report, tomorrow it looks like it will rain.
+    - j: ニュースによれば、近頃物価が上がるそうです。
+      e: According to the news, prices are expected to rise in the near future.
+
+によって / による:
+  meaning: owing to; by means of; due to; because of~
+  use:
+    - Noun + ( によって / により / による )
+  examples:
+    - j: 国によって習慣が違う。
+      e: Customs differ by country.
+    - j: ⼈によって考え⽅が違う。
+      e: Everyone has a different way of thinking.
+    - j: 増税により、⽣活は苦しくなる⼀⽅だ。
+      e: Tax increases are making life harder.
+    - j: 関東地⽅にかけて台⾵から北海道による被害が広がっています。
+      e: Typhoon damage has spread from the Kanto region to Hokkaido.
+
+のでしょうか:
+  meaning: ask a question in a polite way
+  use:
+    - Verb (casual) + (のでしょうか / んでしょうか)
+    - Noun + な + (のでしょうか / んでしょうか)
+    - な-adjective + な + (のでしょうか / んでしょうか)
+    - い-adjective + (のでしょうか / んでしょうか)
+  examples:
+    - j: 明⽇は晴れるのでしょうか。
+      e: I wonder if it will be clear tomorrow.
+    - j: 彼らはそれをどうするつもりなのでしょうか。
+      e: What do they plan on doing with that?
+    - j: すみません、これは正しい⾦額なのでしょうか︖
+      e: Sorry, Is this the correct amount of money?
+
+を中⼼に:
+  pronunciation: focused on; centered on
+  meaning: focused on; centered on
+  use:
+    - Noun + を中⼼に
+    - Noun + を中⼼として
+    - Noun + を中⼼とした
+    - Noun + を中⼼とする
+  examples:
+    - j: ⽂法を中⼼に、⽇本語を勉強する。
+      e: To study Japanese with a focus on grammar.
+    - j: その物語は彼⼥の⼀⽣を中⼼にして書かれている。
+      e: That story is written around her life story.
+
+をはじめ:
+  meaning: starting with; for example; 
+  use:
+    - Noun + をはじめ
+    - Noun + をはじめとする
+  notes: >
+    This is often written in hiragana form, but may also be written in kanji form を始め.
+  examples:
+    - j: ⽇本のアニメはドラゴンボールをはじめ、⾯⽩いものが多い。
+      e: There are many interesting Japanese anime, like Dragon Ball and so on.
+    - j: 会議には中国をはじめ、アジアの国々が参加した。
+      e: China and other Asian countries participated in the conference.
+
+を込めて:
+  pronunciation: をこめて
+  meaning: filled with; full of
+  use:
+    - Noun + を込めて
+    - Noun + をこめて
+  examples:
+    - j: 彼⼥に愛を込めて⼿紙を書きました。
+      e: I wrote her a letter full of my love.
+
+を通じて /を通して:
+  pronunciation: をつうじて /をとおして
+  meaning: through; via; throughout; by
+  use:
+    - Noun + を通じて【をつうじて】
+    - Noun + を通して【をとおして】
+  notes: >
+    Both are mostly interchangeable, but most Japanese people will more regularly use を通して (o tooshite).
+    を通じて (o tsuujite) is generally more formal and used more in business / news situations.
+  examples:
+    - j: そのことは新聞を通じて知った。
+      e: I learned that from a newspaper.
+    - j: ⼤学の四年間を通して、経営とは何かということを学んだ。
+      e: Through my 4 years at university I studied management.
+
+おかげで:
+  meaning: thanks to ...; owing to ...; because of ...
+  use:
+    - Verb (casual) + おかげで
+    - Noun + の + おかげで
+    - な-adjective + な + おかげで
+    - い-adjective + おかげで
+  notes: >
+    This is used so the speaker can express express thanks or gratitude towards someone or something.
+    Another way to express thanks is with せい (sei), which can be used for both positive and negative situations.
+  examples:
+    - j: 彼⼥のおかげで、私は毎⽇幸せだ。
+      e: Thanks to her, I am happy everyday.
+    - j: ⽇本へ来たおかげで、⽇本語が上⼿になりました。
+      e: I was able to improve my Japanese because I came to Japan.
+
+っぽい:
+  meaning: seems like; somewhat~; -ish; easily does~; often does~
+  use:
+    - Verb (stem form) + っぽい
+    - Noun + っぽい
+    - い-adjective い + っぽい
+  notes: >
+    Usage 1: Noun / い-adj + っぽい
+    When following a noun or い-adjective, this is similar to -ish, -like, -ly.
+    ⼦どもっぽい (kodomo ppoi) = childish, childlike.
+    男っぽい (otoko ppoi) = manly; like a man.
+    ⼥っぽい (onnna ppoi) = womanly; like a woman.
+    油っぽい (abura ppoi) = oily; lots of oil.
+    Note, the number of adjectives that can be used with this are limited.
+    Usage 2: Verb + っぽい
+    When following a verb, the meaning changes to easy to do or often do~.
+    忘れっぽい (wasure ppoi) = easy to forget; often forget.
+    怒りっぽい (okori ppoi) = easy to anger; often angry.
+    Note, this cannot be used with all verbs.
+  examples:
+    - j: 油っぽい⾷事は好きじゃない。
+      e: I don't like oily foods.
+    - j: 年を取ると、忘れっぽくなる。
+      e: He is hot-tempered but he is a good friend.
+
+さえ:
+  meaning: even; so much as; not even
+  use:
+    - Noun +（で）さえ（も）
+  notes: >
+    To emphasize more, use でさえ (de sae).
+    To emphasize even more, use でさえも (de sae mo).
+  examples:
+    - j: そんなこと、⼦供でさえ知っている。
+      e: Even children know that.
+    - j: のどが痛くて、⽔さえ飲めない。
+      e: My throat hurts so much I can't even drink water.
+
+さえ〜ば:
+  meaning: if only; as long as; "If one but ___s";
+  use:
+    - Verb + (stem form) + さえすれば
+    - Verb (て form) + さえいれば
+    - Noun + さえ + Verb (ば form)
+  notes: >
+    When used without conditional form, this because a separate meaning. See lesson for: さえ (sae).
+  examples:
+    - j: お⾦さえあれば幸せです。
+      e: I'm happy as long as I have money.
+    - j: 君さえいれば、私は幸せだ。
+      e: As long as you are here I am happy.
+
+際に:
+  pronunciation: さいに
+  meaning: when; at the time of; in the case of
+  use:
+    - Verb (dictionary form) + (際は / 際に（は) )
+    - Verb (た form) + (際は / 際に（は) )
+    - Noun + の + (際は / 際に（は) )
+    - この・その・あの  + (際は / 際に（は) )
+  notes: >
+    This is a more formal version of とき (toki), which represents a certain case or time.
+  examples:
+    - j: あなたが⽇本へ来る際には連絡ください。
+      e: Please contact me if you come to Japan.
+    - j: お帰りの際には忘れ物のないようご注意ください。
+      e: Please don't leave anything behind when you go home.
+    - j: 会を申し込む際、何が必要でしょうか。
+      e: What is necessary at the time of application?
+
+最中に:
+  pronunciation: さいちゅうに
+  meaning: while; during; in the middle of
+  use:
+    - Verb (ている form) + (最中に / 最中だ)
+    - Noun + の + (最中に / 最中だ)
+  notes: >
+    This is used to express when something happens in the middle of, or during something else.
+    This can be further emphasized by using 真っ最中に 【まっさいちゅうに】 (massaichuu ni).
+  examples:
+    - j: 試合の最中に⾬が降って、結局中⽌となった。
+      e: It started raining during the middle of the match and it ended up getting cancelled.
+    - j: 私はパリを旅⾏している最中に彼⼥に会いました。
+      e: I met her while I was traveling in Paris.
+
+さらに:
+  meaning: furthermore; again; more and more
+  use:
+    - さらに + phrase
+  examples:
+    - j: 彼は⽗親よりさらに背が⾼い。
+      e: He is even taller than his father.
+    - j: すこし塩を⾜すと、さらに美味しくなりますよ。
+      e: By adding a little bit of salt it will become even more delicious.
+
+さて:
+  meaning: conjunction: well; now; then
+  use:
+    - さて + clause
+  notes: >
+    This can be used twice to become さてさて (sate sate), which can have the same meaning or instead express surprise or trouble.
+  examples:
+    - j: さてどうしよう。
+      e: Well, what shall I do now?
+    - j: さて本題にはいろうか。
+      e: Well then, let's get down to business.
+
+せいで:
+  meaning: because of; due to; as a result of~; fault or blame (if used negatively)
+  use:
+    - Verb (casual) + せい（で/に)
+    - Noun + の + せい（で/に)
+    - Adjective + せい（で/に)
+  notes: >
+    This is mostly used to express a negative result, but it can also be neutral or used even with some positive results as well.
+    However, to emphasize a positive result properly, it is best to use おかげ (okage) instead.
+  examples:
+    - j: バスが遅れたせいで、授業に遅れてしまった。
+      e: I was late for class because my bus was late.
+    - j: あなたの失敗を、私のせいにしないでよ︕
+      e: Don't blame me for your mistake!
+
+せいぜい:
+  meaning: at the most; at best; to the utmost
+  use:
+    - せいぜい + Noun (period of time)
+    - せいぜい + Verb
+  examples:
+    - j: せいぜい楽しんで⾏ってください。
+      e: Enjoy yourself to the fullest!
+    - j: 彼はせいぜい３０歳ぐらいだ。
+      e: He's 30 years old at most.
+    - j: 桜の花は数⽇、せいぜい⼀週間しか持たない。
+      e: Cherry blossoms last only for a few days, a week at the most.
+
+しばらく:
+  meaning: for a moment; for a while; for the time being
+  use:
+    - しばらく + clause
+  notes: >
+    More advanced kanji form: 暫く (shibaraku).
+  examples:
+    - j: しばらくここで待てください。
+      e: Please wait here for a while.
+
+しかない:
+  meaning: have no choice but~
+  use:
+    - Verb (dictionary form) + しかない
+    - Verb (dictionary form) + しかなかった
+    - Verb (dictionary form) + しかありません
+  examples:
+    - j: やるしかない。
+      e: You just gotta do it.
+    - j: 新しいのを買うしかなかった。
+      e: I had no choice but to buy a new one.
+
+その為に:
+  pronunciation: そのために
+  meaning: hence; for that reason; because of~
+  use:
+    - Goal + そのため（に） + action
+  notes: >
+    This is often written in both kanji form and in plain hiragana, so be prepared for both.
+    This is based on the N3 grammar ために (tame ni).
+  examples:
+    - j: あなたは明⽇、そのための時間がありますか︖
+      e: Do you have time tomorrow for that?
+    - j: 英語の教師になりたいです。そのためにいろいろな資格も取らないといけません。
+      e: I want to become an English teacher. In order to do so, I need to obtain various certifications.
+
 XXX:
   meaning: xxx
   use:
@@ -1152,4 +1514,35 @@ XXX:
   examples:
     - j: xxx
       e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
 
