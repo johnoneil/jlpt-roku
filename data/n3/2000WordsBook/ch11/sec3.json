@@ -1,0 +1,127 @@
+{
+    "title_jpn" : "ブルーな気分",
+    "title_eng" : "In a blue mood",
+    "words" :
+    [
+        {
+            "word": "あきる",
+            "meaning": "to get tired of",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "嫌がる",
+            "meaning": "to dislike",
+            "furigana": "いやがる",
+            "level": 3
+        },
+        {
+            "word": "落ち込む",
+            "meaning": "to get depressed",
+            "furigana": "おちこむ",
+            "level": 3
+        },
+        {
+            "word": "がっかり　する",
+            "meaning": "to be disappointed",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "悲しむ",
+            "meaning": "to be sad",
+            "furigana": "かなしむ",
+            "level": 3
+        },
+        {
+            "word": "かわいそう　な",
+            "meaning": "pitiful, poor, pitiable",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "気の毒　な",
+            "meaning": "unfortunate",
+            "furigana": "きのどく　な",
+            "level": 3
+        },
+        {
+            "word": "きつい",
+            "meaning": "",
+            "furigana": "tight, intense, severe, tough",
+            "level": 3
+        },
+        {
+            "word": "恐怖",
+            "meaning": "fear",
+            "furigana": "きょうふ",
+            "level": 3
+        },
+        {
+            "word": "ショック",
+            "meaning": "shock",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "後悔　する",
+            "meaning": "regret",
+            "furigana": "こうかい　する",
+            "level": 3
+        },
+        {
+            "word": "悩む",
+            "meaning": "to be worried, to be troubled",
+            "furigana": "なやむ",
+            "level": 3
+        },
+        {
+            "word": "悩み",
+            "meaning": "worry, trouble",
+            "furigana": "なやみ",
+            "level": 3
+        },
+        {
+            "word": "不安　な",
+            "meaning": "anxiety, insecurity",
+            "furigana": "ふあん　な",
+            "level": 3
+        },
+        {
+            "word": "迷惑　（な・する）",
+            "meaning": "nuisance, annoyance, bothersome",
+            "furigana": "めいわく　（な・する）",
+            "level": 3
+        },
+        {
+            "word": "面倒　な",
+            "meaning": "looking after, trouble",
+            "furigana": "めんどう　な",
+            "level": 3
+        },
+        {
+            "word": "面倒くさい",
+            "meaning": "annoying, troublesome",
+            "furigana": "めんどうくさい",
+            "level": 3
+        },
+        {
+            "word": "ぶつぶつ",
+            "meaning": "grumble, mutter",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "いちいち",
+            "meaning": "every one, each and every one",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "やかましい",
+            "meaning": "loud, noisy",
+            "furigana": "",
+            "level": 3
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "title_jpn" : "嬉しい気持ち",
+    "title_eng" : "Happy feelings",
+    "words" :
+    [
+        {
+            "word": "感情",
+            "meaning": "emotion",
+            "furigana": "かんじょう",
+            "level": 3
+        },
+        {
+            "word": "あこがれる",
+            "meaning": "to admire",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "うらやましい",
+            "meaning": "jealous",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "落ち着く",
+            "meaning": "to calm down",
+            "furigana": "おちつく",
+            "level": 3
+        },
+        {
+            "word": "感激　すr",
+            "meaning": "deep emotion",
+            "furigana": "かんげき　する",
+            "level": 3
+        },
+        {
+            "word": "感動　する",
+            "meaning": "being moved emotionally",
+            "furigana": "かんどう　する",
+            "level": 3
+        },
+        {
+            "word": "感心　する",
+            "meaning": "admiration, being impressed",
+            "furigana": "かんしん　する",
+            "level": 3
+        },
+        {
+            "word": "なつかしい",
+            "meaning": "nostalgic",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "気軽　な",
+            "meaning": "free, without hesitation",
+            "furigana": "きがる　な",
+            "level": 3
+        },
+        {
+            "word": "気楽　な",
+            "meaning": "carefree, easygoing",
+            "furigana": "きらく　な",
+            "level": 3
+        },
+        {
+            "word": "幸せ　な",
+            "meaning": "good fortune, happiness",
+            "furigana": "しあわせ　な",
+            "level": 3
+        },
+        {
+            "word": "冗談",
+            "meaning": "joke",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ユーモア",
+            "meaning": "humor",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ゆかい　な",
+            "meaning": "pleasant",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "愛　する",
+            "meaning": "to love",
+            "furigana": "あい　する",
+            "level": 3
+        },
+        {
+            "word": "真剣　な",
+            "meaning": "serious",
+            "furigana": "しんけん　な",
+            "level": 3
+        },
+        {
+            "word": "どきどき　する",
+            "meaning": "one's heart beating quickly",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "わくわく　する",
+            "meaning": "excited",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ほっと　する",
+            "meaning": "felling relieved. sigh",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "のんびり　する",
+            "meaning": "At leisure. Carefree.",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ほほえむ",
+            "meaning": "to smile",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "夢中　な",
+            "meaning": "in a daze, entranced, be crazy about",
+            "furigana": "むちゅう　な",
+            "level": 3
+        },
+        {
+            "word": "勇気",
+            "meaning": "courage, bravery",
+            "furigana": "ゆうき",
+            "level": 3
+        }
+    ]
+}
