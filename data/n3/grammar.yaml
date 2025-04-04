@@ -1505,35 +1505,369 @@ Xほど〜ない:
     - j: 英語の教師になりたいです。そのためにいろいろな資格も取らないといけません。
       e: I want to become an English teacher. In order to do so, I need to obtain various certifications.
 
-XXX:
-  meaning: xxx
+それとも:
+  meaning: or; or else
   use:
-    - xxx
-  notes: >
-    Notes here
+    - それとも phrase
   examples:
-    - j: xxx
-      e: yyy
+    - j: 歩こうか, それとも⾞で⾏こうか︖
+      e: Shall we walk or drive?
+    - j: 飲み物はコーヒーにしますか︖それとも紅茶にしますか︖
+      e: To drink, would you prefer coffee or tea?
 
-XXX:
-  meaning: xxx
+そうもない /そうにない:
+  meaning: very unlikely to~; showing no signs of~
   use:
-    - xxx
-  notes: >
-    Notes here
+    - Verb (stem form) + (そうもない / そうにない)
   examples:
-    - j: xxx
-      e: yyy
+    - j: そんなことは起りそうもないですね。
+      e: That does not seem likely to occur.
+    - j: 彼と私が再会することはありそうもないのだ。
+      e: He and I will likely never meet again.
 
-XXX:
-  meaning: xxx
+すでに:
+  meaning: something has already been done/taken place; is already the case
   use:
-    - xxx
+    - すでに + clause
+  examples:
+    - j: あなたはすでに朝ご飯を⾷べましたか︖
+      e: Have you already eaten breakfast?
+    - j: もしかしたら、彼⼥はすでにそれを送っているかもしれない。
+      e: Perhaps, she may have sent it already.
+
+すなわち:
+  meaning: in other words; namely
+  use:
+    - すなわち + phrase
+  examples:
+    - j: 妹の娘、すなわち、めいは、近所に住んでいるのでよく遊びに来ます。
+      e: My younger sister's daughter, in other words my niece, lives nearby so I often visit.
+
+数量 + は:
+  pronunciation: すうりょう + は
+  meaning: at least
+  use:
+    - 数量(quantity; volume; amount) + は
   notes: >
     Notes here
   examples:
-    - j: xxx
-      e: yyy
+    - j: １時間は仕事をしました。
+      e: I worked for at least an hour or so.
+    - j: この映画は３回は⾒ました。
+      e: I watched this movie at least three times.
+    - j: 毎年、１回は海外へ旅⾏します。
+      e: Every year, I go travel abroad at least once.
+
+たものだ:
+  meaning: used to do; would often do
+  use:
+    - Verb (た form) + ものだ
+  notes: >
+    This is used to express a past situation or remember something that used to frequently occur.
+  examples:
+    - j: ⼦どものころはよく川で遊んだものだ。
+      e: When I was a child, I often played by the river.
+
+たとたん:
+  meaning: Verb (た form) + とたん
+  use:
+    - as soon as; just as
+  notes: >
+    This expresses a feeling of unexpectedness or surprise after an event.
+  examples:
+    - j: 家を出たとたん、⾬が降ってきた。
+      e: It started raining after I left my house.
+
+たびに:
+  meaning: whenever; every time
+  use:
+    - Noun + の + たびに
+    - Verb (dictionary form) + たびに
+  notes: >
+    This emphasizes emotion (positive or negative) towards the result.
+  examples:
+    - j: この曲を聞くたびに、家族を思い出す。
+      e: Every time I hear this song, it reminds me of my family.
+    - j: 友⼈は旅⾏のたびにお⼟産を買ってきてくれます。
+      e: Every time my friend travels, they buy me a souvenir.
+
+ために:
+  meaning: for; in order to; for the benefit of; because of; as a result of
+  use:
+    - Verb + ため（に）
+    - Noun + の + ため（に）
+    - な-adjective + な + ため（に）
+    - い-adjective + ため（に）
+  notes: >
+    There are 2 main meanings for this grammar:
+    Meaning 1 – for; in order to; for the benefit of.
+    Meaning 2 – because of; as a result of.
+    This may also be used as そのために (sono tame ni)
+  examples:
+    - j: ⽇本へ旅⾏をするために、貯⾦しています。
+      e: I'm saving money to travel to Japan.
+    - j: 今度の⾯接のために、このスーツを買いました。
+      e: I bought this suit for my upcoming interview.
+    - j: 健康のために、毎朝に⾛っています。
+      e: For my health, I go running every morning.
+    - j: 今⽇は暑かったため、私は何もする気にならなかった。
+      e: I didn't feel like doing anything today because it was hot.
+
+確かに:
+  pronunciation: たしかに
+  meaning: surely, certainly
+  use:
+    - 確かに + phrase
+  notes: >
+    Notes here
+  examples:
+    - j: それは確かにそのように⾒えます。
+      e: It certainly looks that way.
+    - j: 確かに君の責任ではない。
+      e: I'm sure that's no fault of yours.
+
+たて:
+  meaning: Verb (stem form) + たて
+  use:
+    - Just done; freshly done; newly done
+  examples:
+    - j: やっぱり料理はできたてが美味しいね。
+      e: As expected, freshly cooked food is delicious!
+    - j: この壁はペンキを塗りたてだよ。
+      e: This wall is freshly painted.
+
+たとえ〜ても:
+  meaning: even if… is the case
+  use:
+    - たとえ + Verb (て form) + も
+    - たとえ + Noun + でも
+    - たとえ + な-adjective + でも
+    - たとえ + い-adjective + くても
+  examples:
+    - j: たとえ明⽇⾬が降っても私は出かけるつもりです。xx
+      e: Even if it rains, I plan to go out tomorrow.
+    - j: たとえ両親に反対されても、彼と結婚します。
+      e: I will marry him, even if my parents are opposed to it.
+
+例えば:
+  meaning: for example
+  use:
+    - (例えば / たとえば) + examples
+  examples:
+    - j: 私にはたくさん趣味がある。例えば⿂釣り、登⼭です。
+      e:  have many hobbies, fishing and climbing for example.
+
+たって:
+  meaning: even if; even though; no matter how
+  use:
+    - Verb (casual, past) + って
+    - Noun + だ + って
+    - な-adjective + だ + って
+    - い-adjective + く（っ）た + って
+  examples:
+    - j: タクシーに乗ったって間に合わないよ。
+      e: Even if you take a taxi, you won't make it in time.
+    - j: いくら叫んだって、誰も来ないよ。
+      e: No matter how much you scream, no one is coming.
+
+てばかりいる:
+  meaning: only; nothing but~
+  use:
+    - Verb (て form) + ばかりいる
+  notes: >
+    This is often used to describe a repetitive action in a criticizing or negative way.
+    This can also be conjugated like a normal verb:
+    てばかりいます (te bakari imasu).
+    てばかりいて (te bakari ite).
+  examples:
+    - j: この猫は寝てばかりいます。
+      e: This cat does nothing but sleep.
+    - j: あの⼦が泣いてばかりいる。
+      e: That child does nothing but cry.
+
+てごらん:
+  meaning: (please) try to; (please) look
+  use:
+    - Verb (て form) + ごらん(なさい)
+  notes: >
+    ご覧【ごらん】(goran) is the more formal version of ⾒る (miru). It has a similar meaning to 〜てみる(te miru).
+    It can also be written as ごらんなさい (goran nasai) to express an order.
+  examples:
+    - j: もう⼀度やってごらん。
+      e: Try it one more time.
+    - j: もう⼀度⾔ってごらん。
+      e: Please say that once more.
+
+てはじめて:
+  meaning: not until; only after [x] did I
+  use:
+    - Verb (てform) + はじめて
+  notes: >
+    はじめて (hajimete) literally means ‘first time’. So this pattern basically expresses after doing [A], for the first time I did [B].
+  examples:
+    - j: ⽇本に来てはじめてラーメンを⾷べた。
+      e: I had never eaten ramen before coming to Japan.
+    - j: ⽇本語を勉強してはじめて、勉強の楽しさが分かった。
+      e: Only after I started studying Japanese did I realize the joys of studying.
+
+てからでないと:
+  meaning: Unless; must first do; cannot do without first doing
+  use:
+    - Verb (て form) + (からでないと / からでなければ)
+  examples:
+    - j: 20歳になってからでないとお酒を飲むことはできません。
+      e: You cannot drink alcohol before turning 20 years old.
+    - j: 親の許可をもらってからでなければ、⽇本への留学が出来ない。
+      e: You must first get your parent's permission, otherwise you will not be able to study abroad in Japan.
+
+てしょうがない・てしかたがない:
+  meaning: can't help but~; very; extremely
+  use:
+    - Verb (て form) + (しょうがない / しかたがない)
+    - な-adjective + なで + (しょうがない / しかたがない)
+    - い-adjective + いくて + (しょうがない / しかたがない)
+  notes: >
+    This grammar expresses a natural feeling or emotion that is out of control of the speaker.
+    For shikata ga nai, both the kanji and hiragana versions are commonly used.
+  examples:
+    - j: 私はそれが気になってしょうがない。
+      e: I can't help thinking about that.
+    - j: バスで⾏くのは、時間がかかってしょうがない
+      e: Going by bus necessarily takes more time.
+
+て済む:
+  pronunciation: てすむ
+  meaning: sufficient by; no problem to; resolve by~
+  use:
+    - Verb (て form) + 済む
+    - Noun + で + 済む
+    - な-adjective + で + 済む
+    - い-adjective + くて + 済むs
+  notes: >
+    This can be conjugated to 済み (sumi), 済んだ (sunda), 済みます (sumimasu), etc.
+  examples:
+    - j: その夜は何の事故もなくて済んだ。
+      e: The night passed without any accidents.
+    - j: 少しお時間いただけませんか、５分で済みますから。
+      e: Could you please wait a little bit longer? 5 minutes should be sufficient.
+    - j: これでこれ以上の義務を負わなくて済む。
+      e: That absolves me from further responsibility.
+
+てはいけないから:
+  meaning: in order to not~; to prevent a negative situation
+  use:
+    - Verb (て form) + は + いけないから
+    - Verb (dictionary form) ＋と + いけないから
+  examples:
+    - j: ⾬が降るといけないから傘を持って⾏きなさい。
+      e: It would be no good if it rains, so please take an umbrella with you.
+    - j: バスに乗り遅れるといけないから、すぐ出発したほうがいい。
+      e: You'd better head out right away so you don't miss the bus.
+    - j: 道に迷うといけないから、地図をもって⾏きなさい。
+      e: Take a map with you in case you get lost.
+
+ている場合じゃない:
+  pronunciation: ているばあいじゃない
+  meaning: this is no time to be doing~
+  use:
+    - Verb (て form) + いる (場合じゃない / 場合ではない)
+  notes: >
+    This expresses that the listener should stop what they are doing right away and do something else instead.
+  examples:
+    - j: 今は笑っている場合ではない。
+      e: This is not an occasion for laughter.
+    - j: 冗談を⾔っている場合じゃない︕
+      e: This is no time for jokes!
+
+的:
+  pronunciation: てき
+  meaning: change noun into na-adjective (-ish; -like; -)
+  use:
+    - Noun + (的 / てき)
+  notes: >
+    Noun + 的な (teki na) = na-adjective.
+    Noun + 的に (teki ni) = adverb.
+  examples:
+    - j: 私は基本的になんでも⾷べます。
+      e: Basically, I eat everything.
+    - j: 彼⼥は⾦銭的な理由で退学しました。
+      e: She dropped out of school for monetary reasons.
+    - j: その⾔葉は⼀般的に会話で使われていないよ。
+      e: That word is generally not used in conversation.
+
+ても始まらない:
+  pronunciation: てもはじまらない
+  meaning: even if you... it's no use; there is no point to~
+  use:
+    - Verb (て form) + も 始まらない
+  examples:
+    - j: 待っていても始まらないので、もう帰りましょう。
+      e: Waiting here isn't gonna do any good, let's just head home.
+    - j: その件は話し合っても始まらない。
+      e: There is no point in discussing this matter.
+    - j: ⽂句を⾔っても始まらないだろ。
+      e: Complaining won't change anything.
+
+てもかまわない:
+  meaning: it doesn't matter if ~
+  use:
+    - Verb (て form) + (もかまわない / もかまいません)
+    - い-adjective + くて + (もかまわない / もかまいません)
+    - な-adjective + で + (もかまわない / もかまいません)
+    - Noun + で + (もかまわない / もかまいません)
+  notes: >
+    This is usually used to refer to the speaker, but it can also be used to ask questions to the listener.
+    This grammar is an extension of ても (temo) and てもいいです (temo ii desu).
+  examples:
+    - j: ⾬が降っても構わない。
+      e: I don't mind if it rains.
+    - j: 今帰っても構いませんか︖
+      e: Do you mind if I leave now?
+    - j: 間違いをしても構わない。
+      e: Don't worry about making mistakes.
+
+てもしょうがない / てもしかたがない:
+  meaning: there's no point to~; it's no use to~; it cannot be helped
+  use:
+    - Verb (て form) + も + (しょうがない / しかたがない)
+    - な-adjective + でも + (しょうがない / しかたがない)
+    - い-adjective + いく + (しょうがない / しかたがない)
+  notes: >
+    For shikata ga nai, both the kanji and hiragana versions are commonly used.
+  examples:
+    - j: そこへ⾏ってもしかたがない。
+      e: It is no use going there.
+    - j: どうにもならないことを、悩んでいてもしょうがないよ。
+      e: There's no point in worrying about things beyond our control.
+
+と⾔えば:
+  pronunciation: といえば
+  meaning: speaking of; when you talk of; when you say; if it were the case that~
+  use:
+    - Noun + と⾔えば
+  notes: >
+    Both the hiragana and kanji versions are commonly used.
+    This may also be used as と⾔うと【というと】(to iuto).
+  examples:
+    - j: ベトナムと⾔えば、バイクが多いですね。
+      e: Speaking of Vietnam, there are a lot of bikes.
+    - j: 本と⾔えばこれを読んだか︖
+      e: Speaking of books, have you read this one?
+
+といい / たらいい:
+  meaning: it would be nice if; should; I hope~
+  use:
+    - Verb (casual) + と + いい
+    - Verb (た form) + ら + いい
+  notes: >
+    These can be used to express either wishful thinking or to give advice.
+  examples:
+    - j: あなたが気にいるといいな。
+      e: I hope you like it.
+    - j: 明⽇晴れるといいな
+      e: I hope the weather will clear up tomorrow.
+    - j: いつか⽇本で出会えたらいいな。
+      e: I hope we can meet in Japan one day.
 
 XXX:
   meaning: xxx
