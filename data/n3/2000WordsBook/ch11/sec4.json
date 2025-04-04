@@ -1,0 +1,115 @@
+{
+    "title_jpn" : "どんな感じ",
+    "title_eng" : "What does it feel like?",
+    "words" :
+    [
+        {
+            "word": "心から",
+            "meaning": "from one's heart",
+            "furigana": "こころから",
+            "level": 3
+        },
+        {
+            "word": "祈る",
+            "meaning": "to pray",
+            "furigana": "いのる",
+            "level": 3
+        },
+        {
+            "word": "希望　する",
+            "meaning": "wish, desire",
+            "furigana": "きぼう　する",
+            "level": 3
+        },
+        {
+            "word": "願う",
+            "meaning": "to hope, to wish",
+            "furigana": "ねがう",
+            "level": 3
+        },
+        {
+            "word": "願い",
+            "meaning": "wish, desire",
+            "furigana": "ねがい",
+            "level": 3
+        },
+        {
+            "word": "感じる",
+            "meaning": "to feel",
+            "furigana": "かんじる",
+            "level": 3
+        },
+        {
+            "word": "あいまい　な",
+            "meaning": "vague",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "案外",
+            "meaning": "unexpected, unexpectedly, surprisingly",
+            "furigana": "あんがい",
+            "level": 3
+        },
+        {
+            "word": "意外　な",
+            "meaning": "unexpected, surprising",
+            "furigana": "いがい　な",
+            "level": 3
+        },
+        {
+            "word": "うっかり　する",
+            "meaning": "carelessly, thoughtlessly, inadvertently",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "どうか",
+            "meaning": "please, somehow or other",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "何とか",
+            "meaning": "somehow, one way or another",
+            "furigana": "なんとか",
+            "level": 3
+        },
+        {
+            "word": "何となく",
+            "meaning": "for some reason or another",
+            "furigana": "なんとなく",
+            "level": 3
+        },
+        {
+            "word": "ものすごい",
+            "meaning": "a great deal, very much",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "わざわざ",
+            "meaning": "purposefully, all the way",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "こっそり",
+            "meaning": "secretly, sneakily",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ふと",
+            "meaning": "suddenly, casually",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "一体",
+            "meaning": "(why)in the world",
+            "furigana": "いったい",
+            "level": 3
+        }
+    ]
+}
