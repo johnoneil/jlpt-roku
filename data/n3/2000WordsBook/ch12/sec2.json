@@ -1,0 +1,157 @@
+{
+    "title_jpn" : "人のイメージ",
+    "title_eng" : "Images of People",
+    "words" :
+    [
+        {
+            "word": "印象",
+            "meaning": "impression",
+            "furigana": "いんしょう",
+            "level": 3
+        },
+        {
+            "word": "外見",
+            "meaning": "appearance, outer look",
+            "furigana": "がいけん",
+            "level": 3
+        },
+        {
+            "word": "ようす",
+            "meaning": "situation, condition",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "表情",
+            "meaning": "expression",
+            "furigana": "ひょうじょう",
+            "level": 3
+        },
+        {
+            "word": "姿",
+            "meaning": "shape, figure",
+            "furigana": "すがた",
+            "level": 3
+        },
+        {
+            "word": "雰囲気",
+            "meaning": "atmosphere",
+            "furigana": "ふんいき",
+            "level": 3
+        },
+        {
+            "word": "幼い",
+            "meaning": "very young, childish",
+            "furigana": "おさない",
+            "level": 3
+        },
+        {
+            "word": "かっこいい",
+            "meaning": "cool, hip",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "言葉づかい",
+            "meaning": "way with words, way of speaking",
+            "furigana": "ことばづかい",
+            "level": 3
+        },
+        {
+            "word": "上品　な",
+            "meaning": "elegant, refined",
+            "furigana": "じょうひん　な",
+            "level": 3
+        },
+        {
+            "word": "下品　な",
+            "meaning": "vulgar, indecent",
+            "furigana": "げひん　な",
+            "level": 3
+        },
+        {
+            "word": "地味　な",
+            "meaning": "plain, subdued",
+            "furigana": "じみ　な",
+            "level": 3
+        },
+        {
+            "word": "派手　な",
+            "meaning": "extravagant, flashy",
+            "furigana": "はで　な",
+            "level": 3
+        },
+        {
+            "word": "スマート　な",
+            "meaning": "stylish, slim",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "美人",
+            "meaning": "beauty, a beautiful woman",
+            "furigana": "びじん",
+            "level": 3
+        },
+        {
+            "word": "ハンサム　な",
+            "meaning": "handsome",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "不思議　な",
+            "meaning": "wonderful, mysterious, strange",
+            "furigana": "ふしぎ　な",
+            "level": 3
+        },
+        {
+            "word": "普通　な",
+            "meaning": "normal, regular",
+            "furigana": "ふつう　な",
+            "level": 3
+        },
+        {
+            "word": "さわやか　な",
+            "meaning": "fresh, refreshing",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "さっぱり　する",
+            "meaning": "simple, frank",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "にっこり　「と」（する）",
+            "meaning": "smile, grin",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "にこにこ　する",
+            "meaning": "smiling, beaming",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "にやにや　する",
+            "meaning": "grinning, smirk",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "いきいき　「と」（する）",
+            "meaning": "lively",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ぺらぺら　「と」",
+            "meaning": "fluently",
+            "furigana": "",
+            "level": 3
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "title_jpn" : "デザイン",
+    "title_eng" : "Design",
+    "words" :
+    [
+        {
+            "word": "模様",
+            "meaning": "design, pattern, decor",
+            "furigana": "もよう",
+            "level": 3
+        },
+        {
+            "word": "特徴",
+            "meaning": "characteristic",
+            "furigana": "とくちょう",
+            "level": 3
+        },
+        {
+            "word": "特色",
+            "meaning": "feature, characteristic",
+            "furigana": "とくしょく",
+            "level": 3
+        },
+        {
+            "word": "柄",
+            "meaning": "pattern, design",
+            "furigana": "がら",
+            "level": 3
+        },
+        {
+            "word": "花柄",
+            "meaning": "floral pattern",
+            "furigana": "はながら",
+            "level": 3
+        },
+        {
+            "word": "水玉",
+            "meaning": "polka dot pattern",
+            "furigana": "みずたま",
+            "level": 3
+        },
+        {
+            "word": "しま",
+            "meaning": "stripes",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "たて",
+            "meaning": "vertical",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "横",
+            "meaning": "horizontal",
+            "furigana": "よこ",
+            "level": 3
+        },
+        {
+            "word": "ななめ　な",
+            "meaning": "diagonal",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "幅",
+            "meaning": "width",
+            "furigana": "はば",
+            "level": 3
+        },
+        {
+            "word": "ストライプ",
+            "meaning": "stripe",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "無地",
+            "meaning": "plain",
+            "furigana": "むじ",
+            "level": 3
+        },
+        {
+            "word": "シンプル　な",
+            "meaning": "simple",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "真っ赤　な",
+            "meaning": "completely red",
+            "furigana": "まっか　な",
+            "level": 3
+        },
+        {
+            "word": "ばらばら　な",
+            "meaning": "separate, scattered",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "すっきり　な",
+            "meaning": "simple, neat",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "素敵　な",
+            "meaning": "wonderful, beautiful",
+            "furigana": "すてき　な",
+            "level": 3
+        }
+    ]
+}
