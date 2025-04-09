@@ -1,0 +1,151 @@
+{
+    "title_jpn" : "私たちの社会",
+    "title_eng" : "Our Society",
+    "words" :
+    [
+        {
+            "word": "現代",
+            "meaning": "modern era",
+            "furigana": "げんだい",
+            "level": 3
+        },
+        {
+            "word": "現実",
+            "meaning": "reality",
+            "furigana": "げんじつ",
+            "level": 3
+        },
+        {
+            "word": "理想",
+            "meaning": "ideal",
+            "furigana": "りそう",
+            "level": 3
+        },
+        {
+            "word": "偉大　な",
+            "meaning": "great, admirable",
+            "furigana": "いだい　な",
+            "level": 3
+        },
+        {
+            "word": "当然　な",
+            "meaning": "of course, naturally",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "当たり前　な",
+            "meaning": "The obvious, something matter-of-fact, obvious",
+            "furigana": "あたりまえ　な",
+            "level": 3
+        },
+        {
+            "word": "「お」金持ち",
+            "meaning": "rich, wealthy",
+            "furigana": "お」かねもち",
+            "level": 3
+        },
+        {
+            "word": "貧しい",
+            "meaning": "poor",
+            "furigana": "まずしい",
+            "level": 3
+        },
+        {
+            "word": "貧乏　な・する",
+            "meaning": "poor person",
+            "furigana": "びんぼう　な・する",
+            "level": 3
+        },
+        {
+            "word": "発展　する",
+            "meaning": "development",
+            "furigana": "はってん　する",
+            "level": 3
+        },
+        {
+            "word": "進歩　する",
+            "meaning": "progress",
+            "furigana": "しんぽ　する",
+            "level": 3
+        },
+        {
+            "word": "強力　な",
+            "meaning": "strong, powerful",
+            "furigana": "きょうりょく　な",
+            "level": 3
+        },
+        {
+            "word": "パワー",
+            "meaning": "power",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "あふれる",
+            "meaning": "to be full of, to overflow",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "くずれる",
+            "meaning": "to crumble, to fall apart",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "経つ",
+            "meaning": "to pass (time)",
+            "furigana": "たつ",
+            "level": 3
+        },
+        {
+            "word": "前後",
+            "meaning": "before and after",
+            "furigana": "ぜんご",
+            "level": 3
+        },
+        {
+            "word": "盛ん　な",
+            "meaning": "popular",
+            "furigana": "さかん　な",
+            "level": 3
+        },
+        {
+            "word": "産業",
+            "meaning": "industry",
+            "furigana": "さんぎょう",
+            "level": 3
+        },
+        {
+            "word": "工業",
+            "meaning": "manufacturing industry",
+            "furigana": "こうぎょう",
+            "level": 3
+        },
+        {
+            "word": "商業",
+            "meaning": "commerce, trade",
+            "furigana": "しょうぎょう",
+            "level": 3
+        },
+        {
+            "word": "農業",
+            "meaning": "farming, agriculture",
+            "furigana": "のうぎょう",
+            "level": 3
+        },
+        {
+            "word": "残業　する",
+            "meaning": "overtime",
+            "furigana": "ざんぎょう　する",
+            "level": 3
+        },
+        {
+            "word": "農家",
+            "meaning": "a farming family",
+            "furigana": "のうか",
+            "level": 3
+        }
+    ]
+}

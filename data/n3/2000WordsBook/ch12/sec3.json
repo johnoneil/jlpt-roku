@@ -1,0 +1,115 @@
+{
+    "title_jpn" : "物のイメージ",
+    "title_eng" : "Images of things",
+    "words" :
+    [
+        {
+            "word": "表面",
+            "meaning": "surface",
+            "furigana": "ひょうめん",
+            "level": 3
+        },
+        {
+            "word": "立派　な",
+            "meaning": "splendid, elegant",
+            "furigana": "りっぱ　な",
+            "level": 3
+        },
+        {
+            "word": "目立つ",
+            "meaning": "to stand out",
+            "furigana": "めだつ",
+            "level": 3
+        },
+        {
+            "word": "きらきら　する",
+            "meaning": "glitter, sparkle",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "ぴかぴか　する",
+            "meaning": "shining",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "異なる",
+            "meaning": "to differ",
+            "furigana": "ことなる",
+            "level": 3
+        },
+        {
+            "word": "ぼんやり　「と」する",
+            "meaning": "dimly, faintly",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "大型",
+            "meaning": "large size",
+            "furigana": "おおがた",
+            "level": 3
+        },
+        {
+            "word": "多め　な",
+            "meaning": "larger quantity",
+            "furigana": "おおめ　な",
+            "level": 3
+        },
+        {
+            "word": "少なめ",
+            "meaning": "smaller quantity",
+            "furigana": "すくなめ　な",
+            "level": 3
+        },
+        {
+            "word": "少なくとも",
+            "meaning": "at least",
+            "furigana": "すくなくとも",
+            "level": 3
+        },
+        {
+            "word": "大きめ　な",
+            "meaning": "larger size",
+            "furigana": "おおきめ　な",
+            "level": 3
+        },
+        {
+            "word": "太め　な",
+            "meaning": "thicker",
+            "furigana": "ふとめ　な",
+            "level": 3
+        },
+        {
+            "word": "完璧　な",
+            "meaning": "perfect",
+            "furigana": "かんぺき　な",
+            "level": 3
+        },
+        {
+            "word": "たっぷり　「と」　する",
+            "meaning": "full",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "多少",
+            "meaning": "a little",
+            "furigana": "たしょう",
+            "level": 3
+        },
+        {
+            "word": "それほど",
+            "meaning": "(not) to that degree",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "縮む",
+            "meaning": "to shrink",
+            "furigana": "ちぢむ",
+            "level": 3
+        }
+    ]
+}
