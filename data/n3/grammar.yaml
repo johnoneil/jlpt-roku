@@ -1869,6 +1869,309 @@ Xほど〜ない:
     - j: いつか⽇本で出会えたらいいな。
       e: I hope we can meet in Japan one day.
 
+といっても:
+  meaning: although I say; although one might say~
+  use:
+    - Verb (casual form) + (と⾔っても / といっても)
+    - Noun + （だ）+ (と⾔っても / といっても)
+    - な-adjective + （だ）+ (と⾔っても / といっても)
+    - い-adjective + (と⾔っても / といっても)
+  examples:
+    - j: 今週は忙しい、といっても先週ほどじゃない。
+      e: I’m busy this week, but not as much as last week.
+
+ということだ:
+  meaning: I heard~; it means that~; in other words~
+  use:
+    - Verb (dictionary form) + (ということだ / とのことだ / ってことだ)
+    - Noun +（だ）+ (ということだ / とのことだ / ってことだ)
+    - な-adjective +（だ）+ (ということだ / とのことだ / ってことだ)
+    - い-adjective + い + (ということだ / とのことだ / ってことだ)
+  notes: >
+    Meaning 1) Rumor / hearsay
+    I heard that~
+    It seems that~
+    Meaning 2) This means~
+    This means~
+    In other words~
+    Meaning 3) Conclusion
+    This expresses a subjective conclusion from the speaker.
+    Doing this will lead to~
+  examples:
+    - j: ニュースによると、明⽇は⾬が降るということだ。
+      e: I heard on the news that it will rain tomorrow.
+    - j: 試験の結果は８５％、つまり合格ということだ。
+      e: Your test score was 85%. In other words, you passed.
+    - j: 独⾝でい続けるのは⼀⼈で寂しく死ぬということだ。
+      e: Continuing on single as you are now means you will die sad and alone.
+
+というのは:
+  meaning: his means~; the meaning of … is~; because~; that is to say
+  use:
+    - (Phrase / Noun) + というのは + (reason / explanation / definition)
+  notes: >
+    Instead of と, this can also be used with て (te):
+    っていうのは (tte iu no wa).
+    ってのは (tte no wa) = more casual.
+    って (tte) most casual.
+  examples:
+    - j: 「コンビニ」というのはコンビニエンスストアのことだ。
+      e: konbini means convenience store
+    - j: 「電⾞で『カクテイ』というのは何のことですか。」
+      e: "What does it mean when they say 'kakutei' on the train?"
+
+と⾔うと:
+  pronunciation: というと
+  meaning: speaking of; when you talk of; when you say~
+  use:
+    - Noun + (と⾔うと / というと)
+  notes: >
+    This may also be used as と⾔えば 【といえば】(to ieba).
+  examples:
+    - j: 桜というと、花⾒だ。
+      e: Speaking of cherry blossoms, flower viewing comes to mind.
+    - j: どちらかというと暇です。
+      e: If anything, I'm bored.
+
+というより:
+  meaning: rather than~
+  use:
+    - Verb (casual) + というより（も/は）
+    - Noun + というより（も/は）
+    - な-adjective + というより（も/は）
+    - い-adjective + というより（も/は）
+  notes: >
+    This may also be used as よりも (yorimo).
+  examples:
+    - j: 彼は学者というよりは教師だ。
+      e: He is more a teacher than a scholar.
+    - j: 仕事というより趣味に近い。
+      e: More of a hobby than a job.
+
+とみえる / とみえて:
+  meaning: it seems that~
+  use:
+    - Verb (casual) + (と⾒える / とみえる / とみえて)
+    - Noun + だ + (と⾒える / とみえる / とみえて)
+    - な-adjective + だ + (と⾒える / とみえる / とみえて)
+    - い-adjective + (と⾒える / とみえる / とみえて)
+  examples:
+    - j: 彼は病気だとみえる。
+      e: He appears to be sick.
+    - j: ⼭⽥さんは忙しいとみえて、このごろ電話もしてこない。
+      e: Mr. Yamada seems busy now, which may be why he hasn't called.
+
+とすれば・としたら・とすると:
+  meaning: in the case of~; assuming~; if A then B
+  use:
+    - Verb (casual)
+    - Noun + だ
+    - とすれば
+    - としたら
+    - な-adjective + だ
+    - とすると
+    - い-adjective
+  notes: >
+    These are all conditional grammar patterns. Meaning if [A] happens, then [B] will also happen.
+    These three patterns are mostly interchangeable, though there are some slight differences:
+    とすれば (to sureba)
+    としたら (to shitara) = more colloquial.
+    とすると (to suru to) = seems more likely to happen.
+    NOTE: Using とすると (to suru to), can give a bit of a stronger implication that the action is more likely to happen
+  examples: 
+    - j: 選ぶとすれば、僕はこれだな。
+      e: If I were to choose, I would go with this.
+    - j: ⼀⽇25時間だとしたら、何をしますか︖
+      e: If there were 25 hours in a day, what would you do?
+    - j: その話が本当だとしたら、嬉しいです︕
+      e: If that story is true, then I'd be really happy!
+    - j: これを航空便で送るとするといくらかかりますか︖
+      e: How much would it cost to send this by airmail?
+
+と共に:
+  pronunciation: とともに
+  meaning: together with; at the same time as; as well as~
+  use:
+    - Verb (dictionary form) + と共に
+    - Noun + と共に
+  examples:
+    - j: 春が近づくと共に、少しずつ暖かくなってきた。
+      e: As spring grows nearer, it's gradually getting a bit warmer.
+    - j: 私は家族と共に⼆年間外国で暮らした。
+      e: I lived abroad together with my family for two years.
+
+途中で/途中に:
+  pronunciation: とちゅうで/とちゅうに
+  meaning: on the way; in the middle of~
+  use:
+    - Verb (dictionary form) + (途中で / 途中に)
+    - Noun + の + (途中で / 途中に)
+  examples:
+    - j: ごはんを⾷べている途中に電話がかかってきた。
+      e: The phone rang when I was in the middle of eating (dinner).
+    - j: 私は駅から学校に⾏く途中で先⽣に会った。
+      e: I saw my teacher on the way to school from the station.
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
+XXX:
+  meaning: xxx
+  use:
+    - xxx
+  notes: >
+    Notes here
+  examples:
+    - j: xxx
+      e: yyy
+
 XXX:
   meaning: xxx
   use:
