@@ -4,7 +4,7 @@
   <script type="text/brightscript" uri="GrammarQuiz.brs" />
   <script type="text/brightscript" uri="pkg:/source/WorldInfo.brs" />
   <script type="text/brightscript" uri="pkg:/source/RandomValues.brs" />
-  <script type="text/brightscript" uri="pkg:/source/Grammar.brs" />
+  <!-- <script type="text/brightscript" uri="pkg:/source/Grammar.brs" /> -->
 
   <!-- The HD Title Safe Zone is 1022X578, offset from the upper left corner (0,0) by 128,70. The SD Title Safe Zone is 576X384, offset from the upper left corner (0,0) by 72,48. -->
 

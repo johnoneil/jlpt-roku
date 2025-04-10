@@ -13,7 +13,7 @@ sub init()
     root = m.top.getScene()
     m.sceneManager = root.findNode("sceneManager")
 
-    getDatabase()
+    ' getDatabase()
 
     m.examples = generateRandomAnswerSet(m.dictionary.Count(), m.dictionary.Count())
 
@@ -21,9 +21,9 @@ sub init()
 
 end sub
 
-sub getDatabase()
-    m.dictionary = N4Grammar_Chapter1_database()
-end sub
+' sub getDatabase()
+'     m.dictionary = N4Grammar_Chapter1_database()
+' end sub
 
 sub nextQuestion()
     m.questionNumber += 1

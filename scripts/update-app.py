@@ -228,9 +228,9 @@ input_files = {
 output_file = 'roku-app/source/Vocabulary.brs'
 generate_vocabulary_brs(input_files, output_file)
 
-input_files = {
-    "N4Grammar" : "data/n4/grammar.json",
-}
-output_file = 'roku-app/source/Grammar.brs'
-generate_grammar_brs(input_files, output_file)
+# input_files = {
+#     "N4Grammar" : "data/n4/grammar.json",
+# }
+# output_file = 'roku-app/source/Grammar.brs'
+# generate_grammar_brs(input_files, output_file)
 
