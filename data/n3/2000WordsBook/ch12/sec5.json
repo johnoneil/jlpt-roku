@@ -1,0 +1,157 @@
+{
+    "title_jpn" : "国際社会",
+    "title_eng" : "International Society",
+    "words" :
+    [
+        {
+            "word": "語る",
+            "meaning": "to speak, to talk",
+            "furigana": "かたる",
+            "level": 3
+        },
+        {
+            "word": "解消　する",
+            "meaning": "resolution (of problems)",
+            "furigana": "かいしょう　する",
+            "level": 3
+        },
+        {
+            "word": "それぞれ",
+            "meaning": "each, individual",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "片方",
+            "meaning": "(on the) one side",
+            "furigana": "かたほう",
+            "level": 3
+        },
+        {
+            "word": "囲む",
+            "meaning": "to surround",
+            "furigana": "かこむ",
+            "level": 3
+        },
+        {
+            "word": "代わり",
+            "meaning": "instead of",
+            "furigana": "かわり",
+            "level": 3
+        },
+        {
+            "word": "友好",
+            "meaning": "friendship",
+            "furigana": "ゆうこう",
+            "level": 3
+        },
+        {
+            "word": "期待　する",
+            "meaning": "expectation",
+            "furigana": "きたい　する",
+            "level": 3
+        },
+        {
+            "word": "区別　する",
+            "meaning": "distinction, difference",
+            "furigana": "くべつ　する",
+            "level": 3
+        },
+        {
+            "word": "差別　する",
+            "meaning": "discrimination, difference",
+            "furigana": "さべつ　する",
+            "level": 3
+        },
+        {
+            "word": "限界　する",
+            "meaning": "limit",
+            "furigana": "げんかい　する",
+            "level": 3
+        },
+        {
+            "word": "通じる",
+            "meaning": "to get across, to be understood",
+            "furigana": "つうじる",
+            "level": 3
+        },
+        {
+            "word": "ジェスチャー",
+            "meaning": "gesture",
+            "furigana": "",
+            "level": 3
+        },
+        {
+            "word": "首都",
+            "meaning": "capital city",
+            "furigana": "しぅど",
+            "level": 3
+        },
+        {
+            "word": "順調　な",
+            "meaning": "favorable, doing well",
+            "furigana": "じゅんちょう　な",
+            "level": 3
+        },
+        {
+            "word": "対象",
+            "meaning": "object, subject",
+            "furigana": "たいしょう",
+            "level": 3
+        },
+        {
+            "word": "通知　する",
+            "meaning": "",
+            "furigana": "notification",
+            "level": 3
+        },
+        {
+            "word": "態度",
+            "meaning": "attitude, behavior",
+            "furigana": "たいど",
+            "level": 3
+        },
+        {
+            "word": "求める",
+            "meaning": "to seek, to search for",
+            "furigana": "もとめる",
+            "level": 3
+        },
+        {
+            "word": "結論",
+            "meaning": "conclusion",
+            "furigana": "けつろん",
+            "level": 3
+        },
+        {
+            "word": "ひっくり返す",
+            "meaning": "to flip over",
+            "furigana": "ひっくりかえす",
+            "level": 3
+        },
+        {
+            "word": "広がる",
+            "meaning": "to be spread, to be expanded",
+            "furigana": "ひろがる",
+            "level": 3
+        },
+        {
+            "word": "広げる",
+            "meaning": "to spread (something), to expand (something)",
+            "furigana": "ひろげる",
+            "level": 3
+        },
+        {
+            "word": "活動　する",
+            "meaning": "activity",
+            "furigana": "かつどう　する",
+            "level": 3
+        },
+        {
+            "word": "ボランチィア",
+            "meaning": "volunteer",
+            "furigana": "",
+            "level": 3
+        }
+    ]
+}
