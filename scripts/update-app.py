@@ -217,8 +217,13 @@ input_files = {
     "Chapter11Section3" : "data/n3/2000WordsBook/ch11/sec3.json",
     "Chapter11Section4" : "data/n3/2000WordsBook/ch11/sec4.json",
     "Chapter11Section5" : "data/n3/2000WordsBook/ch11/sec5.json",
-    "N3Vocabulary" : "data/n3/vocabulary.json",
-    "N4Vocabulary" : "data/n4/vocabulary.json",
+    "Chapter12Section1" : "data/n3/2000WordsBook/ch12/sec1.json",
+    "Chapter12Section2" : "data/n3/2000WordsBook/ch12/sec2.json",
+    "Chapter12Section3" : "data/n3/2000WordsBook/ch12/sec3.json",
+    "Chapter12Section4" : "data/n3/2000WordsBook/ch12/sec4.json",
+    "Chapter12Section5" : "data/n3/2000WordsBook/ch12/sec5.json",
+    # "N3Vocabulary" : "data/n3/vocabulary.json",
+    # "N4Vocabulary" : "data/n4/vocabulary.json",
 }
 output_file = 'roku-app/source/Vocabulary.brs'
 generate_vocabulary_brs(input_files, output_file)

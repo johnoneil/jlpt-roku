@@ -183,23 +183,6 @@
         component = "GrammarN4Ch25"
     />
     </ContentNode>
-
-    <ContentNode title = "Vocabulary By Level" >
-      <SelectionScreenContent 
-        HDPosterUrl = "pkg:/images/N4.png" 
-        title = "" 
-        description = "All N4 Vocabulary"
-        difficulty = "easy"
-        component = "N4Vocabulary"
-      />
-      <SelectionScreenContent 
-        HDPosterUrl = "pkg:/images/N3.png" 
-        title = "" 
-        description = "All N3 Vocabulary"
-        difficulty = "intermediate"
-        component = "N3Vocabulary"
-      />
-    </ContentNode>
     <ContentNode title = "Chapter 1" >
       <SelectionScreenContent 
         HDPosterUrl = "pkg:/images/N3.png" 
@@ -605,6 +588,43 @@
         description = "Section 5"
         difficulty = "easy"
         component = "Ch11S5"
+      />
+    </ContentNode>
+    <ContentNode title = "Chapter 12" >
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 1" 
+        description = "Section 1"
+        difficulty = "easy"
+        component = "Ch12S1"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 2" 
+        description = "Section 2"
+        difficulty = "easy"
+        component = "Ch12S2"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 3" 
+        description = "Section 3"
+        difficulty = "easy"
+        component = "Ch12S3"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 4" 
+        description = "Section 4"
+        difficulty = "easy"
+        component = "Ch12S4"
+      />
+      <SelectionScreenContent 
+        HDPosterUrl = "pkg:/images/N3.png" 
+        title = "Section 5" 
+        description = "Section 5"
+        difficulty = "easy"
+        component = "Ch12S5"
       />
     </ContentNode>
   </children>
