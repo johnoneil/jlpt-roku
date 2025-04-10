@@ -2012,6 +2012,14 @@ Xほど〜ない:
     - j: 私は駅から学校に⾏く途中で先⽣に会った。
       e: I saw my teacher on the way to school from the station.
 
+ところで:
+  meaning: by the way~
+  use:
+    - ところで + new topic
+  examples:
+    - j: ところで、今どこにいるの︖
+      e: By the way, where are you now?
+
 XXX:
   meaning: xxx
   use:
@@ -2021,6 +2029,249 @@ XXX:
   examples:
     - j: xxx
       e: yyy
+
+ところが:
+  meaning: even so; however; even though~
+  use:
+    - Expectation + ところが + result
+  notes: >
+    This is used to express an unexpected situation.
+  examples:
+    - j: 今⽇は晴れだと思っている。ところが、⾬だ。
+      e: I thought today would be sunny. However, it is raining.
+    - j: 私はチームの勝利を信じていた。ところが、負けてしまった。
+      e: I believed our team would win. However, they lost.
+
+とおりに:
+  meaning: in the same way as; in the way; as~
+  use:
+    - Verb (dictionary form) + とおりに
+    - Verb (casual past) + とおりに
+    - Noun + とおりに
+  notes: >
+    This is generally written in hiragana, and can be translated similarly to:
+    Just as [A], [B]~
+    As described by [A], [B]~
+    The final に is optional, and may be removed in some cases.
+  examples:
+    - j: 彼は⾔われたとおりにした。
+      e: He did as he was told.
+    - j: 彼は時間どおりにやって来た。
+      e: He arrived on time.
+    - j: 予報どおりだ。
+      e:  The weather forecast was right.
+
+通す:
+  pronunciation: とおす
+  meaning: to do until the end; to continually do; through~
+  use:
+    - Verb (stem form) + (通す / とおす)
+  notes: >
+    When used after a verb in stem form, it can mean:
+    to do until the end.
+    to continually do.
+    through~
+  examples:
+    - j: ひと晩飲み通しに飲んだ。
+      e: We kept drinking all night.
+    - j: こんな⻑い⼩説は⼀⽇で読み通せない。
+      e: You can't read such a long novel in a day.
+
+として:
+  meaning: as~; in the role of~
+  use:
+    - Noun + として
+  examples:
+    - j: 彼は教師として働いている。
+      e: He has been working as a teacher.
+    - j: ナイフとして⽤いられている。
+      e: It can be used as a knife.
+
+とても〜ない:
+  meaning: cannot possibly be; hardly~
+  use:
+    - とても + Verb (ない form)
+  examples:
+    - j: そんなこと、私にはとても出来ない。
+      e: There's no way I could do something like that.
+    - j: ⻭が痛くてご飯はとても⾷べられなかった。
+      e: My tooth hurt and so I could hardly eat anything.
+
+とは限らない:
+  pronunciation: とはかぎらない
+  meaning: not necessarily so; is not always true
+  use:
+    - Verb (casual) + とは限らない
+    - Noun + だ + とは限らない
+    - な-adjective + だ + とは限らない
+    - い-adjective + とは限らない
+  examples:
+    - j: こういう⾳楽は誰でも好きだとは限らない。
+      e: This sort of music is not necessarily liked by everyone.
+    - j: 無料のほうがいいとは限らない。
+      e: The free option is not always necessary the best option. 
+
+つい:
+  meaning: accidentally; unintentionally; by mistake
+  use:
+    - つい + clause (often てしまう form)
+  examples:
+    - j: 料理がおいしくてつい⾷べ過ぎた。
+      e: The food was so good that I ate too much.
+    - j: 11時まで勉強すると決めたばかりのに、彼は30分後つい寝てしまった。
+      e: Although he just decided to study until 11 o'clock, he fell asleep 30 minutes later.
+
+ついに:
+  meaning: finally ~; at last ~; in the end
+  use:
+    - ついに + phrase
+  examples:
+    - j: ついに着いたのだ︕
+      e: I finally arrived!
+
+ついでに:
+  meaning: while, incidentally, at the same time, on the way~
+  use:
+    - Verb (dictionary form) + ついでに
+    - Verb (た form) + ついでに
+    - Noun + の + ついでに
+  notes: >
+    This is used when you take advantage of an opportunity to do an extra action.
+  examples:
+    - j: 買い物のついでに、本屋に寄りました。
+      e: I stopped by a book store while shopping.
+    - j: 仕事へ⾏くついでに駅まで送ってあげるよ。
+      e: I'll give you a lift to the station on my way to work.
+
+つまり:
+  meaning: in other words; in summary; in short
+  use:
+    - Clause  + つまり + alternative explanation
+  notes: >
+    It is used when giving an explanation to make something easier to understand.
+  examples:
+    - j: 彼は獣医、つまり、動物の医者です。
+      e: He's a veterinarian. In other words, he's an animal doctor.
+    - j: ⺟の兄、つまり僕の伯⽗は、⼤学の先⽣です。
+      e: My mother's older brother, in other words, my uncle, is a college professor.
+
+つもりだった:
+  meaning: I thought I~; I believe I~; was planning to~; was intending to~
+  use:
+    - Verb (ている form) + (つもりだった / つもりなのに)
+    - Verb (た form) + (つもりだった / つもりなのに)
+    - Noun + の + (つもりだった / つもりなのに)
+  notes: >
+    This is used to express you thought or believed you had done something.
+    It may also be used as つもりなのに (tsumori nano ni).
+  examples:
+    - j: ⾔ったつもりだった。
+      e: I thought I said it.
+    - j: 私はそのメールを送ったつもりだった。
+      e: I'm sure I sent that email.
+
+つもりで:
+  meaning: with the intention of doing~
+  use:
+    - Verb (た form) + つもりで
+    - Noun + の + つもりで
+  examples:
+    - j: 冗談のつもりで⾔ったのです。
+      e: I meant it to be a joke.
+    - j: 私は死んだつもりで働いた。
+      e: I worked as if there were no tomorrow.
+
+うちに:
+  meaning: while; before~
+  use:
+    - Verb (casual form) + うちに
+    - Noun + の + うちに
+    - な-adjective + な + うちに
+    - い-adjective + うちに
+  notes: >
+    This usually expresses taking advantage of an opportunity and to use a certain time wisely.
+  examples:
+    - j: 明るいうちに、帰りましょう。
+      e: Let's head home while it's still light outside.
+    - j: これはまだ温かいうちに早く⾷べてください。
+      e: Please eat this while it is still warm.
+    - j: 忘わすれないうちに、メモをしておこう。
+      e: Let's write a memo before you forget.
+
+上で:
+  pronunciation: うえで
+  meaning: upon; after; when; for; in order to
+  use:
+    - Verb (dictionary form) + 上で
+    - Verb (た form) + 上で
+    - Noun + の + 上で
+  notes: >
+    Usage 1) Verb (dictionary form) + 上で
+    Meaning: for; in order to.
+    Usage 2) Verb (た form) + 上で
+    Meaning: upon; after; once~
+    Usage 3) Noun + の上で
+    Meaning: after; when.
+  examples:
+    - j: 外国語を勉強する上で辞書はなくてはならないものだ。
+      e: In order to study a foreign language, you need to have a dictionary.
+    - j: この薬は説明書をよく読んだ上で、ご使⽤ください。
+      e: Please use this medicine after reading the instructions carefully.
+    - j: 予約の時間を確認の上で、ご来店ください。
+      e: Please visit us after confirming the reservation time.
+
+上に:
+  pronunciation: うえに
+  meaning: as well; besides; in addition to; not only… but also
+  use:
+    - Verb (casual) + 上(に)
+    - Noun + の + 上(に)
+    - な-adjective + な + 上(に)
+    - い-adjective + 上(に)
+  examples:
+    - j: この仕事は危険な上に、給料も低いです
+      e: This job is not only dangerous, but the salary is low.
+
+は別として:
+  pronunciation: はべつとして
+  meaning: aside from; apart from; except for; whether or not
+  use:
+    - Noun + はべつとして
+    - Verb (casual) + かどうか + はべつとして
+    - な-adjective + かどうか + はべつとして
+    - い-adjective + かどうか + はべつとして
+  examples:
+    - j: 彼⼥の料理は⾒た⽬は別として、味はとても美味しい。
+      e: Apart from the appearance, her food tastes very good.
+    - j: 合格できるかどうかは別として、チャレンジしてみることは⼤切だ。
+      e: Regardless of whether or not you can pass, it's important to challenge yourself.
+
+はもちろん:
+  meaning: not to mention; not only; but also~
+  use:
+    - Noun + はもちろん + 2nd clause + も
+  notes: >
+    Not only [A], but also [B].
+    [A], not to mention [B].
+  examples:
+    - j: 彼⼥は、勉強はもちろん料理もよくできる。
+      e: Not only is she a good student, but she is also good at cooking.
+
+は〜で有名:
+  pronunciation: は〜でゆうめい
+  meaning: famous for~
+  use:
+    - Verb (dictionary) + こと + で有名だ
+    - Noun + で有名だ
+    - な-adjective + で有名だ
+    - い-adjective + いこと + で有名だ
+  notes: >
+    The topic should be marked with は.
+  examples:
+    - j: この学校はフットボールが強いことで有名です。
+      e: This school is famous for being strong in football.
+    - j: ⽇本は電⼦製品で有名です。
+      e: Japan is famous for electric appliances.
 
 XXX:
   meaning: xxx
@@ -2062,124 +2313,5 @@ XXX:
     - j: xxx
       e: yyy
 
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
-
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
-
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
-
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
-
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
-
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
-
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
-
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
-
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
-
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
-
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
-
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
 
 
