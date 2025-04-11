@@ -865,8 +865,6 @@ Xほど〜ない:
   meaning: rather; instead; better
   use:
     - むしろ + phrase
-  notes: >
-    Notes here
   examples:
     - j: 私はむしろ⼀⼈で⾏きたい。
       e: I would rather go alone.
@@ -1548,8 +1546,6 @@ Xほど〜ない:
   meaning: at least
   use:
     - 数量(quantity; volume; amount) + は
-  notes: >
-    Notes here
   examples:
     - j: １時間は仕事をしました。
       e: I worked for at least an hour or so.
@@ -1618,8 +1614,6 @@ Xほど〜ない:
   meaning: surely, certainly
   use:
     - 確かに + phrase
-  notes: >
-    Notes here
   examples:
     - j: それは確かにそのように⾒えます。
       e: It certainly looks that way.
@@ -2020,16 +2014,6 @@ Xほど〜ない:
     - j: ところで、今どこにいるの︖
       e: By the way, where are you now?
 
-XXX:
-  meaning: xxx
-  use:
-    - xxx
-  notes: >
-    Notes here
-  examples:
-    - j: xxx
-      e: yyy
-
 ところが:
   meaning: even so; however; even though~
   use:
@@ -2273,45 +2257,237 @@ XXX:
     - j: ⽇本は電⼦製品で有名です。
       e: Japan is famous for electric appliances.
 
-XXX:
-  meaning: xxx
+わけだ:
+  meaning: for that reason; no wonder; as you'd expect; the fact is; so you mean~
   use:
-    - xxx
-  notes: >
-    Notes here
+    - Verb (casual) + (わけだ / わけです)
+    - Noun + である + (わけだ / わけです)
+    - な-adjective + な + (わけだ / わけです)
+    - い-adjective + (わけだ / わけです)
   examples:
-    - j: xxx
-      e: yyy
+    - j: 毎⽇ギターを弾くから上⼿に弾けるわけだ。
+      e: I'm good at playing guitar, because I play every day.
+    - j: 暑いわけだ。気温が36度もある。
+      e: No wonder it feels so hot, it's 36 degrees (Celsius) out.
+    - j: 「って、知らないわけ︖」
+      e: "You mean to say you don't know?"
 
-XXX:
-  meaning: xxx
+わけではない:
+  meaning: it doesn't mean that; it is not the case that; I don't mean that; it is not true that~
   use:
-    - xxx
-  notes: >
-    Notes here
+    - Verb (casual) + (わけではない / わけじゃない)
+    - Noun + (だ)という + (わけではない / わけじゃない)
+    - な-adjective + な + (わけではない / わけじゃない)
+    - い-adjective + (わけではない / わけじゃない)
   examples:
-    - j: xxx
-      e: yyy
+    - j: 料理が作れないわけではないが、忙しいからあまり作らない。
+      e: It's not that I can't cook. I'm just busy and don't do it that often.
+    - j: そんなに遠いわけじゃないんですよ。
+      e: It's not that far away.
+    - j: お⾦をたくさん持てば幸せになるわけではない。
+      e: Having a lot of money doesn't mean you will be happy.
 
-XXX:
-  meaning: xxx
+わけがない:
+  meaning: there is no way that~; it is impossible to~
   use:
-    - xxx
-  notes: >
-    Notes here
+    - Verb (casual, non-past ) + わけがない
+    - Noun + である + わけがない
+    - な-adjective + な + わけがない
+    - い-adjective + わけがない
   examples:
-    - j: xxx
-      e: yyy
+    - j: 私がそんなものを⾷べられるわけがない。
+      e: There's no way I could eat anything like that.
+    - j: 彼がそんな早い時間に起きられるわけがない
+      e: There's no way he can get up that early.ß
+    - j: 君がJLPT N3に合格するわけがないよ。
+      e:  there's no way you'll pass the JLPT N3.
 
-XXX:
-  meaning: xxx
+わけにはいかない:
+  meaning: must not; cannot afford to; must, have no choice but to~
   use:
-    - xxx
+    - Verb (casual, non-past) + (わけにはいかない / わけにはいきません)
+    - Verb (ない form) + (わけにはいかない / わけにはいきません)
   notes: >
-    Notes here
+    When used with a positive verb, it means “must not do“
+    When used with a negative verb, it means “must do“
   examples:
-    - j: xxx
-      e: yyy
+    - j: あとで⾞を運転するので、今お酒を飲むわけにはいかない。
+      e: I will be driving a car later, so I cannot drink any alcohol now.
+    - j: ⾏くと約束したから、⾏かないわけにはいきません。
+      e: I promised that I'd go, so I have no choice but to go.
 
+割に:
+  pronunciaiton: わりに
+  meaning: considering; comparatively; relatively; unexpectedly; unusually~
+  use:
+    - Verb (casual form) + 割に（は）
+    - Noun + の + 割に（は）
+    - な-adjective + 割に（は）
+    - い-adjective + 割に（は）
+  examples:
+    - j: 彼は年のわりに元気だ。
+      e: He is in good shape for his age.
+    - j: このコンピューター、中古のわりに⾼くない︖
+      e: Isn't this computer a bit expensive for being used?
 
+わざと:
+  meaning: on purpose; intentionally~
+  use:
+    - わざと + action
+  examples:
+    - j: 彼はわざと間違えた。
+      e: He made a mistake on purpose.
+    - j: それをわざと壊したのではありません。
+      e: It's not like I broke that on purpose.
+
+わざわざ:
+  meaning: to go to the trouble of; to go out of one's way
+  use:
+    - わざわざ + action
+  notes: >
+    This is used to either:
+    express gratitude towards someone going out of their way to help you.
+    emphasize how someone went out of their way to do something.
+  examples:
+    - j: 私が困っているとき、彼⼥はわざわざ助けてくれた。
+      e: She went out of her way to help me when I was in trouble.
+    - j: あなたはわざわざ私の為にそれを買ってくれたのですか︖
+      e: Did you buy that just for me?
+
+よりも:
+  meaning: in comparison to; rather than~; more than~
+  use:
+    - Verb (casual) + よりも
+    - Noun + よりも
+  notes: >
+    This is a stronger version of the original より (yori) and can also be used as というより (to iu yori).
+  examples:
+    - j: 兄は私よりも⼤きい。
+      e: My older brother is bigger than I am.
+    - j: 量よりも質だ。
+      e: Quality matters more than quantity.
+
+ようがない:
+  meaning: there is no way to; it's impossible to~
+  use:
+    - Verb (stem form) + (ようがない / ようもない)
+  examples:
+    - j: どうにもしようがない。
+      e: Nothing can be done about it
+    - j: お礼の申し上げようもない。
+      e: I cannot thank you enough.
+
+ような気がする:
+  meaning: have a feeling that; feels like; seems like; think that~
+  use:
+    - Verb (casual) + ような + 気がする
+    - Noun + のような + 気がする
+    - な-adjective + な + 気がする
+    - い-adjective + ような + 気がする
+  examples:
+    - j: それが本当のような気がする。
+      e: I feel that it is true.
+    - j: 分かるような気がする。
+      e: I think I understand.
+    - j: 今朝は散歩したいような気がする。
+      e: I feel like going for a walk this morning.
+
+ように:
+  meaning: in order to, so that~
+  use:
+    - Verb (dictionary form) + ように
+    - Verb (ない form) + ように
+  examples:
+    - j: バスに乗り遅れないように早く出ました。
+      e: I left early so I would not be late for the bus.
+    - j: 単語が覚えられるように、フラッシュカードを作りました。
+      e: I made some flashcards to help me be able to memorize vocabulary.
+    - j: 皆さんに聞こえるようにもっと⼤きな声で話してください。
+      e: Speak with a louder voice so everyone can hear.
+
+ように⾒える:
+  meaning: to look; to seem; to appear~
+  use:
+    - Verb (casual form) + (ように⾒える / ようにみえる)
+    - Noun + の + (ように⾒える / ようにみえる)
+    - な-adjective + な + (ように⾒える / ようにみえる)
+    - い-adjective + (ように⾒える / ようにみえる)
+  notes: >
+    Looks like ~
+    Seems like ~
+    Appears like ~
+    This is a combination of ように・ような (you ni / you na) and にみえる (ni mieru).
+  examples:
+    - j: 彼は元気なように⾒える。
+      e: He looks very energetic.
+    - j: 彼は勉強が嫌いなように⾒える。
+      e: He looks like he hates studying.
+
+ようとしない:
+  meaning: not try to; not make an effort to~
+  use:
+    - Verb (volitional form) + としない
+  notes: >
+    This must be used in combination with a verb's 意向形 (ikou kei) Volitional Form.
+  examples:
+    - j: その⼦供はどうしても野菜を⾷べようとしない。
+      e: That kid will not even try to eat vegetables.
+    - j: 彼は⾃分のことは何も⾔おうとしない。
+      e: He doesn't talk much about himself.
+
+ようとする:
+  meaning: try to; attempt to; be about to~
+  use:
+    - Verb (volitional form) + とする
+    - Verb (volitional form) + とした
+    - Verb (volitional form) + としたら
+    - Verb (volitional form) + としていた
+  notes: >
+    normally to express different meanings:
+    ようとした (you to shita) = just when I did~
+    ようとしたら (you to shitara) = when I tried to~
+    ようとしていた (you to shiteita) = as I was attempting to~
+    This must be used in combination with a verb's 意向形 (ikou kei) Volitional Form.
+  examples:
+    - j: ドアを開けようとしたが、鍵がかかっていました。
+      e: I tried opening the door, but it was locked.
+    - j: お⾵呂に⼊ろうとしたら、電話が掛かってきた。
+      e: Just as I was about to take a bath, the phone rang.
+    - j: おばあさんが道を渡ろうとしていたから、⼿伝ってあげた。
+      e: The old lady was just about to cross the street and so I helped her out.
+
+ずに:
+  meaning: apiece; each; at a time
+  use:
+    - Verb (negative "nai" stem) ず（に）
+    - する changes to せず（に）
+  notes: >
+    This is used by adding ず（に）after a verb's ない stem.
+    たべない = to not eat.
+    たべない + ずに -> たべずに = without eating.
+  examples:
+    - j: 勉強せずに試験に受かった。
+      e: I passed the exam without studying.
+    - j: 今朝、私は朝ごはんを⾷べずに学校に来ました。
+      e: This morning I went to school without eating breakfast.
+
+ずにはいられない:
+  meaning: can't help but feel; can't help but do; must do~
+  use:
+    - Verb (ない stem) + ずにはいられない
+  examples:
+    - j: 彼⼥は彼のことを考えずにいられなかった。
+      e: She couldn't stop thinking of him.
+    - j: 話を聞いたら、笑わずにはいられない。
+      e: When you hear what they have to say you can't help but laugh.
+
+ずつ:
+  meaning: apiece; each; at a time
+  use:
+    - Noun (measurable) + ずつ
+  examples:
+    - j: 私たちは⼀歩ずつ進みましょう。
+      e: Let's move forward one step at a time.
+    - j: 彼⼥は少しずつ回復している。
+      e: She is recovering little-by-little.
 
