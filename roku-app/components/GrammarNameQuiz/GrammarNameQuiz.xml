@@ -30,6 +30,56 @@
           id="Meaning"
           translation = "[0, 200]"
         />
+        <Poster
+          id="Example0"
+          loadSync="true"
+          uri = ""
+          translation = "[0, 0]"
+        />
+        <Label
+          id="ExampleEnglish0"
+          translation = "[0, 200]"
+        />
+        <Poster
+          id="Example1"
+          loadSync="true"
+          uri = ""
+          translation = "[0, 0]"
+        />
+        <Label
+          id="ExampleEnglish1"
+          translation = "[0, 200]"
+        />
+        <Poster
+          id="Example2"
+          loadSync="true"
+          uri = ""
+          translation = "[0, 0]"
+        />
+        <Label
+          id="ExampleEnglish2"
+          translation = "[0, 200]"
+        />
+        <Poster
+          id="Example3"
+          loadSync="true"
+          uri = ""
+          translation = "[0, 0]"
+        />
+        <Label
+          id="ExampleEnglish3"
+          translation = "[0, 200]"
+        />
+        <Poster
+          id="Example4"
+          loadSync="true"
+          uri = ""
+          translation = "[0, 0]"
+        />
+        <Label
+          id="ExampleEnglish4"
+          translation = "[0, 200]"
+        />
       </LayoutGroup>
     </children>
 </component>

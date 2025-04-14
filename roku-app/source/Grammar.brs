@@ -695,7 +695,7 @@ d = [
         "image_height": 89
     },
     {
-        "meaning": "no matter what; at any cost; after all",
+        "meaning": "to pretend; to act as if~",
         "use": [
             "Verb (casual) + ふりをする",
             "Noun + の + ふりをする",
@@ -727,7 +727,7 @@ d = [
         "image_height": 88
     },
     {
-        "meaning": "end to; tendency to; frequently; often; to do something easily",
+        "meaning": "suddenly; accidentally; unexpectedly",
         "use": [
             "ふと + action"
         ],
@@ -756,7 +756,7 @@ d = [
         "image_height": 84
     },
     {
-        "meaning": "suddenly; accidentally; unexpectedly; unintentionally",
+        "meaning": "end to; tendency to; frequently; often~",
         "use": [
             "Noun + がち",
             "Verb (stem form) + がち"
