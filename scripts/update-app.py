@@ -3,6 +3,8 @@
 import json
 import os
 from text2image import text_to_image
+# from loadyaml import load_yaml_to_array
+import yaml
 
 # get a vocabulary list from json data
 def get_word_list(infile):
@@ -56,110 +58,154 @@ def generate_vocabulary_brs(input_files, output_file):
             outfile.write(f"\nreturn d\n")
             outfile.write("end function\n")
 
-# grammar is stored in JSON in a form like:
-# [
-#     {
-#         "name" : "〜より",
-#         "meaning" : "\"Than\". Used to express the extent of something forming a topic, by comparison with something else.",
-#         "forms" : [
-#             {
-#             "form": "名＋より",
-#             "examples:" : [
-#                 {
-#                     "prompt" : "アパート　便利",
-#                     "example" : "このアパートは前のアパートより便利です",
-#                     "notes:": ""
-#                 }
-#             ]
-#             },
-#
-# Ultimately we want to iterate through all examples for all forms for all phrases (structures).
+# grammar is stored in YAML in a form like:
+# 上げる:
+#   pronunciation: あげる
+#   meaning: to finish doing~
+#   use:
+#     - Verb (stem form) + あげる
+#     - Verb (stem form) +  あがる
+#   notes: >
+#     Transitive verb: 上げる (ageru) to finish doing
+#     Intransitive verb: 上がる (agaru) was finished
+#   examples:
+#     - j: 彼⼥は⼩説を書き上げた。
+#       e: She finished writing her novel.
+
+def chunk_list(input_list, chunk_size):
+    """Splits a list into chunks of the specified size."""
+    return [input_list[i:i + chunk_size] for i in range(0, len(input_list), chunk_size)]
    
 def generate_grammar_brs(input_files, output_file):
-    phrase_id = 1
-    form_id = 1
+    item_id = 1
+    # form_id = 1
     example_id = 1
-    chapter_number = 1
+    # chapter_number = 1
     with open(output_file, 'w', encoding="utf-8") as outfile:
         for level, input_file in input_files.items():
+            # items = load_yaml_to_array(input_file)
+            # items = items[0]
+            items = []
+            dictionary = yaml.safe_load(open(input_file))
+            for key in dictionary.keys():
+                value = dictionary[key]
+                value["name"] = key
+                value["id"] = item_id
+                items.append(value)
+                item_id += 1
 
-            with open(input_file, 'r') as infile:
-                chapter_list = get_chapter_list(infile)
+            # split the array into sections of equal length (as much as possible)
+            sections = chunk_list(items, 25)
 
-                for chapter in chapter_list:
-                    #print(f"chapter---> {chapter}")
-                    # create a derivative flat list of examples (with a lot of redundant data)
-                    # because it's easier to deal with that in brightscript.
-                    examples_list = []
-                    outfile.write(f"function {level}_Chapter{chapter_number}_database() as Object\n")
-                    outfile.write(f"d = ")
-                    for phrase in chapter:
-                        #print(f"phrase---> {phrase}")
-                        phrase["phrase_id"] = phrase_id
+            for (section_id, section) in enumerate(sections):
+                section_number = section_id + 1
+                outfile.write(f"function {level}_Section{section_number}_database() as Object\n")
+                outfile.write(f"d = ")
+                for item in section:
+                    print(f"{section_number} --> {item["name"]}:{item["meaning"]}")
+                    id = item["id"]
+                    name = item["name"]
 
-                        # generate an image of the phrase (grammatical structure)
-                        dir = f"images/{level}/{chapter_number}/phrases"
+                    # Generate an image of the grammatical form name. Image name is the id member.
+                    dir = f"images/grammar/{level}/{section_number}/names"
+                    os.makedirs(f"roku-app/{dir}", exist_ok=True)
+                    phrase_image_path = f"{dir}/{id}.png"
+                    item["image_path"] = f"pkg:/{phrase_image_path}"
+                    (image_width, image_height) = text_to_image(name, output_path=f"roku-app/{phrase_image_path}")
+                    item["image_width"] = image_width
+                    item["image_height"] = image_height
+
+                    # Generate an image of all japanese examples, each with a unique id
+                    for example in item["examples"]:
+                        j = example["j"]
+                        example["id"] = example_id
+
+                        dir = f"images/grammar/{level}/{section_number}/examples"
                         os.makedirs(f"roku-app/{dir}", exist_ok=True)
-                        phrase_image_path = f"{dir}/{phrase_id}.png"
-                        phrase["image_path"] = f"pkg:/{phrase_image_path}"
-                        (image_width, image_height) = text_to_image(phrase["name"], output_path=f"roku-app/{phrase_image_path}")
-                        phrase["image_width"] = image_width
-                        phrase["image_height"] = image_height
+                        example_image_path = f"{dir}/{example_id}.png"
+                        example["image_path"] = f"pkg:/{example_image_path}"
+                        (image_width, image_height) = text_to_image(j, output_path=f"roku-app/{example_image_path}")
+                        example["image_width"] = image_width
+                        example["image_height"] = image_height
 
-                        for form in phrase["forms"]:
-                            form["form_id"] = form_id
+                        example_id += 1
+                
+                json.dump(section, outfile, ensure_ascii=False, indent=4)
+                outfile.write(f"\nreturn d\n")
+                outfile.write("end function\n\n")
+
+                    # # create a derivative flat list of examples (with a lot of redundant data)
+                    # # because it's easier to deal with that in brightscript.
+                    # examples_list = []
+                    # outfile.write(f"function {level}_Chapter{chapter_number}_database() as Object\n")
+                    # outfile.write(f"d = ")
+                    # for phrase in chapter:
+                    #     #print(f"phrase---> {phrase}")
+                    #     phrase["phrase_id"] = phrase_id
+
+                    #     # generate an image of the phrase (grammatical structure)
+                    #     dir = f"images/{level}/{chapter_number}/phrases"
+                    #     os.makedirs(f"roku-app/{dir}", exist_ok=True)
+                    #     phrase_image_path = f"{dir}/{phrase_id}.png"
+                    #     phrase["image_path"] = f"pkg:/{phrase_image_path}"
+                    #     (image_width, image_height) = text_to_image(phrase["name"], output_path=f"roku-app/{phrase_image_path}")
+                    #     phrase["image_width"] = image_width
+                    #     phrase["image_height"] = image_height
+
+                    #     for form in phrase["forms"]:
+                    #         form["form_id"] = form_id
                             
                             # generate an image of the grammatical form
-                            dir = f"images/{level}/{chapter_number}/forms"
-                            os.makedirs(f"roku-app/{dir}", exist_ok=True)
-                            form_image_path = f"{dir}/{form_id}.png"
-                            form["image_path"] = f"pkg:/{form_image_path}"
-                            (image_width, image_height) = text_to_image(form["form"], output_path=f"roku-app/{form_image_path}", font_size=40)
-                            form["image_width"] = image_width
-                            form["image_height"] = image_height
+                    #         dir = f"images/{level}/{chapter_number}/forms"
+                    #         os.makedirs(f"roku-app/{dir}", exist_ok=True)
+                    #         form_image_path = f"{dir}/{form_id}.png"
+                    #         form["image_path"] = f"pkg:/{form_image_path}"
+                    #         (image_width, image_height) = text_to_image(form["form"], output_path=f"roku-app/{form_image_path}", font_size=40)
+                    #         form["image_width"] = image_width
+                    #         form["image_height"] = image_height
 
-                            for example in form["examples"]:
-                                example["example_id"] = example_id
+                    #         for example in form["examples"]:
+                    #             example["example_id"] = example_id
 
-                                # also generate an image of every example
-                                dir = f"images/{level}/{chapter_number}/examples"
-                                os.makedirs(f"roku-app/{dir}", exist_ok=True)
-                                example_image_path = f"{dir}/{example_id}.png"
-                                example["image_path"] = f"pkg:/{example_image_path}"
-                                (image_width, image_height) = text_to_image(example["example"], output_path=f"roku-app/{example_image_path}")
-                                example["image_width"] = image_width
-                                example["image_height"] = image_height
+                    #             # also generate an image of every example
+                    #             dir = f"images/{level}/{chapter_number}/examples"
+                    #             os.makedirs(f"roku-app/{dir}", exist_ok=True)
+                    #             example_image_path = f"{dir}/{example_id}.png"
+                    #             example["image_path"] = f"pkg:/{example_image_path}"
+                    #             (image_width, image_height) = text_to_image(example["example"], output_path=f"roku-app/{example_image_path}")
+                    #             example["image_width"] = image_width
+                    #             example["image_height"] = image_height
 
-                                # and every prompt
-                                dir = f"images/{level}/{chapter_number}/prompts"
-                                os.makedirs(f"roku-app/{dir}", exist_ok=True)
-                                prompt_image_path = f"{dir}/{example_id}.png"
-                                example["prompt_image_path"] = f"pkg:/{prompt_image_path}"
-                                (image_width, image_height) = text_to_image(example["prompt"], output_path=f"roku-app/{prompt_image_path}")
-                                example["prompt_image_width"] = image_width
-                                example["prompt_image_height"] = image_height
+                    #             # and every prompt
+                    #             dir = f"images/{level}/{chapter_number}/prompts"
+                    #             os.makedirs(f"roku-app/{dir}", exist_ok=True)
+                    #             prompt_image_path = f"{dir}/{example_id}.png"
+                    #             example["prompt_image_path"] = f"pkg:/{prompt_image_path}"
+                    #             (image_width, image_height) = text_to_image(example["prompt"], output_path=f"roku-app/{prompt_image_path}")
+                    #             example["prompt_image_width"] = image_width
+                    #             example["prompt_image_height"] = image_height
 
-                                e = {}
-                                e["example_id"] = example_id
-                                e["image_path"] = example["image_path"]
-                                e["prompt_image_path"] = example["prompt_image_path"]
-                                e["form_id"] = form_id
-                                e["form_image_path"] = form["image_path"]
-                                e["phrase_id"] = phrase_id
-                                e["phrase_image_path"] = phrase["image_path"]
-                                e["meaning"] = phrase["meaning"]
+                    #             e = {}
+                    #             e["example_id"] = example_id
+                    #             e["image_path"] = example["image_path"]
+                    #             e["prompt_image_path"] = example["prompt_image_path"]
+                    #             e["form_id"] = form_id
+                    #             e["form_image_path"] = form["image_path"]
+                    #             e["phrase_id"] = phrase_id
+                    #             e["phrase_image_path"] = phrase["image_path"]
+                    #             e["meaning"] = phrase["meaning"]
 
-                                #print(f"example: {example["example"]}")
-                                e["notes"] = example["notes"]
+                    #             #print(f"example: {example["example"]}")
+                    #             e["notes"] = example["notes"]
 
-                                examples_list.append(e)
-                                example_id += 1
-                            form_id += 1
-                        phrase_id += 1
-                    chapter_number += 1
-                    json.dump(examples_list, outfile, ensure_ascii=False, indent=4)
-                    outfile.write(f"\nreturn d\n")
-                    outfile.write("end function\n\n")
+                    #             examples_list.append(e)
+                    #             example_id += 1
+                    #         form_id += 1
+                    #     phrase_id += 1
+                    # chapter_number += 1
+                    # json.dump(examples_list, outfile, ensure_ascii=False, indent=4)
+                    # outfile.write(f"\nreturn d\n")
+                    # outfile.write("end function\n\n")
 
 input_files = {
     "Chapter1Section1" : "data/n3/2000WordsBook/ch1/sec1.json",
@@ -226,11 +272,10 @@ input_files = {
     # "N4Vocabulary" : "data/n4/vocabulary.json",
 }
 output_file = 'roku-app/source/Vocabulary.brs'
-generate_vocabulary_brs(input_files, output_file)
+#generate_vocabulary_brs(input_files, output_file)
 
-# input_files = {
-#     "N4Grammar" : "data/n4/grammar.json",
-# }
-# output_file = 'roku-app/source/Grammar.brs'
-# generate_grammar_brs(input_files, output_file)
-
+input_files = {
+    "N3Grammar" : "data/n3/grammar.yaml",
+}
+output_file = 'roku-app/source/Grammar.brs'
+generate_grammar_brs(input_files, output_file)

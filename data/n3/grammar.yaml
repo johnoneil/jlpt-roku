@@ -4,8 +4,8 @@
   pronunciation: あげる
   meaning: to finish doing~
   use:
-    - Verb ます (stem form) あげる
-    - Verb ます (stem form) あがる
+    - Verb (stem form) + あげる
+    - Verb (stem form) + あがる
   notes: >
     Transitive verb: 上げる (ageru) to finish doing
     Intransitive verb: 上がる (agaru) was finished
@@ -18,9 +18,9 @@
 あまり:
   meaning: so much… that
   use:
-    - Verb (dictionary form) あまり
-    - Verb (casual, past) あまり
-    - Noun + の あまり
+    - Verb (dictionary form) + あまり
+    - Verb (casual, past) + mあまり
+    - Noun + の + あまり
   notes: >
     If you want to use this with an adjective, use あまりにも (amari ni mo) instead.
   examples:
@@ -32,10 +32,10 @@
 あまりにも:
   meaning: too much; so much… that; excessively~
   use:
-    - あまりに(も) Verb
-    - あまりに(も) Adverb 
-    - あまりに(も) Adjective
-    - あまりの Noun
+    - あまりに(も) + Verb
+    - あまりに(も) + Adverb 
+    - あまりに(も) + Adjective
+    - あまりの + Noun
   notes: >
     あまりに is similar in meaning to あまり (amari), but can also be used with adjectives.
   examples:
@@ -415,7 +415,7 @@ Xほど〜ない:
   use:
     - Verb (dictionary form) + ⼀⽅だ
   notes: >
-        Compare with 一方で (N2), which is a conjunction used to contrast clauses like "it's X but at the same time Y."
+        Compare with 一方で (N2), which is a conjunction used to contrast clauses like 'it's X but at the same time Y.'
   examples:
     - j: この町の⼈⼝は減る⼀⽅だ。
       e: This town's population has been decreasing lately.
@@ -647,7 +647,7 @@ Xほど〜ない:
       e: You must follow school rules.
 
 ことから:
-  meaning: from the fact that~ "It follows"
+  meaning: from the fact that~ 'It follows'
   use:
     - Verb (casual) + ことから
     - Noun + である/だった + ことから
@@ -1171,7 +1171,7 @@ Xほど〜ない:
 
 に対して:
   pronunciation: にたいして
-  meaning: towards; against; regarding; in contrast with. "Unlike X..."
+  meaning: towards; against; regarding; in contrast with. 'Unlike X...'
   use:
     - Noun + に対して
   examples:
@@ -1371,7 +1371,7 @@ Xほど〜ない:
       e: My throat hurts so much I can't even drink water.
 
 さえ〜ば:
-  meaning: if only; as long as; "If one but ___s";
+  meaning: if only; as long as; 'If one but ___s';
   use:
     - Verb + (stem form) + さえすれば
     - Verb (て form) + さえいれば
@@ -1912,7 +1912,7 @@ Xほど〜ない:
     - j: 「コンビニ」というのはコンビニエンスストアのことだ。
       e: konbini means convenience store
     - j: 「電⾞で『カクテイ』というのは何のことですか。」
-      e: "What does it mean when they say 'kakutei' on the train?"
+      e: What does it mean when they say 'kakutei' on the train?
 
 と⾔うと:
   pronunciation: というと
@@ -2270,7 +2270,7 @@ Xほど〜ない:
     - j: 暑いわけだ。気温が36度もある。
       e: No wonder it feels so hot, it's 36 degrees (Celsius) out.
     - j: 「って、知らないわけ︖」
-      e: "You mean to say you don't know?"
+      e: You mean to say you don't know?
 
 わけではない:
   meaning: it doesn't mean that; it is not the case that; I don't mean that; it is not true that~
@@ -2459,7 +2459,7 @@ Xほど〜ない:
 ずに:
   meaning: apiece; each; at a time
   use:
-    - Verb (negative "nai" stem) ず（に）
+    - Verb (negative 'nai' stem) ず（に）
     - する changes to せず（に）
   notes: >
     This is used by adding ず（に）after a verb's ない stem.

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="GrammarNameQuiz" extends = "SceneBase" initialFocus = "QuizSelection">
+
+  <script type="text/brightscript" uri="GrammarNameQuiz.brs" />
+  <script type="text/brightscript" uri="pkg:/source/WorldInfo.brs" />
+  <script type="text/brightscript" uri="pkg:/source/RandomValues.brs" />
+  <script type="text/brightscript" uri="pkg:/source/Grammar.brs" />
+
+  <!-- The HD Title Safe Zone is 1022X578, offset from the upper left corner (0,0) by 128,70. The SD Title Safe Zone is 576X384, offset from the upper left corner (0,0) by 72,48. -->
+
+  <children>
+      <LayoutGroup
+        translation = "[960, 232]"
+        LayoutGroup = "vert"
+        horizAlignment = "center"
+      >
+        <Poster
+              id="Word"
+              loadSync="true"
+              uri = ""
+              translation = "[0, 0]"
+        />
+        <!-- <Poster
+            id="Furigana"
+            loadSync="true"
+            uri = ""
+            translation = "[0, 100]"
+        /> -->
+        <Label
+          id="Meaning"
+          translation = "[0, 200]"
+        />
+      </LayoutGroup>
+    </children>
+</component>

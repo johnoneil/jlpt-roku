@@ -8,7 +8,7 @@ CHAPTER=$1
 
 for i in {1..5}; do
 
-    echo "Creating Chater ${CHAPTER} section ${i}"
+    echo "Creating Chapter ${CHAPTER} section ${i}"
 
     DEST_DIR="roku-app/components/Ch${CHAPTER}S${i}"
     mkdir ${DEST_DIR}

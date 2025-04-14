@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="GrammarNameN3Sec5" extends = "GrammarNameQuiz" >
+
+  <script type="text/brightscript" uri="GrammarNameN3Sec5.brs" />
+
+</component>
