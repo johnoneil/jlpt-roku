@@ -29,8 +29,8 @@
     - j: ⽗は娘を⼼配するあまり、倒れてしまった。。
       e: The father was so overcome with worry for his daughter that he collapsed.
 
-あまりにも:
-  meaning: too much; so much… that; excessively~
+あまりに(も):
+  meaning: too much; excessively~
   use:
     - あまりに(も) + Verb
     - あまりに(も) + Adverb 
@@ -107,8 +107,8 @@
   examples:
     - j: もっと安ければいいのに。
       e: If only it were a bit cheaper.
-    - j: 映画はとても⾯⽩かった。君も⾏けばよかったのに。
-      e: The movie was very interesting. You should have come!
+    - j: 君も⾏けばよかったのに。
+      e: You should have come!
 
 ばかりで:
   meaning: only; just (negative description) 
@@ -117,7 +117,7 @@
     - な-adjective + な + ばかりで
     - い-adjective + い + ばかりで
   examples:
-    - j: うちの⼦は毎⽇遊んでいるばかりで勉強をしない。。
+    - j: うちの⼦は毎⽇遊んでいるばかりで勉強をしない。
       e: My kid only plays all day and never studies
     - j: 顔が綺麗なばかりで、性格が悪すぎる。
       e: They just have a pretty face, but their personality is very bad.
@@ -162,7 +162,7 @@
       e: She had already decided in her heart what she should do.
 
 べきではない:
-  meaning: should not do~; must not do~ 
+  meaning: should not~; must not~ 
   use:
     - Verb (standard form) + (べきではない/べきではありません)
     - する As す- + (べきではない/べきではありません)
@@ -200,7 +200,7 @@
 
 中:
   pronunciation: ちゅう
-  meaning: currently; during; at some point; throughout; before the end of~
+  meaning: currently; during; throughout; before the end of~
   use:
     - Noun + 中 (read ちゅう or じゅう)
   examples:
@@ -248,7 +248,7 @@
       e: I caught a cold, I hope I can recover quickly.
 
 だらけ:
-  meaning: full of; covered with; a lot of (something undesirable)
+  meaning: full of; covered with (something undesirable)
   use:
     - Noun + だらけ
   examples:
@@ -278,7 +278,7 @@
     - j: 私はどうしても⾃分の家がほしい。
       e: I really want to have my own house (to the point I'd do anything).
     - j: どうしても⾞が動かなかった
-      e: No matter what we tried the car wouldn't star.
+      e: No matter what we tried the car wouldn't start.
 
 ふりをする:
   meaning: to pretend; to act as if~ 
@@ -304,7 +304,7 @@
       e: He suddenly realized he had lost his wallet.
 
 がち:
-  meaning: end to; tendency to; frequently; often~ 
+  meaning: Tend to...; Frequently~; often~ 
   use:
     - Noun + がち
     - Verb (stem form) + がち
@@ -372,7 +372,7 @@
     - j: 今年ほど⾬の降った年はなかった。
       e: It rained more this year than any other year.
 
-Xほど〜ない:
+ほど〜ない:
   meaning: is not as… as
   use:
     - Noun + ほど + Verb (ない form)
@@ -395,7 +395,7 @@ Xほど〜ない:
       e: You can borrow three books at a time.
 
 いくら〜ても:
-  meaning: no matter how~
+  meaning: no matter how (much)~
   use:
     - いくら + Verb (ても form)
     - いくら + Noun + でも
@@ -437,7 +437,7 @@ Xほど〜ない:
       e: Who in the world is that?
 
 じゃない:
-  meaning: maybe; most likely; confirmation of information; express surprise towards listener
+  meaning: maybe; most likely; 'isn't it?'
   use:
     - Phrase + じゃない
   notes: >
@@ -623,7 +623,7 @@ Xほど〜ない:
       e: My daughter is completely dedicating herself to her studies.
 
 こそ:
-  meaning: for sure (emphasize preceding word); precisely; definitely
+  meaning: emphasize preceding word; precisely; definitely
   use:
     - Noun + こそ
   examples:
@@ -632,7 +632,7 @@ Xほど〜ない:
     - j: こちらこそありがとうございます。
       e: It is I that should be saying thank you.
 
-こと:
+こと(end of sentence):
   meaning: (must) do
   use:
     - Verb (dictionary form) + こと
@@ -662,7 +662,7 @@ Xほど〜ない:
       e: Because the glass was broken, I knew that a burglar had entered the house.
 
 ことになっている:
-  meaning: to be expected to; to be scheduled to; it has been decided as a rule that...
+  meaning: to be expected to; to be scheduled to; It's a rule...
   use:
     - Verb (dictionary form) + (ことになっている / ことになっています)
     - Verb (ない form) + (ことになっている / ことになっています)
@@ -673,11 +673,11 @@ Xほど〜ない:
   examples:
     - j: ⽇本では、⾞は左側を⾛ることになっている。
       e: In Japan, cars drive on the left side of the road.
-    - j: 授業中は、携帯電話を使ってはいけないことになっている。
-      e: Cellphones are not allowed to be used during class.
+    - j: 携帯電話を使ってはいけないことになっている。
+      e: Cellphones cannot be used.
 
 ことはない:
-  meaning: there is no need to...; (something) never happens; there is no possibility that~
+  meaning: there is no need to...; there is no possibility that~
   use:
     - Verb (dictionary form) + ことはない
   notes: >
@@ -700,7 +700,7 @@ Xほど〜ない:
   examples:
     - j: この薬は効くことは効くが、飲むと眠くなってしまう。
       e: This medicine works, but I feel sleepy when I take it.
-    - j: N3の勉強をしたことはしたが、合格できるか⾃信がない。。
+    - j: N3の勉強をしたことはしたが、合格できるか⾃信がない。
       e: Although I studied for the JLPT N3, I don't have confidence I can pass.
 
 くらい・ぐらい:

@@ -5,7 +5,7 @@ sub init()
     m.word = m.top.findNode("Word")
     ' m.furigana = m.top.findNode("Furigana")
     m.meaning = m.top.findNode("Meaning")
-    m.meaning.font.size = 80
+    m.meaning.font.size = 60
 
     m.example0 = m.top.findNode("Example0")
     m.example1 = m.top.findNode("Example1")
@@ -84,7 +84,7 @@ sub nextQuestion()
 
         if word.examples.Count() > 3
             m.example3.uri = word.examples[3].image_path
-            m.exampleEnglish2.text = word.examples[3].e
+            m.exampleEnglish3.text = word.examples[3].e
         else
             m.example3.uri = ""
             m.exampleEnglish3.text = ""

@@ -14,16 +14,16 @@ d = [
                 "e": "She finished writing her novel.",
                 "id": 1,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/1.png",
-                "image_width": 982,
-                "image_height": 96
+                "image_width": 742,
+                "image_height": 77
             },
             {
                 "j": "研究のレポートを⼀⽇で書き上げた。",
                 "e": "I wrote my research report in one day.",
                 "id": 2,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/2.png",
-                "image_width": 1382,
-                "image_height": 95
+                "image_width": 1042,
+                "image_height": 77
             }
         ],
         "name": "上げる",
@@ -46,16 +46,16 @@ d = [
                 "e": "She was so happy that she cried.",
                 "id": 3,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/3.png",
-                "image_width": 1619,
-                "image_height": 95
+                "image_width": 1220,
+                "image_height": 77
             },
             {
                 "j": "⽗は娘を⼼配するあまり、倒れてしまった。。",
                 "e": "The father was so overcome with worry for his daughter that he collapsed.",
                 "id": 4,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/4.png",
-                "image_width": 1693,
-                "image_height": 95
+                "image_width": 1275,
+                "image_height": 77
             }
         ],
         "name": "あまり",
@@ -65,7 +65,7 @@ d = [
         "image_height": 88
     },
     {
-        "meaning": "too much; so much… that; excessively~",
+        "meaning": "too much; excessively~",
         "use": [
             "あまりに(も) + Verb",
             "あまりに(も) + Adverb",
@@ -79,31 +79,31 @@ d = [
                 "e": "It's too hot recently.",
                 "id": 5,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/5.png",
-                "image_width": 902,
-                "image_height": 94
+                "image_width": 682,
+                "image_height": 77
             },
             {
                 "j": "彼はあまりにも変わった。",
                 "e": "He changed a lot.",
                 "id": 6,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/6.png",
-                "image_width": 982,
-                "image_height": 95
+                "image_width": 742,
+                "image_height": 77
             },
             {
                 "j": "あまりにも天気が良い。",
                 "e": "The weather is excellent.",
                 "id": 7,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/7.png",
-                "image_width": 902,
-                "image_height": 95
+                "image_width": 682,
+                "image_height": 77
             }
         ],
-        "name": "あまりにも",
+        "name": "あまりに(も)",
         "id": 3,
         "image_path": "pkg:/images/grammar/N3Grammar/1/names/3.png",
-        "image_width": 422,
-        "image_height": 88
+        "image_width": 470,
+        "image_height": 103
     },
     {
         "pronunciation": "あう",
@@ -118,16 +118,16 @@ d = [
                 "e": "Those 2 are in love with each other.",
                 "id": 8,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/8.png",
-                "image_width": 898,
-                "image_height": 95
+                "image_width": 679,
+                "image_height": 77
             },
             {
                 "j": "私たちはその件について話し合いましょう。",
                 "e": "Let's discuss that matter together.",
                 "id": 9,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/9.png",
-                "image_width": 1615,
-                "image_height": 95
+                "image_width": 1217,
+                "image_height": 77
             }
         ],
         "name": "合う",
@@ -147,16 +147,16 @@ d = [
                 "e": "What should I do?",
                 "id": 10,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/10.png",
-                "image_width": 900,
-                "image_height": 92
+                "image_width": 680,
+                "image_height": 76
             },
             {
                 "j": "どこに⾏けばいいですか︖",
                 "e": "Where should I go?",
                 "id": 11,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/11.png",
-                "image_width": 977,
-                "image_height": 95
+                "image_width": 738,
+                "image_height": 78
             }
         ],
         "name": "ばいい",
@@ -177,16 +177,16 @@ d = [
                 "e": "I should have done that.",
                 "id": 12,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/12.png",
-                "image_width": 822,
-                "image_height": 91
+                "image_width": 622,
+                "image_height": 74
             },
             {
                 "j": "早く連絡してくればよかったのに。",
                 "e": "You should have contacted me earlier.",
                 "id": 13,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/13.png",
-                "image_width": 1297,
-                "image_height": 95
+                "image_width": 978,
+                "image_height": 77
             }
         ],
         "name": "ばよかった",
@@ -209,16 +209,16 @@ d = [
                 "e": "The more I think about it, the less I understand.",
                 "id": 14,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/14.png",
-                "image_width": 1380,
-                "image_height": 95
+                "image_width": 1040,
+                "image_height": 77
             },
             {
                 "j": "勉強すればするほど、⽇本語が上⼿になりますよ。",
                 "e": "The more you study, the better your Japanese will get.",
                 "id": 15,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/15.png",
-                "image_width": 1858,
-                "image_height": 96
+                "image_width": 1399,
+                "image_height": 78
             }
         ],
         "name": "ば〜ほど",
@@ -241,16 +241,16 @@ d = [
                 "e": "If only it were a bit cheaper.",
                 "id": 16,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/16.png",
-                "image_width": 982,
-                "image_height": 96
+                "image_width": 742,
+                "image_height": 77
             },
             {
-                "j": "映画はとても⾯⽩かった。君も⾏けばよかったのに。",
-                "e": "The movie was very interesting. You should have come!",
+                "j": "君も⾏けばよかったのに。",
+                "e": "You should have come!",
                 "id": 17,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/17.png",
-                "image_width": 1936,
-                "image_height": 95
+                "image_width": 742,
+                "image_height": 77
             }
         ],
         "name": "ば〜のに",
@@ -268,20 +268,20 @@ d = [
         ],
         "examples": [
             {
-                "j": "うちの⼦は毎⽇遊んでいるばかりで勉強をしない。。",
+                "j": "うちの⼦は毎⽇遊んでいるばかりで勉強をしない。",
                 "e": "My kid only plays all day and never studies",
                 "id": 18,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/18.png",
-                "image_width": 1940,
-                "image_height": 96
+                "image_width": 1400,
+                "image_height": 78
             },
             {
                 "j": "顔が綺麗なばかりで、性格が悪すぎる。",
                 "e": "They just have a pretty face, but their personality is very bad.",
                 "id": 19,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/19.png",
-                "image_width": 1460,
-                "image_height": 95
+                "image_width": 1101,
+                "image_height": 77
             }
         ],
         "name": "ばかりで",
@@ -304,24 +304,24 @@ d = [
                 "e": "This apartment is not only very small, it's also quite dark.",
                 "id": 20,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/20.png",
-                "image_width": 1773,
-                "image_height": 95
+                "image_width": 1335,
+                "image_height": 77
             },
             {
                 "j": "彼は歌ばかりでなくダンスも上⼿です。",
                 "e": "He is not only good at singing, he also good at dancing.",
                 "id": 21,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/21.png",
-                "image_width": 1454,
-                "image_height": 95
+                "image_width": 1096,
+                "image_height": 77
             },
             {
                 "j": "東京を案内してくれたばかりでなく、⾷事もごちそうしてくれた。",
                 "e": "Not only did they show me around Tokyo, but they also paid for my meal.",
                 "id": 22,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/22.png",
-                "image_width": 2414,
-                "image_height": 95
+                "image_width": 1816,
+                "image_height": 77
             }
         ],
         "name": "ばかりでなく",
@@ -345,32 +345,32 @@ d = [
                 "e": "I should know more about that.",
                 "id": 23,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/23.png",
-                "image_width": 1373,
-                "image_height": 95
+                "image_width": 1035,
+                "image_height": 77
             },
             {
                 "j": "約束は守るべきだ。",
                 "e": "You should keep your promises.",
                 "id": 24,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/24.png",
-                "image_width": 740,
-                "image_height": 95
+                "image_width": 560,
+                "image_height": 77
             },
             {
                 "j": "先ず安全であるべきです。",
                 "e": "Safety comes first for toys.",
                 "id": 25,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/25.png",
-                "image_width": 973,
-                "image_height": 96
+                "image_width": 735,
+                "image_height": 77
             },
             {
                 "j": "何をすべきか、もう彼⼥の⼼は決まっていた。",
                 "e": "She had already decided in her heart what she should do.",
                 "id": 26,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/26.png",
-                "image_width": 1685,
-                "image_height": 95
+                "image_width": 1269,
+                "image_height": 77
             }
         ],
         "name": "べきだ",
@@ -380,7 +380,7 @@ d = [
         "image_height": 88
     },
     {
-        "meaning": "should not do~; must not do~",
+        "meaning": "should not~; must not~",
         "use": [
             "Verb (standard form) + (べきではない/べきではありません)",
             "する As す- + (べきではない/べきではありません)",
@@ -393,16 +393,16 @@ d = [
                 "e": "You shouldn't do such a thing.",
                 "id": 27,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/27.png",
-                "image_width": 1136,
-                "image_height": 89
+                "image_width": 858,
+                "image_height": 73
             },
             {
                 "j": "約束を破るべきではありません。",
                 "e": "You shouldn't break your promises.",
                 "id": 28,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/28.png",
-                "image_width": 1220,
-                "image_height": 95
+                "image_width": 920,
+                "image_height": 77
             }
         ],
         "name": "べきではない",
@@ -426,16 +426,16 @@ d = [
                 "e": "That's not particularly a bad thing.",
                 "id": 29,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/29.png",
-                "image_width": 1140,
-                "image_height": 94
+                "image_width": 860,
+                "image_height": 76
             },
             {
                 "j": "この仕事には別に期限はない。",
                 "e": "There is no time limit in particular for completing this job",
                 "id": 30,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/30.png",
-                "image_width": 1142,
-                "image_height": 96
+                "image_width": 862,
+                "image_height": 77
             }
         ],
         "name": "別に〜ない",
@@ -455,16 +455,16 @@ d = [
                 "e": "Today, it rained for the first time in 2 weeks.",
                 "id": 31,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/31.png",
-                "image_width": 1424,
-                "image_height": 95
+                "image_width": 1073,
+                "image_height": 77
             },
             {
                 "j": "⼀週間ぶりにようやく晴れてきた。",
                 "e": "For the first time in a week, it the sun finally came out.",
                 "id": 32,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/32.png",
-                "image_width": 1297,
-                "image_height": 95
+                "image_width": 978,
+                "image_height": 77
             }
         ],
         "name": "ぶりに",
@@ -475,7 +475,7 @@ d = [
     },
     {
         "pronunciation": "ちゅう",
-        "meaning": "currently; during; at some point; throughout; before the end of~",
+        "meaning": "currently; during; throughout; before the end of~",
         "use": [
             "Noun + 中 (read ちゅう or じゅう)"
         ],
@@ -485,16 +485,16 @@ d = [
                 "e": "I cried all night.",
                 "id": 33,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/33.png",
-                "image_width": 900,
-                "image_height": 95
+                "image_width": 680,
+                "image_height": 77
             },
             {
                 "j": "英語は世界中で話されています。",
                 "e": "English is spoken throughout the world.",
                 "id": 34,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/34.png",
-                "image_width": 1212,
-                "image_height": 95
+                "image_width": 914,
+                "image_height": 77
             }
         ],
         "name": "中",
@@ -517,24 +517,24 @@ d = [
                 "e": "Eat as much as you like.",
                 "id": 35,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/35.png",
-                "image_width": 982,
-                "image_height": 95
+                "image_width": 742,
+                "image_height": 77
             },
             {
                 "j": "できるだけ早く返事をいただけると助かります。",
                 "e": "I would appreciate it if you could reply to me as soon as possible.",
                 "id": 36,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/36.png",
-                "image_width": 1772,
-                "image_height": 95
+                "image_width": 1335,
+                "image_height": 77
             },
             {
                 "j": "静かなだけ静かにしましょう。",
                 "e": "Let's be as quiet as we can.",
                 "id": 37,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/37.png",
-                "image_width": 1137,
-                "image_height": 95
+                "image_width": 858,
+                "image_height": 77
             }
         ],
         "name": "だけ",
@@ -557,16 +557,16 @@ d = [
                 "e": "enjoyable for not only kids, but for adults as well.",
                 "id": 38,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/38.png",
-                "image_width": 1700,
-                "image_height": 95
+                "image_width": 1281,
+                "image_height": 77
             },
             {
                 "j": "⾁だけでなく野菜も⾷べなさいよ。",
                 "e": "Make sure to eat not just the meat, but the vegetables as well.",
                 "id": 39,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/39.png",
-                "image_width": 1300,
-                "image_height": 95
+                "image_width": 981,
+                "image_height": 77
             }
         ],
         "name": "だけでなく...(も)",
@@ -586,16 +586,16 @@ d = [
                 "e": "She's cute, but not my type.",
                 "id": 40,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/40.png",
-                "image_width": 1622,
-                "image_height": 95
+                "image_width": 1222,
+                "image_height": 77
             },
             {
                 "j": "⾵邪ひいちゃった。早く良くなるといいんだけど。",
                 "e": "I caught a cold, I hope I can recover quickly.",
                 "id": 41,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/41.png",
-                "image_width": 1858,
-                "image_height": 95
+                "image_width": 1399,
+                "image_height": 77
             }
         ],
         "name": "だけど",
@@ -605,7 +605,7 @@ d = [
         "image_height": 90
     },
     {
-        "meaning": "full of; covered with; a lot of (something undesirable)",
+        "meaning": "full of; covered with (something undesirable)",
         "use": [
             "Noun + だらけ"
         ],
@@ -615,16 +615,16 @@ d = [
                 "e": "Covered in mud.",
                 "id": 42,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/42.png",
-                "image_width": 342,
-                "image_height": 94
+                "image_width": 262,
+                "image_height": 77
             },
             {
                 "j": "今、不安だらけです。",
                 "e": "I'm super nervous right now.",
                 "id": 43,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/43.png",
-                "image_width": 814,
-                "image_height": 96
+                "image_width": 616,
+                "image_height": 77
             }
         ],
         "name": "だらけ",
@@ -647,16 +647,16 @@ d = [
                 "e": "I can't remember that person's name no matter how many times I hear it.",
                 "id": 44,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/44.png",
-                "image_width": 1776,
-                "image_height": 95
+                "image_width": 1337,
+                "image_height": 78
             },
             {
                 "j": "どんなに練習しても全然うまくならない。",
                 "e": "I'm not getting any better no matter how much I practice.",
                 "id": 45,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/45.png",
-                "image_width": 1536,
-                "image_height": 95
+                "image_width": 1157,
+                "image_height": 78
             }
         ],
         "name": "どんなに〜ても",
@@ -676,16 +676,16 @@ d = [
                 "e": "I really want to have my own house (to the point I'd do anything).",
                 "id": 46,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/46.png",
-                "image_width": 1296,
-                "image_height": 95
+                "image_width": 977,
+                "image_height": 77
             },
             {
                 "j": "どうしても⾞が動かなかった",
                 "e": "No matter what we tried the car wouldn't star.",
                 "id": 47,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/47.png",
-                "image_width": 1056,
-                "image_height": 95
+                "image_width": 797,
+                "image_height": 77
             }
         ],
         "name": "どうしても",
@@ -708,16 +708,16 @@ d = [
                 "e": "He pretended to not hear.",
                 "id": 48,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/48.png",
-                "image_width": 1062,
-                "image_height": 95
+                "image_width": 802,
+                "image_height": 77
             },
             {
                 "j": "宿題をし終わったふりをしてテレビを⾒ている。",
                 "e": "I am pretending that I finished my homework and watching TV.",
                 "id": 49,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/49.png",
-                "image_width": 1780,
-                "image_height": 95
+                "image_width": 1340,
+                "image_height": 77
             }
         ],
         "name": "ふりをする",
@@ -737,16 +737,16 @@ d = [
                 "e": "I met him in the street by chance.",
                 "id": 50,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/50.png",
-                "image_width": 822,
-                "image_height": 95
+                "image_width": 622,
+                "image_height": 77
             },
             {
                 "j": "財布がないのにふと気がついた。",
                 "e": "He suddenly realized he had lost his wallet.",
                 "id": 51,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/51.png",
-                "image_width": 1222,
-                "image_height": 95
+                "image_width": 922,
+                "image_height": 77
             }
         ],
         "name": "ふと",
@@ -756,7 +756,7 @@ d = [
         "image_height": 84
     },
     {
-        "meaning": "end to; tendency to; frequently; often~",
+        "meaning": "Tend to...; Frequently~; often~",
         "use": [
             "Noun + がち",
             "Verb (stem form) + がち"
@@ -768,16 +768,16 @@ d = [
                 "e": "I tend to make a lot of mistakes at work.",
                 "id": 52,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/52.png",
-                "image_width": 1134,
-                "image_height": 95
+                "image_width": 856,
+                "image_height": 77
             },
             {
                 "j": "学校をサボりがちです。",
                 "e": "always skipping school.",
                 "id": 53,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/53.png",
-                "image_width": 894,
-                "image_height": 95
+                "image_width": 676,
+                "image_height": 78
             }
         ],
         "name": "がち",
@@ -800,24 +800,24 @@ d = [
                 "e": "He is apt to forget people's names.",
                 "id": 54,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/54.png",
-                "image_width": 1221,
-                "image_height": 95
+                "image_width": 921,
+                "image_height": 78
             },
             {
                 "j": "⾵邪気味で、熱っぽいんだ。",
                 "e": "I feel like I'm catching a cold, and I'm a bit feverish.",
                 "id": 55,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/55.png",
-                "image_width": 1056,
-                "image_height": 96
+                "image_width": 798,
+                "image_height": 78
             },
             {
                 "j": "新⼊社員は緊張気味の顔をしています。",
                 "e": "The new employee looks a little bit nervous.",
                 "id": 56,
                 "image_path": "pkg:/images/grammar/N3Grammar/1/examples/56.png",
-                "image_width": 1452,
-                "image_height": 96
+                "image_width": 1094,
+                "image_height": 77
             }
         ],
         "name": "気味",
@@ -844,16 +844,16 @@ d = [
                 "e": "The buses run every 10 minutes.",
                 "id": 57,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/57.png",
-                "image_width": 1218,
-                "image_height": 94
+                "image_width": 919,
+                "image_height": 77
             },
             {
                 "j": "オリンピックは４年ごとに開催される。",
                 "e": "The Olympics are held every 4 years.",
                 "id": 58,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/58.png",
-                "image_width": 1462,
-                "image_height": 95
+                "image_width": 1102,
+                "image_height": 78
             }
         ],
         "name": "ごとに",
@@ -877,32 +877,32 @@ d = [
                 "e": "I'm so thirsty I could die..",
                 "id": 59,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/59.png",
-                "image_width": 1140,
-                "image_height": 95
+                "image_width": 860,
+                "image_height": 77
             },
             {
                 "j": "駅に近いほど家賃が⾼い。",
                 "e": "The closer to the station, the more expensive the rent.",
                 "id": 60,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/60.png",
-                "image_width": 982,
-                "image_height": 95
+                "image_width": 742,
+                "image_height": 77
             },
             {
                 "j": "君ほど美しい⼈はいません︕",
                 "e": "There is no one that rivals your beauty.",
                 "id": 61,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/61.png",
-                "image_width": 1060,
-                "image_height": 95
+                "image_width": 800,
+                "image_height": 77
             },
             {
                 "j": "今年ほど⾬の降った年はなかった。",
                 "e": "It rained more this year than any other year.",
                 "id": 62,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/62.png",
-                "image_width": 1302,
-                "image_height": 95
+                "image_width": 982,
+                "image_height": 78
             }
         ],
         "name": "ほど",
@@ -923,16 +923,16 @@ d = [
                 "e": "There's no one as kind as her.",
                 "id": 63,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/63.png",
-                "image_width": 1062,
-                "image_height": 96
+                "image_width": 802,
+                "image_height": 77
             },
             {
                 "j": "健康ほど⼤切なものはないと⾔われている。",
                 "e": "It is said that nothing is more important than health.",
                 "id": 64,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/64.png",
-                "image_width": 1616,
-                "image_height": 95
+                "image_width": 1217,
+                "image_height": 77
             }
         ],
         "name": "Xほど〜ない",
@@ -953,16 +953,16 @@ d = [
                 "e": "You can't do everything at once.",
                 "id": 65,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/65.png",
-                "image_width": 980,
-                "image_height": 96
+                "image_width": 741,
+                "image_height": 77
             },
             {
                 "j": "⼀度に３冊の本を借りることが出来ます。",
                 "e": "You can borrow three books at a time.",
                 "id": 66,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/66.png",
-                "image_width": 1534,
-                "image_height": 96
+                "image_width": 1156,
+                "image_height": 77
             }
         ],
         "name": "⼀度に",
@@ -986,16 +986,16 @@ d = [
                 "e": "No matter how cheap this is, I don't want to buy it.",
                 "id": 67,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/67.png",
-                "image_width": 1453,
-                "image_height": 96
+                "image_width": 1095,
+                "image_height": 77
             },
             {
                 "j": "いくら調べても分からなかった",
                 "e": "I could not understand no matter how much I studied",
                 "id": 68,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/68.png",
-                "image_width": 1135,
-                "image_height": 94
+                "image_width": 857,
+                "image_height": 76
             }
         ],
         "name": "いくら〜ても",
@@ -1017,16 +1017,16 @@ d = [
                 "e": "This town's population has been decreasing lately.",
                 "id": 69,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/69.png",
-                "image_width": 1060,
-                "image_height": 96
+                "image_width": 800,
+                "image_height": 77
             },
             {
                 "j": "成績は下がる⼀⽅だ。",
                 "e": "I never study and so my grades just keep dropping.",
                 "id": 70,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/70.png",
-                "image_width": 820,
-                "image_height": 95
+                "image_width": 620,
+                "image_height": 77
             }
         ],
         "name": "⼀⽅だ",
@@ -1048,16 +1048,16 @@ d = [
                 "e": "What exactly are you doing?",
                 "id": 71,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/71.png",
-                "image_width": 900,
-                "image_height": 95
+                "image_width": 680,
+                "image_height": 78
             },
             {
                 "j": "あの⼈は⼀体何の者だ︖",
                 "e": "Who in the world is that?",
                 "id": 72,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/72.png",
-                "image_width": 902,
-                "image_height": 95
+                "image_width": 682,
+                "image_height": 78
             }
         ],
         "name": "⼀体",
@@ -1078,24 +1078,24 @@ d = [
                 "e": "Tom will surely come as well?",
                 "id": 73,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/73.png",
-                "image_width": 982,
-                "image_height": 95
+                "image_width": 742,
+                "image_height": 78
             },
             {
                 "j": "ちょっと︕危ないじゃない。",
                 "e": "Be careful, that's dangerous!",
                 "id": 74,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/74.png",
-                "image_width": 1062,
-                "image_height": 96
+                "image_width": 802,
+                "image_height": 77
             },
             {
                 "j": "明⽇⾬が降るんじゃないかと⼼配だ。",
                 "e": "I'm worried it might rain tomorrow.",
                 "id": 75,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/75.png",
-                "image_width": 1380,
-                "image_height": 96
+                "image_width": 1040,
+                "image_height": 77
             }
         ],
         "name": "じゃない",
@@ -1116,16 +1116,16 @@ d = [
                 "e": "He must be sick or something.",
                 "id": 76,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/76.png",
-                "image_width": 892,
-                "image_height": 95
+                "image_width": 675,
+                "image_height": 77
             },
             {
                 "j": "私はアイスクリームか何か⾷べたいです。",
                 "e": "I want to eat ice cream or something.",
                 "id": 77,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/77.png",
-                "image_width": 1523,
-                "image_height": 95
+                "image_width": 1148,
+                "image_height": 77
             }
         ],
         "name": "か何か",
@@ -1145,16 +1145,16 @@ d = [
                 "e": "I haven't finished this book yet.",
                 "id": 78,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/78.png",
-                "image_width": 980,
-                "image_height": 95
+                "image_width": 740,
+                "image_height": 77
             },
             {
                 "j": "テーブルの上に⾷べかけのケーキが置いてある。",
                 "e": "The half-finished cake is put on the table.",
                 "id": 79,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/79.png",
-                "image_width": 1772,
-                "image_height": 96
+                "image_width": 1335,
+                "image_height": 78
             }
         ],
         "name": "かける",
@@ -1174,16 +1174,16 @@ d = [
                 "e": "How long does it take to get from Tokyo to Kyoto by bullet train?",
                 "id": 80,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/80.png",
-                "image_width": 2102,
-                "image_height": 96
+                "image_width": 1582,
+                "image_height": 78
             },
             {
                 "j": "午後から⼣⽅にかけて昼寝をした。",
                 "e": "I took a nap from morning until evening.",
                 "id": 81,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/81.png",
-                "image_width": 1302,
-                "image_height": 95
+                "image_width": 982,
+                "image_height": 77
             }
         ],
         "name": "から〜にかけて",
@@ -1207,24 +1207,24 @@ d = [
                 "e": "This morning, I drank tea instead of coffee.",
                 "id": 82,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/82.png",
-                "image_width": 1540,
-                "image_height": 95
+                "image_width": 1160,
+                "image_height": 77
             },
             {
                 "j": "お箸がないので、その代わりにフォークを使う。",
                 "e": "Since I do not have any chopsticks, I will use a fork instead",
                 "id": 83,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/83.png",
-                "image_width": 1774,
-                "image_height": 96
+                "image_width": 1336,
+                "image_height": 77
             },
             {
                 "j": "今⽇は仕事へ⾞で⾏く代わりに⾃転⾞で⾏った。",
                 "e": "Today, instead of going to work by car, I went by bicycle.",
                 "id": 84,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/84.png",
-                "image_width": 1782,
-                "image_height": 95
+                "image_width": 1342,
+                "image_height": 77
             }
         ],
         "name": "代わりに",
@@ -1248,24 +1248,24 @@ d = [
                 "e": "As a result of him skipping work, he was fired.",
                 "id": 85,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/85.png",
-                "image_width": 1620,
-                "image_height": 95
+                "image_width": 1220,
+                "image_height": 77
             },
             {
                 "j": "ほとんど勉強をしなかった。その結果、試験に落ちてしまった。",
                 "e": "I barely studied. As a result, I failed my exam.",
                 "id": 86,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/86.png",
-                "image_width": 2336,
-                "image_height": 96
+                "image_width": 1758,
+                "image_height": 78
             },
             {
                 "j": "これは君の努⼒の結果だと思います。",
                 "e": "I think this is a result of your hard effort.",
                 "id": 87,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/87.png",
-                "image_width": 1374,
-                "image_height": 96
+                "image_width": 1036,
+                "image_height": 77
             }
         ],
         "name": "結果",
@@ -1286,16 +1286,16 @@ d = [
                 "e": "He didn't buy it in the end.",
                 "id": 88,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/88.png",
-                "image_width": 1142,
-                "image_height": 95
+                "image_width": 862,
+                "image_height": 77
             },
             {
                 "j": "彼は働きすぎて、結局は病気になってしまった。",
                 "e": "He worked so hard that eventually he made himself ill.",
                 "id": 89,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/89.png",
-                "image_width": 1771,
-                "image_height": 96
+                "image_width": 1334,
+                "image_height": 77
             }
         ],
         "name": "結局",
@@ -1319,16 +1319,16 @@ d = [
                 "e": "I'll never give up on my dream.",
                 "id": 90,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/90.png",
-                "image_width": 1140,
-                "image_height": 95
+                "image_width": 860,
+                "image_height": 77
             },
             {
                 "j": "決してあなたは⼀⼈じゃありません。",
                 "e": "You are never alone.",
                 "id": 91,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/91.png",
-                "image_width": 1375,
-                "image_height": 95
+                "image_width": 1037,
+                "image_height": 77
             }
         ],
         "name": "決して〜ない",
@@ -1350,16 +1350,16 @@ d = [
                 "e": "He has more money than he can spend.",
                 "id": 92,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/92.png",
-                "image_width": 1222,
-                "image_height": 96
+                "image_width": 922,
+                "image_height": 77
             },
             {
                 "j": "数え切れないほどたくさん星が光っている。",
                 "e": "An uncountable number of stars are shinning (in the sky).",
                 "id": 93,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/93.png",
-                "image_width": 1618,
-                "image_height": 95
+                "image_width": 1219,
+                "image_height": 77
             }
         ],
         "name": "切れない",
@@ -1381,32 +1381,32 @@ d = [
                 "e": "I want to talk privately with you, just the two of us.",
                 "id": 94,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/94.png",
-                "image_width": 1132,
-                "image_height": 93
+                "image_width": 854,
+                "image_height": 76
             },
             {
                 "j": "彼⼥に会ったのは１回きりです。",
                 "e": "I've only met her one time.",
                 "id": 95,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/95.png",
-                "image_width": 1214,
-                "image_height": 95
+                "image_width": 916,
+                "image_height": 77
             },
             {
                 "j": "その男の⼈は、森に⼊ったきり、帰ってきませんでした。",
                 "e": "That man hasn't come back since he entered the woods.",
                 "id": 96,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/96.png",
-                "image_width": 2086,
-                "image_height": 95
+                "image_width": 1570,
+                "image_height": 77
             },
             {
                 "j": "⽇本語は5年前に話したきり、全然使っていないから忘れちゃった。",
                 "e": "I haven't spoke Japanese for 5 years, so I forgot it.",
                 "id": 97,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/97.png",
-                "image_width": 2456,
-                "image_height": 96
+                "image_width": 1848,
+                "image_height": 78
             }
         ],
         "name": "きり",
@@ -1428,16 +1428,16 @@ d = [
                 "e": "I spent all my pocket money.",
                 "id": 98,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/98.png",
-                "image_width": 1215,
-                "image_height": 96
+                "image_width": 917,
+                "image_height": 77
             },
             {
                 "j": "今⽇はもう⿂を全部売り切れた。。",
                 "e": "I've already sold all of the fish for today.",
                 "id": 99,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/99.png",
-                "image_width": 1300,
-                "image_height": 95
+                "image_width": 980,
+                "image_height": 77
             }
         ],
         "name": "切る",
@@ -1460,16 +1460,16 @@ d = [
                 "e": "When was your birthday again?",
                 "id": 100,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/100.png",
-                "image_width": 1302,
-                "image_height": 95
+                "image_width": 982,
+                "image_height": 78
             },
             {
                 "j": "誰だっけ︖",
                 "e": "Who were you again? (I can't seem to remember)",
                 "id": 101,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/101.png",
-                "image_width": 422,
-                "image_height": 95
+                "image_width": 322,
+                "image_height": 78
             }
         ],
         "name": "っけ",
@@ -1491,32 +1491,32 @@ d = [
                 "e": "Please write the necessary information on this paper.",
                 "id": 102,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/102.png",
-                "image_width": 1618,
-                "image_height": 96
+                "image_width": 1219,
+                "image_height": 77
             },
             {
                 "j": "あなたの⼝座にお⾦を振り込んだよ。",
                 "e": "I transferred the money to your account.",
                 "id": 103,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/103.png",
-                "image_width": 1382,
-                "image_height": 95
+                "image_width": 1042,
+                "image_height": 77
             },
             {
                 "j": "今⽇は１時間⾛り込んだ。",
                 "e": "Today I ran for 1 hour.",
                 "id": 104,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/104.png",
-                "image_width": 980,
-                "image_height": 95
+                "image_width": 740,
+                "image_height": 77
             },
             {
                 "j": "娘は勉強に打ち込んでいる。",
                 "e": "My daughter is completely dedicating herself to her studies.",
                 "id": 105,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/105.png",
-                "image_width": 1058,
-                "image_height": 96
+                "image_width": 799,
+                "image_height": 78
             }
         ],
         "name": "込む",
@@ -1526,7 +1526,7 @@ d = [
         "image_height": 93
     },
     {
-        "meaning": "for sure (emphasize preceding word); precisely; definitely",
+        "meaning": "emphasize preceding word; precisely; definitely",
         "use": [
             "Noun + こそ"
         ],
@@ -1536,16 +1536,16 @@ d = [
                 "e": "This is the very thing I want",
                 "id": 106,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/106.png",
-                "image_width": 974,
-                "image_height": 93
+                "image_width": 736,
+                "image_height": 75
             },
             {
                 "j": "こちらこそありがとうございます。",
                 "e": "It is I that should be saying thank you.",
                 "id": 107,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/107.png",
-                "image_width": 1294,
-                "image_height": 95
+                "image_width": 976,
+                "image_height": 77
             }
         ],
         "name": "こそ",
@@ -1567,23 +1567,23 @@ d = [
                 "e": "Don't speak with a loud voice.",
                 "id": 108,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/108.png",
-                "image_width": 822,
-                "image_height": 95
+                "image_width": 622,
+                "image_height": 78
             },
             {
                 "j": "学校の規則を守ること。",
                 "e": "You must follow school rules.",
                 "id": 109,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/109.png",
-                "image_width": 902,
-                "image_height": 95
+                "image_width": 682,
+                "image_height": 78
             }
         ],
-        "name": "こと",
+        "name": "こと(end of sentence)",
         "id": 47,
         "image_path": "pkg:/images/grammar/N3Grammar/2/names/47.png",
-        "image_width": 182,
-        "image_height": 84
+        "image_width": 789,
+        "image_height": 103
     },
     {
         "meaning": "from the fact that~ 'It follows'",
@@ -1599,24 +1599,24 @@ d = [
                 "e": "Considering the ground is wet, I know that it must have rained.",
                 "id": 110,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/110.png",
-                "image_width": 2260,
-                "image_height": 95
+                "image_width": 1700,
+                "image_height": 77
             },
             {
                 "j": "教室で席が隣だったことから友⼈になった。",
                 "e": "We became good friends from the fact that our seats were right next to each other in the classroom.",
                 "id": 111,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/111.png",
-                "image_width": 1622,
-                "image_height": 96
+                "image_width": 1222,
+                "image_height": 77
             },
             {
                 "j": "ガラスが割れていることから、どろぼうが家に⼊ったと分かりました。",
                 "e": "Because the glass was broken, I knew that a burglar had entered the house.",
                 "id": 112,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/112.png",
-                "image_width": 2578,
-                "image_height": 95
+                "image_width": 1939,
+                "image_height": 77
             }
         ],
         "name": "ことから",
@@ -1626,7 +1626,7 @@ d = [
         "image_height": 87
     },
     {
-        "meaning": "to be expected to; to be scheduled to; it has been decided as a rule that...",
+        "meaning": "to be expected to; to be scheduled to; It's a rule...",
         "use": [
             "Verb (dictionary form) + (ことになっている / ことになっています)",
             "Verb (ない form) + (ことになっている / ことになっています)",
@@ -1639,16 +1639,16 @@ d = [
                 "e": "In Japan, cars drive on the left side of the road.",
                 "id": 113,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/113.png",
-                "image_width": 1698,
-                "image_height": 95
+                "image_width": 1279,
+                "image_height": 77
             },
             {
-                "j": "授業中は、携帯電話を使ってはいけないことになっている。",
-                "e": "Cellphones are not allowed to be used during class.",
+                "j": "携帯電話を使ってはいけないことになっている。",
+                "e": "Cellphones cannot be used.",
                 "id": 114,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/114.png",
-                "image_width": 2172,
-                "image_height": 96
+                "image_width": 1335,
+                "image_height": 77
             }
         ],
         "name": "ことになっている",
@@ -1658,7 +1658,7 @@ d = [
         "image_height": 88
     },
     {
-        "meaning": "there is no need to...; (something) never happens; there is no possibility that~",
+        "meaning": "there is no need to...; there is no possibility that~",
         "use": [
             "Verb (dictionary form) + ことはない"
         ],
@@ -1669,24 +1669,24 @@ d = [
                 "e": "There is no need for you to apologize",
                 "id": 115,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/115.png",
-                "image_width": 740,
-                "image_height": 95
+                "image_width": 561,
+                "image_height": 77
             },
             {
                 "j": "何も怖がることはない。",
                 "e": "You have nothing to fear.",
                 "id": 116,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/116.png",
-                "image_width": 902,
-                "image_height": 95
+                "image_width": 682,
+                "image_height": 77
             },
             {
                 "j": "⾃分を責めることはない。",
                 "e": "There's no need to blame yourself.",
                 "id": 117,
                 "image_path": "pkg:/images/grammar/N3Grammar/2/examples/117.png",
-                "image_width": 982,
-                "image_height": 95
+                "image_width": 742,
+                "image_height": 77
             }
         ],
         "name": "ことはない",
@@ -1714,16 +1714,16 @@ d = [
                 "e": "This medicine works, but I feel sleepy when I take it.",
                 "id": 118,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/118.png",
-                "image_width": 2012,
-                "image_height": 95
+                "image_width": 1514,
+                "image_height": 77
             },
             {
-                "j": "N3の勉強をしたことはしたが、合格できるか⾃信がない。。",
+                "j": "N3の勉強をしたことはしたが、合格できるか⾃信がない。",
                 "e": "Although I studied for the JLPT N3, I don't have confidence I can pass.",
                 "id": 119,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/119.png",
-                "image_width": 2196,
-                "image_height": 96
+                "image_width": 1593,
+                "image_height": 78
             }
         ],
         "name": "ことは〜が",
@@ -1747,32 +1747,32 @@ d = [
                 "e": "(About) how long have you been living in Japan?",
                 "id": 120,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/120.png",
-                "image_width": 1298,
-                "image_height": 95
+                "image_width": 979,
+                "image_height": 78
             },
             {
                 "j": "家から駅まで⾃転⾞で20分ぐらいかかります。",
                 "e": "It takes about 20 minutes from my house to the station by bicycle.",
                 "id": 121,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/121.png",
-                "image_width": 1697,
-                "image_height": 95
+                "image_width": 1279,
+                "image_height": 77
             },
             {
                 "j": "試験が難しくて、泣きたいくらいだ。",
                 "e": "The test was so difficult, I felt like I wanted to cry.",
                 "id": 122,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/122.png",
-                "image_width": 1373,
-                "image_height": 95
+                "image_width": 1035,
+                "image_height": 77
             },
             {
                 "j": "こんな簡単なことくらい、誰でもできる。",
                 "e": "This task is so simple (low level), anybody could do it.",
                 "id": 123,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/123.png",
-                "image_width": 1535,
-                "image_height": 95
+                "image_width": 1157,
+                "image_height": 77
             }
         ],
         "name": "くらい・ぐらい",
@@ -1796,24 +1796,24 @@ d = [
                 "e": "You aren't even a doctor (so don't act like you are one).",
                 "id": 124,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/124.png",
-                "image_width": 822,
-                "image_height": 95
+                "image_width": 622,
+                "image_height": 77
             },
             {
                 "j": "彼⼥はお⾦持ちのくせにケチだ。",
                 "e": "Although she is rich, she is very frugal with her money.",
                 "id": 125,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/125.png",
-                "image_width": 1220,
-                "image_height": 95
+                "image_width": 920,
+                "image_height": 77
             },
             {
                 "j": "元気なくせに、病気のふりをしている。",
                 "e": "Despite being tall, he cannot run fast.",
                 "id": 126,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/126.png",
-                "image_width": 1457,
-                "image_height": 95
+                "image_width": 1098,
+                "image_height": 77
             }
         ],
         "name": "くせに",
@@ -1834,24 +1834,24 @@ d = [
                 "e": "It's like a dream!",
                 "id": 127,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/127.png",
-                "image_width": 740,
-                "image_height": 95
+                "image_width": 560,
+                "image_height": 77
             },
             {
                 "j": "まるで魔法のようだ︕",
                 "e": "It's just like magic!",
                 "id": 128,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/128.png",
-                "image_width": 822,
-                "image_height": 95
+                "image_width": 622,
+                "image_height": 77
             },
             {
                 "j": "最近できたロボットは、まるで本物の⼈間のように動きます。",
                 "e": "Recently made robots move just like real humans.",
                 "id": 129,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/129.png",
-                "image_width": 2254,
-                "image_height": 95
+                "image_width": 1696,
+                "image_height": 77
             }
         ],
         "name": "まるで",
@@ -1871,16 +1871,16 @@ d = [
                 "e": "That's the last thing I expected.",
                 "id": 130,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/130.png",
-                "image_width": 1302,
-                "image_height": 89
+                "image_width": 982,
+                "image_height": 73
             },
             {
                 "j": "僕はまさかそんなことはできないよ。",
                 "e": "I could never do such a thing.",
                 "id": 131,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/131.png",
-                "image_width": 1380,
-                "image_height": 95
+                "image_width": 1041,
+                "image_height": 77
             }
         ],
         "name": "まさか",
@@ -1904,16 +1904,16 @@ d = [
                 "e": "If there are people who like to read books, there will also be people who dislike it.",
                 "id": 132,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/132.png",
-                "image_width": 1931,
-                "image_height": 95
+                "image_width": 1454,
+                "image_height": 77
             },
             {
                 "j": "学⽣の態度もわるければ教師の態度もわるい。",
                 "e": "If the student's attitude is bad, then the teacher's attitude will also be bad.",
                 "id": 133,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/133.png",
-                "image_width": 1702,
-                "image_height": 96
+                "image_width": 1282,
+                "image_height": 78
             }
         ],
         "name": "めったに〜ない",
@@ -1934,16 +1934,16 @@ d = [
                 "e": "I might not be able to come tomorrow.",
                 "id": 134,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/134.png",
-                "image_width": 1622,
-                "image_height": 96
+                "image_width": 1222,
+                "image_height": 77
             },
             {
                 "j": "もしかしたら病気かもしれない",
                 "e": "I might be sick.",
                 "id": 135,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/135.png",
-                "image_width": 1142,
-                "image_height": 95
+                "image_width": 862,
+                "image_height": 77
             }
         ],
         "name": "もしかしたら",
@@ -1963,24 +1963,24 @@ d = [
                 "e": "If it's sunny tomorrow, let's go out for a picnic.",
                 "id": 136,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/136.png",
-                "image_width": 1857,
-                "image_height": 96
+                "image_width": 1398,
+                "image_height": 77
             },
             {
                 "j": "もしも⽇本に⾏けたら、⼤阪の友達に会いたいです。",
                 "e": "If I could go to Japan, I would like to meet my friends in Osaka.",
                 "id": 137,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/137.png",
-                "image_width": 1932,
-                "image_height": 95
+                "image_width": 1454,
+                "image_height": 77
             },
             {
                 "j": "もしも試験を受けたら、合格したいです。",
                 "e": "In the case that I take the exam, I would like to pass.",
                 "id": 138,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/138.png",
-                "image_width": 1532,
-                "image_height": 95
+                "image_width": 1154,
+                "image_height": 77
             }
         ],
         "name": "もしも〜たら",
@@ -2001,16 +2001,16 @@ d = [
                 "e": "Do you have a course for beginners?",
                 "id": 139,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/139.png",
-                "image_width": 1296,
-                "image_height": 95
+                "image_width": 978,
+                "image_height": 78
             },
             {
                 "j": "この映画は⼦供向けなので、⼤⼈は⾒てもつまらない。",
                 "e": "That movie is targeted for children, so it will be boring for adults who watch it.",
                 "id": 140,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/140.png",
-                "image_width": 2012,
-                "image_height": 95
+                "image_width": 1514,
+                "image_height": 78
             }
         ],
         "name": "向け",
@@ -2031,16 +2031,16 @@ d = [
                 "e": "This book is suitable for beginners.",
                 "id": 141,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/141.png",
-                "image_width": 1061,
-                "image_height": 95
+                "image_width": 801,
+                "image_height": 78
             },
             {
                 "j": "その映画は⼦供向きだ。",
                 "e": "This movie is suitable for children.",
                 "id": 142,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/142.png",
-                "image_width": 900,
-                "image_height": 95
+                "image_width": 680,
+                "image_height": 78
             }
         ],
         "name": "向き",
@@ -2060,16 +2060,16 @@ d = [
                 "e": "I would rather go alone.",
                 "id": 143,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/143.png",
-                "image_width": 1062,
-                "image_height": 95
+                "image_width": 802,
+                "image_height": 77
             },
             {
                 "j": "私はむしろ電⾞で⾏くだろう。",
                 "e": "I would likely rather go by train.",
                 "id": 144,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/144.png",
-                "image_width": 1132,
-                "image_height": 95
+                "image_width": 855,
+                "image_height": 77
             }
         ],
         "name": "むしろ",
@@ -2094,32 +2094,32 @@ d = [
                 "e": "Despite it being small, I love this apartment.",
                 "id": 145,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/145.png",
-                "image_width": 1617,
-                "image_height": 95
+                "image_width": 1218,
+                "image_height": 77
             },
             {
                 "j": "残念ながらも、今⽇のイベントに⾏けません。s",
                 "e": "Unfortunately, I will not be able to go to today's event.",
                 "id": 146,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/146.png",
-                "image_width": 1732,
-                "image_height": 96
+                "image_width": 1305,
+                "image_height": 78
             },
             {
                 "j": "彼⼥はダイエットすると⾔っていながらも、今⽇もアイスを⾷べている。",
                 "e": "She says she's going to diet, but she's eating ice cream again today.",
                 "id": 147,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/147.png",
-                "image_width": 2645,
-                "image_height": 95
+                "image_width": 1989,
+                "image_height": 77
             },
             {
                 "j": "悪いことだと知っていながら、彼⼥は平気で嘘をつく。",
                 "e": "Despite knowing what she's doing is wrong, she just plain lied about it.",
                 "id": 148,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/148.png",
-                "image_width": 2018,
-                "image_height": 95
+                "image_width": 1519,
+                "image_height": 77
             }
         ],
         "name": "ながらも",
@@ -2143,24 +2143,24 @@ d = [
                 "e": "We can still make it if we run. Let's hurry up!",
                 "id": 149,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/149.png",
-                "image_width": 1620,
-                "image_height": 95
+                "image_width": 1221,
+                "image_height": 77
             },
             {
                 "j": "できないこともないですけど、少し時間をいただきたいです。",
                 "e": "It's not that I can't do it, but I would like to have some more time.",
                 "id": 150,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/150.png",
-                "image_width": 2245,
-                "image_height": 95
+                "image_width": 1689,
+                "image_height": 77
             },
             {
                 "j": "私も留学したことがありますから、あなたの苦労が分からないことはありません。",
                 "e": "I have studied abroad so I can understand what you're going through.",
                 "id": 151,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/151.png",
-                "image_width": 2980,
-                "image_height": 95
+                "image_width": 2240,
+                "image_height": 78
             }
         ],
         "name": "ないことはない",
@@ -2184,32 +2184,32 @@ d = [
                 "e": "I have to go now...",
                 "id": 152,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/152.png",
-                "image_width": 635,
-                "image_height": 95
+                "image_width": 482,
+                "image_height": 77
             },
             {
                 "j": "宿題をやらないと。",
                 "e": "I have to do my homework.",
                 "id": 153,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/153.png",
-                "image_width": 742,
-                "image_height": 95
+                "image_width": 562,
+                "image_height": 77
             },
             {
                 "j": "早く寝ないと、明⽇起きられないよ。",
                 "e": "If you don't go to bed early, you won't be able to get up tomorrow.",
                 "id": 154,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/154.png",
-                "image_width": 1377,
-                "image_height": 96
+                "image_width": 1038,
+                "image_height": 77
             },
             {
                 "j": "この機会を取らないと他⼈に取られますよ。",
                 "e": "If you don't seize this opportunity, it will be taken by someone else.",
                 "id": 155,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/155.png",
-                "image_width": 1622,
-                "image_height": 95
+                "image_width": 1222,
+                "image_height": 77
             }
         ],
         "name": "ないと",
@@ -2232,24 +2232,24 @@ d = [
                 "e": "That sounds quite interesting.",
                 "id": 156,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/156.png",
-                "image_width": 894,
-                "image_height": 95
+                "image_width": 676,
+                "image_height": 78
             },
             {
                 "j": "⾞のエンジンがなかなかかからない。",
                 "e": "I can't seem to get the car to start.",
                 "id": 157,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/157.png",
-                "image_width": 1382,
-                "image_height": 95
+                "image_width": 1042,
+                "image_height": 77
             },
             {
                 "j": "もう来るはずなんですが、なかなかバスが来ませんね。",
                 "e": "It should have arrived already, but the bus doesn't seem to be coming.",
                 "id": 158,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/158.png",
-                "image_width": 2012,
-                "image_height": 95
+                "image_width": 1514,
+                "image_height": 77
             }
         ],
         "name": "なかなか",
@@ -2272,24 +2272,24 @@ d = [
                 "e": "Exams are close and I don't have time to do things like watch TV. (give example)",
                 "id": 159,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/159.png",
-                "image_width": 1702,
-                "image_height": 95
+                "image_width": 1282,
+                "image_height": 77
             },
             {
                 "j": "彼は私なんかよりすごい⼈だよ。",
                 "e": "He is a much better man than I am. (modesty)",
                 "id": 160,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/160.png",
-                "image_width": 1216,
-                "image_height": 95
+                "image_width": 918,
+                "image_height": 77
             },
             {
                 "j": "お前の話なんか誰が信じるもんか。",
                 "e": "Who's going to believe you're story? (belittling)",
                 "id": 161,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/161.png",
-                "image_width": 1300,
-                "image_height": 95
+                "image_width": 981,
+                "image_height": 78
             }
         ],
         "name": "なんか・なんて・など",
@@ -2311,16 +2311,16 @@ d = [
                 "e": "This essay has a lot of mistakes, so you should do a rewrite.",
                 "id": 162,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/162.png",
-                "image_width": 2020,
-                "image_height": 95
+                "image_width": 1521,
+                "image_height": 77
             },
             {
                 "j": "彼に電話を掛け直すようにお願いしてもらえますか。",
                 "e": "Could you ask him to call me back?",
                 "id": 163,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/163.png",
-                "image_width": 1934,
-                "image_height": 95
+                "image_width": 1456,
+                "image_height": 77
             }
         ],
         "name": "直す",
@@ -2340,16 +2340,16 @@ d = [
                 "e": "You should exercise as much as possible.",
                 "id": 164,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/164.png",
-                "image_width": 968,
-                "image_height": 94
+                "image_width": 732,
+                "image_height": 77
             },
             {
                 "j": "ミーティングは、なるべく早い時間に初めてもらいたいです。",
                 "e": "I'd like to start the meeting as early as possible.",
                 "id": 165,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/165.png",
-                "image_width": 2243,
-                "image_height": 95
+                "image_width": 1688,
+                "image_height": 77
             }
         ],
         "name": "なるべく",
@@ -2370,16 +2370,16 @@ d = [
                 "e": "The reason is because he was sick.",
                 "id": 166,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/166.png",
-                "image_width": 1292,
-                "image_height": 95
+                "image_width": 974,
+                "image_height": 77
             },
             {
                 "j": "買いたいけど買えません。なぜならばお⾦がないからです。",
                 "e": "I want to buy it, but I cannot, because I have no money.",
                 "id": 167,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/167.png",
-                "image_width": 2169,
-                "image_height": 95
+                "image_width": 1632,
+                "image_height": 77
             }
         ],
         "name": "なぜなら",
@@ -2403,16 +2403,16 @@ d = [
                 "e": "I heard he got a girlfriend.",
                 "id": 168,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/168.png",
-                "image_width": 1056,
-                "image_height": 95
+                "image_width": 797,
+                "image_height": 77
             },
             {
                 "j": "この店のカレー、美味しいんだって。",
                 "e": "I heard that this restaurant has good curry.",
                 "id": 169,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/169.png",
-                "image_width": 1375,
-                "image_height": 95
+                "image_width": 1037,
+                "image_height": 77
             }
         ],
         "name": "んだって",
@@ -2436,16 +2436,16 @@ d = [
                 "e": "I bet that hurts.",
                 "id": 170,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/170.png",
-                "image_width": 902,
-                "image_height": 95
+                "image_width": 682,
+                "image_height": 77
             },
             {
                 "j": "彼⼥は⽇本に１０年も住んでいたから、⽇本語が上⼿に話せるに違いない。",
                 "e": "She has been living in Japan for 10 years so she surely speaks Japanese well.",
                 "id": 171,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/171.png",
-                "image_width": 2738,
-                "image_height": 95
+                "image_width": 2059,
+                "image_height": 78
             }
         ],
         "name": "に違いない",
@@ -2466,16 +2466,16 @@ d = [
                 "e": "Contrary to my expectations, the test was quite simple.",
                 "id": 172,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/172.png",
-                "image_width": 1529,
-                "image_height": 95
+                "image_width": 1152,
+                "image_height": 77
             },
             {
                 "j": "彼の話は事実に反する。",
                 "e": "What he has said is contrary to the facts.",
                 "id": 173,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/173.png",
-                "image_width": 902,
-                "image_height": 95
+                "image_width": 682,
+                "image_height": 77
             }
         ],
         "name": "に反して",
@@ -2496,8 +2496,8 @@ d = [
                 "e": "There is no one who can beat him in tennis.",
                 "id": 174,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/174.png",
-                "image_width": 1620,
-                "image_height": 95
+                "image_width": 1221,
+                "image_height": 77
             }
         ],
         "name": "にかけて",
@@ -2519,16 +2519,16 @@ d = [
                 "e": "I have no complaints regarding my salary.",
                 "id": 175,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/175.png",
-                "image_width": 1058,
-                "image_height": 95
+                "image_width": 799,
+                "image_height": 77
             },
             {
                 "j": "⽇本語の中級⽂法に関する本を探しているんです",
                 "e": "I'm searching for a book on intermediate Japanese grammar",
                 "id": 176,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/176.png",
-                "image_width": 1776,
-                "image_height": 95
+                "image_width": 1337,
+                "image_height": 77
             }
         ],
         "name": "に関する / に関して",
@@ -2550,16 +2550,16 @@ d = [
                 "e": "My little brother made dinner instead of my mom.",
                 "id": 177,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/177.png",
-                "image_width": 1298,
-                "image_height": 95
+                "image_width": 979,
+                "image_height": 77
             },
             {
                 "j": "DVDにかわり、ブルーレイが使われるようになった。",
                 "e": "Bluray is starting to be used now instead of DVDs.",
                 "id": 178,
                 "image_path": "pkg:/images/grammar/N3Grammar/3/examples/178.png",
-                "image_width": 1922,
-                "image_height": 97
+                "image_width": 1447,
+                "image_height": 78
             }
         ],
         "name": "にかわって / にかわり",
@@ -2590,16 +2590,16 @@ d = [
                 "e": "It's a bit cold today compared to yesterday.",
                 "id": 179,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/179.png",
-                "image_width": 1295,
-                "image_height": 95
+                "image_width": 977,
+                "image_height": 77
             },
             {
                 "j": "⽇本はアメリカや中国に⽐べれば⼩さな国です。",
                 "e": "Compared with America or China, Japan is a small country.",
                 "id": 180,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/180.png",
-                "image_width": 1770,
-                "image_height": 95
+                "image_width": 1333,
+                "image_height": 77
             }
         ],
         "name": "に⽐べて",
@@ -2621,16 +2621,16 @@ d = [
                 "e": "I am not used to getting up early.",
                 "id": 181,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/181.png",
-                "image_width": 1300,
-                "image_height": 95
+                "image_width": 980,
+                "image_height": 77
             },
             {
                 "j": "彼は⼀⼈暮らしに慣れている。",
                 "e": "He is used to living alone.",
                 "id": 182,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/182.png",
-                "image_width": 1140,
-                "image_height": 95
+                "image_width": 860,
+                "image_height": 77
             }
         ],
         "name": "に慣れる",
@@ -2652,16 +2652,16 @@ d = [
                 "e": "I do my best with everything.",
                 "id": 183,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/183.png",
-                "image_width": 1132,
-                "image_height": 96
+                "image_width": 854,
+                "image_height": 77
             },
             {
                 "j": "だいたいにおいて春に⾬がよく降る。",
                 "e": "It generally rains a lot in Spring.",
                 "id": 184,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/184.png",
-                "image_width": 1376,
-                "image_height": 95
+                "image_width": 1037,
+                "image_height": 77
             }
         ],
         "name": "において / における",
@@ -2682,16 +2682,16 @@ d = [
                 "e": "It began to get colder as it got darker.",
                 "id": 185,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/185.png",
-                "image_width": 2008,
-                "image_height": 95
+                "image_width": 1511,
+                "image_height": 77
             },
             {
                 "j": "⽇本での⽣活に慣れるにしたがって⽇本⼈の友達が増えた。",
                 "e": "As I got used to life in Japan, my number of Japanese friends increased.",
                 "id": 186,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/186.png",
-                "image_width": 2178,
-                "image_height": 95
+                "image_width": 1639,
+                "image_height": 77
             }
         ],
         "name": "にしたがって",
@@ -2714,24 +2714,24 @@ d = [
                 "e": "Regardless, Japan is a great country!",
                 "id": 187,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/187.png",
-                "image_width": 1373,
-                "image_height": 95
+                "image_width": 1035,
+                "image_height": 77
             },
             {
                 "j": "今回の試験は合格したにしても、点数はあまりよくないと思う。",
                 "e": "Even if I pass this test, I don't think I'll have a high score.",
                 "id": 188,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/188.png",
-                "image_width": 2328,
-                "image_height": 95
+                "image_width": 1752,
+                "image_height": 77
             },
             {
                 "j": "どちらにしても賛成できない。",
                 "e": "In either case I cannot agree.",
                 "id": 189,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/189.png",
-                "image_width": 1136,
-                "image_height": 95
+                "image_width": 857,
+                "image_height": 77
             }
         ],
         "name": "にしても",
@@ -2752,24 +2752,24 @@ d = [
                 "e": "It's a bit hot for April.",
                 "id": 190,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/190.png",
-                "image_width": 1456,
-                "image_height": 95
+                "image_width": 1097,
+                "image_height": 77
             },
             {
                 "j": "外国⼈にしては⽇本語が上⼿だ。",
                 "e": "For a foreigner, his Japanese is very good.",
                 "id": 191,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/191.png",
-                "image_width": 1216,
-                "image_height": 95
+                "image_width": 917,
+                "image_height": 77
             },
             {
                 "j": "彼は勉強しなかったにしては、いい点が取れた。",
                 "e": "For someone who didn't do their homework, he still managed to get a decent score.",
                 "id": 192,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/192.png",
-                "image_width": 1778,
-                "image_height": 96
+                "image_width": 1339,
+                "image_height": 78
             }
         ],
         "name": "にしては",
@@ -2790,16 +2790,16 @@ d = [
                 "e": "My teacher is strict with boys but gentle with girls.",
                 "id": 193,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/193.png",
-                "image_width": 2334,
-                "image_height": 96
+                "image_width": 1756,
+                "image_height": 77
             },
             {
                 "j": "⼦供に対して短気を起こしてはいけない。",
                 "e": "You shouldn't be impatient with children.",
                 "id": 194,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/194.png",
-                "image_width": 1536,
-                "image_height": 95
+                "image_width": 1157,
+                "image_height": 77
             }
         ],
         "name": "に対して",
@@ -2820,8 +2820,8 @@ d = [
                 "e": "For me, the most important thing is family.",
                 "id": 195,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/195.png",
-                "image_width": 1444,
-                "image_height": 95
+                "image_width": 1088,
+                "image_height": 77
             }
         ],
         "name": "にとって",
@@ -2841,16 +2841,16 @@ d = [
                 "e": "What do you think about this problem?",
                 "id": 196,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/196.png",
-                "image_width": 1298,
-                "image_height": 92
+                "image_width": 979,
+                "image_height": 75
             },
             {
                 "j": "あなたの国についていろいろと教えてください。",
                 "e": "Please tell me more about your country.",
                 "id": 197,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/197.png",
-                "image_width": 1773,
-                "image_height": 95
+                "image_width": 1335,
+                "image_height": 77
             }
         ],
         "name": "について",
@@ -2872,16 +2872,16 @@ d = [
                 "e": "As the typhoon came closer, the wind gradually got stronger.",
                 "id": 198,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/198.png",
-                "image_width": 2007,
-                "image_height": 96
+                "image_width": 1511,
+                "image_height": 78
             },
             {
                 "j": "時がたつにつれて、愛が深くなる。",
                 "e": "Love grows with time.",
                 "id": 199,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/199.png",
-                "image_width": 1296,
-                "image_height": 95
+                "image_width": 977,
+                "image_height": 77
             }
         ],
         "name": "につれて",
@@ -2901,16 +2901,16 @@ d = [
                 "e": "What should I do to improve my Japanese?",
                 "id": 200,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/200.png",
-                "image_width": 1858,
-                "image_height": 95
+                "image_width": 1399,
+                "image_height": 77
             },
             {
                 "j": "その建物が完成するにはあと1年間ぐらいかかる。",
                 "e": "It will take about another year to complete that building.",
                 "id": 201,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/201.png",
-                "image_width": 1824,
-                "image_height": 95
+                "image_width": 1373,
+                "image_height": 78
             }
         ],
         "name": "には",
@@ -2930,16 +2930,16 @@ d = [
                 "e": "According to the weather report, tomorrow it looks like it will rain.",
                 "id": 202,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/202.png",
-                "image_width": 1528,
-                "image_height": 96
+                "image_width": 1152,
+                "image_height": 77
             },
             {
                 "j": "ニュースによれば、近頃物価が上がるそうです。",
                 "e": "According to the news, prices are expected to rise in the near future.",
                 "id": 203,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/203.png",
-                "image_width": 1770,
-                "image_height": 95
+                "image_width": 1333,
+                "image_height": 77
             }
         ],
         "name": "によると /によれば",
@@ -2959,32 +2959,32 @@ d = [
                 "e": "Customs differ by country.",
                 "id": 204,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/204.png",
-                "image_width": 891,
-                "image_height": 95
+                "image_width": 674,
+                "image_height": 77
             },
             {
                 "j": "⼈によって考え⽅が違う。",
                 "e": "Everyone has a different way of thinking.",
                 "id": 205,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/205.png",
-                "image_width": 971,
-                "image_height": 95
+                "image_width": 734,
+                "image_height": 77
             },
             {
                 "j": "増税により、⽣活は苦しくなる⼀⽅だ。",
                 "e": "Tax increases are making life harder.",
                 "id": 206,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/206.png",
-                "image_width": 1455,
-                "image_height": 95
+                "image_width": 1097,
+                "image_height": 77
             },
             {
                 "j": "関東地⽅にかけて台⾵から北海道による被害が広がっています。",
                 "e": "Typhoon damage has spread from the Kanto region to Hokkaido.",
                 "id": 207,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/207.png",
-                "image_width": 2328,
-                "image_height": 96
+                "image_width": 1751,
+                "image_height": 77
             }
         ],
         "name": "によって / による",
@@ -3007,24 +3007,24 @@ d = [
                 "e": "I wonder if it will be clear tomorrow.",
                 "id": 208,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/208.png",
-                "image_width": 1060,
-                "image_height": 96
+                "image_width": 801,
+                "image_height": 77
             },
             {
                 "j": "彼らはそれをどうするつもりなのでしょうか。",
                 "e": "What do they plan on doing with that?",
                 "id": 209,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/209.png",
-                "image_width": 1697,
-                "image_height": 95
+                "image_width": 1278,
+                "image_height": 77
             },
             {
                 "j": "すみません、これは正しい⾦額なのでしょうか︖",
                 "e": "Sorry, Is this the correct amount of money?",
                 "id": 210,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/210.png",
-                "image_width": 1780,
-                "image_height": 95
+                "image_width": 1340,
+                "image_height": 78
             }
         ],
         "name": "のでしょうか",
@@ -3048,16 +3048,16 @@ d = [
                 "e": "To study Japanese with a focus on grammar.",
                 "id": 211,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/211.png",
-                "image_width": 1300,
-                "image_height": 96
+                "image_width": 980,
+                "image_height": 78
             },
             {
                 "j": "その物語は彼⼥の⼀⽣を中⼼にして書かれている。",
                 "e": "That story is written around her life story.",
                 "id": 212,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/212.png",
-                "image_width": 1857,
-                "image_height": 95
+                "image_width": 1398,
+                "image_height": 77
             }
         ],
         "name": "を中⼼に",
@@ -3079,16 +3079,16 @@ d = [
                 "e": "There are many interesting Japanese anime, like Dragon Ball and so on.",
                 "id": 213,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/213.png",
-                "image_width": 2260,
-                "image_height": 96
+                "image_width": 1701,
+                "image_height": 78
             },
             {
                 "j": "会議には中国をはじめ、アジアの国々が参加した。",
                 "e": "China and other Asian countries participated in the conference.",
                 "id": 214,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/214.png",
-                "image_width": 1859,
-                "image_height": 96
+                "image_width": 1400,
+                "image_height": 77
             }
         ],
         "name": "をはじめ",
@@ -3110,8 +3110,8 @@ d = [
                 "e": "I wrote her a letter full of my love.",
                 "id": 215,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/215.png",
-                "image_width": 1382,
-                "image_height": 96
+                "image_width": 1042,
+                "image_height": 77
             }
         ],
         "name": "を込めて",
@@ -3134,16 +3134,16 @@ d = [
                 "e": "I learned that from a newspaper.",
                 "id": 216,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/216.png",
-                "image_width": 1222,
-                "image_height": 96
+                "image_width": 922,
+                "image_height": 77
             },
             {
                 "j": "⼤学の四年間を通して、経営とは何かということを学んだ。",
                 "e": "Through my 4 years at university I studied management.",
                 "id": 217,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/217.png",
-                "image_width": 2173,
-                "image_height": 95
+                "image_width": 1635,
+                "image_height": 78
             }
         ],
         "name": "を通じて /を通して",
@@ -3167,16 +3167,16 @@ d = [
                 "e": "Thanks to her, I am happy everyday.",
                 "id": 218,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/218.png",
-                "image_width": 1296,
-                "image_height": 95
+                "image_width": 978,
+                "image_height": 78
             },
             {
                 "j": "⽇本へ来たおかげで、⽇本語が上⼿になりました。",
                 "e": "I was able to improve my Japanese because I came to Japan.",
                 "id": 219,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/219.png",
-                "image_width": 1859,
-                "image_height": 95
+                "image_width": 1400,
+                "image_height": 77
             }
         ],
         "name": "おかげで",
@@ -3199,16 +3199,16 @@ d = [
                 "e": "I don't like oily foods.",
                 "id": 220,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/220.png",
-                "image_width": 1142,
-                "image_height": 96
+                "image_width": 862,
+                "image_height": 78
             },
             {
                 "j": "年を取ると、忘れっぽくなる。",
                 "e": "He is hot-tempered but he is a good friend.",
                 "id": 221,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/221.png",
-                "image_width": 1139,
-                "image_height": 96
+                "image_width": 860,
+                "image_height": 78
             }
         ],
         "name": "っぽい",
@@ -3229,16 +3229,16 @@ d = [
                 "e": "Even children know that.",
                 "id": 222,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/222.png",
-                "image_width": 1375,
-                "image_height": 95
+                "image_width": 1037,
+                "image_height": 77
             },
             {
                 "j": "のどが痛くて、⽔さえ飲めない。",
                 "e": "My throat hurts so much I can't even drink water.",
                 "id": 223,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/223.png",
-                "image_width": 1216,
-                "image_height": 95
+                "image_width": 917,
+                "image_height": 77
             }
         ],
         "name": "さえ",
@@ -3261,16 +3261,16 @@ d = [
                 "e": "I'm happy as long as I have money.",
                 "id": 224,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/224.png",
-                "image_width": 974,
-                "image_height": 95
+                "image_width": 736,
+                "image_height": 78
             },
             {
                 "j": "君さえいれば、私は幸せだ。",
                 "e": "As long as you are here I am happy.",
                 "id": 225,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/225.png",
-                "image_width": 1060,
-                "image_height": 95
+                "image_width": 800,
+                "image_height": 78
             }
         ],
         "name": "さえ〜ば",
@@ -3295,24 +3295,24 @@ d = [
                 "e": "Please contact me if you come to Japan.",
                 "id": 226,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/226.png",
-                "image_width": 1542,
-                "image_height": 95
+                "image_width": 1162,
+                "image_height": 77
             },
             {
                 "j": "お帰りの際には忘れ物のないようご注意ください。",
                 "e": "Please don't leave anything behind when you go home.",
                 "id": 227,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/227.png",
-                "image_width": 1860,
-                "image_height": 95
+                "image_width": 1401,
+                "image_height": 77
             },
             {
                 "j": "会を申し込む際、何が必要でしょうか。",
                 "e": "What is necessary at the time of application?",
                 "id": 228,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/228.png",
-                "image_width": 1460,
-                "image_height": 95
+                "image_width": 1101,
+                "image_height": 77
             }
         ],
         "name": "際に",
@@ -3335,16 +3335,16 @@ d = [
                 "e": "It started raining during the middle of the match and it ended up getting cancelled.",
                 "id": 229,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/229.png",
-                "image_width": 1692,
-                "image_height": 95
+                "image_width": 1274,
+                "image_height": 77
             },
             {
                 "j": "私はパリを旅⾏している最中に彼⼥に会いました。",
                 "e": "I met her while I was traveling in Paris.",
                 "id": 230,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/230.png",
-                "image_width": 1860,
-                "image_height": 95
+                "image_width": 1400,
+                "image_height": 77
             }
         ],
         "name": "最中に",
@@ -3364,16 +3364,16 @@ d = [
                 "e": "He is even taller than his father.",
                 "id": 231,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/231.png",
-                "image_width": 1140,
-                "image_height": 95
+                "image_width": 861,
+                "image_height": 77
             },
             {
                 "j": "すこし塩を⾜すと、さらに美味しくなりますよ。",
                 "e": "By adding a little bit of salt it will become even more delicious.",
                 "id": 232,
                 "image_path": "pkg:/images/grammar/N3Grammar/4/examples/232.png",
-                "image_width": 1779,
-                "image_height": 95
+                "image_width": 1340,
+                "image_height": 77
             }
         ],
         "name": "さらに",
@@ -3400,16 +3400,16 @@ d = [
                 "e": "Well, what shall I do now?",
                 "id": 233,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/233.png",
-                "image_width": 657,
-                "image_height": 90
+                "image_width": 498,
+                "image_height": 73
             },
             {
                 "j": "さて本題にはいろうか。",
                 "e": "Well then, let's get down to business.",
                 "id": 234,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/234.png",
-                "image_width": 900,
-                "image_height": 95
+                "image_width": 681,
+                "image_height": 77
             }
         ],
         "name": "さて",
@@ -3432,16 +3432,16 @@ d = [
                 "e": "I was late for class because my bus was late.",
                 "id": 235,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/235.png",
-                "image_width": 1691,
-                "image_height": 95
+                "image_width": 1274,
+                "image_height": 77
             },
             {
                 "j": "あなたの失敗を、私のせいにしないでよ︕",
                 "e": "Don't blame me for your mistake!",
                 "id": 236,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/236.png",
-                "image_width": 1540,
-                "image_height": 95
+                "image_width": 1160,
+                "image_height": 77
             }
         ],
         "name": "せいで",
@@ -3462,24 +3462,24 @@ d = [
                 "e": "Enjoy yourself to the fullest!",
                 "id": 237,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/237.png",
-                "image_width": 1292,
-                "image_height": 95
+                "image_width": 974,
+                "image_height": 77
             },
             {
                 "j": "彼はせいぜい３０歳ぐらいだ。",
                 "e": "He's 30 years old at most.",
                 "id": 238,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/238.png",
-                "image_width": 1140,
-                "image_height": 95
+                "image_width": 860,
+                "image_height": 77
             },
             {
                 "j": "桜の花は数⽇、せいぜい⼀週間しか持たない。",
                 "e": "Cherry blossoms last only for a few days, a week at the most.",
                 "id": 239,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/239.png",
-                "image_width": 1702,
-                "image_height": 95
+                "image_width": 1282,
+                "image_height": 77
             }
         ],
         "name": "せいぜい",
@@ -3500,8 +3500,8 @@ d = [
                 "e": "Please wait here for a while.",
                 "id": 240,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/240.png",
-                "image_width": 1140,
-                "image_height": 95
+                "image_width": 860,
+                "image_height": 77
             }
         ],
         "name": "しばらく",
@@ -3523,16 +3523,16 @@ d = [
                 "e": "You just gotta do it.",
                 "id": 241,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/241.png",
-                "image_width": 582,
-                "image_height": 89
+                "image_width": 442,
+                "image_height": 73
             },
             {
                 "j": "新しいのを買うしかなかった。",
                 "e": "I had no choice but to buy a new one.",
                 "id": 242,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/242.png",
-                "image_width": 1142,
-                "image_height": 96
+                "image_width": 862,
+                "image_height": 77
             }
         ],
         "name": "しかない",
@@ -3554,16 +3554,16 @@ d = [
                 "e": "Do you have time tomorrow for that?",
                 "id": 243,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/243.png",
-                "image_width": 1702,
-                "image_height": 96
+                "image_width": 1282,
+                "image_height": 78
             },
             {
                 "j": "英語の教師になりたいです。そのためにいろいろな資格も取らないといけません。",
                 "e": "I want to become an English teacher. In order to do so, I need to obtain various certifications.",
                 "id": 244,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/244.png",
-                "image_width": 2969,
-                "image_height": 95
+                "image_width": 2232,
+                "image_height": 77
             }
         ],
         "name": "その為に",
@@ -3583,16 +3583,16 @@ d = [
                 "e": "Shall we walk or drive?",
                 "id": 245,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/245.png",
-                "image_width": 1258,
-                "image_height": 103
+                "image_width": 949,
+                "image_height": 83
             },
             {
                 "j": "飲み物はコーヒーにしますか︖それとも紅茶にしますか︖",
                 "e": "To drink, would you prefer coffee or tea?",
                 "id": 246,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/246.png",
-                "image_width": 2102,
-                "image_height": 95
+                "image_width": 1582,
+                "image_height": 78
             }
         ],
         "name": "それとも",
@@ -3612,16 +3612,16 @@ d = [
                 "e": "That does not seem likely to occur.",
                 "id": 247,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/247.png",
-                "image_width": 1380,
-                "image_height": 95
+                "image_width": 1040,
+                "image_height": 77
             },
             {
                 "j": "彼と私が再会することはありそうもないのだ。",
                 "e": "He and I will likely never meet again.",
                 "id": 248,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/248.png",
-                "image_width": 1700,
-                "image_height": 95
+                "image_width": 1280,
+                "image_height": 77
             }
         ],
         "name": "そうもない /そうにない",
@@ -3641,16 +3641,16 @@ d = [
                 "e": "Have you already eaten breakfast?",
                 "id": 249,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/249.png",
-                "image_width": 1463,
-                "image_height": 95
+                "image_width": 1103,
+                "image_height": 78
             },
             {
                 "j": "もしかしたら、彼⼥はすでにそれを送っているかもしれない。",
                 "e": "Perhaps, she may have sent it already.",
                 "id": 250,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/250.png",
-                "image_width": 2257,
-                "image_height": 95
+                "image_width": 1698,
+                "image_height": 77
             }
         ],
         "name": "すでに",
@@ -3670,8 +3670,8 @@ d = [
                 "e": "My younger sister's daughter, in other words my niece, lives nearby so I often visit.",
                 "id": 251,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/251.png",
-                "image_width": 2570,
-                "image_height": 95
+                "image_width": 1933,
+                "image_height": 77
             }
         ],
         "name": "すなわち",
@@ -3692,24 +3692,24 @@ d = [
                 "e": "I worked for at least an hour or so.",
                 "id": 252,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/252.png",
-                "image_width": 982,
-                "image_height": 95
+                "image_width": 742,
+                "image_height": 77
             },
             {
                 "j": "この映画は３回は⾒ました。",
                 "e": "I watched this movie at least three times.",
                 "id": 253,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/253.png",
-                "image_width": 1062,
-                "image_height": 95
+                "image_width": 802,
+                "image_height": 77
             },
             {
                 "j": "毎年、１回は海外へ旅⾏します。",
                 "e": "Every year, I go travel abroad at least once.",
                 "id": 254,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/254.png",
-                "image_width": 1214,
-                "image_height": 95
+                "image_width": 916,
+                "image_height": 78
             }
         ],
         "name": "数量 + は",
@@ -3730,8 +3730,8 @@ d = [
                 "e": "When I was a child, I often played by the river.",
                 "id": 255,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/255.png",
-                "image_width": 1460,
-                "image_height": 96
+                "image_width": 1100,
+                "image_height": 77
             }
         ],
         "name": "たものだ",
@@ -3752,8 +3752,8 @@ d = [
                 "e": "It started raining after I left my house.",
                 "id": 256,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/256.png",
-                "image_width": 1296,
-                "image_height": 95
+                "image_width": 977,
+                "image_height": 77
             }
         ],
         "name": "たとたん",
@@ -3775,16 +3775,16 @@ d = [
                 "e": "Every time I hear this song, it reminds me of my family.",
                 "id": 257,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/257.png",
-                "image_width": 1452,
-                "image_height": 95
+                "image_width": 1094,
+                "image_height": 77
             },
             {
                 "j": "友⼈は旅⾏のたびにお⼟産を買ってきてくれます。",
                 "e": "Every time my friend travels, they buy me a souvenir.",
                 "id": 258,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/258.png",
-                "image_width": 1845,
-                "image_height": 95
+                "image_width": 1389,
+                "image_height": 77
             }
         ],
         "name": "たびに",
@@ -3808,32 +3808,32 @@ d = [
                 "e": "I'm saving money to travel to Japan.",
                 "id": 259,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/259.png",
-                "image_width": 1609,
-                "image_height": 95
+                "image_width": 1212,
+                "image_height": 77
             },
             {
                 "j": "今度の⾯接のために、このスーツを買いました。",
                 "e": "I bought this suit for my upcoming interview.",
                 "id": 260,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/260.png",
-                "image_width": 1778,
-                "image_height": 96
+                "image_width": 1339,
+                "image_height": 77
             },
             {
                 "j": "健康のために、毎朝に⾛っています。",
                 "e": "For my health, I go running every morning.",
                 "id": 261,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/261.png",
-                "image_width": 1368,
-                "image_height": 95
+                "image_width": 1031,
+                "image_height": 77
             },
             {
                 "j": "今⽇は暑かったため、私は何もする気にならなかった。",
                 "e": "I didn't feel like doing anything today because it was hot.",
                 "id": 262,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/262.png",
-                "image_width": 2022,
-                "image_height": 95
+                "image_width": 1522,
+                "image_height": 77
             }
         ],
         "name": "ために",
@@ -3854,16 +3854,16 @@ d = [
                 "e": "It certainly looks that way.",
                 "id": 263,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/263.png",
-                "image_width": 1292,
-                "image_height": 95
+                "image_width": 975,
+                "image_height": 77
             },
             {
                 "j": "確かに君の責任ではない。",
                 "e": "I'm sure that's no fault of yours.",
                 "id": 264,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/264.png",
-                "image_width": 982,
-                "image_height": 95
+                "image_width": 742,
+                "image_height": 77
             }
         ],
         "name": "確かに",
@@ -3883,16 +3883,16 @@ d = [
                 "e": "As expected, freshly cooked food is delicious!",
                 "id": 265,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/265.png",
-                "image_width": 1462,
-                "image_height": 95
+                "image_width": 1102,
+                "image_height": 77
             },
             {
                 "j": "この壁はペンキを塗りたてだよ。",
                 "e": "This wall is freshly painted.",
                 "id": 266,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/266.png",
-                "image_width": 1222,
-                "image_height": 93
+                "image_width": 922,
+                "image_height": 75
             }
         ],
         "name": "たて",
@@ -3915,16 +3915,16 @@ d = [
                 "e": "Even if it rains, I plan to go out tomorrow.",
                 "id": 267,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/267.png",
-                "image_width": 1912,
-                "image_height": 96
+                "image_width": 1440,
+                "image_height": 77
             },
             {
                 "j": "たとえ両親に反対されても、彼と結婚します。",
                 "e": "I will marry him, even if my parents are opposed to it.",
                 "id": 268,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/268.png",
-                "image_width": 1685,
-                "image_height": 95
+                "image_width": 1269,
+                "image_height": 77
             }
         ],
         "name": "たとえ〜ても",
@@ -3944,8 +3944,8 @@ d = [
                 "e": "have many hobbies, fishing and climbing for example.",
                 "id": 269,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/269.png",
-                "image_width": 2009,
-                "image_height": 95
+                "image_width": 1512,
+                "image_height": 77
             }
         ],
         "name": "例えば",
@@ -3968,16 +3968,16 @@ d = [
                 "e": "Even if you take a taxi, you won't make it in time.",
                 "id": 270,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/270.png",
-                "image_width": 1456,
-                "image_height": 95
+                "image_width": 1098,
+                "image_height": 77
             },
             {
                 "j": "いくら叫んだって、誰も来ないよ。",
                 "e": "No matter how much you scream, no one is coming.",
                 "id": 271,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/271.png",
-                "image_width": 1292,
-                "image_height": 95
+                "image_width": 975,
+                "image_height": 77
             }
         ],
         "name": "たって",
@@ -3998,16 +3998,16 @@ d = [
                 "e": "This cat does nothing but sleep.",
                 "id": 272,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/272.png",
-                "image_width": 1054,
-                "image_height": 95
+                "image_width": 796,
+                "image_height": 77
             },
             {
                 "j": "あの⼦が泣いてばかりいる。",
                 "e": "That child does nothing but cry.",
                 "id": 273,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/273.png",
-                "image_width": 1060,
-                "image_height": 95
+                "image_width": 800,
+                "image_height": 77
             }
         ],
         "name": "てばかりいる",
@@ -4028,16 +4028,16 @@ d = [
                 "e": "Try it one more time.",
                 "id": 274,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/274.png",
-                "image_width": 896,
-                "image_height": 96
+                "image_width": 677,
+                "image_height": 77
             },
             {
                 "j": "もう⼀度⾔ってごらん。",
                 "e": "Please say that once more.",
                 "id": 275,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/275.png",
-                "image_width": 896,
-                "image_height": 96
+                "image_width": 677,
+                "image_height": 77
             }
         ],
         "name": "てごらん",
@@ -4058,16 +4058,16 @@ d = [
                 "e": "I had never eaten ramen before coming to Japan.",
                 "id": 276,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/276.png",
-                "image_width": 1457,
-                "image_height": 95
+                "image_width": 1098,
+                "image_height": 77
             },
             {
                 "j": "⽇本語を勉強してはじめて、勉強の楽しさが分かった。",
                 "e": "Only after I started studying Japanese did I realize the joys of studying.",
                 "id": 277,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/277.png",
-                "image_width": 2014,
-                "image_height": 96
+                "image_width": 1516,
+                "image_height": 78
             }
         ],
         "name": "てはじめて",
@@ -4087,16 +4087,16 @@ d = [
                 "e": "You cannot drink alcohol before turning 20 years old.",
                 "id": 278,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/278.png",
-                "image_width": 2097,
-                "image_height": 95
+                "image_width": 1578,
+                "image_height": 77
             },
             {
                 "j": "親の許可をもらってからでなければ、⽇本への留学が出来ない。",
                 "e": "You must first get your parent's permission, otherwise you will not be able to study abroad in Japan.",
                 "id": 279,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/279.png",
-                "image_width": 2336,
-                "image_height": 95
+                "image_width": 1757,
+                "image_height": 78
             }
         ],
         "name": "てからでないと",
@@ -4119,16 +4119,16 @@ d = [
                 "e": "I can't help thinking about that.",
                 "id": 280,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/280.png",
-                "image_width": 1378,
-                "image_height": 95
+                "image_width": 1039,
+                "image_height": 77
             },
             {
                 "j": "バスで⾏くのは、時間がかかってしょうがない",
                 "e": "Going by bus necessarily takes more time.",
                 "id": 281,
                 "image_path": "pkg:/images/grammar/N3Grammar/5/examples/281.png",
-                "image_width": 1698,
-                "image_height": 95
+                "image_width": 1279,
+                "image_height": 77
             }
         ],
         "name": "てしょうがない・てしかたがない",
@@ -4159,24 +4159,24 @@ d = [
                 "e": "The night passed without any accidents.",
                 "id": 282,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/282.png",
-                "image_width": 1297,
-                "image_height": 96
+                "image_width": 978,
+                "image_height": 77
             },
             {
                 "j": "少しお時間いただけませんか、５分で済みますから。",
                 "e": "Could you please wait a little bit longer? 5 minutes should be sufficient.",
                 "id": 283,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/283.png",
-                "image_width": 1938,
-                "image_height": 96
+                "image_width": 1459,
+                "image_height": 77
             },
             {
                 "j": "これでこれ以上の義務を負わなくて済む。",
                 "e": "That absolves me from further responsibility.",
                 "id": 284,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/284.png",
-                "image_width": 1537,
-                "image_height": 96
+                "image_width": 1158,
+                "image_height": 77
             }
         ],
         "name": "て済む",
@@ -4197,24 +4197,24 @@ d = [
                 "e": "It would be no good if it rains, so please take an umbrella with you.",
                 "id": 285,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/285.png",
-                "image_width": 1778,
-                "image_height": 95
+                "image_width": 1339,
+                "image_height": 77
             },
             {
                 "j": "バスに乗り遅れるといけないから、すぐ出発したほうがいい。",
                 "e": "You'd better head out right away so you don't miss the bus.",
                 "id": 286,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/286.png",
-                "image_width": 2262,
-                "image_height": 96
+                "image_width": 1702,
+                "image_height": 77
             },
             {
                 "j": "道に迷うといけないから、地図をもって⾏きなさい。",
                 "e": "Take a map with you in case you get lost.",
                 "id": 287,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/287.png",
-                "image_width": 1938,
-                "image_height": 95
+                "image_width": 1459,
+                "image_height": 77
             }
         ],
         "name": "てはいけないから",
@@ -4236,16 +4236,16 @@ d = [
                 "e": "This is not an occasion for laughter.",
                 "id": 288,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/288.png",
-                "image_width": 1138,
-                "image_height": 95
+                "image_width": 859,
+                "image_height": 78
             },
             {
                 "j": "冗談を⾔っている場合じゃない︕",
                 "e": "This is no time for jokes!",
                 "id": 289,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/289.png",
-                "image_width": 1218,
-                "image_height": 95
+                "image_width": 919,
+                "image_height": 77
             }
         ],
         "name": "ている場合じゃない",
@@ -4267,24 +4267,24 @@ d = [
                 "e": "Basically, I eat everything.",
                 "id": 290,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/290.png",
-                "image_width": 1210,
-                "image_height": 96
+                "image_width": 913,
+                "image_height": 78
             },
             {
                 "j": "彼⼥は⾦銭的な理由で退学しました。",
                 "e": "She dropped out of school for monetary reasons.",
                 "id": 291,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/291.png",
-                "image_width": 1382,
-                "image_height": 96
+                "image_width": 1042,
+                "image_height": 78
             },
             {
                 "j": "その⾔葉は⼀般的に会話で使われていないよ。",
                 "e": "That word is generally not used in conversation.",
                 "id": 292,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/292.png",
-                "image_width": 1694,
-                "image_height": 97
+                "image_width": 1276,
+                "image_height": 78
             }
         ],
         "name": "的",
@@ -4305,24 +4305,24 @@ d = [
                 "e": "Waiting here isn't gonna do any good, let's just head home.",
                 "id": 293,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/293.png",
-                "image_width": 1841,
-                "image_height": 95
+                "image_width": 1386,
+                "image_height": 77
             },
             {
                 "j": "その件は話し合っても始まらない。",
                 "e": "There is no point in discussing this matter.",
                 "id": 294,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/294.png",
-                "image_width": 1294,
-                "image_height": 95
+                "image_width": 976,
+                "image_height": 77
             },
             {
                 "j": "⽂句を⾔っても始まらないだろ。",
                 "e": "Complaining won't change anything.",
                 "id": 295,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/295.png",
-                "image_width": 1209,
-                "image_height": 96
+                "image_width": 912,
+                "image_height": 77
             }
         ],
         "name": "ても始まらない",
@@ -4346,24 +4346,24 @@ d = [
                 "e": "I don't mind if it rains.",
                 "id": 296,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/296.png",
-                "image_width": 894,
-                "image_height": 95
+                "image_width": 676,
+                "image_height": 77
             },
             {
                 "j": "今帰っても構いませんか︖",
                 "e": "Do you mind if I leave now?",
                 "id": 297,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/297.png",
-                "image_width": 972,
-                "image_height": 95
+                "image_width": 734,
+                "image_height": 78
             },
             {
                 "j": "間違いをしても構わない。",
                 "e": "Don't worry about making mistakes.",
                 "id": 298,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/298.png",
-                "image_width": 976,
-                "image_height": 95
+                "image_width": 737,
+                "image_height": 77
             }
         ],
         "name": "てもかまわない",
@@ -4386,16 +4386,16 @@ d = [
                 "e": "It is no use going there.",
                 "id": 299,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/299.png",
-                "image_width": 1134,
-                "image_height": 95
+                "image_width": 856,
+                "image_height": 77
             },
             {
                 "j": "どうにもならないことを、悩んでいてもしょうがないよ。",
                 "e": "There's no point in worrying about things beyond our control.",
                 "id": 300,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/300.png",
-                "image_width": 2090,
-                "image_height": 95
+                "image_width": 1573,
+                "image_height": 77
             }
         ],
         "name": "てもしょうがない / てもしかたがない",
@@ -4417,16 +4417,16 @@ d = [
                 "e": "Speaking of Vietnam, there are a lot of bikes.",
                 "id": 301,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/301.png",
-                "image_width": 1536,
-                "image_height": 95
+                "image_width": 1157,
+                "image_height": 77
             },
             {
                 "j": "本と⾔えばこれを読んだか︖",
                 "e": "Speaking of books, have you read this one?",
                 "id": 302,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/302.png",
-                "image_width": 1062,
-                "image_height": 95
+                "image_width": 802,
+                "image_height": 78
             }
         ],
         "name": "と⾔えば",
@@ -4448,24 +4448,24 @@ d = [
                 "e": "I hope you like it.",
                 "id": 303,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/303.png",
-                "image_width": 1062,
-                "image_height": 95
+                "image_width": 802,
+                "image_height": 77
             },
             {
                 "j": "明⽇晴れるといいな",
                 "e": "I hope the weather will clear up tomorrow.",
                 "id": 304,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/304.png",
-                "image_width": 742,
-                "image_height": 96
+                "image_width": 562,
+                "image_height": 77
             },
             {
                 "j": "いつか⽇本で出会えたらいいな。",
                 "e": "I hope we can meet in Japan one day.",
                 "id": 305,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/305.png",
-                "image_width": 1222,
-                "image_height": 95
+                "image_width": 922,
+                "image_height": 77
             }
         ],
         "name": "といい / たらいい",
@@ -4488,8 +4488,8 @@ d = [
                 "e": "I'm busy this week, but not as much as last week.",
                 "id": 306,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/306.png",
-                "image_width": 1694,
-                "image_height": 96
+                "image_width": 1276,
+                "image_height": 77
             }
         ],
         "name": "といっても",
@@ -4513,24 +4513,24 @@ d = [
                 "e": "I heard on the news that it will rain tomorrow.",
                 "id": 307,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/307.png",
-                "image_width": 1850,
-                "image_height": 96
+                "image_width": 1393,
+                "image_height": 77
             },
             {
                 "j": "試験の結果は８５％、つまり合格ということだ。",
                 "e": "Your test score was 85%. In other words, you passed.",
                 "id": 308,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/308.png",
-                "image_width": 1780,
-                "image_height": 95
+                "image_width": 1340,
+                "image_height": 77
             },
             {
                 "j": "独⾝でい続けるのは⼀⼈で寂しく死ぬということだ。",
                 "e": "Continuing on single as you are now means you will die sad and alone.",
                 "id": 309,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/309.png",
-                "image_width": 1940,
-                "image_height": 95
+                "image_width": 1460,
+                "image_height": 77
             }
         ],
         "name": "ということだ",
@@ -4551,16 +4551,16 @@ d = [
                 "e": "konbini means convenience store",
                 "id": 310,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/310.png",
-                "image_width": 2098,
-                "image_height": 97
+                "image_width": 1579,
+                "image_height": 78
             },
             {
                 "j": "「電⾞で『カクテイ』というのは何のことですか。」",
                 "e": "What does it mean when they say 'kakutei' on the train?",
                 "id": 311,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/311.png",
-                "image_width": 1938,
-                "image_height": 97
+                "image_width": 1459,
+                "image_height": 78
             }
         ],
         "name": "というのは",
@@ -4582,16 +4582,16 @@ d = [
                 "e": "Speaking of cherry blossoms, flower viewing comes to mind.",
                 "id": 312,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/312.png",
-                "image_width": 816,
-                "image_height": 95
+                "image_width": 618,
+                "image_height": 77
             },
             {
                 "j": "どちらかというと暇です。",
                 "e": "If anything, I'm bored.",
                 "id": 313,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/313.png",
-                "image_width": 974,
-                "image_height": 92
+                "image_width": 736,
+                "image_height": 74
             }
         ],
         "name": "と⾔うと",
@@ -4615,16 +4615,16 @@ d = [
                 "e": "He is more a teacher than a scholar.",
                 "id": 314,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/314.png",
-                "image_width": 1138,
-                "image_height": 95
+                "image_width": 859,
+                "image_height": 78
             },
             {
                 "j": "仕事というより趣味に近い。",
                 "e": "More of a hobby than a job.",
                 "id": 315,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/315.png",
-                "image_width": 1060,
-                "image_height": 95
+                "image_width": 801,
+                "image_height": 77
             }
         ],
         "name": "というより",
@@ -4647,16 +4647,16 @@ d = [
                 "e": "He appears to be sick.",
                 "id": 316,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/316.png",
-                "image_width": 820,
-                "image_height": 95
+                "image_width": 620,
+                "image_height": 77
             },
             {
                 "j": "⼭⽥さんは忙しいとみえて、このごろ電話もしてこない。",
                 "e": "Mr. Yamada seems busy now, which may be why he hasn't called.",
                 "id": 317,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/317.png",
-                "image_width": 2092,
-                "image_height": 95
+                "image_width": 1574,
+                "image_height": 77
             }
         ],
         "name": "とみえる / とみえて",
@@ -4683,32 +4683,32 @@ d = [
                 "e": "If I were to choose, I would go with this.",
                 "id": 318,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/318.png",
-                "image_width": 1140,
-                "image_height": 95
+                "image_width": 860,
+                "image_height": 77
             },
             {
                 "j": "⼀⽇25時間だとしたら、何をしますか︖",
                 "e": "If there were 25 hours in a day, what would you do?",
                 "id": 319,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/319.png",
-                "image_width": 1465,
-                "image_height": 95
+                "image_width": 1105,
+                "image_height": 78
             },
             {
                 "j": "その話が本当だとしたら、嬉しいです︕",
                 "e": "If that story is true, then I'd be really happy!",
                 "id": 320,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/320.png",
-                "image_width": 1460,
-                "image_height": 95
+                "image_width": 1100,
+                "image_height": 77
             },
             {
                 "j": "これを航空便で送るとするといくらかかりますか︖",
                 "e": "How much would it cost to send this by airmail?",
                 "id": 321,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/321.png",
-                "image_width": 1860,
-                "image_height": 95
+                "image_width": 1400,
+                "image_height": 78
             }
         ],
         "name": "とすれば・としたら・とすると",
@@ -4730,16 +4730,16 @@ d = [
                 "e": "As spring grows nearer, it's gradually getting a bit warmer.",
                 "id": 322,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/322.png",
-                "image_width": 1772,
-                "image_height": 95
+                "image_width": 1334,
+                "image_height": 77
             },
             {
                 "j": "私は家族と共に⼆年間外国で暮らした。",
                 "e": "I lived abroad together with my family for two years.",
                 "id": 323,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/323.png",
-                "image_width": 1462,
-                "image_height": 95
+                "image_width": 1102,
+                "image_height": 78
             }
         ],
         "name": "と共に",
@@ -4761,16 +4761,16 @@ d = [
                 "e": "The phone rang when I was in the middle of eating (dinner).",
                 "id": 324,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/324.png",
-                "image_width": 1772,
-                "image_height": 95
+                "image_width": 1335,
+                "image_height": 77
             },
             {
                 "j": "私は駅から学校に⾏く途中で先⽣に会った。",
                 "e": "I saw my teacher on the way to school from the station.",
                 "id": 325,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/325.png",
-                "image_width": 1622,
-                "image_height": 96
+                "image_width": 1222,
+                "image_height": 78
             }
         ],
         "name": "途中で/途中に",
@@ -4790,8 +4790,8 @@ d = [
                 "e": "By the way, where are you now?",
                 "id": 326,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/326.png",
-                "image_width": 1056,
-                "image_height": 95
+                "image_width": 798,
+                "image_height": 78
             }
         ],
         "name": "ところで",
@@ -4812,16 +4812,16 @@ d = [
                 "e": "I thought today would be sunny. However, it is raining.",
                 "id": 327,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/327.png",
-                "image_width": 1694,
-                "image_height": 95
+                "image_width": 1276,
+                "image_height": 77
             },
             {
                 "j": "私はチームの勝利を信じていた。ところが、負けてしまった。",
                 "e": "I believed our team would win. However, they lost.",
                 "id": 328,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/328.png",
-                "image_width": 2255,
-                "image_height": 95
+                "image_width": 1697,
+                "image_height": 77
             }
         ],
         "name": "ところが",
@@ -4844,24 +4844,24 @@ d = [
                 "e": "He did as he was told.",
                 "id": 329,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/329.png",
-                "image_width": 1058,
-                "image_height": 95
+                "image_width": 799,
+                "image_height": 77
             },
             {
                 "j": "彼は時間どおりにやって来た。",
                 "e": "He arrived on time.",
                 "id": 330,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/330.png",
-                "image_width": 1138,
-                "image_height": 95
+                "image_width": 859,
+                "image_height": 77
             },
             {
                 "j": "予報どおりだ。",
                 "e": "The weather forecast was right.",
                 "id": 331,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/331.png",
-                "image_width": 580,
-                "image_height": 95
+                "image_width": 440,
+                "image_height": 77
             }
         ],
         "name": "とおりに",
@@ -4883,16 +4883,16 @@ d = [
                 "e": "We kept drinking all night.",
                 "id": 332,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/332.png",
-                "image_width": 977,
-                "image_height": 95
+                "image_width": 738,
+                "image_height": 77
             },
             {
                 "j": "こんな⻑い⼩説は⼀⽇で読み通せない。",
                 "e": "You can't read such a long novel in a day.",
                 "id": 333,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/333.png",
-                "image_width": 1462,
-                "image_height": 96
+                "image_width": 1102,
+                "image_height": 77
             }
         ],
         "name": "通す",
@@ -4912,16 +4912,16 @@ d = [
                 "e": "He has been working as a teacher.",
                 "id": 334,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/334.png",
-                "image_width": 1057,
-                "image_height": 96
+                "image_width": 798,
+                "image_height": 77
             },
             {
                 "j": "ナイフとして⽤いられている。",
                 "e": "It can be used as a knife.",
                 "id": 335,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/335.png",
-                "image_width": 1137,
-                "image_height": 91
+                "image_width": 858,
+                "image_height": 74
             }
         ],
         "name": "として",
@@ -4941,16 +4941,16 @@ d = [
                 "e": "There's no way I could do something like that.",
                 "id": 336,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/336.png",
-                "image_width": 1372,
-                "image_height": 95
+                "image_width": 1035,
+                "image_height": 77
             },
             {
                 "j": "⻭が痛くてご飯はとても⾷べられなかった。",
                 "e": "My tooth hurt and so I could hardly eat anything.",
                 "id": 337,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/337.png",
-                "image_width": 1613,
-                "image_height": 95
+                "image_width": 1215,
+                "image_height": 77
             }
         ],
         "name": "とても〜ない",
@@ -4974,16 +4974,16 @@ d = [
                 "e": "This sort of music is not necessarily liked by everyone.",
                 "id": 338,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/338.png",
-                "image_width": 1622,
-                "image_height": 95
+                "image_width": 1222,
+                "image_height": 77
             },
             {
                 "j": "無料のほうがいいとは限らない。",
                 "e": "The free option is not always necessary the best option.",
                 "id": 339,
                 "image_path": "pkg:/images/grammar/N3Grammar/6/examples/339.png",
-                "image_width": 1222,
-                "image_height": 95
+                "image_width": 922,
+                "image_height": 77
             }
         ],
         "name": "とは限らない",
@@ -5009,16 +5009,16 @@ d = [
                 "e": "The food was so good that I ate too much.",
                 "id": 340,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/340.png",
-                "image_width": 1298,
-                "image_height": 95
+                "image_width": 979,
+                "image_height": 77
             },
             {
                 "j": "11時まで勉強すると決めたばかりのに、彼は30分後つい寝てしまった。",
                 "e": "Although he just decided to study until 11 o'clock, he fell asleep 30 minutes later.",
                 "id": 341,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/341.png",
-                "image_width": 2585,
-                "image_height": 96
+                "image_width": 1944,
+                "image_height": 78
             }
         ],
         "name": "つい",
@@ -5038,8 +5038,8 @@ d = [
                 "e": "I finally arrived!",
                 "id": 342,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/342.png",
-                "image_width": 742,
-                "image_height": 95
+                "image_width": 562,
+                "image_height": 77
             }
         ],
         "name": "ついに",
@@ -5062,16 +5062,16 @@ d = [
                 "e": "I stopped by a book store while shopping.",
                 "id": 343,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/343.png",
-                "image_width": 1457,
-                "image_height": 95
+                "image_width": 1098,
+                "image_height": 77
             },
             {
                 "j": "仕事へ⾏くついでに駅まで送ってあげるよ。",
                 "e": "I'll give you a lift to the station on my way to work.",
                 "id": 344,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/344.png",
-                "image_width": 1613,
-                "image_height": 95
+                "image_width": 1215,
+                "image_height": 77
             }
         ],
         "name": "ついでに",
@@ -5092,16 +5092,16 @@ d = [
                 "e": "He's a veterinarian. In other words, he's an animal doctor.",
                 "id": 345,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/345.png",
-                "image_width": 1371,
-                "image_height": 95
+                "image_width": 1034,
+                "image_height": 77
             },
             {
                 "j": "⺟の兄、つまり僕の伯⽗は、⼤学の先⽣です。",
                 "e": "My mother's older brother, in other words, my uncle, is a college professor.",
                 "id": 346,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/346.png",
-                "image_width": 1694,
-                "image_height": 96
+                "image_width": 1276,
+                "image_height": 78
             }
         ],
         "name": "つまり",
@@ -5124,16 +5124,16 @@ d = [
                 "e": "I thought I said it.",
                 "id": 347,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/347.png",
-                "image_width": 822,
-                "image_height": 91
+                "image_width": 622,
+                "image_height": 74
             },
             {
                 "j": "私はそのメールを送ったつもりだった。",
                 "e": "I'm sure I sent that email.",
                 "id": 348,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/348.png",
-                "image_width": 1462,
-                "image_height": 95
+                "image_width": 1102,
+                "image_height": 77
             }
         ],
         "name": "つもりだった",
@@ -5154,16 +5154,16 @@ d = [
                 "e": "I meant it to be a joke.",
                 "id": 349,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/349.png",
-                "image_width": 1134,
-                "image_height": 95
+                "image_width": 856,
+                "image_height": 77
             },
             {
                 "j": "私は死んだつもりで働いた。",
                 "e": "I worked as if there were no tomorrow.",
                 "id": 350,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/350.png",
-                "image_width": 1062,
-                "image_height": 95
+                "image_width": 802,
+                "image_height": 77
             }
         ],
         "name": "つもりで",
@@ -5187,24 +5187,24 @@ d = [
                 "e": "Let's head home while it's still light outside.",
                 "id": 351,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/351.png",
-                "image_width": 1135,
-                "image_height": 96
+                "image_width": 857,
+                "image_height": 77
             },
             {
                 "j": "これはまだ温かいうちに早く⾷べてください。",
                 "e": "Please eat this while it is still warm.",
                 "id": 352,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/352.png",
-                "image_width": 1696,
-                "image_height": 95
+                "image_width": 1278,
+                "image_height": 77
             },
             {
                 "j": "忘わすれないうちに、メモをしておこう。",
                 "e": "Let's write a memo before you forget.",
                 "id": 353,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/353.png",
-                "image_width": 1530,
-                "image_height": 94
+                "image_width": 1153,
+                "image_height": 76
             }
         ],
         "name": "うちに",
@@ -5228,24 +5228,24 @@ d = [
                 "e": "In order to study a foreign language, you need to have a dictionary.",
                 "id": 354,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/354.png",
-                "image_width": 2016,
-                "image_height": 96
+                "image_width": 1517,
+                "image_height": 78
             },
             {
                 "j": "この薬は説明書をよく読んだ上で、ご使⽤ください。",
                 "e": "Please use this medicine after reading the instructions carefully.",
                 "id": 355,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/355.png",
-                "image_width": 1939,
-                "image_height": 96
+                "image_width": 1460,
+                "image_height": 77
             },
             {
                 "j": "予約の時間を確認の上で、ご来店ください。",
                 "e": "Please visit us after confirming the reservation time.",
                 "id": 356,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/356.png",
-                "image_width": 1619,
-                "image_height": 95
+                "image_width": 1220,
+                "image_height": 77
             }
         ],
         "name": "上で",
@@ -5269,8 +5269,8 @@ d = [
                 "e": "This job is not only dangerous, but the salary is low.",
                 "id": 357,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/357.png",
-                "image_width": 1457,
-                "image_height": 96
+                "image_width": 1098,
+                "image_height": 77
             }
         ],
         "name": "上に",
@@ -5294,16 +5294,16 @@ d = [
                 "e": "Apart from the appearance, her food tastes very good.",
                 "id": 358,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/358.png",
-                "image_width": 2009,
-                "image_height": 95
+                "image_width": 1512,
+                "image_height": 77
             },
             {
                 "j": "合格できるかどうかは別として、チャレンジしてみることは⼤切だ。",
                 "e": "Regardless of whether or not you can pass, it's important to challenge yourself.",
                 "id": 359,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/359.png",
-                "image_width": 2485,
-                "image_height": 96
+                "image_width": 1869,
+                "image_height": 77
             }
         ],
         "name": "は別として",
@@ -5324,8 +5324,8 @@ d = [
                 "e": "Not only is she a good student, but she is also good at cooking.",
                 "id": 360,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/360.png",
-                "image_width": 1618,
-                "image_height": 96
+                "image_width": 1219,
+                "image_height": 78
             }
         ],
         "name": "はもちろん",
@@ -5350,16 +5350,16 @@ d = [
                 "e": "This school is famous for being strong in football.",
                 "id": 361,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/361.png",
-                "image_width": 1772,
-                "image_height": 96
+                "image_width": 1334,
+                "image_height": 78
             },
             {
                 "j": "⽇本は電⼦製品で有名です。",
                 "e": "Japan is famous for electric appliances.",
                 "id": 362,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/362.png",
-                "image_width": 1054,
-                "image_height": 95
+                "image_width": 796,
+                "image_height": 77
             }
         ],
         "name": "は〜で有名",
@@ -5382,24 +5382,24 @@ d = [
                 "e": "I'm good at playing guitar, because I play every day.",
                 "id": 363,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/363.png",
-                "image_width": 1620,
-                "image_height": 95
+                "image_width": 1220,
+                "image_height": 78
             },
             {
                 "j": "暑いわけだ。気温が36度もある。",
                 "e": "No wonder it feels so hot, it's 36 degrees (Celsius) out.",
                 "id": 364,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/364.png",
-                "image_width": 1223,
-                "image_height": 96
+                "image_width": 923,
+                "image_height": 77
             },
             {
                 "j": "「って、知らないわけ︖」",
                 "e": "You mean to say you don't know?",
                 "id": 365,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/365.png",
-                "image_width": 974,
-                "image_height": 97
+                "image_width": 736,
+                "image_height": 78
             }
         ],
         "name": "わけだ",
@@ -5422,24 +5422,24 @@ d = [
                 "e": "It's not that I can't cook. I'm just busy and don't do it that often.",
                 "id": 366,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/366.png",
-                "image_width": 2260,
-                "image_height": 95
+                "image_width": 1701,
+                "image_height": 77
             },
             {
                 "j": "そんなに遠いわけじゃないんですよ。",
                 "e": "It's not that far away.",
                 "id": 367,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/367.png",
-                "image_width": 1378,
-                "image_height": 95
+                "image_width": 1039,
+                "image_height": 76
             },
             {
                 "j": "お⾦をたくさん持てば幸せになるわけではない。",
                 "e": "Having a lot of money doesn't mean you will be happy.",
                 "id": 368,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/368.png",
-                "image_width": 1780,
-                "image_height": 95
+                "image_width": 1341,
+                "image_height": 78
             }
         ],
         "name": "わけではない",
@@ -5462,24 +5462,24 @@ d = [
                 "e": "There's no way I could eat anything like that.",
                 "id": 369,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/369.png",
-                "image_width": 1542,
-                "image_height": 95
+                "image_width": 1162,
+                "image_height": 77
             },
             {
                 "j": "彼がそんな早い時間に起きられるわけがない",
                 "e": "There's no way he can get up that early.ß",
                 "id": 370,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/370.png",
-                "image_width": 1622,
-                "image_height": 95
+                "image_width": 1222,
+                "image_height": 77
             },
             {
                 "j": "君がJLPT N3に合格するわけがないよ。",
                 "e": "there's no way you'll pass the JLPT N3.",
                 "id": 371,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/371.png",
-                "image_width": 1427,
-                "image_height": 95
+                "image_width": 1076,
+                "image_height": 77
             }
         ],
         "name": "わけがない",
@@ -5501,16 +5501,16 @@ d = [
                 "e": "I will be driving a car later, so I cannot drink any alcohol now.",
                 "id": 372,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/372.png",
-                "image_width": 2176,
-                "image_height": 95
+                "image_width": 1638,
+                "image_height": 77
             },
             {
                 "j": "⾏くと約束したから、⾏かないわけにはいきません。",
                 "e": "I promised that I'd go, so I have no choice but to go.",
                 "id": 373,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/373.png",
-                "image_width": 1940,
-                "image_height": 95
+                "image_width": 1460,
+                "image_height": 77
             }
         ],
         "name": "わけにはいかない",
@@ -5534,16 +5534,16 @@ d = [
                 "e": "He is in good shape for his age.",
                 "id": 374,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/374.png",
-                "image_width": 900,
-                "image_height": 95
+                "image_width": 680,
+                "image_height": 78
             },
             {
                 "j": "このコンピューター、中古のわりに⾼くない︖",
                 "e": "Isn't this computer a bit expensive for being used?",
                 "id": 375,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/375.png",
-                "image_width": 1701,
-                "image_height": 95
+                "image_width": 1281,
+                "image_height": 78
             }
         ],
         "name": "割に",
@@ -5563,16 +5563,16 @@ d = [
                 "e": "He made a mistake on purpose.",
                 "id": 376,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/376.png",
-                "image_width": 822,
-                "image_height": 97
+                "image_width": 622,
+                "image_height": 79
             },
             {
                 "j": "それをわざと壊したのではありません。",
                 "e": "It's not like I broke that on purpose.",
                 "id": 377,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/377.png",
-                "image_width": 1460,
-                "image_height": 97
+                "image_width": 1100,
+                "image_height": 79
             }
         ],
         "name": "わざと",
@@ -5593,16 +5593,16 @@ d = [
                 "e": "She went out of her way to help me when I was in trouble.",
                 "id": 378,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/378.png",
-                "image_width": 1930,
-                "image_height": 97
+                "image_width": 1453,
+                "image_height": 79
             },
             {
                 "j": "あなたはわざわざ私の為にそれを買ってくれたのですか︖",
                 "e": "Did you buy that just for me?",
                 "id": 379,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/379.png",
-                "image_width": 2094,
-                "image_height": 97
+                "image_width": 1576,
+                "image_height": 79
             }
         ],
         "name": "わざわざ",
@@ -5624,16 +5624,16 @@ d = [
                 "e": "My older brother is bigger than I am.",
                 "id": 380,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/380.png",
-                "image_width": 820,
-                "image_height": 95
+                "image_width": 621,
+                "image_height": 77
             },
             {
                 "j": "量よりも質だ。",
                 "e": "Quality matters more than quantity.",
                 "id": 381,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/381.png",
-                "image_width": 578,
-                "image_height": 95
+                "image_width": 439,
+                "image_height": 77
             }
         ],
         "name": "よりも",
@@ -5653,16 +5653,16 @@ d = [
                 "e": "Nothing can be done about it",
                 "id": 382,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/382.png",
-                "image_width": 902,
-                "image_height": 93
+                "image_width": 682,
+                "image_height": 75
             },
             {
                 "j": "お礼の申し上げようもない。",
                 "e": "I cannot thank you enough.",
                 "id": 383,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/383.png",
-                "image_width": 1062,
-                "image_height": 95
+                "image_width": 802,
+                "image_height": 77
             }
         ],
         "name": "ようがない",
@@ -5685,24 +5685,24 @@ d = [
                 "e": "I feel that it is true.",
                 "id": 384,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/384.png",
-                "image_width": 1142,
-                "image_height": 95
+                "image_width": 862,
+                "image_height": 77
             },
             {
                 "j": "分かるような気がする。",
                 "e": "I think I understand.",
                 "id": 385,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/385.png",
-                "image_width": 902,
-                "image_height": 95
+                "image_width": 682,
+                "image_height": 77
             },
             {
                 "j": "今朝は散歩したいような気がする。",
                 "e": "I feel like going for a walk this morning.",
                 "id": 386,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/386.png",
-                "image_width": 1300,
-                "image_height": 96
+                "image_width": 981,
+                "image_height": 77
             }
         ],
         "name": "ような気がする",
@@ -5723,24 +5723,24 @@ d = [
                 "e": "I left early so I would not be late for the bus.",
                 "id": 387,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/387.png",
-                "image_width": 1540,
-                "image_height": 95
+                "image_width": 1161,
+                "image_height": 77
             },
             {
                 "j": "単語が覚えられるように、フラッシュカードを作りました。",
                 "e": "I made some flashcards to help me be able to memorize vocabulary.",
                 "id": 388,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/388.png",
-                "image_width": 2180,
-                "image_height": 95
+                "image_width": 1640,
+                "image_height": 77
             },
             {
                 "j": "皆さんに聞こえるようにもっと⼤きな声で話してください。",
                 "e": "Speak with a louder voice so everyone can hear.",
                 "id": 389,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/389.png",
-                "image_width": 2175,
-                "image_height": 95
+                "image_width": 1637,
+                "image_height": 78
             }
         ],
         "name": "ように",
@@ -5764,16 +5764,16 @@ d = [
                 "e": "He looks very energetic.",
                 "id": 390,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/390.png",
-                "image_width": 980,
-                "image_height": 95
+                "image_width": 740,
+                "image_height": 77
             },
             {
                 "j": "彼は勉強が嫌いなように⾒える。",
                 "e": "He looks like he hates studying.",
                 "id": 391,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/391.png",
-                "image_width": 1220,
-                "image_height": 96
+                "image_width": 920,
+                "image_height": 78
             }
         ],
         "name": "ように⾒える",
@@ -5794,16 +5794,16 @@ d = [
                 "e": "That kid will not even try to eat vegetables.",
                 "id": 392,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/392.png",
-                "image_width": 1776,
-                "image_height": 95
+                "image_width": 1337,
+                "image_height": 77
             },
             {
                 "j": "彼は⾃分のことは何も⾔おうとしない。",
                 "e": "He doesn't talk much about himself.",
                 "id": 393,
                 "image_path": "pkg:/images/grammar/N3Grammar/7/examples/393.png",
-                "image_width": 1462,
-                "image_height": 95
+                "image_width": 1102,
+                "image_height": 77
             }
         ],
         "name": "ようとしない",
@@ -5833,24 +5833,24 @@ d = [
                 "e": "I tried opening the door, but it was locked.",
                 "id": 394,
                 "image_path": "pkg:/images/grammar/N3Grammar/8/examples/394.png",
-                "image_width": 1856,
-                "image_height": 95
+                "image_width": 1398,
+                "image_height": 77
             },
             {
                 "j": "お⾵呂に⼊ろうとしたら、電話が掛かってきた。",
                 "e": "Just as I was about to take a bath, the phone rang.",
                 "id": 395,
                 "image_path": "pkg:/images/grammar/N3Grammar/8/examples/395.png",
-                "image_width": 1776,
-                "image_height": 95
+                "image_width": 1337,
+                "image_height": 77
             },
             {
                 "j": "おばあさんが道を渡ろうとしていたから、⼿伝ってあげた。",
                 "e": "The old lady was just about to cross the street and so I helped her out.",
                 "id": 396,
                 "image_path": "pkg:/images/grammar/N3Grammar/8/examples/396.png",
-                "image_width": 2173,
-                "image_height": 95
+                "image_width": 1635,
+                "image_height": 77
             }
         ],
         "name": "ようとする",
@@ -5872,16 +5872,16 @@ d = [
                 "e": "I passed the exam without studying.",
                 "id": 397,
                 "image_path": "pkg:/images/grammar/N3Grammar/8/examples/397.png",
-                "image_width": 1062,
-                "image_height": 96
+                "image_width": 802,
+                "image_height": 78
             },
             {
                 "j": "今朝、私は朝ごはんを⾷べずに学校に来ました。",
                 "e": "This morning I went to school without eating breakfast.",
                 "id": 398,
                 "image_path": "pkg:/images/grammar/N3Grammar/8/examples/398.png",
-                "image_width": 1782,
-                "image_height": 95
+                "image_width": 1342,
+                "image_height": 78
             }
         ],
         "name": "ずに",
@@ -5901,16 +5901,16 @@ d = [
                 "e": "She couldn't stop thinking of him.",
                 "id": 399,
                 "image_path": "pkg:/images/grammar/N3Grammar/8/examples/399.png",
-                "image_width": 1622,
-                "image_height": 95
+                "image_width": 1222,
+                "image_height": 77
             },
             {
                 "j": "話を聞いたら、笑わずにはいられない。",
                 "e": "When you hear what they have to say you can't help but laugh.",
                 "id": 400,
                 "image_path": "pkg:/images/grammar/N3Grammar/8/examples/400.png",
-                "image_width": 1462,
-                "image_height": 95
+                "image_width": 1102,
+                "image_height": 78
             }
         ],
         "name": "ずにはいられない",
@@ -5930,16 +5930,16 @@ d = [
                 "e": "Let's move forward one step at a time.",
                 "id": 401,
                 "image_path": "pkg:/images/grammar/N3Grammar/8/examples/401.png",
-                "image_width": 1217,
-                "image_height": 96
+                "image_width": 918,
+                "image_height": 77
             },
             {
                 "j": "彼⼥は少しずつ回復している。",
                 "e": "She is recovering little-by-little.",
                 "id": 402,
                 "image_path": "pkg:/images/grammar/N3Grammar/8/examples/402.png",
-                "image_width": 1138,
-                "image_height": 95
+                "image_width": 859,
+                "image_height": 77
             }
         ],
         "name": "ずつ",
