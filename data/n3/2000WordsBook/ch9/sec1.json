@@ -4,6 +4,18 @@
     "words" :
     [
         {
+            "word": "自然",
+            "meaning": "nature, spontaneous",
+            "furigana": "しぜん",
+            "level": 3
+        },
+        {
+            "word": "環境",
+            "meaning": "environment, circumstance",
+            "furigana": "かんきょう",
+            "level": 3
+        },
+        {
             "word": "豊か　な",
             "meaning": "Abundant, rich (anyting, metaphorical)",
             "furigana": "ゆたか　な",

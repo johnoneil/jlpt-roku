@@ -77,94 +77,94 @@
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "手段",
+            "meaning": "means, way, measure",
+            "furigana": "しゅだん",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "関心",
+            "meaning": "concern, interest",
+            "furigana": "かんしん",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
+            "word": "原因",
+            "meaning": "cause, source",
+            "furigana": "げんいん",
+            "level": 4
+        },
+        {
+            "word": "勤める",
+            "meaning": "to work for someone",
+            "furigana": "つとめる",
+            "level": 5
+        },
+        {
+            "word": "規則",
+            "meaning": "rules, regulations",
+            "furigana": "きそく",
+            "level": 4
+        },
+        {
+            "word": "割合",
+            "meaning": "rate, ratio, percentage",
+            "furigana": "わりあい",
+            "level": 4
+        },
+        {
+            "word": "くたびれる",
+            "meaning": "to get tired, to wear out",
             "furigana": "",
+            "level": 2
+        },
+        {
+            "word": "寂しい",
+            "meaning": "lonely",
+            "furigana": "さびしい",
+            "level": 4
+        },
+        {
+            "word": "係",
+            "meaning": "official, duty, person in charge",
+            "furigana": "かかり",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "応接室",
+            "meaning": "office reception",
+            "furigana": "おうせつしつ",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "普段",
+            "meaning": "usually, habitually, ordinarily, always",
+            "furigana": "ふだん",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "出勤",
+            "meaning": "going to work, at work",
+            "furigana": "しゅっきん",
+            "level": 2
+        },
+        {
+            "word": "就職",
+            "meaning": "finding a job",
+            "furigana": "しゅうしょく",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "主に",
+            "meaning": "mainly, primarily",
+            "furigana": "おもに",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
-            "level": 3
-        },
-        {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
-            "level": 3
-        },
-        {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
-            "level": 3
-        },
-        {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
-            "level": 3
-        },
-        {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
-            "level": 3
-        },
-        {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
-            "level": 3
-        },
-        {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
-            "level": 3
-        },
-        {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
-            "level": 3
+            "word": "文房具",
+            "meaning": "stationery",
+            "furigana": "ぶんぼうぐ",
+            "level": 2
         }
     ]
 }

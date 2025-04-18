@@ -758,7 +758,7 @@
     - j: 彼⼥はお⾦持ちのくせにケチだ。
       e: Although she is rich, she is very frugal with her money.
     - j: 元気なくせに、病気のふりをしている。
-      e: Despite being tall, he cannot run fast.
+      e: Although he is healthy, he is pretending to be sick.
 
 まるで:
   meaning: just like; as if; as though
@@ -794,7 +794,7 @@
     - j: こんなチャンスは滅多にないよ。
       e: You won't have a second chance like this.
 
-めったに〜ない:
+も〜ば〜も:
   meaning: hardly; rarely; seldom
   use:
     - Noun-1 + も + Verb(ば form) + Noun-2 + も
