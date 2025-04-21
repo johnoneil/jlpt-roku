@@ -1,49 +1,49 @@
 {
-    "title_jpn" : "",
-    "title_eng" : "",
+    "title_jpn" : "余分(よぶん)",
+    "title_eng" : "Extra",
     "words" :
     [
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "修理",
+            "meaning": "repairing, mending",
+            "furigana": "しゅうり",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "整理",
+            "meaning": "sorting, arrangement, adjustment, regulation",
+            "furigana": "せいり",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "扱う",
+            "meaning": "to handle, to deal with, to treat",
+            "furigana": "あつかう",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "感想",
+            "meaning": "impressions, thoughts",
+            "furigana": "かんそう",
+            "level": 2
+        },
+        {
+            "word": "指導",
+            "meaning": "leadership, guidance, coaching",
+            "furigana": "しどう",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
+            "word": "指導者",
+            "meaning": "leader; guide; mentor; coach",
+            "furigana": "しどうしゃ",
             "level": 3
         },
         {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
-            "level": 3
-        },
-        {
-            "word": "",
-            "meaning": "",
-            "furigana": "",
-            "level": 3
+            "word": "応援",
+            "meaning": "aid, assistance, help, reinforcement",
+            "furigana": "おうえん",
+            "level": 2
         },
         {
             "word": "",

@@ -3014,8 +3014,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "清潔な",
-        "meaning": "clean",
+        "word": "清潔　な",
+        "meaning": "clean, sanitary",
         "furigana": "せいけつな",
         "romaji": "",
         "level": 3,
@@ -13408,9 +13408,9 @@ end function
 function Chapter9Section1_database() as Object
 d = [
     {
-        "word": "豊か　な",
-        "meaning": "Abundant, rich (anyting, metaphorical)",
-        "furigana": "ゆたか　な",
+        "word": "自然",
+        "meaning": "nature, spontaneous",
+        "furigana": "しぜん",
         "level": 3,
         "word_number": 979,
         "image_path": "pkg:/images/Chapter9Section1/979.png",
@@ -13421,9 +13421,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "豊富　な",
-        "meaning": "an abundance of things.",
-        "furigana": "ほうふ　な",
+        "word": "環境",
+        "meaning": "environment, circumstance",
+        "furigana": "かんきょう",
         "level": 3,
         "word_number": 980,
         "image_path": "pkg:/images/Chapter9Section1/980.png",
@@ -13434,9 +13434,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "資源",
-        "meaning": "resource",
-        "furigana": "しげん",
+        "word": "豊か　な",
+        "meaning": "Abundant, rich (anyting, metaphorical)",
+        "furigana": "ゆたか　な",
         "level": 3,
         "word_number": 981,
         "image_path": "pkg:/images/Chapter9Section1/981.png",
@@ -13447,9 +13447,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "種類",
-        "meaning": "type, kind",
-        "furigana": "しゅるい",
+        "word": "豊富　な",
+        "meaning": "an abundance of things.",
+        "furigana": "ほうふ　な",
         "level": 3,
         "word_number": 982,
         "image_path": "pkg:/images/Chapter9Section1/982.png",
@@ -13460,9 +13460,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "枯れる",
-        "meaning": "to wither",
-        "furigana": "かれる",
+        "word": "資源",
+        "meaning": "resource",
+        "furigana": "しげん",
         "level": 3,
         "word_number": 983,
         "image_path": "pkg:/images/Chapter9Section1/983.png",
@@ -13473,9 +13473,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "草",
-        "meaning": "grass",
-        "furigana": "くさ",
+        "word": "種類",
+        "meaning": "type, kind",
+        "furigana": "しゅるい",
         "level": 3,
         "word_number": 984,
         "image_path": "pkg:/images/Chapter9Section1/984.png",
@@ -13486,9 +13486,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "雑草",
-        "meaning": "weed",
-        "furigana": "ざっそう",
+        "word": "枯れる",
+        "meaning": "to wither",
+        "furigana": "かれる",
         "level": 3,
         "word_number": 985,
         "image_path": "pkg:/images/Chapter9Section1/985.png",
@@ -13499,9 +13499,9 @@ d = [
         "furigana_image_height": 94
     },
     {
-        "word": "種",
-        "meaning": "seed",
-        "furigana": "たね",
+        "word": "草",
+        "meaning": "grass",
+        "furigana": "くさ",
         "level": 3,
         "word_number": 986,
         "image_path": "pkg:/images/Chapter9Section1/986.png",
@@ -13512,9 +13512,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "浮かぶ",
-        "meaning": "to float",
-        "furigana": "うかぶ",
+        "word": "雑草",
+        "meaning": "weed",
+        "furigana": "ざっそう",
         "level": 3,
         "word_number": 987,
         "image_path": "pkg:/images/Chapter9Section1/987.png",
@@ -13525,9 +13525,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "太陽",
-        "meaning": "sun",
-        "furigana": "たいよう",
+        "word": "種",
+        "meaning": "seed",
+        "furigana": "たね",
         "level": 3,
         "word_number": 988,
         "image_path": "pkg:/images/Chapter9Section1/988.png",
@@ -13538,9 +13538,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "表れる",
-        "meaning": "to appear",
-        "furigana": "あらわれる",
+        "word": "浮かぶ",
+        "meaning": "to float",
+        "furigana": "うかぶ",
         "level": 3,
         "word_number": 989,
         "image_path": "pkg:/images/Chapter9Section1/989.png",
@@ -13551,9 +13551,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "沈む",
-        "meaning": "to sink, go down",
-        "furigana": "しずむ",
+        "word": "太陽",
+        "meaning": "sun",
+        "furigana": "たいよう",
         "level": 3,
         "word_number": 990,
         "image_path": "pkg:/images/Chapter9Section1/990.png",
@@ -13564,9 +13564,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "薄暗い",
-        "meaning": "dim, gloomy",
-        "furigana": "うすぐらい",
+        "word": "表れる",
+        "meaning": "to appear",
+        "furigana": "あらわれる",
         "level": 3,
         "word_number": 991,
         "image_path": "pkg:/images/Chapter9Section1/991.png",
@@ -13577,9 +13577,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "穴",
-        "meaning": "hole",
-        "furigana": "あな",
+        "word": "沈む",
+        "meaning": "to sink, go down",
+        "furigana": "しずむ",
         "level": 3,
         "word_number": 992,
         "image_path": "pkg:/images/Chapter9Section1/992.png",
@@ -13590,9 +13590,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "ほる",
-        "meaning": "to dig",
-        "furigana": "",
+        "word": "薄暗い",
+        "meaning": "dim, gloomy",
+        "furigana": "うすぐらい",
         "level": 3,
         "word_number": 993,
         "image_path": "pkg:/images/Chapter9Section1/993.png",
@@ -13603,9 +13603,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "埋める",
-        "meaning": "to bury",
-        "furigana": "うめる",
+        "word": "穴",
+        "meaning": "hole",
+        "furigana": "あな",
         "level": 3,
         "word_number": 994,
         "image_path": "pkg:/images/Chapter9Section1/994.png",
@@ -13616,9 +13616,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "土",
-        "meaning": "soil",
-        "furigana": "つち",
+        "word": "ほる",
+        "meaning": "to dig",
+        "furigana": "",
         "level": 3,
         "word_number": 995,
         "image_path": "pkg:/images/Chapter9Section1/995.png",
@@ -13629,9 +13629,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "岩",
-        "meaning": "rock, boulder",
-        "furigana": "いわ",
+        "word": "埋める",
+        "meaning": "to bury",
+        "furigana": "うめる",
         "level": 3,
         "word_number": 996,
         "image_path": "pkg:/images/Chapter9Section1/996.png",
@@ -13642,9 +13642,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "火山",
-        "meaning": "volcano",
-        "furigana": "かざん",
+        "word": "土",
+        "meaning": "soil",
+        "furigana": "つち",
         "level": 3,
         "word_number": 997,
         "image_path": "pkg:/images/Chapter9Section1/997.png",
@@ -13655,9 +13655,9 @@ d = [
         "furigana_image_height": 94
     },
     {
-        "word": "想像　する",
-        "meaning": "imagining",
-        "furigana": "そうぞう　する",
+        "word": "岩",
+        "meaning": "rock, boulder",
+        "furigana": "いわ",
         "level": 3,
         "word_number": 998,
         "image_path": "pkg:/images/Chapter9Section1/998.png",
@@ -13668,9 +13668,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "見上げる",
-        "meaning": "to look up",
-        "furigana": "みあげる",
+        "word": "火山",
+        "meaning": "volcano",
+        "furigana": "かざん",
         "level": 3,
         "word_number": 999,
         "image_path": "pkg:/images/Chapter9Section1/999.png",
@@ -13681,9 +13681,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "見下ろす",
-        "meaning": "to look down",
-        "furigana": "みおろす",
+        "word": "想像　する",
+        "meaning": "imagining",
+        "furigana": "そうぞう　する",
         "level": 3,
         "word_number": 1000,
         "image_path": "pkg:/images/Chapter9Section1/1000.png",
@@ -13694,9 +13694,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "吠える",
-        "meaning": "to howl",
-        "furigana": "ほえる",
+        "word": "見上げる",
+        "meaning": "to look up",
+        "furigana": "みあげる",
         "level": 3,
         "word_number": 1001,
         "image_path": "pkg:/images/Chapter9Section1/1001.png",
@@ -13707,9 +13707,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "しっぽ",
-        "meaning": "tail",
-        "furigana": "",
+        "word": "見下ろす",
+        "meaning": "to look down",
+        "furigana": "みおろす",
         "level": 3,
         "word_number": 1002,
         "image_path": "pkg:/images/Chapter9Section1/1002.png",
@@ -13720,15 +13720,41 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "さびる",
-        "meaning": "to rust",
-        "furigana": "",
+        "word": "吠える",
+        "meaning": "to howl",
+        "furigana": "ほえる",
         "level": 3,
         "word_number": 1003,
         "image_path": "pkg:/images/Chapter9Section1/1003.png",
         "image_width": 262,
         "image_height": 91,
         "furigana_image_path": "pkg:/images/Chapter9Section1/furigana_1003.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "しっぽ",
+        "meaning": "tail",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1004,
+        "image_path": "pkg:/images/Chapter9Section1/1004.png",
+        "image_width": 262,
+        "image_height": 94,
+        "furigana_image_path": "pkg:/images/Chapter9Section1/furigana_1004.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "さびる",
+        "meaning": "to rust",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1005,
+        "image_path": "pkg:/images/Chapter9Section1/1005.png",
+        "image_width": 262,
+        "image_height": 91,
+        "furigana_image_path": "pkg:/images/Chapter9Section1/furigana_1005.png",
         "furigana_image_width": 22,
         "furigana_image_height": 22
     }
@@ -13742,32 +13768,6 @@ d = [
         "meaning": "expectation, prediction",
         "furigana": "よそう　する",
         "level": 3,
-        "word_number": 1004,
-        "image_path": "pkg:/images/Chapter9Section2/1004.png",
-        "image_width": 422,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter9Section2/furigana_1004.png",
-        "furigana_image_width": 502,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "予報　する",
-        "meaning": "forecast",
-        "furigana": "よほう　する",
-        "level": 3,
-        "word_number": 1005,
-        "image_path": "pkg:/images/Chapter9Section2/1005.png",
-        "image_width": 422,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter9Section2/furigana_1005.png",
-        "furigana_image_width": 502,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "湿度",
-        "meaning": "level of humidity",
-        "furigana": "しつど",
-        "level": 3,
         "word_number": 1006,
         "image_path": "pkg:/images/Chapter9Section2/1006.png",
         "image_width": 182,
@@ -13777,9 +13777,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "湿気",
-        "meaning": "humidity, moisture",
-        "furigana": "しっけ",
+        "word": "予報　する",
+        "meaning": "forecast",
+        "furigana": "よほう　する",
         "level": 3,
         "word_number": 1007,
         "image_path": "pkg:/images/Chapter9Section2/1007.png",
@@ -13790,9 +13790,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "曇る",
-        "meaning": "to be cloudy",
-        "furigana": "くもる",
+        "word": "湿度",
+        "meaning": "level of humidity",
+        "furigana": "しつど",
         "level": 3,
         "word_number": 1008,
         "image_path": "pkg:/images/Chapter9Section2/1008.png",
@@ -13803,9 +13803,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "嵐",
-        "meaning": "storm",
-        "furigana": "あらし",
+        "word": "湿気",
+        "meaning": "humidity, moisture",
+        "furigana": "しっけ",
         "level": 3,
         "word_number": 1009,
         "image_path": "pkg:/images/Chapter9Section2/1009.png",
@@ -13816,9 +13816,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "強風",
-        "meaning": "strong wind",
-        "furigana": "きょうふう",
+        "word": "曇る",
+        "meaning": "to be cloudy",
+        "furigana": "くもる",
         "level": 3,
         "word_number": 1010,
         "image_path": "pkg:/images/Chapter9Section2/1010.png",
@@ -13829,9 +13829,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "大雨",
-        "meaning": "heavy rain",
-        "furigana": "おおあめ",
+        "word": "嵐",
+        "meaning": "storm",
+        "furigana": "あらし",
         "level": 3,
         "word_number": 1011,
         "image_path": "pkg:/images/Chapter9Section2/1011.png",
@@ -13842,9 +13842,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "折りたたみ傘",
-        "meaning": "folding umbrella",
-        "furigana": "おりたたみかさ",
+        "word": "強風",
+        "meaning": "strong wind",
+        "furigana": "きょうふう",
         "level": 3,
         "word_number": 1012,
         "image_path": "pkg:/images/Chapter9Section2/1012.png",
@@ -13855,9 +13855,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "（傘を）さす",
-        "meaning": "to open (an umbrella)",
-        "furigana": "（かさを）さす",
+        "word": "大雨",
+        "meaning": "heavy rain",
+        "furigana": "おおあめ",
         "level": 3,
         "word_number": 1013,
         "image_path": "pkg:/images/Chapter9Section2/1013.png",
@@ -13868,9 +13868,9 @@ d = [
         "furigana_image_height": 99
     },
     {
-        "word": "いわか雨",
-        "meaning": "rain shower",
-        "furigana": "いわかあめ",
+        "word": "折りたたみ傘",
+        "meaning": "folding umbrella",
+        "furigana": "おりたたみかさ",
         "level": 3,
         "word_number": 1014,
         "image_path": "pkg:/images/Chapter9Section2/1014.png",
@@ -13881,9 +13881,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "いわかに",
-        "meaning": "happened so suddenly it could not have been predicted.",
-        "furigana": "",
+        "word": "（傘を）さす",
+        "meaning": "to open (an umbrella)",
+        "furigana": "（かさを）さす",
         "level": 3,
         "word_number": 1015,
         "image_path": "pkg:/images/Chapter9Section2/1015.png",
@@ -13894,9 +13894,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "突然",
-        "meaning": "suddenly",
-        "furigana": "とつぜん",
+        "word": "いわか雨",
+        "meaning": "rain shower",
+        "furigana": "いわかあめ",
         "level": 3,
         "word_number": 1016,
         "image_path": "pkg:/images/Chapter9Section2/1016.png",
@@ -13907,8 +13907,8 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "とたん　に",
-        "meaning": "as soon as, in the moment that",
+        "word": "いわかに",
+        "meaning": "happened so suddenly it could not have been predicted.",
         "furigana": "",
         "level": 3,
         "word_number": 1017,
@@ -13920,9 +13920,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "濡れる",
-        "meaning": "to get wet",
-        "furigana": "ぬれる",
+        "word": "突然",
+        "meaning": "suddenly",
+        "furigana": "とつぜん",
         "level": 3,
         "word_number": 1018,
         "image_path": "pkg:/images/Chapter9Section2/1018.png",
@@ -13933,9 +13933,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "あっという間",
-        "meaning": "in the blink of an eye",
-        "furigana": "あっというま",
+        "word": "とたん　に",
+        "meaning": "as soon as, in the moment that",
+        "furigana": "",
         "level": 3,
         "word_number": 1019,
         "image_path": "pkg:/images/Chapter9Section2/1019.png",
@@ -13946,9 +13946,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "止む",
-        "meaning": "to stop (e.g. rain)",
-        "furigana": "やむ",
+        "word": "濡れる",
+        "meaning": "to get wet",
+        "furigana": "ぬれる",
         "level": 3,
         "word_number": 1020,
         "image_path": "pkg:/images/Chapter9Section2/1020.png",
@@ -13959,9 +13959,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "ところどころ",
-        "meaning": "here and there",
-        "furigana": "",
+        "word": "あっという間",
+        "meaning": "in the blink of an eye",
+        "furigana": "あっというま",
         "level": 3,
         "word_number": 1021,
         "image_path": "pkg:/images/Chapter9Section2/1021.png",
@@ -13972,9 +13972,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "積もる",
-        "meaning": "to pile up, to accumulate (e.g. snow)",
-        "furigana": "つもる",
+        "word": "止む",
+        "meaning": "to stop (e.g. rain)",
+        "furigana": "やむ",
         "level": 3,
         "word_number": 1022,
         "image_path": "pkg:/images/Chapter9Section2/1022.png",
@@ -13985,9 +13985,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "快晴",
-        "meaning": "clear weather",
-        "furigana": "かいせい",
+        "word": "ところどころ",
+        "meaning": "here and there",
+        "furigana": "",
         "level": 3,
         "word_number": 1023,
         "image_path": "pkg:/images/Chapter9Section2/1023.png",
@@ -13998,9 +13998,9 @@ d = [
         "furigana_image_height": 86
     },
     {
-        "word": "輝く",
-        "meaning": "to shine",
-        "furigana": "かがやく",
+        "word": "積もる",
+        "meaning": "to pile up, to accumulate (e.g. snow)",
+        "furigana": "つもる",
         "level": 3,
         "word_number": 1024,
         "image_path": "pkg:/images/Chapter9Section2/1024.png",
@@ -14011,9 +14011,9 @@ d = [
         "furigana_image_height": 93
     },
     {
-        "word": "まぶしい",
-        "meaning": "blinding, overly bright",
-        "furigana": "",
+        "word": "快晴",
+        "meaning": "clear weather",
+        "furigana": "かいせい",
         "level": 3,
         "word_number": 1025,
         "image_path": "pkg:/images/Chapter9Section2/1025.png",
@@ -14024,9 +14024,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "のち",
-        "meaning": "later",
-        "furigana": "",
+        "word": "輝く",
+        "meaning": "to shine",
+        "furigana": "かがやく",
         "level": 3,
         "word_number": 1026,
         "image_path": "pkg:/images/Chapter9Section2/1026.png",
@@ -14037,9 +14037,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "当たる",
-        "meaning": "to be right, to be correct",
-        "furigana": "あたる",
+        "word": "まぶしい",
+        "meaning": "blinding, overly bright",
+        "furigana": "",
         "level": 3,
         "word_number": 1027,
         "image_path": "pkg:/images/Chapter9Section2/1027.png",
@@ -14050,9 +14050,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "故郷",
-        "meaning": "hometown",
-        "furigana": "ふるさと",
+        "word": "のち",
+        "meaning": "later",
+        "furigana": "",
         "level": 3,
         "word_number": 1028,
         "image_path": "pkg:/images/Chapter9Section2/1028.png",
@@ -14063,15 +14063,41 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "やむを得ない",
-        "meaning": "can't be helped",
-        "furigana": "やむをえない",
+        "word": "当たる",
+        "meaning": "to be right, to be correct",
+        "furigana": "あたる",
         "level": 3,
         "word_number": 1029,
         "image_path": "pkg:/images/Chapter9Section2/1029.png",
         "image_width": 502,
         "image_height": 95,
         "furigana_image_path": "pkg:/images/Chapter9Section2/furigana_1029.png",
+        "furigana_image_width": 502,
+        "furigana_image_height": 89
+    },
+    {
+        "word": "故郷",
+        "meaning": "hometown",
+        "furigana": "ふるさと",
+        "level": 3,
+        "word_number": 1030,
+        "image_path": "pkg:/images/Chapter9Section2/1030.png",
+        "image_width": 182,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter9Section2/furigana_1030.png",
+        "furigana_image_width": 342,
+        "furigana_image_height": 88
+    },
+    {
+        "word": "やむを得ない",
+        "meaning": "can't be helped",
+        "furigana": "やむをえない",
+        "level": 3,
+        "word_number": 1031,
+        "image_path": "pkg:/images/Chapter9Section2/1031.png",
+        "image_width": 502,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter9Section2/furigana_1031.png",
         "furigana_image_width": 502,
         "furigana_image_height": 89
     }
@@ -14085,32 +14111,6 @@ d = [
         "meaning": "humid",
         "furigana": "むしあつい",
         "level": 3,
-        "word_number": 1030,
-        "image_path": "pkg:/images/Chapter9Section3/1030.png",
-        "image_width": 342,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter9Section3/furigana_1030.png",
-        "furigana_image_width": 422,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "温度計",
-        "meaning": "thermometer",
-        "furigana": "おんどけい",
-        "level": 3,
-        "word_number": 1031,
-        "image_path": "pkg:/images/Chapter9Section3/1031.png",
-        "image_width": 262,
-        "image_height": 96,
-        "furigana_image_path": "pkg:/images/Chapter9Section3/furigana_1031.png",
-        "furigana_image_width": 420,
-        "furigana_image_height": 90
-    },
-    {
-        "word": "プラス",
-        "meaning": "plus, higher",
-        "furigana": "",
-        "level": 3,
         "word_number": 1032,
         "image_path": "pkg:/images/Chapter9Section3/1032.png",
         "image_width": 260,
@@ -14120,9 +14120,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "マイナス",
-        "meaning": "minus, lower",
-        "furigana": "",
+        "word": "温度計",
+        "meaning": "thermometer",
+        "furigana": "おんどけい",
         "level": 3,
         "word_number": 1033,
         "image_path": "pkg:/images/Chapter9Section3/1033.png",
@@ -14133,9 +14133,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "凍る",
-        "meaning": "to freeze",
-        "furigana": "こおる",
+        "word": "プラス",
+        "meaning": "plus, higher",
+        "furigana": "",
         "level": 3,
         "word_number": 1034,
         "image_path": "pkg:/images/Chapter9Section3/1034.png",
@@ -14146,9 +14146,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "氷",
-        "meaning": "ice",
-        "furigana": "こおり",
+        "word": "マイナス",
+        "meaning": "minus, lower",
+        "furigana": "",
         "level": 3,
         "word_number": 1035,
         "image_path": "pkg:/images/Chapter9Section3/1035.png",
@@ -14159,9 +14159,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "冷える",
-        "meaning": "to chill",
-        "furigana": "ひえる",
+        "word": "凍る",
+        "meaning": "to freeze",
+        "furigana": "こおる",
         "level": 3,
         "word_number": 1036,
         "image_path": "pkg:/images/Chapter9Section3/1036.png",
@@ -14172,9 +14172,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "結構",
-        "meaning": "pretty, quite, considerably",
-        "furigana": "けっこう",
+        "word": "氷",
+        "meaning": "ice",
+        "furigana": "こおり",
         "level": 3,
         "word_number": 1037,
         "image_path": "pkg:/images/Chapter9Section3/1037.png",
@@ -14185,9 +14185,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "非常　な",
-        "meaning": "severly, extremely",
-        "furigana": "ひじょう　な",
+        "word": "冷える",
+        "meaning": "to chill",
+        "furigana": "ひえる",
         "level": 3,
         "word_number": 1038,
         "image_path": "pkg:/images/Chapter9Section3/1038.png",
@@ -14198,9 +14198,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "夏日",
-        "meaning": "summer day",
-        "furigana": "なつび",
+        "word": "結構",
+        "meaning": "pretty, quite, considerably",
+        "furigana": "けっこう",
         "level": 3,
         "word_number": 1039,
         "image_path": "pkg:/images/Chapter9Section3/1039.png",
@@ -14211,9 +14211,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "真夏日",
-        "meaning": "tropical day",
-        "furigana": "まなつび",
+        "word": "非常　な",
+        "meaning": "severly, extremely",
+        "furigana": "ひじょう　な",
         "level": 3,
         "word_number": 1040,
         "image_path": "pkg:/images/Chapter9Section3/1040.png",
@@ -14224,9 +14224,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "猛暑日",
-        "meaning": "extremely hot day",
-        "furigana": "もうしょび",
+        "word": "夏日",
+        "meaning": "summer day",
+        "furigana": "なつび",
         "level": 3,
         "word_number": 1041,
         "image_path": "pkg:/images/Chapter9Section3/1041.png",
@@ -14237,9 +14237,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "冬び",
-        "meaning": "chilly day",
-        "furigana": "ふゆび",
+        "word": "真夏日",
+        "meaning": "tropical day",
+        "furigana": "まなつび",
         "level": 3,
         "word_number": 1042,
         "image_path": "pkg:/images/Chapter9Section3/1042.png",
@@ -14250,9 +14250,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "真冬日",
-        "meaning": "ice day",
-        "furigana": "まふゆび",
+        "word": "猛暑日",
+        "meaning": "extremely hot day",
+        "furigana": "もうしょび",
         "level": 3,
         "word_number": 1043,
         "image_path": "pkg:/images/Chapter9Section3/1043.png",
@@ -14263,9 +14263,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "暖冬",
-        "meaning": "warm winter",
-        "furigana": "だんとう",
+        "word": "冬び",
+        "meaning": "chilly day",
+        "furigana": "ふゆび",
         "level": 3,
         "word_number": 1044,
         "image_path": "pkg:/images/Chapter9Section3/1044.png",
@@ -14276,9 +14276,9 @@ d = [
         "furigana_image_height": 86
     },
     {
-        "word": "冷夏",
-        "meaning": "cold summer",
-        "furigana": "れいか",
+        "word": "真冬日",
+        "meaning": "ice day",
+        "furigana": "まふゆび",
         "level": 3,
         "word_number": 1045,
         "image_path": "pkg:/images/Chapter9Section3/1045.png",
@@ -14289,15 +14289,41 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "せっかく",
-        "meaning": "at long last, with considerably effort, at great pains",
-        "furigana": "",
+        "word": "暖冬",
+        "meaning": "warm winter",
+        "furigana": "だんとう",
         "level": 3,
         "word_number": 1046,
         "image_path": "pkg:/images/Chapter9Section3/1046.png",
         "image_width": 342,
         "image_height": 89,
         "furigana_image_path": "pkg:/images/Chapter9Section3/furigana_1046.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "冷夏",
+        "meaning": "cold summer",
+        "furigana": "れいか",
+        "level": 3,
+        "word_number": 1047,
+        "image_path": "pkg:/images/Chapter9Section3/1047.png",
+        "image_width": 182,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter9Section3/furigana_1047.png",
+        "furigana_image_width": 262,
+        "furigana_image_height": 88
+    },
+    {
+        "word": "せっかく",
+        "meaning": "at long last, with considerably effort, at great pains",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1048,
+        "image_path": "pkg:/images/Chapter9Section3/1048.png",
+        "image_width": 342,
+        "image_height": 89,
+        "furigana_image_path": "pkg:/images/Chapter9Section3/furigana_1048.png",
         "furigana_image_width": 22,
         "furigana_image_height": 22
     }
@@ -14311,32 +14337,6 @@ d = [
         "meaning": "condition, status",
         "furigana": "じょうたい",
         "level": 3,
-        "word_number": 1047,
-        "image_path": "pkg:/images/Chapter9Section4/1047.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter9Section4/furigana_1047.png",
-        "furigana_image_width": 422,
-        "furigana_image_height": 89
-    },
-    {
-        "word": "変化　する",
-        "meaning": "change",
-        "furigana": "へんか　する",
-        "level": 3,
-        "word_number": 1048,
-        "image_path": "pkg:/images/Chapter9Section4/1048.png",
-        "image_width": 422,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter9Section4/furigana_1048.png",
-        "furigana_image_width": 502,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "一定　する",
-        "meaning": "fixed, set",
-        "furigana": "いってい　する",
-        "level": 3,
         "word_number": 1049,
         "image_path": "pkg:/images/Chapter9Section4/1049.png",
         "image_width": 422,
@@ -14346,9 +14346,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "観察　する",
-        "meaning": "observing, watching",
-        "furigana": "かんさつ　する",
+        "word": "変化　する",
+        "meaning": "change",
+        "furigana": "へんか　する",
         "level": 3,
         "word_number": 1050,
         "image_path": "pkg:/images/Chapter9Section4/1050.png",
@@ -14359,9 +14359,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "次第に",
-        "meaning": "gradually",
-        "furigana": "しだいに",
+        "word": "一定　する",
+        "meaning": "fixed, set",
+        "furigana": "いってい　する",
         "level": 3,
         "word_number": 1051,
         "image_path": "pkg:/images/Chapter9Section4/1051.png",
@@ -14372,9 +14372,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "じょじょに",
-        "meaning": "gradually, steadily",
-        "furigana": "",
+        "word": "観察　する",
+        "meaning": "observing, watching",
+        "furigana": "かんさつ　する",
         "level": 3,
         "word_number": 1052,
         "image_path": "pkg:/images/Chapter9Section4/1052.png",
@@ -14385,9 +14385,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "だんだん　と",
-        "meaning": "gradually, by degrees",
-        "furigana": "",
+        "word": "次第に",
+        "meaning": "gradually",
+        "furigana": "しだいに",
         "level": 3,
         "word_number": 1053,
         "image_path": "pkg:/images/Chapter9Section4/1053.png",
@@ -14398,8 +14398,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "ますます",
-        "meaning": "more and more, increasingely",
+        "word": "じょじょに",
+        "meaning": "gradually, steadily",
         "furigana": "",
         "level": 3,
         "word_number": 1054,
@@ -14411,8 +14411,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "すっかり",
-        "meaning": "completely, thoroughly",
+        "word": "だんだん　と",
+        "meaning": "gradually, by degrees",
         "furigana": "",
         "level": 3,
         "word_number": 1055,
@@ -14424,9 +14424,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "一気に",
-        "meaning": "all of a sudden",
-        "furigana": "いっきに",
+        "word": "ますます",
+        "meaning": "more and more, increasingely",
+        "furigana": "",
         "level": 3,
         "word_number": 1056,
         "image_path": "pkg:/images/Chapter9Section4/1056.png",
@@ -14437,9 +14437,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "一度に",
-        "meaning": "all at once",
-        "furigana": "いちどに",
+        "word": "すっかり",
+        "meaning": "completely, thoroughly",
+        "furigana": "",
         "level": 3,
         "word_number": 1057,
         "image_path": "pkg:/images/Chapter9Section4/1057.png",
@@ -14450,9 +14450,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "いっぺんい",
-        "meaning": "all together, at one time",
-        "furigana": "",
+        "word": "一気に",
+        "meaning": "all of a sudden",
+        "furigana": "いっきに",
         "level": 3,
         "word_number": 1058,
         "image_path": "pkg:/images/Chapter9Section4/1058.png",
@@ -14463,9 +14463,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "いつの間にか",
-        "meaning": "before one knows it",
-        "furigana": "いつのまにか",
+        "word": "一度に",
+        "meaning": "all at once",
+        "furigana": "いちどに",
         "level": 3,
         "word_number": 1059,
         "image_path": "pkg:/images/Chapter9Section4/1059.png",
@@ -14476,9 +14476,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "温暖化",
-        "meaning": "warming, global warming",
-        "furigana": "おんだんか",
+        "word": "いっぺんい",
+        "meaning": "all together, at one time",
+        "furigana": "",
         "level": 3,
         "word_number": 1060,
         "image_path": "pkg:/images/Chapter9Section4/1060.png",
@@ -14489,9 +14489,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "影響　する",
-        "meaning": "influence",
-        "furigana": "えいきょう　する",
+        "word": "いつの間にか",
+        "meaning": "before one knows it",
+        "furigana": "いつのまにか",
         "level": 3,
         "word_number": 1061,
         "image_path": "pkg:/images/Chapter9Section4/1061.png",
@@ -14502,15 +14502,41 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "変　な",
-        "meaning": "strange",
-        "furigana": "へん　な",
+        "word": "温暖化",
+        "meaning": "warming, global warming",
+        "furigana": "おんだんか",
         "level": 3,
         "word_number": 1062,
         "image_path": "pkg:/images/Chapter9Section4/1062.png",
         "image_width": 262,
         "image_height": 95,
         "furigana_image_path": "pkg:/images/Chapter9Section4/furigana_1062.png",
+        "furigana_image_width": 342,
+        "furigana_image_height": 88
+    },
+    {
+        "word": "影響　する",
+        "meaning": "influence",
+        "furigana": "えいきょう　する",
+        "level": 3,
+        "word_number": 1063,
+        "image_path": "pkg:/images/Chapter9Section4/1063.png",
+        "image_width": 422,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter9Section4/furigana_1063.png",
+        "furigana_image_width": 662,
+        "furigana_image_height": 89
+    },
+    {
+        "word": "変　な",
+        "meaning": "strange",
+        "furigana": "へん　な",
+        "level": 3,
+        "word_number": 1064,
+        "image_path": "pkg:/images/Chapter9Section4/1064.png",
+        "image_width": 262,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter9Section4/furigana_1064.png",
         "furigana_image_width": 342,
         "furigana_image_height": 88
     }
@@ -14524,32 +14550,6 @@ d = [
         "meaning": "holiday",
         "furigana": "しゅくじつ",
         "level": 3,
-        "word_number": 1063,
-        "image_path": "pkg:/images/Chapter9Section5/1063.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter9Section5/furigana_1063.png",
-        "furigana_image_width": 422,
-        "furigana_image_height": 91
-    },
-    {
-        "word": "年末年次",
-        "meaning": "New Year's holiday",
-        "furigana": "ねんまつねんし",
-        "level": 3,
-        "word_number": 1064,
-        "image_path": "pkg:/images/Chapter9Section5/1064.png",
-        "image_width": 342,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter9Section5/furigana_1064.png",
-        "furigana_image_width": 582,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "元日",
-        "meaning": "New Year's day",
-        "furigana": "ガンじつ",
-        "level": 3,
         "word_number": 1065,
         "image_path": "pkg:/images/Chapter9Section5/1065.png",
         "image_width": 182,
@@ -14559,9 +14559,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "迎える",
-        "meaning": "to receive, to welcome",
-        "furigana": "むかえる",
+        "word": "年末年次",
+        "meaning": "New Year's holiday",
+        "furigana": "ねんまつねんし",
         "level": 3,
         "word_number": 1066,
         "image_path": "pkg:/images/Chapter9Section5/1066.png",
@@ -14572,9 +14572,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "年賀状",
-        "meaning": "New year's card",
-        "furigana": "ねんがじょう",
+        "word": "元日",
+        "meaning": "New Year's day",
+        "furigana": "ガンじつ",
         "level": 3,
         "word_number": 1067,
         "image_path": "pkg:/images/Chapter9Section5/1067.png",
@@ -14585,9 +14585,9 @@ d = [
         "furigana_image_height": 93
     },
     {
-        "word": "お年玉",
-        "meaning": "New year's gift (usually given to young children)",
-        "furigana": "おとしだま",
+        "word": "迎える",
+        "meaning": "to receive, to welcome",
+        "furigana": "むかえる",
         "level": 3,
         "word_number": 1068,
         "image_path": "pkg:/images/Chapter9Section5/1068.png",
@@ -14598,9 +14598,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "成人の日",
-        "meaning": "Coming-of-age day (2nd Monday of January)",
-        "furigana": "せいじんのひ",
+        "word": "年賀状",
+        "meaning": "New year's card",
+        "furigana": "ねんがじょう",
         "level": 3,
         "word_number": 1069,
         "image_path": "pkg:/images/Chapter9Section5/1069.png",
@@ -14611,9 +14611,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "ひな祭り",
-        "meaning": "Girl's festival (March 3rd)",
-        "furigana": "ひなまつり",
+        "word": "お年玉",
+        "meaning": "New year's gift (usually given to young children)",
+        "furigana": "おとしだま",
         "level": 3,
         "word_number": 1070,
         "image_path": "pkg:/images/Chapter9Section5/1070.png",
@@ -14624,9 +14624,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "ゴールデンウイーク",
-        "meaning": "Golden week",
-        "furigana": "",
+        "word": "成人の日",
+        "meaning": "Coming-of-age day (2nd Monday of January)",
+        "furigana": "せいじんのひ",
         "level": 3,
         "word_number": 1071,
         "image_path": "pkg:/images/Chapter9Section5/1071.png",
@@ -14637,9 +14637,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "子供の日",
-        "meaning": "Children's day.  May 5th",
-        "furigana": "こどものひ",
+        "word": "ひな祭り",
+        "meaning": "Girl's festival (March 3rd)",
+        "furigana": "ひなまつり",
         "level": 3,
         "word_number": 1072,
         "image_path": "pkg:/images/Chapter9Section5/1072.png",
@@ -14650,9 +14650,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "母の日",
-        "meaning": "Mother's day. 2nd Sunday of May",
-        "furigana": "ははのひ",
+        "word": "ゴールデンウイーク",
+        "meaning": "Golden week",
+        "furigana": "",
         "level": 3,
         "word_number": 1073,
         "image_path": "pkg:/images/Chapter9Section5/1073.png",
@@ -14663,9 +14663,9 @@ d = [
         "furigana_image_height": 86
     },
     {
-        "word": "父の日",
-        "meaning": "Father's day. 3rd Sunday of June",
-        "furigana": "ちちのひ",
+        "word": "子供の日",
+        "meaning": "Children's day.  May 5th",
+        "furigana": "こどものひ",
         "level": 3,
         "word_number": 1074,
         "image_path": "pkg:/images/Chapter9Section5/1074.png",
@@ -14676,9 +14676,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "海の日",
-        "meaning": "Marine day. 3rd Monday of July.",
-        "furigana": "うみのひ",
+        "word": "母の日",
+        "meaning": "Mother's day. 2nd Sunday of May",
+        "furigana": "ははのひ",
         "level": 3,
         "word_number": 1075,
         "image_path": "pkg:/images/Chapter9Section5/1075.png",
@@ -14689,9 +14689,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "敬老の日",
-        "meaning": "Respect-for-the-aged Day. 3rd Monday of September.",
-        "furigana": "けいろうのひ",
+        "word": "父の日",
+        "meaning": "Father's day. 3rd Sunday of June",
+        "furigana": "ちちのひ",
         "level": 3,
         "word_number": 1076,
         "image_path": "pkg:/images/Chapter9Section5/1076.png",
@@ -14702,9 +14702,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "体育の日",
-        "meaning": "Sports Day. 2nd Monday of October.",
-        "furigana": "たいいくのひ",
+        "word": "海の日",
+        "meaning": "Marine day. 3rd Monday of July.",
+        "furigana": "うみのひ",
         "level": 3,
         "word_number": 1077,
         "image_path": "pkg:/images/Chapter9Section5/1077.png",
@@ -14715,9 +14715,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "もともと",
-        "meaning": "originally",
-        "furigana": "",
+        "word": "敬老の日",
+        "meaning": "Respect-for-the-aged Day. 3rd Monday of September.",
+        "furigana": "けいろうのひ",
         "level": 3,
         "word_number": 1078,
         "image_path": "pkg:/images/Chapter9Section5/1078.png",
@@ -14728,9 +14728,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "七五三",
-        "meaning": "Celebration of children's 3rd, 5th, and 7th birthdays. November 15th.",
-        "furigana": "しちごさん",
+        "word": "体育の日",
+        "meaning": "Sports Day. 2nd Monday of October.",
+        "furigana": "たいいくのひ",
         "level": 3,
         "word_number": 1079,
         "image_path": "pkg:/images/Chapter9Section5/1079.png",
@@ -14741,15 +14741,41 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "大みそか",
-        "meaning": "New year's eve.",
-        "furigana": "おおみそか",
+        "word": "もともと",
+        "meaning": "originally",
+        "furigana": "",
         "level": 3,
         "word_number": 1080,
         "image_path": "pkg:/images/Chapter9Section5/1080.png",
         "image_width": 342,
         "image_height": 95,
         "furigana_image_path": "pkg:/images/Chapter9Section5/furigana_1080.png",
+        "furigana_image_width": 422,
+        "furigana_image_height": 89
+    },
+    {
+        "word": "七五三",
+        "meaning": "Celebration of children's 3rd, 5th, and 7th birthdays. November 15th.",
+        "furigana": "しちごさん",
+        "level": 3,
+        "word_number": 1081,
+        "image_path": "pkg:/images/Chapter9Section5/1081.png",
+        "image_width": 262,
+        "image_height": 91,
+        "furigana_image_path": "pkg:/images/Chapter9Section5/furigana_1081.png",
+        "furigana_image_width": 422,
+        "furigana_image_height": 91
+    },
+    {
+        "word": "大みそか",
+        "meaning": "New year's eve.",
+        "furigana": "おおみそか",
+        "level": 3,
+        "word_number": 1082,
+        "image_path": "pkg:/images/Chapter9Section5/1082.png",
+        "image_width": 342,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter9Section5/furigana_1082.png",
         "furigana_image_width": 422,
         "furigana_image_height": 89
     }
@@ -14763,32 +14789,6 @@ d = [
         "meaning": "to be conveyed, to be passed along, to be communicated.",
         "furigana": "つたわる",
         "level": 3,
-        "word_number": 1081,
-        "image_path": "pkg:/images/Chapter10Section1/1081.png",
-        "image_width": 262,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter10Section1/furigana_1081.png",
-        "furigana_image_width": 342,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "うわさ　する",
-        "meaning": "rumor",
-        "furigana": "",
-        "level": 3,
-        "word_number": 1082,
-        "image_path": "pkg:/images/Chapter10Section1/1082.png",
-        "image_width": 502,
-        "image_height": 88,
-        "furigana_image_path": "pkg:/images/Chapter10Section1/furigana_1082.png",
-        "furigana_image_width": 22,
-        "furigana_image_height": 22
-    },
-    {
-        "word": "記事",
-        "meaning": "article",
-        "furigana": "きじ",
-        "level": 3,
         "word_number": 1083,
         "image_path": "pkg:/images/Chapter10Section1/1083.png",
         "image_width": 182,
@@ -14798,9 +14798,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "週刊誌",
-        "meaning": "weekly magazine",
-        "furigana": "しゅうかんし",
+        "word": "うわさ　する",
+        "meaning": "rumor",
+        "furigana": "",
         "level": 3,
         "word_number": 1084,
         "image_path": "pkg:/images/Chapter10Section1/1084.png",
@@ -14811,9 +14811,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "政治家",
-        "meaning": "politician",
-        "furigana": "せいじか",
+        "word": "記事",
+        "meaning": "article",
+        "furigana": "きじ",
         "level": 3,
         "word_number": 1085,
         "image_path": "pkg:/images/Chapter10Section1/1085.png",
@@ -14824,9 +14824,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "政府",
-        "meaning": "government",
-        "furigana": "せいふ",
+        "word": "週刊誌",
+        "meaning": "weekly magazine",
+        "furigana": "しゅうかんし",
         "level": 3,
         "word_number": 1086,
         "image_path": "pkg:/images/Chapter10Section1/1086.png",
@@ -14837,9 +14837,9 @@ d = [
         "furigana_image_height": 84
     },
     {
-        "word": "市民",
-        "meaning": "citizen",
-        "furigana": "しみん",
+        "word": "政治家",
+        "meaning": "politician",
+        "furigana": "せいじか",
         "level": 3,
         "word_number": 1087,
         "image_path": "pkg:/images/Chapter10Section1/1087.png",
@@ -14850,9 +14850,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "立場",
-        "meaning": "position, standpoint",
-        "furigana": "たちば",
+        "word": "政府",
+        "meaning": "government",
+        "furigana": "せいふ",
         "level": 3,
         "word_number": 1088,
         "image_path": "pkg:/images/Chapter10Section1/1088.png",
@@ -14863,9 +14863,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "世の中",
-        "meaning": "world, in the world",
-        "furigana": "よのなか",
+        "word": "市民",
+        "meaning": "citizen",
+        "furigana": "しみん",
         "level": 3,
         "word_number": 1089,
         "image_path": "pkg:/images/Chapter10Section1/1089.png",
@@ -14876,9 +14876,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "重大　な",
-        "meaning": "serious, important",
-        "furigana": "じゅうだい　な",
+        "word": "立場",
+        "meaning": "position, standpoint",
+        "furigana": "たちば",
         "level": 3,
         "word_number": 1090,
         "image_path": "pkg:/images/Chapter10Section1/1090.png",
@@ -14889,9 +14889,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "重要　な",
-        "meaning": "important",
-        "furigana": "じゅうよう　な",
+        "word": "世の中",
+        "meaning": "world, in the world",
+        "furigana": "よのなか",
         "level": 3,
         "word_number": 1091,
         "image_path": "pkg:/images/Chapter10Section1/1091.png",
@@ -14902,9 +14902,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "大して",
-        "meaning": "(not so) much. (not) very.",
-        "furigana": "たいして",
+        "word": "重大　な",
+        "meaning": "serious, important",
+        "furigana": "じゅうだい　な",
         "level": 3,
         "word_number": 1092,
         "image_path": "pkg:/images/Chapter10Section1/1092.png",
@@ -14915,9 +14915,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "くだらない",
-        "meaning": "trivial. good for nothing.",
-        "furigana": "",
+        "word": "重要　な",
+        "meaning": "important",
+        "furigana": "じゅうよう　な",
         "level": 3,
         "word_number": 1093,
         "image_path": "pkg:/images/Chapter10Section1/1093.png",
@@ -14928,9 +14928,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "司会者",
-        "meaning": "master of ceremonies",
-        "furigana": "しかいしゃ",
+        "word": "大して",
+        "meaning": "(not so) much. (not) very.",
+        "furigana": "たいして",
         "level": 3,
         "word_number": 1094,
         "image_path": "pkg:/images/Chapter10Section1/1094.png",
@@ -14941,9 +14941,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "生放送",
-        "meaning": "live broadcast",
-        "furigana": "なまほうそう",
+        "word": "くだらない",
+        "meaning": "trivial. good for nothing.",
+        "furigana": "",
         "level": 3,
         "word_number": 1095,
         "image_path": "pkg:/images/Chapter10Section1/1095.png",
@@ -14954,9 +14954,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "商品",
-        "meaning": "goods, merchandise",
-        "furigana": "しょうひん",
+        "word": "司会者",
+        "meaning": "master of ceremonies",
+        "furigana": "しかいしゃ",
         "level": 3,
         "word_number": 1096,
         "image_path": "pkg:/images/Chapter10Section1/1096.png",
@@ -14967,9 +14967,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "発売　する",
-        "meaning": "on sale (on the market)",
-        "furigana": "はつばい　する",
+        "word": "生放送",
+        "meaning": "live broadcast",
+        "furigana": "なまほうそう",
         "level": 3,
         "word_number": 1097,
         "image_path": "pkg:/images/Chapter10Section1/1097.png",
@@ -14980,9 +14980,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "評判　する",
-        "meaning": "reputation",
-        "furigana": "ひょうばん　する",
+        "word": "商品",
+        "meaning": "goods, merchandise",
+        "furigana": "しょうひん",
         "level": 3,
         "word_number": 1098,
         "image_path": "pkg:/images/Chapter10Section1/1098.png",
@@ -14993,9 +14993,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "注目　する",
-        "meaning": "notice, attention",
-        "furigana": "ちゅうもく　する",
+        "word": "発売　する",
+        "meaning": "on sale (on the market)",
+        "furigana": "はつばい　する",
         "level": 3,
         "word_number": 1099,
         "image_path": "pkg:/images/Chapter10Section1/1099.png",
@@ -15006,9 +15006,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "ヒット　する",
-        "meaning": "a hit",
-        "furigana": "",
+        "word": "評判　する",
+        "meaning": "reputation",
+        "furigana": "ひょうばん　する",
         "level": 3,
         "word_number": 1100,
         "image_path": "pkg:/images/Chapter10Section1/1100.png",
@@ -15019,9 +15019,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "やっぱり",
-        "meaning": "as I thought",
-        "furigana": "",
+        "word": "注目　する",
+        "meaning": "notice, attention",
+        "furigana": "ちゅうもく　する",
         "level": 3,
         "word_number": 1101,
         "image_path": "pkg:/images/Chapter10Section1/1101.png",
@@ -15032,8 +15032,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "まさか",
-        "meaning": "no way. cannot be. (unexpected)",
+        "word": "ヒット　する",
+        "meaning": "a hit",
         "furigana": "",
         "level": 3,
         "word_number": 1102,
@@ -15045,8 +15045,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "やっと",
-        "meaning": "finally",
+        "word": "やっぱり",
+        "meaning": "as I thought",
         "furigana": "",
         "level": 3,
         "word_number": 1103,
@@ -15058,15 +15058,41 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "結局",
-        "meaning": "ultimately, in the end",
-        "furigana": "けっきょく",
+        "word": "まさか",
+        "meaning": "no way. cannot be. (unexpected)",
+        "furigana": "",
         "level": 3,
         "word_number": 1104,
         "image_path": "pkg:/images/Chapter10Section1/1104.png",
         "image_width": 182,
         "image_height": 95,
         "furigana_image_path": "pkg:/images/Chapter10Section1/furigana_1104.png",
+        "furigana_image_width": 422,
+        "furigana_image_height": 89
+    },
+    {
+        "word": "やっと",
+        "meaning": "finally",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1105,
+        "image_path": "pkg:/images/Chapter10Section1/1105.png",
+        "image_width": 262,
+        "image_height": 89,
+        "furigana_image_path": "pkg:/images/Chapter10Section1/furigana_1105.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "結局",
+        "meaning": "ultimately, in the end",
+        "furigana": "けっきょく",
+        "level": 3,
+        "word_number": 1106,
+        "image_path": "pkg:/images/Chapter10Section1/1106.png",
+        "image_width": 182,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter10Section1/furigana_1106.png",
         "furigana_image_width": 422,
         "furigana_image_height": 89
     }
@@ -15080,32 +15106,6 @@ d = [
         "meaning": "suspicious",
         "furigana": "あやしい",
         "level": 3,
-        "word_number": 1105,
-        "image_path": "pkg:/images/Chapter10Section2/1105.png",
-        "image_width": 262,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter10Section2/furigana_1105.png",
-        "furigana_image_width": 342,
-        "furigana_image_height": 89
-    },
-    {
-        "word": "恐ろしい",
-        "meaning": "horrible, frightful",
-        "furigana": "おそろしい",
-        "level": 3,
-        "word_number": 1106,
-        "image_path": "pkg:/images/Chapter10Section2/1106.png",
-        "image_width": 342,
-        "image_height": 90,
-        "furigana_image_path": "pkg:/images/Chapter10Section2/furigana_1106.png",
-        "furigana_image_width": 422,
-        "furigana_image_height": 89
-    },
-    {
-        "word": "暴れる",
-        "meaning": "to behave violently, to be unruly",
-        "furigana": "あばれる",
-        "level": 3,
         "word_number": 1107,
         "image_path": "pkg:/images/Chapter10Section2/1107.png",
         "image_width": 262,
@@ -15115,9 +15115,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "争う",
-        "meaning": "to fight",
-        "furigana": "あらそう",
+        "word": "恐ろしい",
+        "meaning": "horrible, frightful",
+        "furigana": "おそろしい",
         "level": 3,
         "word_number": 1108,
         "image_path": "pkg:/images/Chapter10Section2/1108.png",
@@ -15128,9 +15128,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "犯罪",
-        "meaning": "crime",
-        "furigana": "はんざい",
+        "word": "暴れる",
+        "meaning": "to behave violently, to be unruly",
+        "furigana": "あばれる",
         "level": 3,
         "word_number": 1109,
         "image_path": "pkg:/images/Chapter10Section2/1109.png",
@@ -15141,9 +15141,9 @@ d = [
         "furigana_image_height": 94
     },
     {
-        "word": "発見者",
-        "meaning": "discoverer. Witness",
-        "furigana": "はっけんしゃ",
+        "word": "争う",
+        "meaning": "to fight",
+        "furigana": "あらそう",
         "level": 3,
         "word_number": 1110,
         "image_path": "pkg:/images/Chapter10Section2/1110.png",
@@ -15154,9 +15154,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "疑う",
-        "meaning": "to doubt",
-        "furigana": "うたがう",
+        "word": "犯罪",
+        "meaning": "crime",
+        "furigana": "はんざい",
         "level": 3,
         "word_number": 1111,
         "image_path": "pkg:/images/Chapter10Section2/1111.png",
@@ -15167,9 +15167,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "嘘つき",
-        "meaning": "liar",
-        "furigana": "うそつき",
+        "word": "発見者",
+        "meaning": "discoverer. Witness",
+        "furigana": "はっけんしゃ",
         "level": 3,
         "word_number": 1112,
         "image_path": "pkg:/images/Chapter10Section2/1112.png",
@@ -15180,9 +15180,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "嘘をつく",
-        "meaning": "to tell a lie",
-        "furigana": "うそをつく",
+        "word": "疑う",
+        "meaning": "to doubt",
+        "furigana": "うたがう",
         "level": 3,
         "word_number": 1113,
         "image_path": "pkg:/images/Chapter10Section2/1113.png",
@@ -15193,9 +15193,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "犯人",
-        "meaning": "culprit. criminal",
-        "furigana": "はんにん",
+        "word": "嘘つき",
+        "meaning": "liar",
+        "furigana": "うそつき",
         "level": 3,
         "word_number": 1114,
         "image_path": "pkg:/images/Chapter10Section2/1114.png",
@@ -15206,9 +15206,9 @@ d = [
         "furigana_image_height": 85
     },
     {
-        "word": "いたずら　な・する",
-        "meaning": "prank, practical joke, mischief",
-        "furigana": "",
+        "word": "嘘をつく",
+        "meaning": "to tell a lie",
+        "furigana": "うそをつく",
         "level": 3,
         "word_number": 1115,
         "image_path": "pkg:/images/Chapter10Section2/1115.png",
@@ -15219,9 +15219,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "叫ぶ",
-        "meaning": "to scream, to shout",
-        "furigana": "さけぶ",
+        "word": "犯人",
+        "meaning": "culprit. criminal",
+        "furigana": "はんにん",
         "level": 3,
         "word_number": 1116,
         "image_path": "pkg:/images/Chapter10Section2/1116.png",
@@ -15232,9 +15232,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "叩く",
-        "meaning": "to strike, to hit.",
-        "furigana": "たたく",
+        "word": "いたずら　な・する",
+        "meaning": "prank, practical joke, mischief",
+        "furigana": "",
         "level": 3,
         "word_number": 1117,
         "image_path": "pkg:/images/Chapter10Section2/1117.png",
@@ -15245,9 +15245,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "盗む",
-        "meaning": "to steal.",
-        "furigana": "ぬすむ",
+        "word": "叫ぶ",
+        "meaning": "to scream, to shout",
+        "furigana": "さけぶ",
         "level": 3,
         "word_number": 1118,
         "image_path": "pkg:/images/Chapter10Section2/1118.png",
@@ -15258,9 +15258,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "奪う",
-        "meaning": "to take. to steal",
-        "furigana": "うばう",
+        "word": "叩く",
+        "meaning": "to strike, to hit.",
+        "furigana": "たたく",
         "level": 3,
         "word_number": 1119,
         "image_path": "pkg:/images/Chapter10Section2/1119.png",
@@ -15271,9 +15271,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "探す",
-        "meaning": "to look for",
-        "furigana": "さがす",
+        "word": "盗む",
+        "meaning": "to steal.",
+        "furigana": "ぬすむ",
         "level": 3,
         "word_number": 1120,
         "image_path": "pkg:/images/Chapter10Section2/1120.png",
@@ -15284,9 +15284,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "追う",
-        "meaning": "to chase, to pursue",
-        "furigana": "おう",
+        "word": "奪う",
+        "meaning": "to take. to steal",
+        "furigana": "うばう",
         "level": 3,
         "word_number": 1121,
         "image_path": "pkg:/images/Chapter10Section2/1121.png",
@@ -15297,9 +15297,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "捕まる",
-        "meaning": "to be caught (intransitive)",
-        "furigana": "つかまる",
+        "word": "探す",
+        "meaning": "to look for",
+        "furigana": "さがす",
         "level": 3,
         "word_number": 1122,
         "image_path": "pkg:/images/Chapter10Section2/1122.png",
@@ -15310,9 +15310,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "逮捕　する",
-        "meaning": "arrest",
-        "furigana": "たいほ　する",
+        "word": "追う",
+        "meaning": "to chase, to pursue",
+        "furigana": "おう",
         "level": 3,
         "word_number": 1123,
         "image_path": "pkg:/images/Chapter10Section2/1123.png",
@@ -15323,9 +15323,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "気味が悪い",
-        "meaning": "creepy. uneasy feeling.",
-        "furigana": "きみがわるい",
+        "word": "捕まる",
+        "meaning": "to be caught (intransitive)",
+        "furigana": "つかまる",
         "level": 3,
         "word_number": 1124,
         "image_path": "pkg:/images/Chapter10Section2/1124.png",
@@ -15336,15 +15336,41 @@ d = [
         "furigana_image_height": 93
     },
     {
-        "word": "パトカー",
-        "meaning": "patrol car",
-        "furigana": "",
+        "word": "逮捕　する",
+        "meaning": "arrest",
+        "furigana": "たいほ　する",
         "level": 3,
         "word_number": 1125,
         "image_path": "pkg:/images/Chapter10Section2/1125.png",
         "image_width": 344,
         "image_height": 87,
         "furigana_image_path": "pkg:/images/Chapter10Section2/furigana_1125.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "気味が悪い",
+        "meaning": "creepy. uneasy feeling.",
+        "furigana": "きみがわるい",
+        "level": 3,
+        "word_number": 1126,
+        "image_path": "pkg:/images/Chapter10Section2/1126.png",
+        "image_width": 422,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter10Section2/furigana_1126.png",
+        "furigana_image_width": 502,
+        "furigana_image_height": 93
+    },
+    {
+        "word": "パトカー",
+        "meaning": "patrol car",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1127,
+        "image_path": "pkg:/images/Chapter10Section2/1127.png",
+        "image_width": 344,
+        "image_height": 87,
+        "furigana_image_path": "pkg:/images/Chapter10Section2/furigana_1127.png",
         "furigana_image_width": 22,
         "furigana_image_height": 22
     }
@@ -15358,32 +15384,6 @@ d = [
         "meaning": "to have (an accident)",
         "furigana": "（じこに）　あう",
         "level": 3,
-        "word_number": 1126,
-        "image_path": "pkg:/images/Chapter10Section3/1126.png",
-        "image_width": 582,
-        "image_height": 99,
-        "furigana_image_path": "pkg:/images/Chapter10Section3/furigana_1126.png",
-        "furigana_image_width": 662,
-        "furigana_image_height": 99
-    },
-    {
-        "word": "発生　する",
-        "meaning": "to occur",
-        "furigana": "はっせい　する",
-        "level": 3,
-        "word_number": 1127,
-        "image_path": "pkg:/images/Chapter10Section3/1127.png",
-        "image_width": 422,
-        "image_height": 96,
-        "furigana_image_path": "pkg:/images/Chapter10Section3/furigana_1127.png",
-        "furigana_image_width": 582,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "命",
-        "meaning": "life",
-        "furigana": "いのち",
-        "level": 3,
         "word_number": 1128,
         "image_path": "pkg:/images/Chapter10Section3/1128.png",
         "image_width": 102,
@@ -15393,9 +15393,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "救う",
-        "meaning": "to save, to rescue",
-        "furigana": "すくう",
+        "word": "発生　する",
+        "meaning": "to occur",
+        "furigana": "はっせい　する",
         "level": 3,
         "word_number": 1129,
         "image_path": "pkg:/images/Chapter10Section3/1129.png",
@@ -15406,9 +15406,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "そうぞうしい",
-        "meaning": "noisy, boisterous",
-        "furigana": "",
+        "word": "命",
+        "meaning": "life",
+        "furigana": "いのち",
         "level": 3,
         "word_number": 1130,
         "image_path": "pkg:/images/Chapter10Section3/1130.png",
@@ -15419,9 +15419,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "さわぐ",
-        "meaning": "to make noise",
-        "furigana": "",
+        "word": "救う",
+        "meaning": "to save, to rescue",
+        "furigana": "すくう",
         "level": 3,
         "word_number": 1131,
         "image_path": "pkg:/images/Chapter10Section3/1131.png",
@@ -15432,9 +15432,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "現場",
-        "meaning": "The scene. the actual spot.",
-        "furigana": "げんば",
+        "word": "そうぞうしい",
+        "meaning": "noisy, boisterous",
+        "furigana": "",
         "level": 3,
         "word_number": 1132,
         "image_path": "pkg:/images/Chapter10Section3/1132.png",
@@ -15445,9 +15445,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "混乱　する",
-        "meaning": "confusion, chaos",
-        "furigana": "こんらん　する",
+        "word": "さわぐ",
+        "meaning": "to make noise",
+        "furigana": "",
         "level": 3,
         "word_number": 1133,
         "image_path": "pkg:/images/Chapter10Section3/1133.png",
@@ -15458,9 +15458,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "パニック",
-        "meaning": "panic",
-        "furigana": "",
+        "word": "現場",
+        "meaning": "The scene. the actual spot.",
+        "furigana": "げんば",
         "level": 3,
         "word_number": 1134,
         "image_path": "pkg:/images/Chapter10Section3/1134.png",
@@ -15471,9 +15471,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "無事　な",
-        "meaning": "safety, being unharmed",
-        "furigana": "ぶじ　な",
+        "word": "混乱　する",
+        "meaning": "confusion, chaos",
+        "furigana": "こんらん　する",
         "level": 3,
         "word_number": 1135,
         "image_path": "pkg:/images/Chapter10Section3/1135.png",
@@ -15484,9 +15484,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "防ぐ",
-        "meaning": "to protect. to defend. to stop.",
-        "furigana": "ふせぐ",
+        "word": "パニック",
+        "meaning": "panic",
+        "furigana": "",
         "level": 3,
         "word_number": 1136,
         "image_path": "pkg:/images/Chapter10Section3/1136.png",
@@ -15497,9 +15497,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "再び",
-        "meaning": "again. once more",
-        "furigana": "ふたたび",
+        "word": "無事　な",
+        "meaning": "safety, being unharmed",
+        "furigana": "ぶじ　な",
         "level": 3,
         "word_number": 1137,
         "image_path": "pkg:/images/Chapter10Section3/1137.png",
@@ -15510,9 +15510,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "わざと",
-        "meaning": "on purpose. intentionally.",
-        "furigana": "",
+        "word": "防ぐ",
+        "meaning": "to protect. to defend. to stop.",
+        "furigana": "ふせぐ",
         "level": 3,
         "word_number": 1138,
         "image_path": "pkg:/images/Chapter10Section3/1138.png",
@@ -15523,9 +15523,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "被害者",
-        "meaning": "victim",
-        "furigana": "ひがいしゃ",
+        "word": "再び",
+        "meaning": "again. once more",
+        "furigana": "ふたたび",
         "level": 3,
         "word_number": 1139,
         "image_path": "pkg:/images/Chapter10Section3/1139.png",
@@ -15536,9 +15536,9 @@ d = [
         "furigana_image_height": 95
     },
     {
-        "word": "お　互いに",
-        "meaning": "both, each other.",
-        "furigana": "お　たがいに",
+        "word": "わざと",
+        "meaning": "on purpose. intentionally.",
+        "furigana": "",
         "level": 3,
         "word_number": 1140,
         "image_path": "pkg:/images/Chapter10Section3/1140.png",
@@ -15549,9 +15549,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "疑問",
-        "meaning": "question",
-        "furigana": "ぎもん",
+        "word": "被害者",
+        "meaning": "victim",
+        "furigana": "ひがいしゃ",
         "level": 3,
         "word_number": 1141,
         "image_path": "pkg:/images/Chapter10Section3/1141.png",
@@ -15562,9 +15562,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "飛び込む",
-        "meaning": "to jump in",
-        "furigana": "とびこむ",
+        "word": "お　互いに",
+        "meaning": "both, each other.",
+        "furigana": "お　たがいに",
         "level": 3,
         "word_number": 1142,
         "image_path": "pkg:/images/Chapter10Section3/1142.png",
@@ -15575,9 +15575,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "溺れる",
-        "meaning": "to drown",
-        "furigana": "おぼれる",
+        "word": "疑問",
+        "meaning": "question",
+        "furigana": "ぎもん",
         "level": 3,
         "word_number": 1143,
         "image_path": "pkg:/images/Chapter10Section3/1143.png",
@@ -15588,9 +15588,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "飛び出す",
-        "meaning": "to jump out",
-        "furigana": "とびだす",
+        "word": "飛び込む",
+        "meaning": "to jump in",
+        "furigana": "とびこむ",
         "level": 3,
         "word_number": 1144,
         "image_path": "pkg:/images/Chapter10Section3/1144.png",
@@ -15601,9 +15601,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "行方不明",
-        "meaning": "whereabouts unknown",
-        "furigana": "ゆくえふめい",
+        "word": "溺れる",
+        "meaning": "to drown",
+        "furigana": "おぼれる",
         "level": 3,
         "word_number": 1145,
         "image_path": "pkg:/images/Chapter10Section3/1145.png",
@@ -15614,9 +15614,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "亡くなる",
-        "meaning": "to pass away",
-        "furigana": "なくなる",
+        "word": "飛び出す",
+        "meaning": "to jump out",
+        "furigana": "とびだす",
         "level": 3,
         "word_number": 1146,
         "image_path": "pkg:/images/Chapter10Section3/1146.png",
@@ -15627,15 +15627,41 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "偶然",
-        "meaning": "coincidence, chance. by chance",
-        "furigana": "ぐうぜん",
+        "word": "行方不明",
+        "meaning": "whereabouts unknown",
+        "furigana": "ゆくえふめい",
         "level": 3,
         "word_number": 1147,
         "image_path": "pkg:/images/Chapter10Section3/1147.png",
         "image_width": 182,
         "image_height": 95,
         "furigana_image_path": "pkg:/images/Chapter10Section3/furigana_1147.png",
+        "furigana_image_width": 340,
+        "furigana_image_height": 89
+    },
+    {
+        "word": "亡くなる",
+        "meaning": "to pass away",
+        "furigana": "なくなる",
+        "level": 3,
+        "word_number": 1148,
+        "image_path": "pkg:/images/Chapter10Section3/1148.png",
+        "image_width": 342,
+        "image_height": 93,
+        "furigana_image_path": "pkg:/images/Chapter10Section3/furigana_1148.png",
+        "furigana_image_width": 342,
+        "furigana_image_height": 89
+    },
+    {
+        "word": "偶然",
+        "meaning": "coincidence, chance. by chance",
+        "furigana": "ぐうぜん",
+        "level": 3,
+        "word_number": 1149,
+        "image_path": "pkg:/images/Chapter10Section3/1149.png",
+        "image_width": 182,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter10Section3/furigana_1149.png",
         "furigana_image_width": 340,
         "furigana_image_height": 89
     }
@@ -15649,32 +15675,6 @@ d = [
         "meaning": "grievance, complaint",
         "furigana": "くじょう",
         "level": 3,
-        "word_number": 1148,
-        "image_path": "pkg:/images/Chapter10Section4/1148.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter10Section4/furigana_1148.png",
-        "furigana_image_width": 342,
-        "furigana_image_height": 89
-    },
-    {
-        "word": "慌ただしい",
-        "meaning": "hurried, confused, busy",
-        "furigana": "あわただしい",
-        "level": 3,
-        "word_number": 1149,
-        "image_path": "pkg:/images/Chapter10Section4/1149.png",
-        "image_width": 422,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter10Section4/furigana_1149.png",
-        "furigana_image_width": 502,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "慌てる",
-        "meaning": "to be flustered, to panic",
-        "furigana": "あわてる",
-        "level": 3,
         "word_number": 1150,
         "image_path": "pkg:/images/Chapter10Section4/1150.png",
         "image_width": 262,
@@ -15684,9 +15684,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "いきなり",
-        "meaning": "suddenly",
-        "furigana": "",
+        "word": "慌ただしい",
+        "meaning": "hurried, confused, busy",
+        "furigana": "あわただしい",
         "level": 3,
         "word_number": 1151,
         "image_path": "pkg:/images/Chapter10Section4/1151.png",
@@ -15697,9 +15697,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "いじめ",
-        "meaning": "bullying",
-        "furigana": "",
+        "word": "慌てる",
+        "meaning": "to be flustered, to panic",
+        "furigana": "あわてる",
         "level": 3,
         "word_number": 1152,
         "image_path": "pkg:/images/Chapter10Section4/1152.png",
@@ -15710,8 +15710,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "いじめる",
-        "meaning": "to bully",
+        "word": "いきなり",
+        "meaning": "suddenly",
         "furigana": "",
         "level": 3,
         "word_number": 1153,
@@ -15723,9 +15723,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "迷子",
-        "meaning": "lost child",
-        "furigana": "まいご",
+        "word": "いじめ",
+        "meaning": "bullying",
+        "furigana": "",
         "level": 3,
         "word_number": 1154,
         "image_path": "pkg:/images/Chapter10Section4/1154.png",
@@ -15736,9 +15736,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "場合",
-        "meaning": "instance, occasion",
-        "furigana": "ばあい",
+        "word": "いじめる",
+        "meaning": "to bully",
+        "furigana": "",
         "level": 3,
         "word_number": 1155,
         "image_path": "pkg:/images/Chapter10Section4/1155.png",
@@ -15749,9 +15749,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "落とす",
-        "meaning": "to drop, to let fall",
-        "furigana": "おとす",
+        "word": "迷子",
+        "meaning": "lost child",
+        "furigana": "まいご",
         "level": 3,
         "word_number": 1156,
         "image_path": "pkg:/images/Chapter10Section4/1156.png",
@@ -15762,9 +15762,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "なくす",
-        "meaning": "to lose",
-        "furigana": "",
+        "word": "場合",
+        "meaning": "instance, occasion",
+        "furigana": "ばあい",
         "level": 3,
         "word_number": 1157,
         "image_path": "pkg:/images/Chapter10Section4/1157.png",
@@ -15775,9 +15775,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "借金　する",
-        "meaning": "loan",
-        "furigana": "しゃっきん　する",
+        "word": "落とす",
+        "meaning": "to drop, to let fall",
+        "furigana": "おとす",
         "level": 3,
         "word_number": 1158,
         "image_path": "pkg:/images/Chapter10Section4/1158.png",
@@ -15788,8 +15788,8 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "ずるい",
-        "meaning": "dishonest, sly",
+        "word": "なくす",
+        "meaning": "to lose",
         "furigana": "",
         "level": 3,
         "word_number": 1159,
@@ -15801,9 +15801,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "倒れる",
-        "meaning": "to fall over, to collapse",
-        "furigana": "たおれる",
+        "word": "借金　する",
+        "meaning": "loan",
+        "furigana": "しゃっきん　する",
         "level": 3,
         "word_number": 1160,
         "image_path": "pkg:/images/Chapter10Section4/1160.png",
@@ -15814,9 +15814,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "転ぶ",
-        "meaning": "to trip, to fall",
-        "furigana": "ころぶ",
+        "word": "ずるい",
+        "meaning": "dishonest, sly",
+        "furigana": "",
         "level": 3,
         "word_number": 1161,
         "image_path": "pkg:/images/Chapter10Section4/1161.png",
@@ -15827,9 +15827,9 @@ d = [
         "furigana_image_height": 86
     },
     {
-        "word": "（会社が）つぶれる",
-        "meaning": "to go out of business",
-        "furigana": "",
+        "word": "倒れる",
+        "meaning": "to fall over, to collapse",
+        "furigana": "たおれる",
         "level": 3,
         "word_number": 1162,
         "image_path": "pkg:/images/Chapter10Section4/1162.png",
@@ -15840,9 +15840,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "つぶす",
-        "meaning": "to ruin, to crush",
-        "furigana": "",
+        "word": "転ぶ",
+        "meaning": "to trip, to fall",
+        "furigana": "ころぶ",
         "level": 3,
         "word_number": 1163,
         "image_path": "pkg:/images/Chapter10Section4/1163.png",
@@ -15853,9 +15853,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "次々　と",
-        "meaning": "one by one, one after another",
-        "furigana": "つぎつぎ　と",
+        "word": "（会社が）つぶれる",
+        "meaning": "to go out of business",
+        "furigana": "",
         "level": 3,
         "word_number": 1164,
         "image_path": "pkg:/images/Chapter10Section4/1164.png",
@@ -15866,9 +15866,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "停電　する",
-        "meaning": "blackout",
-        "furigana": "ていでん　する",
+        "word": "つぶす",
+        "meaning": "to ruin, to crush",
+        "furigana": "",
         "level": 3,
         "word_number": 1165,
         "image_path": "pkg:/images/Chapter10Section4/1165.png",
@@ -15879,9 +15879,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "断水　する",
-        "meaning": "cut off water supply",
-        "furigana": "だんすい　する",
+        "word": "次々　と",
+        "meaning": "one by one, one after another",
+        "furigana": "つぎつぎ　と",
         "level": 3,
         "word_number": 1166,
         "image_path": "pkg:/images/Chapter10Section4/1166.png",
@@ -15892,9 +15892,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "ゆれる",
-        "meaning": "to shake, to quake",
-        "furigana": "",
+        "word": "停電　する",
+        "meaning": "blackout",
+        "furigana": "ていでん　する",
         "level": 3,
         "word_number": 1167,
         "image_path": "pkg:/images/Chapter10Section4/1167.png",
@@ -15905,9 +15905,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "ぐらぐら　する",
-        "meaning": "unsteady, faltering",
-        "furigana": "",
+        "word": "断水　する",
+        "meaning": "cut off water supply",
+        "furigana": "だんすい　する",
         "level": 3,
         "word_number": 1168,
         "image_path": "pkg:/images/Chapter10Section4/1168.png",
@@ -15918,15 +15918,41 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "非常口",
-        "meaning": "emergency exit",
-        "furigana": "ひじょうぐち",
+        "word": "ゆれる",
+        "meaning": "to shake, to quake",
+        "furigana": "",
         "level": 3,
         "word_number": 1169,
         "image_path": "pkg:/images/Chapter10Section4/1169.png",
         "image_width": 262,
         "image_height": 96,
         "furigana_image_path": "pkg:/images/Chapter10Section4/furigana_1169.png",
+        "furigana_image_width": 502,
+        "furigana_image_height": 89
+    },
+    {
+        "word": "ぐらぐら　する",
+        "meaning": "unsteady, faltering",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1170,
+        "image_path": "pkg:/images/Chapter10Section4/1170.png",
+        "image_width": 582,
+        "image_height": 89,
+        "furigana_image_path": "pkg:/images/Chapter10Section4/furigana_1170.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "非常口",
+        "meaning": "emergency exit",
+        "furigana": "ひじょうぐち",
+        "level": 3,
+        "word_number": 1171,
+        "image_path": "pkg:/images/Chapter10Section4/1171.png",
+        "image_width": 262,
+        "image_height": 96,
+        "furigana_image_path": "pkg:/images/Chapter10Section4/furigana_1171.png",
         "furigana_image_width": 502,
         "furigana_image_height": 89
     }
@@ -15940,32 +15966,6 @@ d = [
         "meaning": "increase",
         "furigana": "ぞうか　する",
         "level": 3,
-        "word_number": 1170,
-        "image_path": "pkg:/images/Chapter10Section5/1170.png",
-        "image_width": 422,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter10Section5/furigana_1170.png",
-        "furigana_image_width": 502,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "減少　する",
-        "meaning": "decrease",
-        "furigana": "げんしょう　する",
-        "level": 3,
-        "word_number": 1171,
-        "image_path": "pkg:/images/Chapter10Section5/1171.png",
-        "image_width": 422,
-        "image_height": 96,
-        "furigana_image_path": "pkg:/images/Chapter10Section5/furigana_1171.png",
-        "furigana_image_width": 662,
-        "furigana_image_height": 92
-    },
-    {
-        "word": "超える",
-        "meaning": "to surpass. to pass. to go over.",
-        "furigana": "こえる",
-        "level": 3,
         "word_number": 1172,
         "image_path": "pkg:/images/Chapter10Section5/1172.png",
         "image_width": 260,
@@ -15975,9 +15975,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "ピーク",
-        "meaning": "peak",
-        "furigana": "",
+        "word": "減少　する",
+        "meaning": "decrease",
+        "furigana": "げんしょう　する",
         "level": 3,
         "word_number": 1173,
         "image_path": "pkg:/images/Chapter10Section5/1173.png",
@@ -15988,9 +15988,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "全体",
-        "meaning": "all of, entire",
-        "furigana": "ぜんたい",
+        "word": "超える",
+        "meaning": "to surpass. to pass. to go over.",
+        "furigana": "こえる",
         "level": 3,
         "word_number": 1174,
         "image_path": "pkg:/images/Chapter10Section5/1174.png",
@@ -16001,8 +16001,8 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "かなり",
-        "meaning": "pretty, fairly, quite, considerably",
+        "word": "ピーク",
+        "meaning": "peak",
         "furigana": "",
         "level": 3,
         "word_number": 1175,
@@ -16014,9 +16014,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "信用　する",
-        "meaning": "trust",
-        "furigana": "しんよう　する",
+        "word": "全体",
+        "meaning": "all of, entire",
+        "furigana": "ぜんたい",
         "level": 3,
         "word_number": 1176,
         "image_path": "pkg:/images/Chapter10Section5/1176.png",
@@ -16027,9 +16027,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "失う",
-        "meaning": "to lose",
-        "furigana": "うしなう",
+        "word": "かなり",
+        "meaning": "pretty, fairly, quite, considerably",
+        "furigana": "",
         "level": 3,
         "word_number": 1177,
         "image_path": "pkg:/images/Chapter10Section5/1177.png",
@@ -16040,9 +16040,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "正常　な",
-        "meaning": "normal",
-        "furigana": "せいじょう　な",
+        "word": "信用　する",
+        "meaning": "trust",
+        "furigana": "しんよう　する",
         "level": 3,
         "word_number": 1178,
         "image_path": "pkg:/images/Chapter10Section5/1178.png",
@@ -16053,9 +16053,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "不景気　な",
-        "meaning": "economic crisis",
-        "furigana": "ふけいき　な",
+        "word": "失う",
+        "meaning": "to lose",
+        "furigana": "うしなう",
         "level": 3,
         "word_number": 1179,
         "image_path": "pkg:/images/Chapter10Section5/1179.png",
@@ -16066,9 +16066,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "円高",
-        "meaning": "strong yen",
-        "furigana": "えんだか",
+        "word": "正常　な",
+        "meaning": "normal",
+        "furigana": "せいじょう　な",
         "level": 3,
         "word_number": 1180,
         "image_path": "pkg:/images/Chapter10Section5/1180.png",
@@ -16079,9 +16079,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "平均　する",
-        "meaning": "average",
-        "furigana": "へいきん　する",
+        "word": "不景気　な",
+        "meaning": "economic crisis",
+        "furigana": "ふけいき　な",
         "level": 3,
         "word_number": 1181,
         "image_path": "pkg:/images/Chapter10Section5/1181.png",
@@ -16092,9 +16092,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "およそ",
-        "meaning": "approximately",
-        "furigana": "",
+        "word": "円高",
+        "meaning": "strong yen",
+        "furigana": "えんだか",
         "level": 3,
         "word_number": 1182,
         "image_path": "pkg:/images/Chapter10Section5/1182.png",
@@ -16105,9 +16105,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "めちゃくちゃ　な",
-        "meaning": "unreasonable, excessive, inordinate",
-        "furigana": "",
+        "word": "平均　する",
+        "meaning": "average",
+        "furigana": "へいきん　する",
         "level": 3,
         "word_number": 1183,
         "image_path": "pkg:/images/Chapter10Section5/1183.png",
@@ -16118,9 +16118,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "最も",
-        "meaning": "most",
-        "furigana": "もっとも",
+        "word": "およそ",
+        "meaning": "approximately",
+        "furigana": "",
         "level": 3,
         "word_number": 1184,
         "image_path": "pkg:/images/Chapter10Section5/1184.png",
@@ -16131,8 +16131,8 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "ついに",
-        "meaning": "ultimately, in the end, finally",
+        "word": "めちゃくちゃ　な",
+        "meaning": "unreasonable, excessive, inordinate",
         "furigana": "",
         "level": 3,
         "word_number": 1185,
@@ -16144,15 +16144,41 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "とうとう",
-        "meaning": "finally, at last",
-        "furigana": "",
+        "word": "最も",
+        "meaning": "most",
+        "furigana": "もっとも",
         "level": 3,
         "word_number": 1186,
         "image_path": "pkg:/images/Chapter10Section5/1186.png",
         "image_width": 342,
         "image_height": 86,
         "furigana_image_path": "pkg:/images/Chapter10Section5/furigana_1186.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "ついに",
+        "meaning": "ultimately, in the end, finally",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1187,
+        "image_path": "pkg:/images/Chapter10Section5/1187.png",
+        "image_width": 262,
+        "image_height": 84,
+        "furigana_image_path": "pkg:/images/Chapter10Section5/furigana_1187.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "とうとう",
+        "meaning": "finally, at last",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1188,
+        "image_path": "pkg:/images/Chapter10Section5/1188.png",
+        "image_width": 342,
+        "image_height": 86,
+        "furigana_image_path": "pkg:/images/Chapter10Section5/furigana_1188.png",
         "furigana_image_width": 22,
         "furigana_image_height": 22
     }
@@ -16166,32 +16192,6 @@ d = [
         "meaning": "individuality",
         "furigana": "こせい",
         "level": 3,
-        "word_number": 1187,
-        "image_path": "pkg:/images/Chapter11Section1/1187.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter11Section1/furigana_1187.png",
-        "furigana_image_width": 262,
-        "furigana_image_height": 84
-    },
-    {
-        "word": "真面目　な",
-        "meaning": "serious, diligent",
-        "furigana": "まじめ　な",
-        "level": 3,
-        "word_number": 1188,
-        "image_path": "pkg:/images/Chapter11Section1/1188.png",
-        "image_width": 422,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter11Section1/furigana_1188.png",
-        "furigana_image_width": 422,
-        "furigana_image_height": 89
-    },
-    {
-        "word": "働き者",
-        "meaning": "hard worker",
-        "furigana": "はたらきもの",
-        "level": 3,
         "word_number": 1189,
         "image_path": "pkg:/images/Chapter11Section1/1189.png",
         "image_width": 262,
@@ -16201,9 +16201,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "正直　な",
-        "meaning": "honest",
-        "furigana": "しょうじき　な",
+        "word": "真面目　な",
+        "meaning": "serious, diligent",
+        "furigana": "まじめ　な",
         "level": 3,
         "word_number": 1190,
         "image_path": "pkg:/images/Chapter11Section1/1190.png",
@@ -16214,9 +16214,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "素直　な",
-        "meaning": "straightforward",
-        "furigana": "すなお　な",
+        "word": "働き者",
+        "meaning": "hard worker",
+        "furigana": "はたらきもの",
         "level": 3,
         "word_number": 1191,
         "image_path": "pkg:/images/Chapter11Section1/1191.png",
@@ -16227,9 +16227,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "積極的　な",
-        "meaning": "assertive, aggressive",
-        "furigana": "せっきょくてき　な",
+        "word": "正直　な",
+        "meaning": "honest",
+        "furigana": "しょうじき　な",
         "level": 3,
         "word_number": 1192,
         "image_path": "pkg:/images/Chapter11Section1/1192.png",
@@ -16240,9 +16240,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "消極的　な",
-        "meaning": "passive",
-        "furigana": "しょうきょくてき　な",
+        "word": "素直　な",
+        "meaning": "straightforward",
+        "furigana": "すなお　な",
         "level": 3,
         "word_number": 1193,
         "image_path": "pkg:/images/Chapter11Section1/1193.png",
@@ -16253,9 +16253,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "ほがらか　な",
-        "meaning": "bright, cheerful",
-        "furigana": "",
+        "word": "積極的　な",
+        "meaning": "assertive, aggressive",
+        "furigana": "せっきょくてき　な",
         "level": 3,
         "word_number": 1194,
         "image_path": "pkg:/images/Chapter11Section1/1194.png",
@@ -16266,9 +16266,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "人なつこい",
-        "meaning": "friendly, sociable",
-        "furigana": "ひとなつこい",
+        "word": "消極的　な",
+        "meaning": "passive",
+        "furigana": "しょうきょくてき　な",
         "level": 3,
         "word_number": 1195,
         "image_path": "pkg:/images/Chapter11Section1/1195.png",
@@ -16279,9 +16279,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "穏やか　な",
-        "meaning": "clam, gentle, quiet",
-        "furigana": "おだやか　な",
+        "word": "ほがらか　な",
+        "meaning": "bright, cheerful",
+        "furigana": "",
         "level": 3,
         "word_number": 1196,
         "image_path": "pkg:/images/Chapter11Section1/1196.png",
@@ -16292,9 +16292,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "のん気　な",
-        "meaning": "carefree, happy-go-lucky",
-        "furigana": "",
+        "word": "人なつこい",
+        "meaning": "friendly, sociable",
+        "furigana": "ひとなつこい",
         "level": 3,
         "word_number": 1197,
         "image_path": "pkg:/images/Chapter11Section1/1197.png",
@@ -16305,9 +16305,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "おとなしい",
-        "meaning": "quiet, docile, well behaved",
-        "furigana": "",
+        "word": "穏やか　な",
+        "meaning": "clam, gentle, quiet",
+        "furigana": "おだやか　な",
         "level": 3,
         "word_number": 1198,
         "image_path": "pkg:/images/Chapter11Section1/1198.png",
@@ -16318,8 +16318,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "そそっかしい",
-        "meaning": "careless, thoughtless",
+        "word": "のん気　な",
+        "meaning": "carefree, happy-go-lucky",
         "furigana": "",
         "level": 3,
         "word_number": 1199,
@@ -16331,9 +16331,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "いい加減　な",
-        "meaning": "irresponsible, careless",
-        "furigana": "いいかげんな",
+        "word": "おとなしい",
+        "meaning": "quiet, docile, well behaved",
+        "furigana": "",
         "level": 3,
         "word_number": 1200,
         "image_path": "pkg:/images/Chapter11Section1/1200.png",
@@ -16344,9 +16344,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "意地悪　な",
-        "meaning": "mean",
-        "furigana": "いじわる　な",
+        "word": "そそっかしい",
+        "meaning": "careless, thoughtless",
+        "furigana": "",
         "level": 3,
         "word_number": 1201,
         "image_path": "pkg:/images/Chapter11Section1/1201.png",
@@ -16357,9 +16357,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "わがまま　な",
-        "meaning": "selfish",
-        "furigana": "",
+        "word": "いい加減　な",
+        "meaning": "irresponsible, careless",
+        "furigana": "いいかげんな",
         "level": 3,
         "word_number": 1202,
         "image_path": "pkg:/images/Chapter11Section1/1202.png",
@@ -16370,9 +16370,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "勝手　な",
-        "meaning": "selfish, self-centered",
-        "furigana": "かって　な",
+        "word": "意地悪　な",
+        "meaning": "mean",
+        "furigana": "いじわる　な",
         "level": 3,
         "word_number": 1203,
         "image_path": "pkg:/images/Chapter11Section1/1203.png",
@@ -16383,9 +16383,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "図々しい",
-        "meaning": "shameless, audacious",
-        "furigana": "ずうずうしい",
+        "word": "わがまま　な",
+        "meaning": "selfish",
+        "furigana": "",
         "level": 3,
         "word_number": 1204,
         "image_path": "pkg:/images/Chapter11Section1/1204.png",
@@ -16396,9 +16396,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "生意気　な",
-        "meaning": "impudent, sassy",
-        "furigana": "なまいき　な",
+        "word": "勝手　な",
+        "meaning": "selfish, self-centered",
+        "furigana": "かって　な",
         "level": 3,
         "word_number": 1205,
         "image_path": "pkg:/images/Chapter11Section1/1205.png",
@@ -16409,9 +16409,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "けち　な",
-        "meaning": "stinginess, cheapness",
-        "furigana": "",
+        "word": "図々しい",
+        "meaning": "shameless, audacious",
+        "furigana": "ずうずうしい",
         "level": 3,
         "word_number": 1206,
         "image_path": "pkg:/images/Chapter11Section1/1206.png",
@@ -16422,9 +16422,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "しつこい",
-        "meaning": "(annoyingly) persistent",
-        "furigana": "",
+        "word": "生意気　な",
+        "meaning": "impudent, sassy",
+        "furigana": "なまいき　な",
         "level": 3,
         "word_number": 1207,
         "image_path": "pkg:/images/Chapter11Section1/1207.png",
@@ -16435,9 +16435,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "鋭い",
-        "meaning": "sharp",
-        "furigana": "するどい",
+        "word": "けち　な",
+        "meaning": "stinginess, cheapness",
+        "furigana": "",
         "level": 3,
         "word_number": 1208,
         "image_path": "pkg:/images/Chapter11Section1/1208.png",
@@ -16448,9 +16448,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "鈍い",
-        "meaning": "dim, dull",
-        "furigana": "にぶい",
+        "word": "しつこい",
+        "meaning": "(annoyingly) persistent",
+        "furigana": "",
         "level": 3,
         "word_number": 1209,
         "image_path": "pkg:/images/Chapter11Section1/1209.png",
@@ -16461,9 +16461,9 @@ d = [
         "furigana_image_height": 84
     },
     {
-        "word": "単純　な",
-        "meaning": "simple, uncomplicated, pure",
-        "furigana": "",
+        "word": "鋭い",
+        "meaning": "sharp",
+        "furigana": "するどい",
         "level": 3,
         "word_number": 1210,
         "image_path": "pkg:/images/Chapter11Section1/1210.png",
@@ -16474,9 +16474,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "オーバーな",
-        "meaning": "over does it, to an extreme",
-        "furigana": "",
+        "word": "鈍い",
+        "meaning": "dim, dull",
+        "furigana": "にぶい",
         "level": 3,
         "word_number": 1211,
         "image_path": "pkg:/images/Chapter11Section1/1211.png",
@@ -16487,9 +16487,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "大げさ　な",
-        "meaning": "overdoes it, to an extreme",
-        "furigana": "おおげさ　な",
+        "word": "単純　な",
+        "meaning": "simple, uncomplicated, pure",
+        "furigana": "",
         "level": 3,
         "word_number": 1212,
         "image_path": "pkg:/images/Chapter11Section1/1212.png",
@@ -16500,9 +16500,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "欠点",
-        "meaning": "flaw, shortcoming",
-        "furigana": "ケッテン",
+        "word": "オーバーな",
+        "meaning": "over does it, to an extreme",
+        "furigana": "",
         "level": 3,
         "word_number": 1213,
         "image_path": "pkg:/images/Chapter11Section1/1213.png",
@@ -16513,9 +16513,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "くせ",
-        "meaning": "habit",
-        "furigana": "",
+        "word": "大げさ　な",
+        "meaning": "overdoes it, to an extreme",
+        "furigana": "おおげさ　な",
         "level": 3,
         "word_number": 1214,
         "image_path": "pkg:/images/Chapter11Section1/1214.png",
@@ -16526,15 +16526,54 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "器用　な",
-        "meaning": "dextrous, skillful",
-        "furigana": "きよう　な",
+        "word": "欠点",
+        "meaning": "flaw, shortcoming",
+        "furigana": "ケッテン",
         "level": 3,
         "word_number": 1215,
         "image_path": "pkg:/images/Chapter11Section1/1215.png",
         "image_width": 342,
         "image_height": 91,
         "furigana_image_path": "pkg:/images/Chapter11Section1/furigana_1215.png",
+        "furigana_image_width": 422,
+        "furigana_image_height": 88
+    },
+    {
+        "word": "くせ",
+        "meaning": "habit",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1216,
+        "image_path": "pkg:/images/Chapter11Section1/1216.png",
+        "image_width": 182,
+        "image_height": 89,
+        "furigana_image_path": "pkg:/images/Chapter11Section1/furigana_1216.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "習慣",
+        "meaning": "habit, custom, manners",
+        "furigana": "しゅうかん",
+        "level": 4,
+        "word_number": 1217,
+        "image_path": "pkg:/images/Chapter11Section1/1217.png",
+        "image_width": 182,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter11Section1/furigana_1217.png",
+        "furigana_image_width": 422,
+        "furigana_image_height": 90
+    },
+    {
+        "word": "器用　な",
+        "meaning": "dextrous, skillful",
+        "furigana": "きよう　な",
+        "level": 3,
+        "word_number": 1218,
+        "image_path": "pkg:/images/Chapter11Section1/1218.png",
+        "image_width": 342,
+        "image_height": 91,
+        "furigana_image_path": "pkg:/images/Chapter11Section1/furigana_1218.png",
         "furigana_image_width": 422,
         "furigana_image_height": 88
     }
@@ -16548,45 +16587,6 @@ d = [
         "meaning": "emotion",
         "furigana": "かんじょう",
         "level": 3,
-        "word_number": 1216,
-        "image_path": "pkg:/images/Chapter11Section2/1216.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter11Section2/furigana_1216.png",
-        "furigana_image_width": 422,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "あこがれる",
-        "meaning": "to admire",
-        "furigana": "",
-        "level": 3,
-        "word_number": 1217,
-        "image_path": "pkg:/images/Chapter11Section2/1217.png",
-        "image_width": 422,
-        "image_height": 92,
-        "furigana_image_path": "pkg:/images/Chapter11Section2/furigana_1217.png",
-        "furigana_image_width": 22,
-        "furigana_image_height": 22
-    },
-    {
-        "word": "うらやましい",
-        "meaning": "jealous",
-        "furigana": "",
-        "level": 3,
-        "word_number": 1218,
-        "image_path": "pkg:/images/Chapter11Section2/1218.png",
-        "image_width": 502,
-        "image_height": 89,
-        "furigana_image_path": "pkg:/images/Chapter11Section2/furigana_1218.png",
-        "furigana_image_width": 22,
-        "furigana_image_height": 22
-    },
-    {
-        "word": "落ち着く",
-        "meaning": "to calm down",
-        "furigana": "おちつく",
-        "level": 3,
         "word_number": 1219,
         "image_path": "pkg:/images/Chapter11Section2/1219.png",
         "image_width": 342,
@@ -16596,9 +16596,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "感激　すr",
-        "meaning": "deep emotion",
-        "furigana": "かんげき　する",
+        "word": "あこがれる",
+        "meaning": "to admire",
+        "furigana": "",
         "level": 3,
         "word_number": 1220,
         "image_path": "pkg:/images/Chapter11Section2/1220.png",
@@ -16609,9 +16609,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "感動　する",
-        "meaning": "being moved emotionally",
-        "furigana": "かんどう　する",
+        "word": "うらやましい",
+        "meaning": "jealous",
+        "furigana": "",
         "level": 3,
         "word_number": 1221,
         "image_path": "pkg:/images/Chapter11Section2/1221.png",
@@ -16622,9 +16622,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "感心　する",
-        "meaning": "admiration, being impressed",
-        "furigana": "かんしん　する",
+        "word": "落ち着く",
+        "meaning": "to calm down",
+        "furigana": "おちつく",
         "level": 3,
         "word_number": 1222,
         "image_path": "pkg:/images/Chapter11Section2/1222.png",
@@ -16635,9 +16635,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "なつかしい",
-        "meaning": "nostalgic",
-        "furigana": "",
+        "word": "感激　する",
+        "meaning": "deep emotion",
+        "furigana": "かんげき　する",
         "level": 3,
         "word_number": 1223,
         "image_path": "pkg:/images/Chapter11Section2/1223.png",
@@ -16648,9 +16648,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "気軽　な",
-        "meaning": "free, without hesitation",
-        "furigana": "きがる　な",
+        "word": "感動　する",
+        "meaning": "being moved emotionally",
+        "furigana": "かんどう　する",
         "level": 3,
         "word_number": 1224,
         "image_path": "pkg:/images/Chapter11Section2/1224.png",
@@ -16661,9 +16661,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "気楽　な",
-        "meaning": "carefree, easygoing",
-        "furigana": "きらく　な",
+        "word": "感心　する",
+        "meaning": "admiration, being impressed",
+        "furigana": "かんしん　する",
         "level": 3,
         "word_number": 1225,
         "image_path": "pkg:/images/Chapter11Section2/1225.png",
@@ -16674,9 +16674,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "幸せ　な",
-        "meaning": "good fortune, happiness",
-        "furigana": "しあわせ　な",
+        "word": "なつかしい",
+        "meaning": "nostalgic",
+        "furigana": "",
         "level": 3,
         "word_number": 1226,
         "image_path": "pkg:/images/Chapter11Section2/1226.png",
@@ -16687,9 +16687,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "冗談",
-        "meaning": "joke",
-        "furigana": "",
+        "word": "気軽　な",
+        "meaning": "free, without hesitation",
+        "furigana": "きがる　な",
         "level": 3,
         "word_number": 1227,
         "image_path": "pkg:/images/Chapter11Section2/1227.png",
@@ -16700,9 +16700,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "ユーモア",
-        "meaning": "humor",
-        "furigana": "",
+        "word": "気楽　な",
+        "meaning": "carefree, easygoing",
+        "furigana": "きらく　な",
         "level": 3,
         "word_number": 1228,
         "image_path": "pkg:/images/Chapter11Section2/1228.png",
@@ -16713,9 +16713,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "ゆかい　な",
-        "meaning": "pleasant",
-        "furigana": "",
+        "word": "幸せ　な",
+        "meaning": "good fortune, happiness",
+        "furigana": "しあわせ　な",
         "level": 3,
         "word_number": 1229,
         "image_path": "pkg:/images/Chapter11Section2/1229.png",
@@ -16726,9 +16726,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "愛　する",
-        "meaning": "to love",
-        "furigana": "あい　する",
+        "word": "冗談",
+        "meaning": "joke",
+        "furigana": "",
         "level": 3,
         "word_number": 1230,
         "image_path": "pkg:/images/Chapter11Section2/1230.png",
@@ -16739,9 +16739,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "真剣　な",
-        "meaning": "serious",
-        "furigana": "しんけん　な",
+        "word": "ユーモア",
+        "meaning": "humor",
+        "furigana": "",
         "level": 3,
         "word_number": 1231,
         "image_path": "pkg:/images/Chapter11Section2/1231.png",
@@ -16752,8 +16752,8 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "どきどき　する",
-        "meaning": "one's heart beating quickly",
+        "word": "ゆかい　な",
+        "meaning": "pleasant",
         "furigana": "",
         "level": 3,
         "word_number": 1232,
@@ -16765,9 +16765,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "わくわく　する",
-        "meaning": "excited",
-        "furigana": "",
+        "word": "愛　する",
+        "meaning": "to love",
+        "furigana": "あい　する",
         "level": 3,
         "word_number": 1233,
         "image_path": "pkg:/images/Chapter11Section2/1233.png",
@@ -16778,9 +16778,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "ほっと　する",
-        "meaning": "felling relieved. sigh",
-        "furigana": "",
+        "word": "真剣　な",
+        "meaning": "serious",
+        "furigana": "しんけん　な",
         "level": 3,
         "word_number": 1234,
         "image_path": "pkg:/images/Chapter11Section2/1234.png",
@@ -16791,8 +16791,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "のんびり　する",
-        "meaning": "At leisure. Carefree.",
+        "word": "どきどき　する",
+        "meaning": "one's heart beating quickly",
         "furigana": "",
         "level": 3,
         "word_number": 1235,
@@ -16804,8 +16804,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "ほほえむ",
-        "meaning": "to smile",
+        "word": "わくわく　する",
+        "meaning": "excited",
         "furigana": "",
         "level": 3,
         "word_number": 1236,
@@ -16817,9 +16817,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "夢中　な",
-        "meaning": "in a daze, entranced, be crazy about",
-        "furigana": "むちゅう　な",
+        "word": "ほっと　する",
+        "meaning": "felling relieved. sigh",
+        "furigana": "",
         "level": 3,
         "word_number": 1237,
         "image_path": "pkg:/images/Chapter11Section2/1237.png",
@@ -16830,15 +16830,54 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "勇気",
-        "meaning": "courage, bravery",
-        "furigana": "ゆうき",
+        "word": "のんびり　する",
+        "meaning": "At leisure. Carefree.",
+        "furigana": "",
         "level": 3,
         "word_number": 1238,
         "image_path": "pkg:/images/Chapter11Section2/1238.png",
         "image_width": 182,
         "image_height": 95,
         "furigana_image_path": "pkg:/images/Chapter11Section2/furigana_1238.png",
+        "furigana_image_width": 262,
+        "furigana_image_height": 90
+    },
+    {
+        "word": "ほほえむ",
+        "meaning": "to smile",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1239,
+        "image_path": "pkg:/images/Chapter11Section2/1239.png",
+        "image_width": 342,
+        "image_height": 88,
+        "furigana_image_path": "pkg:/images/Chapter11Section2/furigana_1239.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "夢中　な",
+        "meaning": "in a daze, entranced, be crazy about",
+        "furigana": "むちゅう　な",
+        "level": 3,
+        "word_number": 1240,
+        "image_path": "pkg:/images/Chapter11Section2/1240.png",
+        "image_width": 342,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter11Section2/furigana_1240.png",
+        "furigana_image_width": 502,
+        "furigana_image_height": 91
+    },
+    {
+        "word": "勇気",
+        "meaning": "courage, bravery",
+        "furigana": "ゆうき",
+        "level": 3,
+        "word_number": 1241,
+        "image_path": "pkg:/images/Chapter11Section2/1241.png",
+        "image_width": 182,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter11Section2/furigana_1241.png",
         "furigana_image_width": 262,
         "furigana_image_height": 90
     }
@@ -16852,45 +16891,6 @@ d = [
         "meaning": "to get tired of",
         "furigana": "",
         "level": 3,
-        "word_number": 1239,
-        "image_path": "pkg:/images/Chapter11Section3/1239.png",
-        "image_width": 260,
-        "image_height": 88,
-        "furigana_image_path": "pkg:/images/Chapter11Section3/furigana_1239.png",
-        "furigana_image_width": 22,
-        "furigana_image_height": 22
-    },
-    {
-        "word": "嫌がる",
-        "meaning": "to dislike",
-        "furigana": "いやがる",
-        "level": 3,
-        "word_number": 1240,
-        "image_path": "pkg:/images/Chapter11Section3/1240.png",
-        "image_width": 262,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter11Section3/furigana_1240.png",
-        "furigana_image_width": 342,
-        "furigana_image_height": 93
-    },
-    {
-        "word": "落ち込む",
-        "meaning": "to get depressed",
-        "furigana": "おちこむ",
-        "level": 3,
-        "word_number": 1241,
-        "image_path": "pkg:/images/Chapter11Section3/1241.png",
-        "image_width": 342,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter11Section3/furigana_1241.png",
-        "furigana_image_width": 342,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "がっかり　する",
-        "meaning": "to be disappointed",
-        "furigana": "",
-        "level": 3,
         "word_number": 1242,
         "image_path": "pkg:/images/Chapter11Section3/1242.png",
         "image_width": 582,
@@ -16900,9 +16900,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "悲しむ",
-        "meaning": "to be sad",
-        "furigana": "かなしむ",
+        "word": "嫌がる",
+        "meaning": "to dislike",
+        "furigana": "いやがる",
         "level": 3,
         "word_number": 1243,
         "image_path": "pkg:/images/Chapter11Section3/1243.png",
@@ -16913,9 +16913,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "かわいそう　な",
-        "meaning": "pitiful, poor, pitiable",
-        "furigana": "",
+        "word": "落ち込む",
+        "meaning": "to get depressed",
+        "furigana": "おちこむ",
         "level": 3,
         "word_number": 1244,
         "image_path": "pkg:/images/Chapter11Section3/1244.png",
@@ -16926,9 +16926,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "気の毒　な",
-        "meaning": "unfortunate",
-        "furigana": "きのどく　な",
+        "word": "がっかり　する",
+        "meaning": "to be disappointed",
+        "furigana": "",
         "level": 3,
         "word_number": 1245,
         "image_path": "pkg:/images/Chapter11Section3/1245.png",
@@ -16939,9 +16939,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "きつい",
-        "meaning": "",
-        "furigana": "tight, intense, severe, tough",
+        "word": "悲しむ",
+        "meaning": "to be sad",
+        "furigana": "かなしむ",
         "level": 3,
         "word_number": 1246,
         "image_path": "pkg:/images/Chapter11Section3/1246.png",
@@ -16952,9 +16952,9 @@ d = [
         "furigana_image_height": 107
     },
     {
-        "word": "恐怖",
-        "meaning": "fear",
-        "furigana": "きょうふ",
+        "word": "かわいそう　な",
+        "meaning": "pitiful, poor, pitiable",
+        "furigana": "",
         "level": 3,
         "word_number": 1247,
         "image_path": "pkg:/images/Chapter11Section3/1247.png",
@@ -16965,9 +16965,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "ショック",
-        "meaning": "shock",
-        "furigana": "",
+        "word": "気の毒　な",
+        "meaning": "unfortunate",
+        "furigana": "きのどく　な",
         "level": 3,
         "word_number": 1248,
         "image_path": "pkg:/images/Chapter11Section3/1248.png",
@@ -16978,9 +16978,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "後悔　する",
-        "meaning": "regret",
-        "furigana": "こうかい　する",
+        "word": "きつい",
+        "meaning": "tight, intense, severe, tough",
+        "furigana": "",
         "level": 3,
         "word_number": 1249,
         "image_path": "pkg:/images/Chapter11Section3/1249.png",
@@ -16991,9 +16991,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "悩む",
-        "meaning": "to be worried, to be troubled",
-        "furigana": "なやむ",
+        "word": "恐怖",
+        "meaning": "fear",
+        "furigana": "きょうふ",
         "level": 3,
         "word_number": 1250,
         "image_path": "pkg:/images/Chapter11Section3/1250.png",
@@ -17004,9 +17004,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "悩み",
-        "meaning": "worry, trouble",
-        "furigana": "なやみ",
+        "word": "ショック",
+        "meaning": "shock",
+        "furigana": "",
         "level": 3,
         "word_number": 1251,
         "image_path": "pkg:/images/Chapter11Section3/1251.png",
@@ -17017,9 +17017,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "不安　な",
-        "meaning": "anxiety, insecurity",
-        "furigana": "ふあん　な",
+        "word": "後悔　する",
+        "meaning": "regret",
+        "furigana": "こうかい　する",
         "level": 3,
         "word_number": 1252,
         "image_path": "pkg:/images/Chapter11Section3/1252.png",
@@ -17030,9 +17030,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "迷惑　（な・する）",
-        "meaning": "nuisance, annoyance, bothersome",
-        "furigana": "めいわく　（な・する）",
+        "word": "悩む",
+        "meaning": "to be worried, to be troubled",
+        "furigana": "なやむ",
         "level": 3,
         "word_number": 1253,
         "image_path": "pkg:/images/Chapter11Section3/1253.png",
@@ -17043,9 +17043,9 @@ d = [
         "furigana_image_height": 99
     },
     {
-        "word": "面倒　な",
-        "meaning": "looking after, trouble",
-        "furigana": "めんどう　な",
+        "word": "悩み",
+        "meaning": "worry, trouble",
+        "furigana": "なやみ",
         "level": 3,
         "word_number": 1254,
         "image_path": "pkg:/images/Chapter11Section3/1254.png",
@@ -17056,9 +17056,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "面倒くさい",
-        "meaning": "annoying, troublesome",
-        "furigana": "めんどうくさい",
+        "word": "不安　な",
+        "meaning": "anxiety, insecurity",
+        "furigana": "ふあん　な",
         "level": 3,
         "word_number": 1255,
         "image_path": "pkg:/images/Chapter11Section3/1255.png",
@@ -17069,9 +17069,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "ぶつぶつ",
-        "meaning": "grumble, mutter",
-        "furigana": "",
+        "word": "迷惑　（な・する）",
+        "meaning": "nuisance, annoyance, bothersome",
+        "furigana": "めいわく　（な・する）",
         "level": 3,
         "word_number": 1256,
         "image_path": "pkg:/images/Chapter11Section3/1256.png",
@@ -17082,9 +17082,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "いちいち",
-        "meaning": "every one, each and every one",
-        "furigana": "",
+        "word": "面倒　な",
+        "meaning": "looking after, trouble",
+        "furigana": "めんどう　な",
         "level": 3,
         "word_number": 1257,
         "image_path": "pkg:/images/Chapter11Section3/1257.png",
@@ -17095,15 +17095,54 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "やかましい",
-        "meaning": "loud, noisy",
-        "furigana": "",
+        "word": "面倒くさい",
+        "meaning": "annoying, troublesome",
+        "furigana": "めんどうくさい",
         "level": 3,
         "word_number": 1258,
         "image_path": "pkg:/images/Chapter11Section3/1258.png",
         "image_width": 422,
         "image_height": 89,
         "furigana_image_path": "pkg:/images/Chapter11Section3/furigana_1258.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "ぶつぶつ",
+        "meaning": "grumble, mutter",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1259,
+        "image_path": "pkg:/images/Chapter11Section3/1259.png",
+        "image_width": 342,
+        "image_height": 84,
+        "furigana_image_path": "pkg:/images/Chapter11Section3/furigana_1259.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "いちいち",
+        "meaning": "every one, each and every one",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1260,
+        "image_path": "pkg:/images/Chapter11Section3/1260.png",
+        "image_width": 342,
+        "image_height": 87,
+        "furigana_image_path": "pkg:/images/Chapter11Section3/furigana_1260.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "やかましい",
+        "meaning": "loud, noisy",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1261,
+        "image_path": "pkg:/images/Chapter11Section3/1261.png",
+        "image_width": 422,
+        "image_height": 89,
+        "furigana_image_path": "pkg:/images/Chapter11Section3/furigana_1261.png",
         "furigana_image_width": 22,
         "furigana_image_height": 22
     }
@@ -17117,45 +17156,6 @@ d = [
         "meaning": "from one's heart",
         "furigana": "こころから",
         "level": 3,
-        "word_number": 1259,
-        "image_path": "pkg:/images/Chapter11Section4/1259.png",
-        "image_width": 262,
-        "image_height": 93,
-        "furigana_image_path": "pkg:/images/Chapter11Section4/furigana_1259.png",
-        "furigana_image_width": 422,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "祈る",
-        "meaning": "to pray",
-        "furigana": "いのる",
-        "level": 3,
-        "word_number": 1260,
-        "image_path": "pkg:/images/Chapter11Section4/1260.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter11Section4/furigana_1260.png",
-        "furigana_image_width": 262,
-        "furigana_image_height": 84
-    },
-    {
-        "word": "希望　する",
-        "meaning": "wish, desire",
-        "furigana": "きぼう　する",
-        "level": 3,
-        "word_number": 1261,
-        "image_path": "pkg:/images/Chapter11Section4/1261.png",
-        "image_width": 422,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter11Section4/furigana_1261.png",
-        "furigana_image_width": 502,
-        "furigana_image_height": 90
-    },
-    {
-        "word": "願う",
-        "meaning": "to hope, to wish",
-        "furigana": "ねがう",
-        "level": 3,
         "word_number": 1262,
         "image_path": "pkg:/images/Chapter11Section4/1262.png",
         "image_width": 182,
@@ -17165,9 +17165,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "願い",
-        "meaning": "wish, desire",
-        "furigana": "ねがい",
+        "word": "祈る",
+        "meaning": "to pray",
+        "furigana": "いのる",
         "level": 3,
         "word_number": 1263,
         "image_path": "pkg:/images/Chapter11Section4/1263.png",
@@ -17178,9 +17178,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "感じる",
-        "meaning": "to feel",
-        "furigana": "かんじる",
+        "word": "希望　する",
+        "meaning": "wish, desire",
+        "furigana": "きぼう　する",
         "level": 3,
         "word_number": 1264,
         "image_path": "pkg:/images/Chapter11Section4/1264.png",
@@ -17191,9 +17191,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "あいまい　な",
-        "meaning": "vague",
-        "furigana": "",
+        "word": "願う",
+        "meaning": "to hope, to wish",
+        "furigana": "ねがう",
         "level": 3,
         "word_number": 1265,
         "image_path": "pkg:/images/Chapter11Section4/1265.png",
@@ -17204,9 +17204,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "案外",
-        "meaning": "unexpected, unexpectedly, surprisingly",
-        "furigana": "あんがい",
+        "word": "願い",
+        "meaning": "wish, desire",
+        "furigana": "ねがい",
         "level": 3,
         "word_number": 1266,
         "image_path": "pkg:/images/Chapter11Section4/1266.png",
@@ -17217,9 +17217,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "意外　な",
-        "meaning": "unexpected, surprising",
-        "furigana": "いがい　な",
+        "word": "感じる",
+        "meaning": "to feel",
+        "furigana": "かんじる",
         "level": 3,
         "word_number": 1267,
         "image_path": "pkg:/images/Chapter11Section4/1267.png",
@@ -17230,8 +17230,8 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "うっかり　する",
-        "meaning": "carelessly, thoughtlessly, inadvertently",
+        "word": "あいまい　な",
+        "meaning": "vague",
         "furigana": "",
         "level": 3,
         "word_number": 1268,
@@ -17243,9 +17243,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "どうか",
-        "meaning": "please, somehow or other",
-        "furigana": "",
+        "word": "案外",
+        "meaning": "unexpected, unexpectedly, surprisingly",
+        "furigana": "あんがい",
         "level": 3,
         "word_number": 1269,
         "image_path": "pkg:/images/Chapter11Section4/1269.png",
@@ -17256,9 +17256,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "何とか",
-        "meaning": "somehow, one way or another",
-        "furigana": "なんとか",
+        "word": "意外　な",
+        "meaning": "unexpected, surprising",
+        "furigana": "いがい　な",
         "level": 3,
         "word_number": 1270,
         "image_path": "pkg:/images/Chapter11Section4/1270.png",
@@ -17269,9 +17269,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "何となく",
-        "meaning": "for some reason or another",
-        "furigana": "なんとなく",
+        "word": "うっかり　する",
+        "meaning": "carelessly, thoughtlessly, inadvertently",
+        "furigana": "",
         "level": 3,
         "word_number": 1271,
         "image_path": "pkg:/images/Chapter11Section4/1271.png",
@@ -17282,8 +17282,8 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "ものすごい",
-        "meaning": "a great deal, very much",
+        "word": "どうか",
+        "meaning": "please, somehow or other",
         "furigana": "",
         "level": 3,
         "word_number": 1272,
@@ -17295,9 +17295,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "わざわざ",
-        "meaning": "purposefully, all the way",
-        "furigana": "",
+        "word": "何とか",
+        "meaning": "somehow, one way or another",
+        "furigana": "なんとか",
         "level": 3,
         "word_number": 1273,
         "image_path": "pkg:/images/Chapter11Section4/1273.png",
@@ -17308,9 +17308,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "こっそり",
-        "meaning": "secretly, sneakily",
-        "furigana": "",
+        "word": "何となく",
+        "meaning": "for some reason or another",
+        "furigana": "なんとなく",
         "level": 3,
         "word_number": 1274,
         "image_path": "pkg:/images/Chapter11Section4/1274.png",
@@ -17321,8 +17321,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "ふと",
-        "meaning": "suddenly, casually",
+        "word": "ものすごい",
+        "meaning": "a great deal, very much",
         "furigana": "",
         "level": 3,
         "word_number": 1275,
@@ -17334,15 +17334,54 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "一体",
-        "meaning": "(why)in the world",
-        "furigana": "いったい",
+        "word": "わざわざ",
+        "meaning": "purposefully, all the way",
+        "furigana": "",
         "level": 3,
         "word_number": 1276,
         "image_path": "pkg:/images/Chapter11Section4/1276.png",
         "image_width": 182,
         "image_height": 95,
         "furigana_image_path": "pkg:/images/Chapter11Section4/furigana_1276.png",
+        "furigana_image_width": 342,
+        "furigana_image_height": 87
+    },
+    {
+        "word": "こっそり",
+        "meaning": "secretly, sneakily",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1277,
+        "image_path": "pkg:/images/Chapter11Section4/1277.png",
+        "image_width": 336,
+        "image_height": 88,
+        "furigana_image_path": "pkg:/images/Chapter11Section4/furigana_1277.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "ふと",
+        "meaning": "suddenly, casually",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1278,
+        "image_path": "pkg:/images/Chapter11Section4/1278.png",
+        "image_width": 182,
+        "image_height": 84,
+        "furigana_image_path": "pkg:/images/Chapter11Section4/furigana_1278.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "一体",
+        "meaning": "(why)in the world",
+        "furigana": "いったい",
+        "level": 3,
+        "word_number": 1279,
+        "image_path": "pkg:/images/Chapter11Section4/1279.png",
+        "image_width": 182,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter11Section4/furigana_1279.png",
         "furigana_image_width": 342,
         "furigana_image_height": 87
     }
@@ -17356,45 +17395,6 @@ d = [
         "meaning": "expression",
         "furigana": "ひょうげん　する",
         "level": 3,
-        "word_number": 1277,
-        "image_path": "pkg:/images/Chapter11Section5/1277.png",
-        "image_width": 422,
-        "image_height": 96,
-        "furigana_image_path": "pkg:/images/Chapter11Section5/furigana_1277.png",
-        "furigana_image_width": 662,
-        "furigana_image_height": 92
-    },
-    {
-        "word": "あがる",
-        "meaning": "become nervous, get stage fright",
-        "furigana": "",
-        "level": 3,
-        "word_number": 1278,
-        "image_path": "pkg:/images/Chapter11Section5/1278.png",
-        "image_width": 262,
-        "image_height": 92,
-        "furigana_image_path": "pkg:/images/Chapter11Section5/furigana_1278.png",
-        "furigana_image_width": 22,
-        "furigana_image_height": 22
-    },
-    {
-        "word": "焦る",
-        "meaning": "to be in a hurry, to be flustered",
-        "furigana": "あせる",
-        "level": 3,
-        "word_number": 1279,
-        "image_path": "pkg:/images/Chapter11Section5/1279.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter11Section5/furigana_1279.png",
-        "furigana_image_width": 262,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "そわそわ　する",
-        "meaning": "fidgety, restless",
-        "furigana": "",
-        "level": 3,
         "word_number": 1280,
         "image_path": "pkg:/images/Chapter11Section5/1280.png",
         "image_width": 582,
@@ -17404,9 +17404,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "我慢　する",
-        "meaning": "endurance",
-        "furigana": "がまん　する",
+        "word": "あがる",
+        "meaning": "become nervous, get stage fright",
+        "furigana": "",
         "level": 3,
         "word_number": 1281,
         "image_path": "pkg:/images/Chapter11Section5/1281.png",
@@ -17417,9 +17417,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "自慢　する",
-        "meaning": "boastful",
-        "furigana": "じまん　する",
+        "word": "焦る",
+        "meaning": "to be in a hurry, to be flustered",
+        "furigana": "あせる",
         "level": 3,
         "word_number": 1282,
         "image_path": "pkg:/images/Chapter11Section5/1282.png",
@@ -17430,9 +17430,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "感心",
-        "meaning": "concern, interest",
-        "furigana": "かんしん",
+        "word": "そわそわ　する",
+        "meaning": "fidgety, restless",
+        "furigana": "",
         "level": 3,
         "word_number": 1283,
         "image_path": "pkg:/images/Chapter11Section5/1283.png",
@@ -17443,9 +17443,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "機嫌",
-        "meaning": "mood, spirit",
-        "furigana": "",
+        "word": "我慢　する",
+        "meaning": "endurance",
+        "furigana": "がまん　する",
         "level": 3,
         "word_number": 1284,
         "image_path": "pkg:/images/Chapter11Section5/1284.png",
@@ -17456,9 +17456,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "平気　な",
-        "meaning": "coolness, calmness",
-        "furigana": "へいき　な",
+        "word": "自慢　する",
+        "meaning": "boastful",
+        "furigana": "じまん　する",
         "level": 3,
         "word_number": 1285,
         "image_path": "pkg:/images/Chapter11Section5/1285.png",
@@ -17469,9 +17469,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "本気　な",
-        "meaning": "seriousness",
-        "furigana": "ほんき　な",
+        "word": "感心",
+        "meaning": "concern, interest",
+        "furigana": "かんしん",
         "level": 3,
         "word_number": 1286,
         "image_path": "pkg:/images/Chapter11Section5/1286.png",
@@ -17482,9 +17482,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "迷う",
-        "meaning": "to get lost",
-        "furigana": "まよう",
+        "word": "機嫌",
+        "meaning": "mood, spirit",
+        "furigana": "",
         "level": 3,
         "word_number": 1287,
         "image_path": "pkg:/images/Chapter11Section5/1287.png",
@@ -17495,9 +17495,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "迷い",
-        "meaning": "being lost, hesitation",
-        "furigana": "まよい",
+        "word": "平気　な",
+        "meaning": "coolness, calmness",
+        "furigana": "へいき　な",
         "level": 3,
         "word_number": 1288,
         "image_path": "pkg:/images/Chapter11Section5/1288.png",
@@ -17508,9 +17508,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "微妙　な",
-        "meaning": "subtle, complicated",
-        "furigana": "びみょう　な",
+        "word": "本気　な",
+        "meaning": "seriousness",
+        "furigana": "ほんき　な",
         "level": 3,
         "word_number": 1289,
         "image_path": "pkg:/images/Chapter11Section5/1289.png",
@@ -17521,9 +17521,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "魅力",
-        "meaning": "charm, fascination",
-        "furigana": "みりょく",
+        "word": "迷う",
+        "meaning": "to get lost",
+        "furigana": "まよう",
         "level": 3,
         "word_number": 1290,
         "image_path": "pkg:/images/Chapter11Section5/1290.png",
@@ -17534,9 +17534,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "本音",
-        "meaning": "true feeling",
-        "furigana": "ほんね",
+        "word": "迷い",
+        "meaning": "being lost, hesitation",
+        "furigana": "まよい",
         "level": 3,
         "word_number": 1291,
         "image_path": "pkg:/images/Chapter11Section5/1291.png",
@@ -17547,9 +17547,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "まし　な",
-        "meaning": "better",
-        "furigana": "",
+        "word": "微妙　な",
+        "meaning": "subtle, complicated",
+        "furigana": "びみょう　な",
         "level": 3,
         "word_number": 1292,
         "image_path": "pkg:/images/Chapter11Section5/1292.png",
@@ -17560,9 +17560,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "涙",
-        "meaning": "tear",
-        "furigana": "なみだ",
+        "word": "魅力",
+        "meaning": "charm, fascination",
+        "furigana": "みりょく",
         "level": 3,
         "word_number": 1293,
         "image_path": "pkg:/images/Chapter11Section5/1293.png",
@@ -17573,9 +17573,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "憎む",
-        "meaning": "to hate",
-        "furigana": "にくむ",
+        "word": "本音",
+        "meaning": "true feeling",
+        "furigana": "ほんね",
         "level": 3,
         "word_number": 1294,
         "image_path": "pkg:/images/Chapter11Section5/1294.png",
@@ -17586,8 +17586,8 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "カウンセリング　する",
-        "meaning": "counselling",
+        "word": "まし　な",
+        "meaning": "better",
         "furigana": "",
         "level": 3,
         "word_number": 1295,
@@ -17595,6 +17595,45 @@ d = [
         "image_width": 822,
         "image_height": 92,
         "furigana_image_path": "pkg:/images/Chapter11Section5/furigana_1295.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "涙",
+        "meaning": "tear",
+        "furigana": "なみだ",
+        "level": 3,
+        "word_number": 1296,
+        "image_path": "pkg:/images/Chapter11Section5/1296.png",
+        "image_width": 102,
+        "image_height": 94,
+        "furigana_image_path": "pkg:/images/Chapter11Section5/furigana_1296.png",
+        "furigana_image_width": 262,
+        "furigana_image_height": 89
+    },
+    {
+        "word": "憎む",
+        "meaning": "to hate",
+        "furigana": "にくむ",
+        "level": 3,
+        "word_number": 1297,
+        "image_path": "pkg:/images/Chapter11Section5/1297.png",
+        "image_width": 182,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter11Section5/furigana_1297.png",
+        "furigana_image_width": 260,
+        "furigana_image_height": 89
+    },
+    {
+        "word": "カウンセリング　する",
+        "meaning": "counselling",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1298,
+        "image_path": "pkg:/images/Chapter11Section5/1298.png",
+        "image_width": 822,
+        "image_height": 92,
+        "furigana_image_path": "pkg:/images/Chapter11Section5/furigana_1298.png",
         "furigana_image_width": 22,
         "furigana_image_height": 22
     }
@@ -17608,45 +17647,6 @@ d = [
         "meaning": "design, pattern, decor",
         "furigana": "もよう",
         "level": 3,
-        "word_number": 1296,
-        "image_path": "pkg:/images/Chapter12Section1/1296.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter12Section1/furigana_1296.png",
-        "furigana_image_width": 262,
-        "furigana_image_height": 87
-    },
-    {
-        "word": "特徴",
-        "meaning": "characteristic",
-        "furigana": "とくちょう",
-        "level": 3,
-        "word_number": 1297,
-        "image_path": "pkg:/images/Chapter12Section1/1297.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter12Section1/furigana_1297.png",
-        "furigana_image_width": 420,
-        "furigana_image_height": 89
-    },
-    {
-        "word": "特色",
-        "meaning": "feature, characteristic",
-        "furigana": "とくしょく",
-        "level": 3,
-        "word_number": 1298,
-        "image_path": "pkg:/images/Chapter12Section1/1298.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter12Section1/furigana_1298.png",
-        "furigana_image_width": 420,
-        "furigana_image_height": 89
-    },
-    {
-        "word": "柄",
-        "meaning": "pattern, design",
-        "furigana": "がら",
-        "level": 3,
         "word_number": 1299,
         "image_path": "pkg:/images/Chapter12Section1/1299.png",
         "image_width": 102,
@@ -17656,9 +17656,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "花柄",
-        "meaning": "floral pattern",
-        "furigana": "はながら",
+        "word": "特徴",
+        "meaning": "characteristic",
+        "furigana": "とくちょう",
         "level": 3,
         "word_number": 1300,
         "image_path": "pkg:/images/Chapter12Section1/1300.png",
@@ -17669,9 +17669,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "水玉",
-        "meaning": "polka dot pattern",
-        "furigana": "みずたま",
+        "word": "特色",
+        "meaning": "feature, characteristic",
+        "furigana": "とくしょく",
         "level": 3,
         "word_number": 1301,
         "image_path": "pkg:/images/Chapter12Section1/1301.png",
@@ -17682,9 +17682,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "しま",
-        "meaning": "stripes",
-        "furigana": "",
+        "word": "柄",
+        "meaning": "pattern, design",
+        "furigana": "がら",
         "level": 3,
         "word_number": 1302,
         "image_path": "pkg:/images/Chapter12Section1/1302.png",
@@ -17695,9 +17695,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "たて",
-        "meaning": "vertical",
-        "furigana": "",
+        "word": "花柄",
+        "meaning": "floral pattern",
+        "furigana": "はながら",
         "level": 3,
         "word_number": 1303,
         "image_path": "pkg:/images/Chapter12Section1/1303.png",
@@ -17708,9 +17708,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "横",
-        "meaning": "horizontal",
-        "furigana": "よこ",
+        "word": "水玉",
+        "meaning": "polka dot pattern",
+        "furigana": "みずたま",
         "level": 3,
         "word_number": 1304,
         "image_path": "pkg:/images/Chapter12Section1/1304.png",
@@ -17721,8 +17721,8 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "ななめ　な",
-        "meaning": "diagonal",
+        "word": "しま",
+        "meaning": "stripes",
         "furigana": "",
         "level": 3,
         "word_number": 1305,
@@ -17734,9 +17734,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "幅",
-        "meaning": "width",
-        "furigana": "はば",
+        "word": "たて",
+        "meaning": "vertical",
+        "furigana": "",
         "level": 3,
         "word_number": 1306,
         "image_path": "pkg:/images/Chapter12Section1/1306.png",
@@ -17747,9 +17747,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "ストライプ",
-        "meaning": "stripe",
-        "furigana": "",
+        "word": "横",
+        "meaning": "horizontal",
+        "furigana": "よこ",
         "level": 3,
         "word_number": 1307,
         "image_path": "pkg:/images/Chapter12Section1/1307.png",
@@ -17760,9 +17760,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "無地",
-        "meaning": "plain",
-        "furigana": "むじ",
+        "word": "ななめ　な",
+        "meaning": "diagonal",
+        "furigana": "",
         "level": 3,
         "word_number": 1308,
         "image_path": "pkg:/images/Chapter12Section1/1308.png",
@@ -17773,9 +17773,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "シンプル　な",
-        "meaning": "simple",
-        "furigana": "",
+        "word": "幅",
+        "meaning": "width",
+        "furigana": "はば",
         "level": 3,
         "word_number": 1309,
         "image_path": "pkg:/images/Chapter12Section1/1309.png",
@@ -17786,9 +17786,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "真っ赤　な",
-        "meaning": "completely red",
-        "furigana": "まっか　な",
+        "word": "ストライプ",
+        "meaning": "stripe",
+        "furigana": "",
         "level": 3,
         "word_number": 1310,
         "image_path": "pkg:/images/Chapter12Section1/1310.png",
@@ -17799,9 +17799,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "ばらばら　な",
-        "meaning": "separate, scattered",
-        "furigana": "",
+        "word": "無地",
+        "meaning": "plain",
+        "furigana": "むじ",
         "level": 3,
         "word_number": 1311,
         "image_path": "pkg:/images/Chapter12Section1/1311.png",
@@ -17812,8 +17812,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "すっきり　な",
-        "meaning": "simple, neat",
+        "word": "シンプル　な",
+        "meaning": "simple",
         "furigana": "",
         "level": 3,
         "word_number": 1312,
@@ -17825,15 +17825,54 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "素敵　な",
-        "meaning": "wonderful, beautiful",
-        "furigana": "すてき　な",
+        "word": "真っ赤　な",
+        "meaning": "completely red",
+        "furigana": "まっか　な",
         "level": 3,
         "word_number": 1313,
         "image_path": "pkg:/images/Chapter12Section1/1313.png",
         "image_width": 342,
         "image_height": 95,
         "furigana_image_path": "pkg:/images/Chapter12Section1/furigana_1313.png",
+        "furigana_image_width": 420,
+        "furigana_image_height": 88
+    },
+    {
+        "word": "ばらばら　な",
+        "meaning": "separate, scattered",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1314,
+        "image_path": "pkg:/images/Chapter12Section1/1314.png",
+        "image_width": 502,
+        "image_height": 90,
+        "furigana_image_path": "pkg:/images/Chapter12Section1/furigana_1314.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "すっきり　な",
+        "meaning": "simple, neat",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1315,
+        "image_path": "pkg:/images/Chapter12Section1/1315.png",
+        "image_width": 499,
+        "image_height": 88,
+        "furigana_image_path": "pkg:/images/Chapter12Section1/furigana_1315.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "素敵　な",
+        "meaning": "wonderful, beautiful",
+        "furigana": "すてき　な",
+        "level": 3,
+        "word_number": 1316,
+        "image_path": "pkg:/images/Chapter12Section1/1316.png",
+        "image_width": 342,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter12Section1/furigana_1316.png",
         "furigana_image_width": 420,
         "furigana_image_height": 88
     }
@@ -17847,45 +17886,6 @@ d = [
         "meaning": "impression",
         "furigana": "いんしょう",
         "level": 3,
-        "word_number": 1314,
-        "image_path": "pkg:/images/Chapter12Section2/1314.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter12Section2/furigana_1314.png",
-        "furigana_image_width": 422,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "外見",
-        "meaning": "appearance, outer look",
-        "furigana": "がいけん",
-        "level": 3,
-        "word_number": 1315,
-        "image_path": "pkg:/images/Chapter12Section2/1315.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter12Section2/furigana_1315.png",
-        "furigana_image_width": 342,
-        "furigana_image_height": 93
-    },
-    {
-        "word": "ようす",
-        "meaning": "situation, condition",
-        "furigana": "",
-        "level": 3,
-        "word_number": 1316,
-        "image_path": "pkg:/images/Chapter12Section2/1316.png",
-        "image_width": 262,
-        "image_height": 88,
-        "furigana_image_path": "pkg:/images/Chapter12Section2/furigana_1316.png",
-        "furigana_image_width": 22,
-        "furigana_image_height": 22
-    },
-    {
-        "word": "表情",
-        "meaning": "expression",
-        "furigana": "ひょうじょう",
-        "level": 3,
         "word_number": 1317,
         "image_path": "pkg:/images/Chapter12Section2/1317.png",
         "image_width": 182,
@@ -17895,9 +17895,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "姿",
-        "meaning": "shape, figure",
-        "furigana": "すがた",
+        "word": "外見",
+        "meaning": "appearance, outer look",
+        "furigana": "がいけん",
         "level": 3,
         "word_number": 1318,
         "image_path": "pkg:/images/Chapter12Section2/1318.png",
@@ -17908,9 +17908,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "雰囲気",
-        "meaning": "atmosphere",
-        "furigana": "ふんいき",
+        "word": "ようす",
+        "meaning": "situation, condition",
+        "furigana": "",
         "level": 3,
         "word_number": 1319,
         "image_path": "pkg:/images/Chapter12Section2/1319.png",
@@ -17921,9 +17921,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "幼い",
-        "meaning": "very young, childish",
-        "furigana": "おさない",
+        "word": "表情",
+        "meaning": "expression",
+        "furigana": "ひょうじょう",
         "level": 3,
         "word_number": 1320,
         "image_path": "pkg:/images/Chapter12Section2/1320.png",
@@ -17934,9 +17934,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "かっこいい",
-        "meaning": "cool, hip",
-        "furigana": "",
+        "word": "姿",
+        "meaning": "shape, figure",
+        "furigana": "すがた",
         "level": 3,
         "word_number": 1321,
         "image_path": "pkg:/images/Chapter12Section2/1321.png",
@@ -17947,9 +17947,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "言葉づかい",
-        "meaning": "way with words, way of speaking",
-        "furigana": "ことばづかい",
+        "word": "雰囲気",
+        "meaning": "atmosphere",
+        "furigana": "ふんいき",
         "level": 3,
         "word_number": 1322,
         "image_path": "pkg:/images/Chapter12Section2/1322.png",
@@ -17960,9 +17960,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "上品　な",
-        "meaning": "elegant, refined",
-        "furigana": "じょうひん　な",
+        "word": "幼い",
+        "meaning": "very young, childish",
+        "furigana": "おさない",
         "level": 3,
         "word_number": 1323,
         "image_path": "pkg:/images/Chapter12Section2/1323.png",
@@ -17973,9 +17973,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "下品　な",
-        "meaning": "vulgar, indecent",
-        "furigana": "げひん　な",
+        "word": "かっこいい",
+        "meaning": "cool, hip",
+        "furigana": "",
         "level": 3,
         "word_number": 1324,
         "image_path": "pkg:/images/Chapter12Section2/1324.png",
@@ -17986,9 +17986,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "地味　な",
-        "meaning": "plain, subdued",
-        "furigana": "じみ　な",
+        "word": "言葉づかい",
+        "meaning": "way with words, way of speaking",
+        "furigana": "ことばづかい",
         "level": 3,
         "word_number": 1325,
         "image_path": "pkg:/images/Chapter12Section2/1325.png",
@@ -17999,9 +17999,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "派手　な",
-        "meaning": "extravagant, flashy",
-        "furigana": "はで　な",
+        "word": "上品　な",
+        "meaning": "elegant, refined",
+        "furigana": "じょうひん　な",
         "level": 3,
         "word_number": 1326,
         "image_path": "pkg:/images/Chapter12Section2/1326.png",
@@ -18012,9 +18012,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "スマート　な",
-        "meaning": "stylish, slim",
-        "furigana": "",
+        "word": "下品　な",
+        "meaning": "vulgar, indecent",
+        "furigana": "げひん　な",
         "level": 3,
         "word_number": 1327,
         "image_path": "pkg:/images/Chapter12Section2/1327.png",
@@ -18025,9 +18025,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "美人",
-        "meaning": "beauty, a beautiful woman",
-        "furigana": "びじん",
+        "word": "地味　な",
+        "meaning": "plain, subdued",
+        "furigana": "じみ　な",
         "level": 3,
         "word_number": 1328,
         "image_path": "pkg:/images/Chapter12Section2/1328.png",
@@ -18038,9 +18038,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "ハンサム　な",
-        "meaning": "handsome",
-        "furigana": "",
+        "word": "派手　な",
+        "meaning": "extravagant, flashy",
+        "furigana": "はで　な",
         "level": 3,
         "word_number": 1329,
         "image_path": "pkg:/images/Chapter12Section2/1329.png",
@@ -18051,9 +18051,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "不思議　な",
-        "meaning": "wonderful, mysterious, strange",
-        "furigana": "ふしぎ　な",
+        "word": "スマート　な",
+        "meaning": "stylish, slim",
+        "furigana": "",
         "level": 3,
         "word_number": 1330,
         "image_path": "pkg:/images/Chapter12Section2/1330.png",
@@ -18064,9 +18064,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "普通　な",
-        "meaning": "normal, regular",
-        "furigana": "ふつう　な",
+        "word": "美人",
+        "meaning": "beauty, a beautiful woman",
+        "furigana": "びじん",
         "level": 3,
         "word_number": 1331,
         "image_path": "pkg:/images/Chapter12Section2/1331.png",
@@ -18077,8 +18077,8 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "さわやか　な",
-        "meaning": "fresh, refreshing",
+        "word": "ハンサム　な",
+        "meaning": "handsome",
         "furigana": "",
         "level": 3,
         "word_number": 1332,
@@ -18090,9 +18090,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "さっぱり　する",
-        "meaning": "simple, frank",
-        "furigana": "",
+        "word": "不思議　な",
+        "meaning": "wonderful, mysterious, strange",
+        "furigana": "ふしぎ　な",
         "level": 3,
         "word_number": 1333,
         "image_path": "pkg:/images/Chapter12Section2/1333.png",
@@ -18103,9 +18103,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "にっこり　「と」（する）",
-        "meaning": "smile, grin",
-        "furigana": "",
+        "word": "普通　な",
+        "meaning": "normal, regular",
+        "furigana": "ふつう　な",
         "level": 3,
         "word_number": 1334,
         "image_path": "pkg:/images/Chapter12Section2/1334.png",
@@ -18116,8 +18116,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "にこにこ　する",
-        "meaning": "smiling, beaming",
+        "word": "さわやか　な",
+        "meaning": "fresh, refreshing",
         "furigana": "",
         "level": 3,
         "word_number": 1335,
@@ -18129,8 +18129,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "にやにや　する",
-        "meaning": "grinning, smirk",
+        "word": "さっぱり　する",
+        "meaning": "simple, frank",
         "furigana": "",
         "level": 3,
         "word_number": 1336,
@@ -18142,8 +18142,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "いきいき　「と」（する）",
-        "meaning": "lively",
+        "word": "にっこり　「と」（する）",
+        "meaning": "smile, grin",
         "furigana": "",
         "level": 3,
         "word_number": 1337,
@@ -18155,8 +18155,8 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "ぺらぺら　「と」",
-        "meaning": "fluently",
+        "word": "にこにこ　する",
+        "meaning": "smiling, beaming",
         "furigana": "",
         "level": 3,
         "word_number": 1338,
@@ -18164,6 +18164,45 @@ d = [
         "image_width": 662,
         "image_height": 97,
         "furigana_image_path": "pkg:/images/Chapter12Section2/furigana_1338.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "にやにや　する",
+        "meaning": "grinning, smirk",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1339,
+        "image_path": "pkg:/images/Chapter12Section2/1339.png",
+        "image_width": 582,
+        "image_height": 89,
+        "furigana_image_path": "pkg:/images/Chapter12Section2/furigana_1339.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "いきいき　「と」（する）",
+        "meaning": "lively",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1340,
+        "image_path": "pkg:/images/Chapter12Section2/1340.png",
+        "image_width": 982,
+        "image_height": 99,
+        "furigana_image_path": "pkg:/images/Chapter12Section2/furigana_1340.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "ぺらぺら　「と」",
+        "meaning": "fluently",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1341,
+        "image_path": "pkg:/images/Chapter12Section2/1341.png",
+        "image_width": 662,
+        "image_height": 97,
+        "furigana_image_path": "pkg:/images/Chapter12Section2/furigana_1341.png",
         "furigana_image_width": 22,
         "furigana_image_height": 22
     }
@@ -18177,45 +18216,6 @@ d = [
         "meaning": "surface",
         "furigana": "ひょうめん",
         "level": 3,
-        "word_number": 1339,
-        "image_path": "pkg:/images/Chapter12Section3/1339.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter12Section3/furigana_1339.png",
-        "furigana_image_width": 422,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "立派　な",
-        "meaning": "splendid, elegant",
-        "furigana": "りっぱ　な",
-        "level": 3,
-        "word_number": 1340,
-        "image_path": "pkg:/images/Chapter12Section3/1340.png",
-        "image_width": 342,
-        "image_height": 96,
-        "furigana_image_path": "pkg:/images/Chapter12Section3/furigana_1340.png",
-        "furigana_image_width": 422,
-        "furigana_image_height": 91
-    },
-    {
-        "word": "目立つ",
-        "meaning": "to stand out",
-        "furigana": "めだつ",
-        "level": 3,
-        "word_number": 1341,
-        "image_path": "pkg:/images/Chapter12Section3/1341.png",
-        "image_width": 262,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter12Section3/furigana_1341.png",
-        "furigana_image_width": 262,
-        "furigana_image_height": 87
-    },
-    {
-        "word": "きらきら　する",
-        "meaning": "glitter, sparkle",
-        "furigana": "",
-        "level": 3,
         "word_number": 1342,
         "image_path": "pkg:/images/Chapter12Section3/1342.png",
         "image_width": 582,
@@ -18225,9 +18225,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "ぴかぴか　する",
-        "meaning": "shining",
-        "furigana": "",
+        "word": "立派　な",
+        "meaning": "splendid, elegant",
+        "furigana": "りっぱ　な",
         "level": 3,
         "word_number": 1343,
         "image_path": "pkg:/images/Chapter12Section3/1343.png",
@@ -18238,9 +18238,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "異なる",
-        "meaning": "to differ",
-        "furigana": "ことなる",
+        "word": "目立つ",
+        "meaning": "to stand out",
+        "furigana": "めだつ",
         "level": 3,
         "word_number": 1344,
         "image_path": "pkg:/images/Chapter12Section3/1344.png",
@@ -18251,8 +18251,8 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "ぼんやり　「と」する",
-        "meaning": "dimly, faintly",
+        "word": "きらきら　する",
+        "meaning": "glitter, sparkle",
         "furigana": "",
         "level": 3,
         "word_number": 1345,
@@ -18264,9 +18264,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "大型",
-        "meaning": "large size",
-        "furigana": "おおがた",
+        "word": "ぴかぴか　する",
+        "meaning": "shining",
+        "furigana": "",
         "level": 3,
         "word_number": 1346,
         "image_path": "pkg:/images/Chapter12Section3/1346.png",
@@ -18277,9 +18277,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "多め　な",
-        "meaning": "larger quantity",
-        "furigana": "おおめ　な",
+        "word": "異なる",
+        "meaning": "to differ",
+        "furigana": "ことなる",
         "level": 3,
         "word_number": 1347,
         "image_path": "pkg:/images/Chapter12Section3/1347.png",
@@ -18290,9 +18290,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "少なめ",
-        "meaning": "smaller quantity",
-        "furigana": "すくなめ　な",
+        "word": "ぼんやり　「と」する",
+        "meaning": "dimly, faintly",
+        "furigana": "",
         "level": 3,
         "word_number": 1348,
         "image_path": "pkg:/images/Chapter12Section3/1348.png",
@@ -18303,9 +18303,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "少なくとも",
-        "meaning": "at least",
-        "furigana": "すくなくとも",
+        "word": "大型",
+        "meaning": "large size",
+        "furigana": "おおがた",
         "level": 3,
         "word_number": 1349,
         "image_path": "pkg:/images/Chapter12Section3/1349.png",
@@ -18316,9 +18316,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "大きめ　な",
-        "meaning": "larger size",
-        "furigana": "おおきめ　な",
+        "word": "多め　な",
+        "meaning": "larger quantity",
+        "furigana": "おおめ　な",
         "level": 3,
         "word_number": 1350,
         "image_path": "pkg:/images/Chapter12Section3/1350.png",
@@ -18329,9 +18329,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "太め　な",
-        "meaning": "thicker",
-        "furigana": "ふとめ　な",
+        "word": "少なめ",
+        "meaning": "smaller quantity",
+        "furigana": "すくなめ　な",
         "level": 3,
         "word_number": 1351,
         "image_path": "pkg:/images/Chapter12Section3/1351.png",
@@ -18342,9 +18342,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "完璧　な",
-        "meaning": "perfect",
-        "furigana": "かんぺき　な",
+        "word": "少なくとも",
+        "meaning": "at least",
+        "furigana": "すくなくとも",
         "level": 3,
         "word_number": 1352,
         "image_path": "pkg:/images/Chapter12Section3/1352.png",
@@ -18355,9 +18355,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "たっぷり　「と」　する",
-        "meaning": "full",
-        "furigana": "",
+        "word": "大きめ　な",
+        "meaning": "larger size",
+        "furigana": "おおきめ　な",
         "level": 3,
         "word_number": 1353,
         "image_path": "pkg:/images/Chapter12Section3/1353.png",
@@ -18368,9 +18368,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "多少",
-        "meaning": "a little",
-        "furigana": "たしょう",
+        "word": "太め　な",
+        "meaning": "thicker",
+        "furigana": "ふとめ　な",
         "level": 3,
         "word_number": 1354,
         "image_path": "pkg:/images/Chapter12Section3/1354.png",
@@ -18381,9 +18381,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "それほど",
-        "meaning": "(not) to that degree",
-        "furigana": "",
+        "word": "完璧　な",
+        "meaning": "perfect",
+        "furigana": "かんぺき　な",
         "level": 3,
         "word_number": 1355,
         "image_path": "pkg:/images/Chapter12Section3/1355.png",
@@ -18394,15 +18394,54 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "縮む",
-        "meaning": "to shrink",
-        "furigana": "ちぢむ",
+        "word": "たっぷり　「と」　する",
+        "meaning": "full",
+        "furigana": "",
         "level": 3,
         "word_number": 1356,
         "image_path": "pkg:/images/Chapter12Section3/1356.png",
         "image_width": 182,
         "image_height": 95,
         "furigana_image_path": "pkg:/images/Chapter12Section3/furigana_1356.png",
+        "furigana_image_width": 262,
+        "furigana_image_height": 93
+    },
+    {
+        "word": "多少",
+        "meaning": "a little",
+        "furigana": "たしょう",
+        "level": 3,
+        "word_number": 1357,
+        "image_path": "pkg:/images/Chapter12Section3/1357.png",
+        "image_width": 182,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter12Section3/furigana_1357.png",
+        "furigana_image_width": 342,
+        "furigana_image_height": 89
+    },
+    {
+        "word": "それほど",
+        "meaning": "(not) to that degree",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1358,
+        "image_path": "pkg:/images/Chapter12Section3/1358.png",
+        "image_width": 342,
+        "image_height": 89,
+        "furigana_image_path": "pkg:/images/Chapter12Section3/furigana_1358.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "縮む",
+        "meaning": "to shrink",
+        "furigana": "ちぢむ",
+        "level": 3,
+        "word_number": 1359,
+        "image_path": "pkg:/images/Chapter12Section3/1359.png",
+        "image_width": 182,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter12Section3/furigana_1359.png",
         "furigana_image_width": 262,
         "furigana_image_height": 93
     }
@@ -18416,45 +18455,6 @@ d = [
         "meaning": "modern era",
         "furigana": "げんだい",
         "level": 3,
-        "word_number": 1357,
-        "image_path": "pkg:/images/Chapter12Section4/1357.png",
-        "image_width": 182,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter12Section4/furigana_1357.png",
-        "furigana_image_width": 342,
-        "furigana_image_height": 92
-    },
-    {
-        "word": "現実",
-        "meaning": "reality",
-        "furigana": "げんじつ",
-        "level": 3,
-        "word_number": 1358,
-        "image_path": "pkg:/images/Chapter12Section4/1358.png",
-        "image_width": 182,
-        "image_height": 96,
-        "furigana_image_path": "pkg:/images/Chapter12Section4/furigana_1358.png",
-        "furigana_image_width": 342,
-        "furigana_image_height": 92
-    },
-    {
-        "word": "理想",
-        "meaning": "ideal",
-        "furigana": "りそう",
-        "level": 3,
-        "word_number": 1359,
-        "image_path": "pkg:/images/Chapter12Section4/1359.png",
-        "image_width": 182,
-        "image_height": 93,
-        "furigana_image_path": "pkg:/images/Chapter12Section4/furigana_1359.png",
-        "furigana_image_width": 262,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "偉大　な",
-        "meaning": "great, admirable",
-        "furigana": "いだい　な",
-        "level": 3,
         "word_number": 1360,
         "image_path": "pkg:/images/Chapter12Section4/1360.png",
         "image_width": 342,
@@ -18464,9 +18464,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "当然　な",
-        "meaning": "of course, naturally",
-        "furigana": "",
+        "word": "現実",
+        "meaning": "reality",
+        "furigana": "げんじつ",
         "level": 3,
         "word_number": 1361,
         "image_path": "pkg:/images/Chapter12Section4/1361.png",
@@ -18477,9 +18477,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "当たり前　な",
-        "meaning": "The obvious, something matter-of-fact, obvious",
-        "furigana": "あたりまえ　な",
+        "word": "理想",
+        "meaning": "ideal",
+        "furigana": "りそう",
         "level": 3,
         "word_number": 1362,
         "image_path": "pkg:/images/Chapter12Section4/1362.png",
@@ -18490,9 +18490,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "「お」金持ち",
-        "meaning": "rich, wealthy",
-        "furigana": "お」かねもち",
+        "word": "偉大　な",
+        "meaning": "great, admirable",
+        "furigana": "いだい　な",
         "level": 3,
         "word_number": 1363,
         "image_path": "pkg:/images/Chapter12Section4/1363.png",
@@ -18503,9 +18503,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "貧しい",
-        "meaning": "poor",
-        "furigana": "まずしい",
+        "word": "当然　な",
+        "meaning": "of course, naturally",
+        "furigana": "",
         "level": 3,
         "word_number": 1364,
         "image_path": "pkg:/images/Chapter12Section4/1364.png",
@@ -18516,9 +18516,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "貧乏　な・する",
-        "meaning": "poor person",
-        "furigana": "びんぼう　な・する",
+        "word": "当たり前　な",
+        "meaning": "The obvious, something matter-of-fact, obvious",
+        "furigana": "あたりまえ　な",
         "level": 3,
         "word_number": 1365,
         "image_path": "pkg:/images/Chapter12Section4/1365.png",
@@ -18529,9 +18529,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "発展　する",
-        "meaning": "development",
-        "furigana": "はってん　する",
+        "word": "「お」金持ち",
+        "meaning": "rich, wealthy",
+        "furigana": "お」かねもち",
         "level": 3,
         "word_number": 1366,
         "image_path": "pkg:/images/Chapter12Section4/1366.png",
@@ -18542,9 +18542,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "進歩　する",
-        "meaning": "progress",
-        "furigana": "しんぽ　する",
+        "word": "貧しい",
+        "meaning": "poor",
+        "furigana": "まずしい",
         "level": 3,
         "word_number": 1367,
         "image_path": "pkg:/images/Chapter12Section4/1367.png",
@@ -18555,9 +18555,9 @@ d = [
         "furigana_image_height": 94
     },
     {
-        "word": "強力　な",
-        "meaning": "strong, powerful",
-        "furigana": "きょうりょく　な",
+        "word": "貧乏　な・する",
+        "meaning": "poor person",
+        "furigana": "びんぼう　な・する",
         "level": 3,
         "word_number": 1368,
         "image_path": "pkg:/images/Chapter12Section4/1368.png",
@@ -18568,9 +18568,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "パワー",
-        "meaning": "power",
-        "furigana": "",
+        "word": "発展　する",
+        "meaning": "development",
+        "furigana": "はってん　する",
         "level": 3,
         "word_number": 1369,
         "image_path": "pkg:/images/Chapter12Section4/1369.png",
@@ -18581,9 +18581,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "あふれる",
-        "meaning": "to be full of, to overflow",
-        "furigana": "",
+        "word": "進歩　する",
+        "meaning": "progress",
+        "furigana": "しんぽ　する",
         "level": 3,
         "word_number": 1370,
         "image_path": "pkg:/images/Chapter12Section4/1370.png",
@@ -18594,9 +18594,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "くずれる",
-        "meaning": "to crumble, to fall apart",
-        "furigana": "",
+        "word": "強力　な",
+        "meaning": "strong, powerful",
+        "furigana": "きょうりょく　な",
         "level": 3,
         "word_number": 1371,
         "image_path": "pkg:/images/Chapter12Section4/1371.png",
@@ -18607,9 +18607,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "経つ",
-        "meaning": "to pass (time)",
-        "furigana": "たつ",
+        "word": "パワー",
+        "meaning": "power",
+        "furigana": "",
         "level": 3,
         "word_number": 1372,
         "image_path": "pkg:/images/Chapter12Section4/1372.png",
@@ -18620,9 +18620,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "前後",
-        "meaning": "before and after",
-        "furigana": "ぜんご",
+        "word": "あふれる",
+        "meaning": "to be full of, to overflow",
+        "furigana": "",
         "level": 3,
         "word_number": 1373,
         "image_path": "pkg:/images/Chapter12Section4/1373.png",
@@ -18633,9 +18633,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "盛ん　な",
-        "meaning": "popular",
-        "furigana": "さかん　な",
+        "word": "くずれる",
+        "meaning": "to crumble, to fall apart",
+        "furigana": "",
         "level": 3,
         "word_number": 1374,
         "image_path": "pkg:/images/Chapter12Section4/1374.png",
@@ -18646,9 +18646,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "産業",
-        "meaning": "industry",
-        "furigana": "さんぎょう",
+        "word": "経つ",
+        "meaning": "to pass (time)",
+        "furigana": "たつ",
         "level": 3,
         "word_number": 1375,
         "image_path": "pkg:/images/Chapter12Section4/1375.png",
@@ -18659,9 +18659,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "工業",
-        "meaning": "manufacturing industry",
-        "furigana": "こうぎょう",
+        "word": "前後",
+        "meaning": "before and after",
+        "furigana": "ぜんご",
         "level": 3,
         "word_number": 1376,
         "image_path": "pkg:/images/Chapter12Section4/1376.png",
@@ -18672,9 +18672,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "商業",
-        "meaning": "commerce, trade",
-        "furigana": "しょうぎょう",
+        "word": "盛ん　な",
+        "meaning": "popular",
+        "furigana": "さかん　な",
         "level": 3,
         "word_number": 1377,
         "image_path": "pkg:/images/Chapter12Section4/1377.png",
@@ -18685,9 +18685,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "農業",
-        "meaning": "farming, agriculture",
-        "furigana": "のうぎょう",
+        "word": "産業",
+        "meaning": "industry",
+        "furigana": "さんぎょう",
         "level": 3,
         "word_number": 1378,
         "image_path": "pkg:/images/Chapter12Section4/1378.png",
@@ -18698,9 +18698,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "残業　する",
-        "meaning": "overtime",
-        "furigana": "ざんぎょう　する",
+        "word": "工業",
+        "meaning": "manufacturing industry",
+        "furigana": "こうぎょう",
         "level": 3,
         "word_number": 1379,
         "image_path": "pkg:/images/Chapter12Section4/1379.png",
@@ -18711,15 +18711,54 @@ d = [
         "furigana_image_height": 95
     },
     {
-        "word": "農家",
-        "meaning": "a farming family",
-        "furigana": "のうか",
+        "word": "商業",
+        "meaning": "commerce, trade",
+        "furigana": "しょうぎょう",
         "level": 3,
         "word_number": 1380,
         "image_path": "pkg:/images/Chapter12Section4/1380.png",
         "image_width": 182,
         "image_height": 95,
         "furigana_image_path": "pkg:/images/Chapter12Section4/furigana_1380.png",
+        "furigana_image_width": 262,
+        "furigana_image_height": 87
+    },
+    {
+        "word": "農業",
+        "meaning": "farming, agriculture",
+        "furigana": "のうぎょう",
+        "level": 3,
+        "word_number": 1381,
+        "image_path": "pkg:/images/Chapter12Section4/1381.png",
+        "image_width": 182,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter12Section4/furigana_1381.png",
+        "furigana_image_width": 418,
+        "furigana_image_height": 92
+    },
+    {
+        "word": "残業　する",
+        "meaning": "overtime",
+        "furigana": "ざんぎょう　する",
+        "level": 3,
+        "word_number": 1382,
+        "image_path": "pkg:/images/Chapter12Section4/1382.png",
+        "image_width": 422,
+        "image_height": 96,
+        "furigana_image_path": "pkg:/images/Chapter12Section4/furigana_1382.png",
+        "furigana_image_width": 658,
+        "furigana_image_height": 95
+    },
+    {
+        "word": "農家",
+        "meaning": "a farming family",
+        "furigana": "のうか",
+        "level": 3,
+        "word_number": 1383,
+        "image_path": "pkg:/images/Chapter12Section4/1383.png",
+        "image_width": 182,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter12Section4/furigana_1383.png",
         "furigana_image_width": 262,
         "furigana_image_height": 87
     }
@@ -18733,45 +18772,6 @@ d = [
         "meaning": "to speak, to talk",
         "furigana": "かたる",
         "level": 3,
-        "word_number": 1381,
-        "image_path": "pkg:/images/Chapter12Section5/1381.png",
-        "image_width": 182,
-        "image_height": 92,
-        "furigana_image_path": "pkg:/images/Chapter12Section5/furigana_1381.png",
-        "furigana_image_width": 262,
-        "furigana_image_height": 88
-    },
-    {
-        "word": "解消　する",
-        "meaning": "resolution (of problems)",
-        "furigana": "かいしょう　する",
-        "level": 3,
-        "word_number": 1382,
-        "image_path": "pkg:/images/Chapter12Section5/1382.png",
-        "image_width": 422,
-        "image_height": 95,
-        "furigana_image_path": "pkg:/images/Chapter12Section5/furigana_1382.png",
-        "furigana_image_width": 662,
-        "furigana_image_height": 89
-    },
-    {
-        "word": "それぞれ",
-        "meaning": "each, individual",
-        "furigana": "",
-        "level": 3,
-        "word_number": 1383,
-        "image_path": "pkg:/images/Chapter12Section5/1383.png",
-        "image_width": 342,
-        "image_height": 88,
-        "furigana_image_path": "pkg:/images/Chapter12Section5/furigana_1383.png",
-        "furigana_image_width": 22,
-        "furigana_image_height": 22
-    },
-    {
-        "word": "片方",
-        "meaning": "(on the) one side",
-        "furigana": "かたほう",
-        "level": 3,
         "word_number": 1384,
         "image_path": "pkg:/images/Chapter12Section5/1384.png",
         "image_width": 182,
@@ -18781,9 +18781,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "囲む",
-        "meaning": "to surround",
-        "furigana": "かこむ",
+        "word": "解消　する",
+        "meaning": "resolution (of problems)",
+        "furigana": "かいしょう　する",
         "level": 3,
         "word_number": 1385,
         "image_path": "pkg:/images/Chapter12Section5/1385.png",
@@ -18794,9 +18794,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "代わり",
-        "meaning": "instead of",
-        "furigana": "かわり",
+        "word": "それぞれ",
+        "meaning": "each, individual",
+        "furigana": "",
         "level": 3,
         "word_number": 1386,
         "image_path": "pkg:/images/Chapter12Section5/1386.png",
@@ -18807,9 +18807,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "友好",
-        "meaning": "friendship",
-        "furigana": "ゆうこう",
+        "word": "片方",
+        "meaning": "(on the) one side",
+        "furigana": "かたほう",
         "level": 3,
         "word_number": 1387,
         "image_path": "pkg:/images/Chapter12Section5/1387.png",
@@ -18820,9 +18820,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "期待　する",
-        "meaning": "expectation",
-        "furigana": "きたい　する",
+        "word": "囲む",
+        "meaning": "to surround",
+        "furigana": "かこむ",
         "level": 3,
         "word_number": 1388,
         "image_path": "pkg:/images/Chapter12Section5/1388.png",
@@ -18833,9 +18833,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "区別　する",
-        "meaning": "distinction, difference",
-        "furigana": "くべつ　する",
+        "word": "代わり",
+        "meaning": "instead of",
+        "furigana": "かわり",
         "level": 3,
         "word_number": 1389,
         "image_path": "pkg:/images/Chapter12Section5/1389.png",
@@ -18846,9 +18846,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "差別　する",
-        "meaning": "discrimination, difference",
-        "furigana": "さべつ　する",
+        "word": "友好",
+        "meaning": "friendship",
+        "furigana": "ゆうこう",
         "level": 3,
         "word_number": 1390,
         "image_path": "pkg:/images/Chapter12Section5/1390.png",
@@ -18859,9 +18859,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "限界　する",
-        "meaning": "limit",
-        "furigana": "げんかい　する",
+        "word": "期待　する",
+        "meaning": "expectation",
+        "furigana": "きたい　する",
         "level": 3,
         "word_number": 1391,
         "image_path": "pkg:/images/Chapter12Section5/1391.png",
@@ -18872,9 +18872,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "通じる",
-        "meaning": "to get across, to be understood",
-        "furigana": "つうじる",
+        "word": "区別　する",
+        "meaning": "distinction, difference",
+        "furigana": "くべつ　する",
         "level": 3,
         "word_number": 1392,
         "image_path": "pkg:/images/Chapter12Section5/1392.png",
@@ -18885,9 +18885,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "ジェスチャー",
-        "meaning": "gesture",
-        "furigana": "",
+        "word": "差別　する",
+        "meaning": "discrimination, difference",
+        "furigana": "さべつ　する",
         "level": 3,
         "word_number": 1393,
         "image_path": "pkg:/images/Chapter12Section5/1393.png",
@@ -18898,9 +18898,9 @@ d = [
         "furigana_image_height": 22
     },
     {
-        "word": "首都",
-        "meaning": "capital city",
-        "furigana": "しぅど",
+        "word": "限界　する",
+        "meaning": "limit",
+        "furigana": "げんかい　する",
         "level": 3,
         "word_number": 1394,
         "image_path": "pkg:/images/Chapter12Section5/1394.png",
@@ -18911,9 +18911,9 @@ d = [
         "furigana_image_height": 90
     },
     {
-        "word": "順調　な",
-        "meaning": "favorable, doing well",
-        "furigana": "じゅんちょう　な",
+        "word": "通じる",
+        "meaning": "to get across, to be understood",
+        "furigana": "つうじる",
         "level": 3,
         "word_number": 1395,
         "image_path": "pkg:/images/Chapter12Section5/1395.png",
@@ -18924,9 +18924,9 @@ d = [
         "furigana_image_height": 91
     },
     {
-        "word": "対象",
-        "meaning": "object, subject",
-        "furigana": "たいしょう",
+        "word": "ジェスチャー",
+        "meaning": "gesture",
+        "furigana": "",
         "level": 3,
         "word_number": 1396,
         "image_path": "pkg:/images/Chapter12Section5/1396.png",
@@ -18937,9 +18937,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "通知　する",
-        "meaning": "",
-        "furigana": "notification",
+        "word": "首都",
+        "meaning": "capital city",
+        "furigana": "しぅど",
         "level": 3,
         "word_number": 1397,
         "image_path": "pkg:/images/Chapter12Section5/1397.png",
@@ -18950,9 +18950,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "態度",
-        "meaning": "attitude, behavior",
-        "furigana": "たいど",
+        "word": "順調　な",
+        "meaning": "favorable, doing well",
+        "furigana": "じゅんちょう　な",
         "level": 3,
         "word_number": 1398,
         "image_path": "pkg:/images/Chapter12Section5/1398.png",
@@ -18963,9 +18963,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "求める",
-        "meaning": "to seek, to search for",
-        "furigana": "もとめる",
+        "word": "対象",
+        "meaning": "object, subject",
+        "furigana": "たいしょう",
         "level": 3,
         "word_number": 1399,
         "image_path": "pkg:/images/Chapter12Section5/1399.png",
@@ -18976,9 +18976,9 @@ d = [
         "furigana_image_height": 87
     },
     {
-        "word": "結論",
-        "meaning": "conclusion",
-        "furigana": "けつろん",
+        "word": "通知　する",
+        "meaning": "",
+        "furigana": "notification",
         "level": 3,
         "word_number": 1400,
         "image_path": "pkg:/images/Chapter12Section5/1400.png",
@@ -18989,9 +18989,9 @@ d = [
         "furigana_image_height": 88
     },
     {
-        "word": "ひっくり返す",
-        "meaning": "to flip over",
-        "furigana": "ひっくりかえす",
+        "word": "態度",
+        "meaning": "attitude, behavior",
+        "furigana": "たいど",
         "level": 3,
         "word_number": 1401,
         "image_path": "pkg:/images/Chapter12Section5/1401.png",
@@ -19002,9 +19002,9 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "広がる",
-        "meaning": "to be spread, to be expanded",
-        "furigana": "ひろがる",
+        "word": "求める",
+        "meaning": "to seek, to search for",
+        "furigana": "もとめる",
         "level": 3,
         "word_number": 1402,
         "image_path": "pkg:/images/Chapter12Section5/1402.png",
@@ -19015,9 +19015,9 @@ d = [
         "furigana_image_height": 93
     },
     {
-        "word": "広げる",
-        "meaning": "to spread (something), to expand (something)",
-        "furigana": "ひろげる",
+        "word": "結論",
+        "meaning": "conclusion",
+        "furigana": "けつろん",
         "level": 3,
         "word_number": 1403,
         "image_path": "pkg:/images/Chapter12Section5/1403.png",
@@ -19028,9 +19028,9 @@ d = [
         "furigana_image_height": 92
     },
     {
-        "word": "活動　する",
-        "meaning": "activity",
-        "furigana": "かつどう　する",
+        "word": "ひっくり返す",
+        "meaning": "to flip over",
+        "furigana": "ひっくりかえす",
         "level": 3,
         "word_number": 1404,
         "image_path": "pkg:/images/Chapter12Section5/1404.png",
@@ -19041,15 +19041,54 @@ d = [
         "furigana_image_height": 89
     },
     {
-        "word": "ボランチィア",
-        "meaning": "volunteer",
-        "furigana": "",
+        "word": "広がる",
+        "meaning": "to be spread, to be expanded",
+        "furigana": "ひろがる",
         "level": 3,
         "word_number": 1405,
         "image_path": "pkg:/images/Chapter12Section5/1405.png",
         "image_width": 502,
         "image_height": 92,
         "furigana_image_path": "pkg:/images/Chapter12Section5/furigana_1405.png",
+        "furigana_image_width": 22,
+        "furigana_image_height": 22
+    },
+    {
+        "word": "広げる",
+        "meaning": "to spread (something), to expand (something)",
+        "furigana": "ひろげる",
+        "level": 3,
+        "word_number": 1406,
+        "image_path": "pkg:/images/Chapter12Section5/1406.png",
+        "image_width": 262,
+        "image_height": 95,
+        "furigana_image_path": "pkg:/images/Chapter12Section5/furigana_1406.png",
+        "furigana_image_width": 342,
+        "furigana_image_height": 92
+    },
+    {
+        "word": "活動　する",
+        "meaning": "activity",
+        "furigana": "かつどう　する",
+        "level": 3,
+        "word_number": 1407,
+        "image_path": "pkg:/images/Chapter12Section5/1407.png",
+        "image_width": 422,
+        "image_height": 94,
+        "furigana_image_path": "pkg:/images/Chapter12Section5/furigana_1407.png",
+        "furigana_image_width": 582,
+        "furigana_image_height": 89
+    },
+    {
+        "word": "ボランチィア",
+        "meaning": "volunteer",
+        "furigana": "",
+        "level": 3,
+        "word_number": 1408,
+        "image_path": "pkg:/images/Chapter12Section5/1408.png",
+        "image_width": 502,
+        "image_height": 92,
+        "furigana_image_path": "pkg:/images/Chapter12Section5/furigana_1408.png",
         "furigana_image_width": 22,
         "furigana_image_height": 22
     }

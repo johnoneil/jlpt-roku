@@ -10,6 +10,12 @@
             "level": 3
         },
         {
+            "word": "現在",
+            "meaning": "present, up to now, nowadays, modern times, current",
+            "furigana": "げんざい",
+            "level": 3
+        },
+        {
             "word": "現実",
             "meaning": "reality",
             "furigana": "げんじつ",
@@ -107,7 +113,7 @@
         },
         {
             "word": "盛ん　な",
-            "meaning": "popular",
+            "meaning": "popular; prosperous; flourishing; thriving; successful",
             "furigana": "さかん　な",
             "level": 3
         },
@@ -115,6 +121,12 @@
             "word": "産業",
             "meaning": "industry",
             "furigana": "さんぎょう",
+            "level": 3
+        },
+        {
+            "word": "生産",
+            "meaning": "production, manufacture",
+            "furigana": "せいさん",
             "level": 3
         },
         {
